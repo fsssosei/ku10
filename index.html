@@ -146,7 +146,10 @@
 
             let _obj = this;
 
-            _obj.mark = []
+            // 标记是不是ZJ
+            _obj.zj = false;
+            // 标记
+            _obj.mark = {};
             //整个游戏的数据结构，包括对局进程、状态、双方等等。会通过页面变量或者Websocket推过来。
             //_obj.game_record = '';
 
@@ -161,6 +164,19 @@
 
             //当前手数，会被初始化为1
             _obj.curr_step = 1;
+
+            // 标记是不是zj
+            _obj.setZj = function(row){
+
+                let action = row['action'];
+                if( action == "RESET" || action == "LOAD" || action == "MOVE"){
+                    if(row['content'].length >= 2 && row['content'].substr(0,2) == "ZJ"){
+                        row['content'] = row['content'].substr(2, row['content'].length - 2);
+                        _obj.zj = true;
+                    }
+                }
+                return;
+            };
 
             //load 一个游戏数据。
             _obj.load = function( game_record ){
@@ -205,24 +221,49 @@
              * @param  {string} coordinate 传入坐标。
              * @returns {boolean}
              */
-             _obj.place_mark = function(coordinate, word){
-                let target_cell = board.find('.'+coordinate);
+             _obj.place_mark = function( mark_obj, is_add){
+                let target_cell = board.find('.'+mark_obj.coordinate);
                 if(!target_cell.hasClass('blank'))
                 {
                     return false;
                 }
-                target_cell.removeClass('blank').addClass('mark').html(word);
+                target_cell.removeClass('blank').addClass('mark').html(mark_obj.word);
 
-                _obj.mark.push(coordinate)
+                // _obj.mark.push(coordinate)
+                if(is_add){
+                    step = _obj.curr_step
+                     if (_obj.mark.hasOwnProperty(step)){
+                            _obj.mark[step].push(mark_obj)
+                      }else{
+                         _obj.mark[step] = [mark_obj]
+                }
+                }
+
+
                 return true;
             };
 
-            _obj.clear_mark = function(){
-                for( let i =0 ; i < _obj.mark.length; i ++){
-                    let target_cell = board.find('.'+_obj.mark[i]);
-                    target_cell.removeClass('mark').addClass('blank').html('');
+            _obj.place_mark_step = function(){
+                if (!_obj.mark.hasOwnProperty(_obj.curr_step)){
+                    return
                 }
-                _obj.mark = []
+                let mark_obj = _obj.mark[_obj.curr_step]
+                for( let i =0 ; i < mark_obj.length; i ++){
+                    // let target_cell = board.find('.'+mark_obj[i].coordinate);
+                    // target_cell.removeClass('mark').addClass('blank').html('');
+                    _obj.place_mark(mark_obj[i], false)
+                }   
+                return true
+            };
+
+            _obj.clear_mark = function(){
+                for(var key in _obj.mark){
+                    let mark_obj = _obj.mark[key]
+                    for( let i =0 ; i < mark_obj.length; i ++){
+                        let target_cell = board.find('.'+mark_obj[i].coordinate);
+                        target_cell.removeClass('mark').addClass('blank').html('');
+                    } 
+                }
             };
 
 
@@ -232,9 +273,9 @@
              * @param  {boolean} play_sound 是否播放声音
              * @returns {boolean}
              */
-            _obj.place_stone = function(coordinate, is_new, play_sound){
+            _obj.place_stone = function(coordinate, play_sound){
                 black = null
-                if (is_new == 1){
+                if (_obj.zj == true){
                     black = coordinate.charAt(0) == '0' ? 'black' : 'white'
                     // coordinate = coordinate.substr(1, 2)
                 }
@@ -244,7 +285,7 @@
                 else
                     _obj.curr_color = black
 
-                coo =  (is_new == 1?  coordinate.substr(1, 2): coordinate) 
+                coo =  (_obj.zj == true?  coordinate.substr(1, 2): coordinate) 
                 let target_cell = board.find('.'+ coo);
                 if(!target_cell.hasClass('blank'))
                 {
@@ -261,7 +302,7 @@
                 }
 
                 _obj.currgame += coordinate;
-                if(_obj.currgame != _obj.endgame.substr( (is_new == 1? 2 :0),_obj.currgame.length))
+                if(_obj.currgame != _obj.endgame.substr( 0,_obj.currgame.length))
                 {
                     _obj.endgame = _obj.currgame;
                     //在改变了endgame时，如果不是playing ,则都进入研究模式。
@@ -287,13 +328,17 @@
             _obj.move_pre = function(){
                 if(_obj.currgame)
                 {
-                    let last_move = _obj.currgame.substr(_obj.currgame.length-2,2);
+                    let len = 2
+                    if(_obj.zj == true){
+                        len = 3
+                    }
+                    let last_move = _obj.currgame.substr(_obj.currgame.length-len,len);
                     //这个棋子拿起来。。。
-                    let target_cell = board.find('.'+last_move);
+                    let target_cell = board.find('.'+(_obj.zj == true?  last_move.substr(1, 2): last_move) );
                     target_cell.removeClass('black white').addClass('blank').removeAttr('style').html('');
                     _obj.curr_step --;
                     _obj.curr_color = (_obj.curr_color == 'black' ? 'white':'black');
-                    _obj.currgame = _obj.currgame.substr(0,_obj.currgame.length-2);
+                    _obj.currgame = _obj.currgame.substr(0,_obj.currgame.length-len);
 
                     return true;
                 }
@@ -307,21 +352,9 @@
             _obj.move_next = function(){
                 if(_obj.currgame != _obj.endgame)
                 {
-                    is_new = 0
-                    if(_obj.endgame.substr(0, 2) == "ZJ"){
-                     is_new = 1
 
-                     if(_obj.currgame == _obj.endgame.substr(2, _obj.endgame.length - 2))
-                     {
-                        return false
-                     }
-
-
-                    }
-
-
-                    let nextstep = _obj.endgame.substr( 2 + _obj.currgame.length, is_new == 1?3:2);
-                    _obj.place_stone(nextstep, is_new);
+                    let nextstep = _obj.endgame.substr( _obj.currgame.length, _obj.zj == true?3:2);
+                    _obj.place_stone(nextstep);
                     return true;
                 }
                 return false;
@@ -442,6 +475,7 @@
                 obj.play();
             };
             obj.play = function(){
+                console.log(obj._progress)
                 if(typeof(obj.record[obj.pointer]) == 'undefined')
                 {
                     return false;
@@ -511,6 +545,7 @@
 
             obj.renderRow = function(row){
                 //console.log(row);
+                this.boardHandler.setZj(row);
                 let function_name = 'action'+row['action'];
                 let $return = false;
                 if(typeof obj[function_name] == 'function')
@@ -542,7 +577,7 @@
                     // console.log(c_x + "\t" + c_y + "\t" + c_w)
                     content = row.content.substr(start+i, 2)
                     console.log(content)
-                    this.boardHandler.place_mark(content, c_w);
+                    this.boardHandler.place_mark({coordinate : content,word : c_w}, true);
                 }
                 return true;
             };
@@ -584,14 +619,9 @@
                 li.append(_content);
                 li.appendTo($("#chat_content"));
                 
-                content = row.content
-                is_new = 0
-                if(content.substr(0, 2) == "ZJ"){
-                    is_new = 1
-                    content = row.content.substr(2, row.content.length - 2)
-                }
+                content = row.content;
                 this.boardHandler.clear_mark();
-                this.boardHandler.place_stone(content, is_new);
+                this.boardHandler.place_stone(content);
                 return true
             };
 
@@ -614,18 +644,21 @@
                 {
                     if(!this.boardHandler.move_next()) break;
                 }
+                this.boardHandler.place_mark_step();
                 return true;
             };
 
             obj.actionBACK = function(row){
                 this.boardHandler.clear_mark();
                 this.boardHandler.move_pre();
+                this.boardHandler.place_mark_step();
                 return true;
             };
             obj.actionFIRST = function(row){
                 this.boardHandler.clear_mark();
                 this.boardHandler.board_clean();
                 this.boardHandler.move_next();
+                this.boardHandler.place_mark_step();
                 return true;
             };
             obj.actionCREDIT = function(row){
@@ -635,6 +668,7 @@
             obj.actionNEXT = function(row){
                 this.boardHandler.clear_mark();
                 this.boardHandler.move_next();
+                this.boardHandler.place_mark_step();
                 return true;
             };
             obj.actionCLEAR = function(row){
@@ -650,6 +684,7 @@
             obj.actionLAST = function(row){
                 this.boardHandler.clear_mark();
                 this.boardHandler.board_end();
+                this.boardHandler.place_mark_step();
                 return true;
             };
             //事件处理结束
