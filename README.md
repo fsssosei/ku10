@@ -20,6 +20,8 @@ And these docs are all collected from the internet, contact me if you find any o
 
 至于网站，我甚至还实现了一些没啥用的功能，比如棋盘上白棋棋子有贝壳纹理。
 
+可用Wampserver64做单机测试
+
 ===================================
 
 我新收集整理生成的1999-2008_PBeM对局谱大全（精选）.SGF
