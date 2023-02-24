@@ -261,6 +261,10 @@
                     let mark_obj = _obj.mark[key]
                     for( let i =0 ; i < mark_obj.length; i ++){
                         let target_cell = board.find('.'+mark_obj[i].coordinate);
+                        if(!target_cell.hasClass('mark')){
+                            continue
+                        }
+
                         target_cell.removeClass('mark').addClass('blank').html('');
                     } 
                 }
@@ -391,7 +395,7 @@
              */
             _obj.init_board = function(){
                 _obj.currgame = '';
-                _obj.curr_color = 'black';
+                _obj.curr_color = 'white';
                 _obj.curr_step = 1;
                 board.html('');
 
@@ -576,8 +580,9 @@
                     let c_w = row.content.charAt(start+i+2)
                     // console.log(c_x + "\t" + c_y + "\t" + c_w)
                     content = row.content.substr(start+i, 2)
-                    console.log(content)
                     this.boardHandler.place_mark({coordinate : content,word : c_w}, true);
+
+                    obj.sysMsg(row.user + " - 标记 "  +  obj.getPoint(content) + "(" + c_w+ ")")
                 }
                 return true;
             };
@@ -600,33 +605,34 @@
                 return true;
             };
             obj.actionMOVE = function(row){
-                //coordinate
                 start =0
-                if(row.content.substr(0, 2) == "ZJ"){
-                    start = 3
+                if(this.boardHandler.zj){
+                    start = 1
                 }
 
-                let c_x = parseInt(row.content.charAt(start + 0),16) + 96;
-                let c_y = parseInt(row.content.charAt(start + 1),16);
+                // let c_x = parseInt(row.content.charAt(start + 0),16) + 96;
+                // let c_y = parseInt(row.content.charAt(start + 1),16);
 
-                let show_x = String.fromCharCode(c_x);
-                if(show_x == 'l') show_x = 'L';
+                // let show_x = String.fromCharCode(c_x);
+                // if(show_x == 'l') show_x = 'L';
 
-                let show_content = this.boardHandler.curr_step.toString() + ' - ' + show_x + c_y.toString();
+                // let show_content = this.boardHandler.curr_step.toString() + ' - ' + show_x + c_y.toString();
 
-                let _content = $("<span>").html(row.user + ': ' + show_content).addClass("chat-move");
-                let li = $("<li>");
-                li.append(_content);
-                li.appendTo($("#chat_content"));
+                // let _content = $("<span>").html(row.user + ': ' + show_content).addClass("chat-move");
+                // let li = $("<li>");
+                // li.append(_content);
+                // li.appendTo($("#chat_content"));
                 
-                content = row.content;
                 this.boardHandler.clear_mark();
-                this.boardHandler.place_stone(content);
+                this.boardHandler.place_stone(row.content);
+                
+                obj.sysMsg(row.user + " - " + (this.boardHandler.curr_color == 'black' ? "黑" : "白") +  obj.getPoint(row.content.substr(start, 2)))
+
                 return true
             };
 
             obj.actionCHECKRESULT = function(row){
-                obj.sysMsg("点名：" + row.content);
+                obj.sysMsg("点名结束，以下学生答到：" + row.content);
                 return true;
             };
 
@@ -645,13 +651,20 @@
                     if(!this.boardHandler.move_next()) break;
                 }
                 this.boardHandler.place_mark_step();
+                obj.sysMsg(row.user + " - 跳转到第"+ row.content + "手")
                 return true;
             };
 
             obj.actionBACK = function(row){
+                obj.sysMsg(row.user + " - 回退");
+                if(this.boardHandler.zj && this.boardHandler.curr_step <= 2){
+                    return true;
+                }
+
                 this.boardHandler.clear_mark();
                 this.boardHandler.move_pre();
                 this.boardHandler.place_mark_step();
+               
                 return true;
             };
             obj.actionFIRST = function(row){
@@ -659,6 +672,7 @@
                 this.boardHandler.board_clean();
                 this.boardHandler.move_next();
                 this.boardHandler.place_mark_step();
+                obj.sysMsg(row.user + " - 回第一手")
                 return true;
             };
             obj.actionCREDIT = function(row){
@@ -669,24 +683,43 @@
                 this.boardHandler.clear_mark();
                 this.boardHandler.move_next();
                 this.boardHandler.place_mark_step();
+                obj.sysMsg(row.user + " - 前进");
                 return true;
             };
             obj.actionCLEAR = function(row){
                 this.boardHandler.clear_mark();
                 this.boardHandler.load('');
+                obj.sysMsg(row.user + " - 清空棋盘");
                 return true;
             };
             obj.actionLOAD = function(row){
                 this.boardHandler.clear_mark();
                 this.boardHandler.load(row.content);
+                obj.sysMsg(row.user + " - 调入" + (obj.boardHandler.curr_step  - 1 )+ "手棋");
                 return true;
             };
             obj.actionLAST = function(row){
                 this.boardHandler.clear_mark();
                 this.boardHandler.board_end();
                 this.boardHandler.place_mark_step();
+                obj.sysMsg(row.user + " - 到最后一手")
                 return true;
             };
+            obj.getPoint = function(coordinate){
+                // start =0
+                // if(this.boardHandler.zj){
+                //     start = 1
+                // }
+
+                let c_x = parseInt(coordinate.charAt(0),16) + 96;
+                let c_y = parseInt(coordinate.charAt(1),16);
+
+                let show_x = String.fromCharCode(c_x);
+                if(show_x == 'l') show_x = 'L';
+
+                return show_x.toUpperCase() + "" +  c_y
+            };
+
             //事件处理结束
             obj.sysMsg = function(msg){
                 let li = $("<li>");
