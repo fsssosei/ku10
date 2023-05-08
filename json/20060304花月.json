@@ -1,0 +1,5696 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72157,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72184,
+        "user": "dennis",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72190,
+        "user": "逝水花月讲师",
+        "content": "上节课我们还有一点内容没讲完,我们继续"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72200,
+        "user": "逝水花月讲师",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72200,
+        "user": "逝水花月讲师",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72201,
+        "user": "逝水花月讲师",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72203,
+        "user": "逝水花月讲师",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72203,
+        "user": "逝水花月讲师",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72204,
+        "user": "逝水花月讲师",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72205,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72206,
+        "user": "逝水花月讲师",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72207,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72207,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72208,
+        "user": "逝水花月讲师",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72220,
+        "user": "逝水花月讲师",
+        "content": "ZJabX"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72224,
+        "user": "逝水花月讲师",
+        "content": "ZJbbY"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72228,
+        "user": "逝水花月讲师",
+        "content": "ZJ9aZ"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72231,
+        "user": "逝水花月讲师",
+        "content": "ZJdaU"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72265,
+        "user": "逝水花月讲师",
+        "content": "黑11巧妙的控制了白后续进攻线路而且把棋局完全拉出了和白棋的纠缠."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72288,
+        "user": "逝水花月讲师",
+        "content": "我们可以看到11通过和黑5的联系控制了Z点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72297,
+        "user": "逝水花月讲师",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72300,
+        "user": "逝水花月讲师",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72300,
+        "user": "逝水花月讲师",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72301,
+        "user": "逝水花月讲师",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72313,
+        "user": "逝水05",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72339,
+        "user": "逝水花月讲师",
+        "content": "黑通过5,11与15反活三,从而控制了Z点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72353,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "BACK",
+        "time_int": 72354,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72354,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72355,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72356,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72363,
+        "user": "逝水花月讲师",
+        "content": "又通过和黑眠三的联系控制了X点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72370,
+        "user": "逝水花月讲师",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72371,
+        "user": "逝水花月讲师",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72372,
+        "user": "逝水花月讲师",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72373,
+        "user": "逝水花月讲师",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72374,
+        "user": "逝水花月讲师",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72374,
+        "user": "逝水花月讲师",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72386,
+        "user": "逝水29",
+        "content": "有事刚来，迟到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72394,
+        "user": "逝水花月讲师",
+        "content": "这样黑做43,又抢回先手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72402,
+        "user": "白雪",
+        "content": "为什么老掉呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72406,
+        "user": "裁决009",
+        "content": "老掉线中咋回事"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72414,
+        "user": "白雪",
+        "content": "我掉了10 次了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72414,
+        "user": "裁决009",
+        "content": "点过名了吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72419,
+        "user": "逝水花月讲师",
+        "content": "我没有掉..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72424,
+        "user": "dennis",
+        "content": "...."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72425,
+        "user": "逝水24",
+        "content": "点了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72436,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72436,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72437,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72437,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72438,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72438,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72451,
+        "user": "逝水花月讲师",
+        "content": "同时,在完全防住白棋的同时还形成了Y点和U点两个攻击方向"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72480,
+        "user": "白雪",
+        "content": "yun"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72490,
+        "user": "白雪",
+        "content": "又掉了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72497,
+        "user": "裁决009",
+        "content": "可怜呀,又掉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72512,
+        "user": "逝水花月讲师",
+        "content": "也就是说,黑现在有Y和U两个方向的两套杀,白只能防住其中的一套杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72521,
+        "user": "白雪",
+        "content": "yun"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72523,
+        "user": "逝水18",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72540,
+        "user": "逝水花月讲师",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72561,
+        "user": "逝水花月讲师",
+        "content": "白防这里,有谁愿意来试试黑如何杀吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72579,
+        "user": "逝水29",
+        "content": "我来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72593,
+        "user": "逝水29",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72596,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72603,
+        "user": "逝水29",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72605,
+        "user": "逝水花月讲师",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72610,
+        "user": "逝水29",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72615,
+        "user": "逝水花月讲师",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72617,
+        "user": "逝水05",
+        "content": "又掉了。5555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72627,
+        "user": "逝水花月讲师",
+        "content": "我怎么没掉呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72627,
+        "user": "裁决009",
+        "content": "M10?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72640,
+        "user": "逝水05",
+        "content": "离开的都是掉的，哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72653,
+        "user": "dennis",
+        "content": "en 。我掉了两次了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72660,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72672,
+        "user": "裁决009",
+        "content": "我是保持每分钟掉1.2次"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72673,
+        "user": "逝水28",
+        "content": "我来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72673,
+        "user": "逝水29",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72689,
+        "user": "逝水花月讲师",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72703,
+        "user": "蓝色★眼泪",
+        "content": "我来也~~~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72710,
+        "user": "逝水28",
+        "content": "老师，我来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72714,
+        "user": "dennis",
+        "content": "小白?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72716,
+        "user": "逝水花月讲师",
+        "content": "这样白还能杀吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72725,
+        "user": "蓝色★眼泪",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72729,
+        "user": "逝水花月讲师",
+        "content": ".....黑还能杀吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72736,
+        "user": "dennis",
+        "content": "........"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72742,
+        "user": "dennis",
+        "content": "好像杀不掉"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72744,
+        "user": "逝水29",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72754,
+        "user": "逝水花月讲师",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72773,
+        "user": "逝水29",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72774,
+        "user": "裁决009",
+        "content": "13手错了吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72775,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ad"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72781,
+        "user": "逝水28",
+        "content": "老师我来杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72813,
+        "user": "逝水花月讲师",
+        "content": "29还要继续吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72818,
+        "user": "逝水29",
+        "content": "老师来，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72823,
+        "user": "裁决009",
+        "content": "13手下在18就可以杀吧"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72832,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72832,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72833,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72833,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72833,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72833,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72833,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72834,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72834,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72834,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72834,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72835,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72839,
+        "user": "逝水05",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72840,
+        "user": "逝水05",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72841,
+        "user": "逝水28",
+        "content": "ZJ0da"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72842,
+        "user": "逝水花月讲师",
+        "content": "28来试试"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72846,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72850,
+        "user": "逝水28",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72857,
+        "user": "逝水花月讲师",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72882,
+        "user": "逝水29",
+        "content": "错了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72897,
+        "user": "逝水28",
+        "content": "抓了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72900,
+        "user": "逝水05",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72900,
+        "user": "逝水28",
+        "content": "不行"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72903,
+        "user": "逝水05",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72906,
+        "user": "逝水28",
+        "content": "老师换人"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72910,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72916,
+        "user": "逝水花月讲师",
+        "content": "还有哪位要试试吗?"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72937,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72938,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72939,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72942,
+        "user": "逝水花月讲师",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72944,
+        "user": "逝水29",
+        "content": "我再想想"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72950,
+        "user": "逝水花月讲师",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72957,
+        "user": "逝水花月讲师",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72959,
+        "user": "逝水花月讲师",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72960,
+        "user": "逝水花月讲师",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72967,
+        "user": "dennis",
+        "content": ".........."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72971,
+        "user": "逝水花月讲师",
+        "content": "白14防左边简单杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72983,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72984,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72985,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72985,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72987,
+        "user": "逝水花月讲师",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72988,
+        "user": "逝水花月讲师",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72993,
+        "user": "逝水花月讲师",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72994,
+        "user": "逝水花月讲师",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72996,
+        "user": "逝水花月讲师",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72998,
+        "user": "逝水花月讲师",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72999,
+        "user": "逝水花月讲师",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73000,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73001,
+        "user": "逝水花月讲师",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73002,
+        "user": "逝水花月讲师",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73018,
+        "user": "逝水05",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73019,
+        "user": "逝水23",
+        "content": "好棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73020,
+        "user": "逝水05",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73036,
+        "user": "逝水花月讲师",
+        "content": "所以12防K11黑直接VCT"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73041,
+        "user": "逝水29",
+        "content": "好棋"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 73047,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73049,
+        "user": "逝水花月讲师",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73049,
+        "user": "逝水花月讲师",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73049,
+        "user": "逝水花月讲师",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73050,
+        "user": "逝水花月讲师",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73051,
+        "user": "逝水花月讲师",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73052,
+        "user": "逝水花月讲师",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73052,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73054,
+        "user": "蓝色★眼泪",
+        "content": "，，"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73057,
+        "user": "逝水花月讲师",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73058,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73058,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73060,
+        "user": "逝水花月讲师",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73075,
+        "user": "逝水花月讲师",
+        "content": "ZJbbY"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73080,
+        "user": "逝水花月讲师",
+        "content": "ZJdaU"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73096,
+        "user": "逝水23",
+        "content": "老师，这个11手是最强的吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73098,
+        "user": "逝水花月讲师",
+        "content": "如果防U所在的这条杀呢?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73100,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73108,
+        "user": "逝水花月讲师",
+        "content": "这样有人能杀吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73122,
+        "user": "逝水23",
+        "content": "我来吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73131,
+        "user": "逝水29",
+        "content": "我来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73136,
+        "user": "逝水23",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73143,
+        "user": "逝水花月讲师",
+        "content": "29来防吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73158,
+        "user": "dennis",
+        "content": "好像杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73171,
+        "user": "裁决059",
+        "content": "防8了拉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73200,
+        "user": "dennis",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73206,
+        "user": "逝水29",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73209,
+        "user": "逝水花月讲师",
+        "content": "大家都看见了,这个杀更简单"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73214,
+        "user": "逝水29",
+        "content": "没防"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73216,
+        "user": "逝水23",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73223,
+        "user": "逝水29",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73227,
+        "user": "逝水23",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73248,
+        "user": "逝水花月讲师",
+        "content": "但这个杀与刚才12防K11是两套完全不同的杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73259,
+        "user": "逝水花月讲师",
+        "content": "谢谢23:)"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73279,
+        "user": "逝水23",
+        "content": "^v^"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73292,
+        "user": "dennis",
+        "content": "......."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73293,
+        "user": "逝水花月讲师",
+        "content": "这样大家能理解"在完全防住白棋的同时还形成了Y点和U点两个攻击方向"这句话了吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73300,
+        "user": "逝水29",
+        "content": "没人谢我？呵呵！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73310,
+        "user": "逝水23",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73318,
+        "user": "过客102",
+        "content": "杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73320,
+        "user": "逝水花月讲师",
+        "content": "谢谢29:)"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73322,
+        "user": "逝水39",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73326,
+        "user": "逝水23",
+        "content": "呵呵~~~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73328,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73329,
+        "user": "逝水29",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73338,
+        "user": "逝水29",
+        "content": "老师继续"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73342,
+        "user": "逝水花月讲师",
+        "content": "这是上节课的一部份内容"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73358,
+        "user": "逝水29",
+        "content": "点名？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73365,
+        "user": "逝水花月讲师",
+        "content": "大家都听明白了吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73374,
+        "user": "裁决009",
+        "content": "明白"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73374,
+        "user": "棋乐",
+        "content": "明白"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73376,
+        "user": "逝水24",
+        "content": "恩明白了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73377,
+        "user": "逝水23",
+        "content": "老师，这个11手是最强的吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73384,
+        "user": "逝水39",
+        "content": "。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73387,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73388,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73388,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73388,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73388,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73389,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73390,
+        "user": "逝水29",
+        "content": "明白了，课后再练"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73391,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73392,
+        "user": "逝水花月讲师",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73395,
+        "user": "逝水14",
+        "content": "系统点了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73412,
+        "user": "逝水花月讲师",
+        "content": "11手这样的攻击方式虽然并不常见.但是是非常有灵性的一手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73414,
+        "user": "逝水39",
+        "content": "卡"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73425,
+        "user": "裁决059",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73425,
+        "user": "逝水23",
+        "content": "哦，谢谢！！！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73427,
+        "user": "逝水花月讲师",
+        "content": "经常可以带领棋局走出困难"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73441,
+        "user": "逝水28",
+        "content": "老师锁我棋盘"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 73461,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73463,
+        "user": "逝水花月讲师",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73464,
+        "user": "逝水花月讲师",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73464,
+        "user": "逝水花月讲师",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73465,
+        "user": "逝水花月讲师",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73466,
+        "user": "逝水花月讲师",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73467,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73468,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73469,
+        "user": "逝水花月讲师",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73470,
+        "user": "逝水花月讲师",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73471,
+        "user": "逝水花月讲师",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73472,
+        "user": "逝水花月讲师",
+        "content": "ZJ078"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 73492,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73493,
+        "user": "逝水花月讲师",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73494,
+        "user": "逝水花月讲师",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73494,
+        "user": "逝水花月讲师",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73495,
+        "user": "逝水花月讲师",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73496,
+        "user": "逝水花月讲师",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73497,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73497,
+        "user": "逝水29",
+        "content": "不是花月？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73498,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73498,
+        "user": "逝水花月讲师",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73499,
+        "user": "逝水花月讲师",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73500,
+        "user": "逝水花月讲师",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73501,
+        "user": "逝水花月讲师",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73506,
+        "user": "逝水23",
+        "content": "这个不是丘吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73516,
+        "user": "逝水花月讲师",
+        "content": "斜月的一个变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73535,
+        "user": "逝水花月讲师",
+        "content": "11手脱定,成必败"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73563,
+        "user": "逝水05",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73568,
+        "user": "逝水05",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73580,
+        "user": "蓝色★眼泪",
+        "content": ",,"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73584,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73600,
+        "user": "逝水花月讲师",
+        "content": "现在白同样需要类似A点这样的进攻来取得胜利"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73609,
+        "user": "逝水花月讲师",
+        "content": "A点就是刚才的黑11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73624,
+        "user": "逝水花月讲师",
+        "content": "白棋取胜的绝妙一手在哪里呢?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73635,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73635,
+        "user": "逝水23",
+        "content": "F10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73642,
+        "user": "逝水花月讲师",
+        "content": "在哪?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73672,
+        "user": "逝水23",
+        "content": "是F10吗？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73676,
+        "user": "逝水花月讲师",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73696,
+        "user": "dennis",
+        "content": "跟刚才形状差不多嘛"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73700,
+        "user": "逝水花月讲师",
+        "content": "大家看这个12与刚才的黑11是不是很类似?"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 73712,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73712,
+        "user": "逝水23",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73717,
+        "user": "逝水花月讲师",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73718,
+        "user": "逝水花月讲师",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73718,
+        "user": "逝水花月讲师",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73719,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73719,
+        "user": "逝水花月讲师",
+        "content": "ZJ0da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73720,
+        "user": "逝水花月讲师",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73722,
+        "user": "逝水花月讲师",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73723,
+        "user": "逝水花月讲师",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73724,
+        "user": "逝水花月讲师",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73724,
+        "user": "逝水花月讲师",
+        "content": "ZJ1d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73726,
+        "user": "逝水花月讲师",
+        "content": "ZJ0fa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73731,
+        "user": "逝水花月讲师",
+        "content": "ZJ11f"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73736,
+        "user": "逝水花月讲师",
+        "content": "ZJ058"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73742,
+        "user": "逝水花月讲师",
+        "content": "ZJ149"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73743,
+        "user": "逝水花月讲师",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73744,
+        "user": "逝水花月讲师",
+        "content": "ZJ159"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73745,
+        "user": "逝水花月讲师",
+        "content": "ZJ048"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73746,
+        "user": "逝水花月讲师",
+        "content": "ZJ138"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73747,
+        "user": "逝水花月讲师",
+        "content": "ZJ039"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73748,
+        "user": "逝水花月讲师",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73750,
+        "user": "逝水花月讲师",
+        "content": "ZJ027"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73751,
+        "user": "逝水花月讲师",
+        "content": "ZJ157"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73752,
+        "user": "逝水花月讲师",
+        "content": "ZJ028"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73753,
+        "user": "逝水29",
+        "content": "精彩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73755,
+        "user": "逝水花月讲师",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73780,
+        "user": "逝水花月讲师",
+        "content": "这样看是不是就一目了然了?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73785,
+        "user": "逝水18",
+        "content": "不要点名哦！老师，WC"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73790,
+        "user": "dennis",
+        "content": "......."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73791,
+        "user": "逝水23",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73803,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73809,
+        "user": "逝水29",
+        "content": "好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73811,
+        "user": "棋乐",
+        "content": "高"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73827,
+        "user": "逝水24",
+        "content": "好漂亮"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73833,
+        "user": "dennis",
+        "content": "没差别吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73863,
+        "user": "逝水28",
+        "content": "活二不一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73876,
+        "user": "逝水28",
+        "content": "一个是连二，一个是跳二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73877,
+        "user": "逝水花月讲师",
+        "content": "这里的黑1,3,5,7,11与白的18,14,20,16,24是一模一样的型"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73914,
+        "user": "逝水05",
+        "content": "恩，好棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73917,
+        "user": "逝水花月讲师",
+        "content": "而刚才演示的杀法利用的也是这几颗棋子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73935,
+        "user": "逝水花月讲师",
+        "content": "我们来看下一个变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73936,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 73940,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73942,
+        "user": "逝水花月讲师",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73943,
+        "user": "逝水花月讲师",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73943,
+        "user": "逝水花月讲师",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73944,
+        "user": "逝水花月讲师",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73944,
+        "user": "逝水花月讲师",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73945,
+        "user": "逝水花月讲师",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73946,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73946,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73966,
+        "user": "逝水花月讲师",
+        "content": "看过了白8活三交换后的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73976,
+        "user": "逝水花月讲师",
+        "content": "我们再来看看白8不活三直接在下方挡住黑活二的走法"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73987,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73988,
+        "user": "逝水花月讲师",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73989,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73990,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73993,
+        "user": "逝水花月讲师",
+        "content": "ZJcaA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73996,
+        "user": "逝水花月讲师",
+        "content": "ZJ9aB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74023,
+        "user": "逝水花月讲师",
+        "content": "上节课我们得出结论,这里的A,B两点都是必胜"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74038,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74038,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74038,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74040,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74043,
+        "user": "逝水花月讲师",
+        "content": "ZJcaA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74046,
+        "user": "逝水花月讲师",
+        "content": "ZJ9aB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74064,
+        "user": "逝水花月讲师",
+        "content": "现在是否AB两点都可以给黑带来胜利呢?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74074,
+        "user": "逝水29",
+        "content": "A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74094,
+        "user": "裁决059",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74103,
+        "user": "逝水花月讲师",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74113,
+        "user": "逝水花月讲师",
+        "content": "29说A点必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74122,
+        "user": "逝水花月讲师",
+        "content": "29能否一试?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74128,
+        "user": "逝水29",
+        "content": "OK"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74145,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74157,
+        "user": "逝水29",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74160,
+        "user": "逝水花月讲师",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74169,
+        "user": "逝水29",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74174,
+        "user": "逝水花月讲师",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74185,
+        "user": "逝水29",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74188,
+        "user": "裁决059",
+        "content": "8是啊"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74188,
+        "user": "逝水花月讲师",
+        "content": "ZJ175"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74202,
+        "user": "逝水29",
+        "content": "唉"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74218,
+        "user": "逝水29",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74226,
+        "user": "棋乐",
+        "content": "？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74227,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74228,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74228,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74229,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74229,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74229,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74230,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74231,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74236,
+        "user": "逝水花月讲师",
+        "content": "大家可以看见,事实上A点不能必胜"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74248,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74250,
+        "user": "逝水花月讲师",
+        "content": "这个时候黑9再走A点的话"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74272,
+        "user": "逝水花月讲师",
+        "content": "ZJa7C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74284,
+        "user": "逝水花月讲师",
+        "content": "由于白可以向C点活三使得黑缺少了一颗攻击中最重要的子力C点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74300,
+        "user": "逝水花月讲师",
+        "content": "所以黑以下无法胜了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74325,
+        "user": "dennis",
+        "content": "刚才黑的防守没问题吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74329,
+        "user": "逝水05",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74344,
+        "user": "逝水花月讲师",
+        "content": "刚才黑可以防上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74349,
+        "user": "逝水23",
+        "content": "如果11下G10呢？能胜吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74350,
+        "user": "逝水花月讲师",
+        "content": "白没有必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74366,
+        "user": "逝水花月讲师",
+        "content": "但由于白占了C点,黑也难以必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74396,
+        "user": "dennis",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74399,
+        "user": "逝水花月讲师",
+        "content": "如果谁认为A可以必胜,可以来试试"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74425,
+        "user": "逝水29",
+        "content": "ZJ0f3"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74433,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74439,
+        "user": "逝水23",
+        "content": "我来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74442,
+        "user": "逝水花月讲师",
+        "content": "不试的话我们继续:)"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74449,
+        "user": "逝水花月讲师",
+        "content": "..."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74455,
+        "user": "逝水23",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74457,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74460,
+        "user": "逝水23",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74463,
+        "user": "逝水花月讲师",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74481,
+        "user": "逝水23",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74488,
+        "user": "逝水花月讲师",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74498,
+        "user": "逝水23",
+        "content": "ZJ0da"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74505,
+        "user": "逝水25",
+        "content": "吊线了555555555555~~~~~~~~~~~~"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74510,
+        "user": "逝水花月讲师",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74513,
+        "user": "逝水21",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74526,
+        "user": "逝水25",
+        "content": "怎么看不见，555555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74532,
+        "user": "dennis",
+        "content": "......."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74533,
+        "user": "逝水23",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74535,
+        "user": "逝水花月讲师",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74536,
+        "user": "342",
+        "content": "55555555555555"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74538,
+        "user": "逝水23",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74560,
+        "user": "逝水花月讲师",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74584,
+        "user": "逝水29",
+        "content": "NO"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74587,
+        "user": "逝水23",
+        "content": "呵呵，不行了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74593,
+        "user": "逝水23",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74595,
+        "user": "棋乐",
+        "content": "看不见是不是掉了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74600,
+        "user": "逝水18",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74607,
+        "user": "dennis",
+        "content": "能说话估计没掉吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74610,
+        "user": "逝水29",
+        "content": "NO LE"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74620,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74622,
+        "user": "逝水18",
+        "content": "掉了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74626,
+        "user": "棋乐",
+        "content": "重进一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74629,
+        "user": "逝水花月讲师",
+        "content": "到这里黑已无必胜,最多是黑优局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74637,
+        "user": "逝水23",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74660,
+        "user": "逝水花月讲师",
+        "content": "我们继续下面的内容,就不试这个9了,同意吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74670,
+        "user": "逝水18",
+        "content": "同意"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74672,
+        "user": "逝水14",
+        "content": "同意"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74674,
+        "user": "逝水23",
+        "content": "好，没意见"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74676,
+        "user": "逝水28",
+        "content": "好"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74681,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74681,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74681,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74681,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74681,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74682,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74682,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74682,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74683,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74684,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74685,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74685,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74686,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74697,
+        "user": "逝水花月讲师",
+        "content": "在这样的情况下我们还是稳健的选择B点为好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74705,
+        "user": "逝水25",
+        "content": "倒塌，怎么老吊线，55555555555~~~~~~~~~~~~~``"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74708,
+        "user": "逝水花月讲师",
+        "content": "B点后白无论防在哪里黑都是VCT取胜"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74716,
+        "user": "逝水花月讲师",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74731,
+        "user": "逝水花月讲师",
+        "content": "这里有人愿意试试VCT不?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74732,
+        "user": "棋乐",
+        "content": "25可能是你网络不好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74755,
+        "user": "逝水花月讲师",
+        "content": "9手后,无论白如何防,黑都有VCT"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74813,
+        "user": "逝水花月讲师",
+        "content": "没人试我们就讲一个最复杂的一套VCT,其余的大家课后自个拆"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74837,
+        "user": "逝水花月讲师",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74838,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74845,
+        "user": "逝水花月讲师",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74849,
+        "user": "逝水花月讲师",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74850,
+        "user": "逝水花月讲师",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74850,
+        "user": "逝水花月讲师",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74851,
+        "user": "逝水花月讲师",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74851,
+        "user": "逝水花月讲师",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74852,
+        "user": "逝水花月讲师",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74856,
+        "user": "逝水花月讲师",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74857,
+        "user": "逝水花月讲师",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74862,
+        "user": "逝水花月讲师",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74863,
+        "user": "逝水花月讲师",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74863,
+        "user": "逝水花月讲师",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74865,
+        "user": "逝水花月讲师",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74865,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74882,
+        "user": "逝水05",
+        "content": "瓦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74899,
+        "user": "逝水花月讲师",
+        "content": "25手后白无论防哪边都败"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74911,
+        "user": "逝水花月讲师",
+        "content": "大家都看见了吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74922,
+        "user": "逝水28",
+        "content": "我没看到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74928,
+        "user": "棋乐",
+        "content": "看见"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74931,
+        "user": "逝水花月讲师",
+        "content": "开小差的人不少,我们点个名先"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74939,
+        "user": "dennis",
+        "content": "..............."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74942,
+        "user": "逝水24",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74954,
+        "user": "白雪",
+        "content": "24点中间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74959,
+        "user": "逝水05",
+        "content": "也，第一名，可是没有学分了，白开心，哈"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 74964,
+        "user": "",
+        "content": " 逝水05, 白雪, 逝水14, 棋乐, 蓝色★眼泪, 裁决009, 342, 逝水23, 裁决054, 逝水29, 裁决059, dennis, 逝水28, 逝水18, 裁决070."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74966,
+        "user": "裁决009",
+        "content": ",,,,,,,老师叫我们想棋又突然点名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74967,
+        "user": "逝水24",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74979,
+        "user": "裁决009",
+        "content": "点到的都是开小差的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74987,
+        "user": "逝水花月讲师",
+        "content": "啊...."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74993,
+        "user": "蓝色★眼泪",
+        "content": "...."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74994,
+        "user": "逝水05",
+        "content": "俄。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75001,
+        "user": "逝水18",
+        "content": "差一点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75007,
+        "user": "逝水花月讲师",
+        "content": "棋乐来试试?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75015,
+        "user": "棋乐",
+        "content": "好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75021,
+        "user": "逝水花月讲师",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75030,
+        "user": "棋乐",
+        "content": "ZJ079"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75032,
+        "user": "wnqq111",
+        "content": "..."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75032,
+        "user": "逝水花月讲师",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75037,
+        "user": "棋乐",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75040,
+        "user": "逝水花月讲师",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75042,
+        "user": "wnqq111",
+        "content": "44"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75042,
+        "user": "dennis",
+        "content": "杀了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75044,
+        "user": "棋乐",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75046,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ad"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75046,
+        "user": "wnqq111",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75048,
+        "user": "棋乐",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75061,
+        "user": "逝水花月讲师",
+        "content": "谢谢棋乐"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75087,
+        "user": "棋乐",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75094,
+        "user": "逝水28",
+        "content": "下面也能杀吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75105,
+        "user": "逝水14",
+        "content": "对"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75106,
+        "user": "逝水花月讲师",
+        "content": "大家可以看见,到25时,白如何防都与后面的杀无关"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75109,
+        "user": "裁决059",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75109,
+        "user": "逝水28",
+        "content": "就这个26"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75115,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75116,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75116,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75117,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75117,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75118,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75118,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75120,
+        "user": "逝水花月讲师",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75122,
+        "user": "逝水花月讲师",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75123,
+        "user": "逝水花月讲师",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75124,
+        "user": "逝水花月讲师",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75124,
+        "user": "逝水花月讲师",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75132,
+        "user": "逝水花月讲师",
+        "content": "这样也行"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75134,
+        "user": "棋乐",
+        "content": "这个简单"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75137,
+        "user": "逝水28",
+        "content": "就是这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75151,
+        "user": "逝水28",
+        "content": "26换防我不会"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75169,
+        "user": "逝水花月讲师",
+        "content": "这个9后白无论怎么防都必胜,其余的10大家课后拆,我就不说了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75169,
+        "user": "dennis",
+        "content": "？"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 75193,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75197,
+        "user": "逝水花月讲师",
+        "content": "白8除了以上的走法外还有一些非常极端的下法"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75213,
+        "user": "逝水花月讲师",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75214,
+        "user": "逝水花月讲师",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75215,
+        "user": "逝水花月讲师",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75216,
+        "user": "逝水花月讲师",
+        "content": "ZJ177"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75216,
+        "user": "逝水23",
+        "content": "我掉了？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75217,
+        "user": "逝水花月讲师",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75218,
+        "user": "逝水花月讲师",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75219,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75220,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75221,
+        "user": "逝水花月讲师",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75234,
+        "user": "逝水花月讲师",
+        "content": "比如这个"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75241,
+        "user": "逝水花月讲师",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75245,
+        "user": "逝水花月讲师",
+        "content": "白10后黑先如何胜?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75255,
+        "user": "逝水21",
+        "content": "q j i j"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75266,
+        "user": "逝水23",
+        "content": "我掉了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75271,
+        "user": "逝水花月讲师",
+        "content": "没掉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75272,
+        "user": "过客106",
+        "content": "J11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75272,
+        "user": "逝水39",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75284,
+        "user": "逝水花月讲师",
+        "content": "106来试试不?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75295,
+        "user": "酷杀一片",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75299,
+        "user": "逝水29",
+        "content": "我防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75301,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75307,
+        "user": "逝水花月讲师",
+        "content": "过客106~~~~~~~"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75327,
+        "user": "过客106",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75334,
+        "user": "逝水花月讲师",
+        "content": "106执黑,29下白"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75345,
+        "user": "逝水29",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75350,
+        "user": "过客106",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75363,
+        "user": "逝水花月讲师",
+        "content": "们们在这杀,我去WC:)"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75363,
+        "user": "逝水29",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75372,
+        "user": "dennis",
+        "content": "..........."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75374,
+        "user": "逝水29",
+        "content": "好的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75377,
+        "user": "酷杀一片",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75383,
+        "user": "逝水23",
+        "content": "我掉了没？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75390,
+        "user": "逝水05",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75430,
+        "user": "逝水18",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75436,
+        "user": "dennis",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75446,
+        "user": "dennis",
+        "content": "怎么不下了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75450,
+        "user": "逝水29",
+        "content": "掉了吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75455,
+        "user": "逝水28",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75460,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75464,
+        "user": "裁决009",
+        "content": "14的点黑棋还是要占的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75479,
+        "user": "逝水29",
+        "content": "黑不好下了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75500,
+        "user": "逝水花月讲师",
+        "content": "杀的如何了?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75504,
+        "user": "逝水花月讲师",
+        "content": "29死了没"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75521,
+        "user": "逝水29",
+        "content": "我还活的很好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75522,
+        "user": "酷杀一片",
+        "content": "你走了他们就没动过"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75527,
+        "user": "逝水05",
+        "content": "。。。。。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75535,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75536,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75537,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75537,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75542,
+        "user": "逝水29",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75546,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75549,
+        "user": "逝水29",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75551,
+        "user": "逝水花月讲师",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75559,
+        "user": "逝水29",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75568,
+        "user": "逝水花月讲师",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75583,
+        "user": "逝水29",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75596,
+        "user": "逝水花月讲师",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75610,
+        "user": "逝水29",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75618,
+        "user": "逝水花月讲师",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75622,
+        "user": "逝水29",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75625,
+        "user": "逝水花月讲师",
+        "content": "ZJ18d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75629,
+        "user": "逝水29",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75645,
+        "user": "逝水花月讲师",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75652,
+        "user": "逝水29",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75680,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75685,
+        "user": "逝水花月讲师",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75710,
+        "user": "逝水18",
+        "content": "J8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75712,
+        "user": "棋乐",
+        "content": "黑胜了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75717,
+        "user": "酷杀一片",
+        "content": "有反"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75721,
+        "user": "dennis",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75728,
+        "user": "酷杀一片",
+        "content": "还要当心抓"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75736,
+        "user": "棋乐",
+        "content": "没反"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75747,
+        "user": "逝水29",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75749,
+        "user": "dennis",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75761,
+        "user": "逝水27",
+        "content": "没反"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75762,
+        "user": "宁静致远",
+        "content": "我还以为今天没课呢，原来在第2教室"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75771,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ec"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75780,
+        "user": "逝水29",
+        "content": "ZJ0dc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75791,
+        "user": "wnqq111",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75792,
+        "user": "逝水花月讲师",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75793,
+        "user": "逝水05",
+        "content": ".3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75797,
+        "user": "逝水29",
+        "content": "ZJ0db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75803,
+        "user": "逝水花月讲师",
+        "content": "ZJ1cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75812,
+        "user": "逝水29",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75814,
+        "user": "逝水花月讲师",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75816,
+        "user": "逝水29",
+        "content": "ZJ0da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75819,
+        "user": "逝水花月讲师",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75820,
+        "user": "棋乐",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75821,
+        "user": "酷杀一片",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75821,
+        "user": "dennis",
+        "content": ".............."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75824,
+        "user": "逝水花月讲师",
+        "content": "我羸喽"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75829,
+        "user": "逝水29",
+        "content": "？？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75831,
+        "user": "逝水23",
+        "content": "呵呵"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75832,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75834,
+        "user": "逝水23",
+        "content": "哈哈"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75836,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75839,
+        "user": "逝水29",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75841,
+        "user": "逝水花月讲师",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75857,
+        "user": "逝水29",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75860,
+        "user": "逝水花月讲师",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75872,
+        "user": "逝水29",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75875,
+        "user": "逝水花月讲师",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75882,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75883,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75886,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75889,
+        "user": "逝水29",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75892,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75893,
+        "user": "逝水29",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75894,
+        "user": "逝水29",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75897,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ad"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75905,
+        "user": "dennis",
+        "content": "..........."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75909,
+        "user": "逝水29",
+        "content": "投降"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75912,
+        "user": "裁决009",
+        "content": "我来试试行吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75917,
+        "user": "逝水花月讲师",
+        "content": "好~~~~~~~"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75925,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75925,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75926,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75926,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75926,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75926,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75926,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75927,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75928,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75929,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75929,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75929,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75929,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75929,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75929,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75929,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75929,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75930,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75930,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75930,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75930,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75930,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75930,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75931,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75932,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75932,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75933,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75933,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75935,
+        "user": "裁决009",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75939,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75940,
+        "user": "裁决009",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75941,
+        "user": "逝水花月讲师",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75943,
+        "user": "裁决009",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75943,
+        "user": "逝水花月讲师",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75945,
+        "user": "裁决009",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75947,
+        "user": "逝水花月讲师",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75970,
+        "user": "裁决009",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75977,
+        "user": "逝水花月讲师",
+        "content": "ZJ17d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75979,
+        "user": "裁决009",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75984,
+        "user": "逝水花月讲师",
+        "content": "ZJ159"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75988,
+        "user": "裁决009",
+        "content": "ZJ06c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75991,
+        "user": "逝水花月讲师",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75995,
+        "user": "裁决059",
+        "content": "赢拉黑"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76004,
+        "user": "逝水29",
+        "content": "不错"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76005,
+        "user": "裁决009",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76008,
+        "user": "逝水花月讲师",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76009,
+        "user": "裁决009",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76022,
+        "user": "逝水花月讲师",
+        "content": "谢谢09"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76053,
+        "user": "逝水花月讲师",
+        "content": "对这个10的杀法,还有谁有问题吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76065,
+        "user": "裁决009",
+        "content": "掌握鼓励一下啊,各位同学"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76073,
+        "user": "逝水29",
+        "content": "鼓掌"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 76078,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76078,
+        "user": "wyf",
+        "content": "ooo"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76082,
+        "user": "裁决059",
+        "content": "鼓掌"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76089,
+        "user": "逝水花月讲师",
+        "content": "我们再来看一个白10"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76091,
+        "user": "逝水花月讲师",
+        "content": "ZJ088"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76091,
+        "user": "逝水05",
+        "content": "啪啪啪，拍手"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76092,
+        "user": "逝水花月讲师",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76093,
+        "user": "逝水花月讲师",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76095,
+        "user": "逝水花月讲师",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76096,
+        "user": "逝水花月讲师",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76096,
+        "user": "逝水花月讲师",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76097,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76098,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76099,
+        "user": "逝水花月讲师",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76099,
+        "user": "逝水花月讲师",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76119,
+        "user": "逝水花月讲师",
+        "content": "10往左一格,杀法是否与刚才一样?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76123,
+        "user": "逝水28",
+        "content": "换10？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76126,
+        "user": "逝水花月讲师",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76144,
+        "user": "宁静致远",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76149,
+        "user": "逝水花月讲师",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76149,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76150,
+        "user": "逝水花月讲师",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76150,
+        "user": "逝水花月讲师",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76151,
+        "user": "逝水花月讲师",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76151,
+        "user": "逝水花月讲师",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76153,
+        "user": "逝水花月讲师",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76154,
+        "user": "逝水花月讲师",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76155,
+        "user": "逝水29",
+        "content": "我这个人手痒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76160,
+        "user": "逝水花月讲师",
+        "content": "这样还能杀吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76167,
+        "user": "裁决009",
+        "content": "一样的吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76174,
+        "user": "逝水29",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76186,
+        "user": "逝水花月讲师",
+        "content": "ZJ17d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76193,
+        "user": "逝水05",
+        "content": "10位置占了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76196,
+        "user": "逝水29",
+        "content": "ZJ09d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76203,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ae"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76207,
+        "user": "逝水29",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76212,
+        "user": "逝水23",
+        "content": "20下G12呢？会怎么样？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76216,
+        "user": "逝水花月讲师",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76217,
+        "user": "逝水29",
+        "content": "鼓掌"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76220,
+        "user": "逝水29",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76224,
+        "user": "逝水花月讲师",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76225,
+        "user": "ndh003",
+        "content": "讲师=5M？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76225,
+        "user": "逝水29",
+        "content": "ZJ0dc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76228,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ed"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76255,
+        "user": "逝水29",
+        "content": "怎么没杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76256,
+        "user": "逝水28",
+        "content": "是的，少少"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76266,
+        "user": "ndh003",
+        "content": "挖，28居然知道我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76276,
+        "user": "dennis",
+        "content": "............."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76278,
+        "user": "逝水28",
+        "content": "不行呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76283,
+        "user": "逝水花月讲师",
+        "content": "裁决09要不要试试?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76291,
+        "user": "ndh003",
+        "content": ":)28，哪位啊？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76295,
+        "user": "裁决009",
+        "content": "好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76299,
+        "user": "宁静致远",
+        "content": "洋"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76300,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76302,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76302,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76303,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76303,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76303,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76304,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76304,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76305,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76306,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76307,
+        "user": "逝水28",
+        "content": "不说，急死你"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76307,
+        "user": "裁决009",
+        "content": "ZJ07d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76311,
+        "user": "逝水花月讲师",
+        "content": "ZJ16e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76313,
+        "user": "裁决009",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76317,
+        "user": "逝水花月讲师",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76318,
+        "user": "裁决009",
+        "content": "ZJ09d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76321,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ae"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76322,
+        "user": "裁决009",
+        "content": "ZJ0ad"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76331,
+        "user": "ndh003",
+        "content": "5555555，28坏蛋蛋，75偶"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76338,
+        "user": "逝水29",
+        "content": "H13"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76340,
+        "user": "逝水花月讲师",
+        "content": "ZJ1bd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76343,
+        "user": "裁决009",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76346,
+        "user": "逝水花月讲师",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76352,
+        "user": "逝水28",
+        "content": "哈哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76364,
+        "user": "逝水29",
+        "content": "25错了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76371,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76371,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76371,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76372,
+        "user": "裁决009",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76390,
+        "user": "dennis",
+        "content": "？？？？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76402,
+        "user": "逝水29",
+        "content": "ZJ08d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76407,
+        "user": "逝水花月讲师",
+        "content": "ZJ16d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76414,
+        "user": "逝水花月讲师",
+        "content": "一样的方法应该杀不了吧,我试过好多回了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76424,
+        "user": "裁决009",
+        "content": "。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76428,
+        "user": "裁决009",
+        "content": "再想想"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76440,
+        "user": "酷杀一片",
+        "content": "I10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76447,
+        "user": "裁决009",
+        "content": "大家伙不用鼓掌了，呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76453,
+        "user": "逝水花月讲师",
+        "content": "我们来看看这个10的正确杀法吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76455,
+        "user": "酷杀一片",
+        "content": "应该能杀吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76458,
+        "user": "逝水花月讲师",
+        "content": "09一边想去"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76458,
+        "user": "过客106",
+        "content": "我可以试试吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76458,
+        "user": "逝水05",
+        "content": "大家跺脚"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76469,
+        "user": "逝水39",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76470,
+        "user": "裁决059",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76480,
+        "user": "逝水28",
+        "content": "少少试"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76481,
+        "user": "逝水花月讲师",
+        "content": "106来"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76488,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76488,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76488,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76488,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76488,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76489,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76489,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76489,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76489,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76489,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76489,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76490,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76490,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76490,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76490,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76491,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76493,
+        "user": "过客106",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76496,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76501,
+        "user": "过客106",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76507,
+        "user": "逝水花月讲师",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76526,
+        "user": "ndh003",
+        "content": "刚来就被28坏蛋蛋75了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76533,
+        "user": "dennis",
+        "content": "..........."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76538,
+        "user": "ndh003",
+        "content": "偶怀疑是皮皮？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76538,
+        "user": "过客106",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76553,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ad"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76556,
+        "user": "逝水28",
+        "content": "你上去砍老师出气哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76561,
+        "user": "逝水05",
+        "content": "。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76566,
+        "user": "逝水18",
+        "content": "十五手放H12也行吧？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76571,
+        "user": "过客106",
+        "content": "悔一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76579,
+        "user": "逝水花月讲师",
+        "content": "右键可以悔"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76581,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76582,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76584,
+        "user": "过客106",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76587,
+        "user": "逝水29",
+        "content": "G12哈哈"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76591,
+        "user": "逝水花月讲师",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76592,
+        "user": "宁静致远",
+        "content": "11应该做一手啊"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76595,
+        "user": "过客106",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76605,
+        "user": "逝水05",
+        "content": "少少厉害啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76605,
+        "user": "逝水18",
+        "content": "先冲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76611,
+        "user": "逝水28",
+        "content": "手呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76618,
+        "user": "逝水29",
+        "content": "完了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76618,
+        "user": "逝水18",
+        "content": "再十七"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76619,
+        "user": "逝水花月讲师",
+        "content": "这不是没了吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76629,
+        "user": "逝水18",
+        "content": "不是更好点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76633,
+        "user": "dennis",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76643,
+        "user": "ndh003",
+        "content": "5M，偶乖乖，8砍你"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76652,
+        "user": "dennis",
+        "content": "...."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76655,
+        "user": "逝水29",
+        "content": "老师，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76658,
+        "user": "棋乐",
+        "content": "有的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76661,
+        "user": "逝水28",
+        "content": "......"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76667,
+        "user": "棋乐",
+        "content": "18手走12H"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76680,
+        "user": "逝水花月讲师",
+        "content": "棋乐来防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76681,
+        "user": "dennis",
+        "content": ".........."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76691,
+        "user": "棋乐",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76697,
+        "user": "过客106",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76708,
+        "user": "逝水花月讲师",
+        "content": "....乐乐~~~~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76712,
+        "user": "棋乐",
+        "content": "yun"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76714,
+        "user": "dennis",
+        "content": "一步杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76718,
+        "user": "逝水27",
+        "content": "应该16走18"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76723,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76724,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76724,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76724,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76726,
+        "user": "逝水花月讲师",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76732,
+        "user": "过客106",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76738,
+        "user": "宁静致远",
+        "content": "11应该做棋啊"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76743,
+        "user": "逝水花月讲师",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76747,
+        "user": "过客106",
+        "content": "ZJ0ad"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76754,
+        "user": "棋乐",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76755,
+        "user": "棋乐",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76756,
+        "user": "棋乐",
+        "content": "ZJ17d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76759,
+        "user": "逝水花月讲师",
+        "content": "致远你的意思是这个11杀不掉?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76763,
+        "user": "过客106",
+        "content": "ZJ0ad"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76767,
+        "user": "逝水18",
+        "content": "一样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76783,
+        "user": "逝水花月讲师",
+        "content": "这样杀了的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76789,
+        "user": "ndh003",
+        "content": "感觉11先冲比较舒服"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76791,
+        "user": "棋乐",
+        "content": "杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76795,
+        "user": "白雪",
+        "content": "是杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76809,
+        "user": "逝水05",
+        "content": "防不住了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76810,
+        "user": "逝水花月讲师",
+        "content": "我们来看这个10与刚才10在I10的杀法有什么不同?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76810,
+        "user": "逝水28",
+        "content": "我没看到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76817,
+        "user": "逝水28",
+        "content": "55555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76822,
+        "user": "裁决079",
+        "content": "超"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76840,
+        "user": "逝水花月讲师",
+        "content": "一个11是活三,一个11是跳三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76843,
+        "user": "逝水39",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76851,
+        "user": "裁决059",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76868,
+        "user": "逝水05",
+        "content": "还是跳好看啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76869,
+        "user": "逝水花月讲师",
+        "content": "一格之差,杀法却完全不一样,大家有想过为什么会这样吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76893,
+        "user": "dennis",
+        "content": "。。。。。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76898,
+        "user": "逝水花月讲师",
+        "content": "平时我们也经常会遇到这样的问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76908,
+        "user": "dennis",
+        "content": "因为。。。所以。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76915,
+        "user": "ndh003",
+        "content": "一格是因为斜线的关系"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76919,
+        "user": "逝水29",
+        "content": "19先冲好吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76922,
+        "user": "逝水花月讲师",
+        "content": "该跳三时直接活三,本来的必胜就平衡了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76932,
+        "user": "逝水28",
+        "content": "我看到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76935,
+        "user": "ndh003",
+        "content": "如果把棋盘的点分为2种"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76936,
+        "user": "逝水28",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76939,
+        "user": "逝水花月讲师",
+        "content": "该活三时跳三,也把必胜转为平衡了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76941,
+        "user": "ndh003",
+        "content": "就能看懂地"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 76959,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76960,
+        "user": "逝水花月讲师",
+        "content": "ZJ089"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 76964,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76964,
+        "user": "逝水花月讲师",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76965,
+        "user": "逝水花月讲师",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76965,
+        "user": "逝水花月讲师",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76966,
+        "user": "逝水花月讲师",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76966,
+        "user": "逝水花月讲师",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76967,
+        "user": "逝水花月讲师",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76969,
+        "user": "逝水花月讲师",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76969,
+        "user": "逝水花月讲师",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76970,
+        "user": "逝水花月讲师",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76971,
+        "user": "逝水花月讲师",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76983,
+        "user": "逝水花月讲师",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76984,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76988,
+        "user": "逝水21",
+        "content": "q"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76989,
+        "user": "逝水花月讲师",
+        "content": "白10防在3的上面,黑11如果跳三,白棋有反活三,黑13必应在下面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76991,
+        "user": "逝水花月讲师",
+        "content": "ZJ078"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77012,
+        "user": "逝水花月讲师",
+        "content": "然后白棋会在上面占据黑棋的进攻点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77022,
+        "user": "逝水花月讲师",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77027,
+        "user": "逝水花月讲师",
+        "content": "则黑棋在上面的杀完全瓦解,并失去先手优势,进入混战局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77043,
+        "user": "逝水花月讲师",
+        "content": "这是黑11为什么不能跳三的原因所在"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77050,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77050,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77051,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77051,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77051,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77052,
+        "user": "逝水花月讲师",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77061,
+        "user": "逝水花月讲师",
+        "content": "白10防在2上面,黑11跳活三"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77063,
+        "user": "逝水花月讲师",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77067,
+        "user": "逝水花月讲师",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77087,
+        "user": "逝水花月讲师",
+        "content": "可以连接黑1-3-5的眠三及扩展黑棋在右侧的子力,明确了黑棋在右侧的发展方向,最后黑棋可以在右下杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77112,
+        "user": "ndh003",
+        "content": "右下？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77133,
+        "user": "裁决059",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77134,
+        "user": "逝水花月讲师",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77134,
+        "user": "逝水花月讲师",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77135,
+        "user": "逝水花月讲师",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77136,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77137,
+        "user": "逝水花月讲师",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77148,
+        "user": "逝水花月讲师",
+        "content": "这不是右下吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77164,
+        "user": "逝水花月讲师",
+        "content": "黑11是活三还是跳三,除以上的注意点外,还要考虑白12防守的位置"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77176,
+        "user": "ndh003",
+        "content": "相对于棋盘来说，还是右上吧"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77222,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77222,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77222,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77223,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77226,
+        "user": "逝水花月讲师",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77228,
+        "user": "逝水花月讲师",
+        "content": "黑11是跳三还是活三,不单是只连接黑1-3-5,还要考虑黑7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77257,
+        "user": "逝水花月讲师",
+        "content": "黑跳三实质是占据了一个可以将分散的子相互连接起来的一个位置 ,可以连续的活三,做杀进攻,不失先手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77258,
+        "user": "裁决059",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77316,
+        "user": "逝水14",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77317,
+        "user": "逝水花月讲师",
+        "content": "因为我自己的棋力有限,经常遇到不知是活三还是跳三的情况,所以特别多花了点时间讲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77347,
+        "user": "逝水花月讲师",
+        "content": "今晚的课就到这里,谢谢大家"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77356,
+        "user": "棋乐",
+        "content": "这么快"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77358,
+        "user": "逝水花月讲师",
+        "content": "我们还是点一回名吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77359,
+        "user": "裁决009",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77359,
+        "user": "逝水23",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77359,
+        "user": "过客106",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77362,
+        "user": "hanxiao",
+        "content": "谢谢您！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77366,
+        "user": "逝水39",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77368,
+        "user": "过客112",
+        "content": "学到很多东西"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77371,
+        "user": "逝水14",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77373,
+        "user": "过客112",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77375,
+        "user": "裁决059",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77375,
+        "user": "白雪",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77378,
+        "user": "宁静致远",
+        "content": "晕，我还没听够呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77379,
+        "user": "棋乐",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77384,
+        "user": "过客112",
+        "content": "上了一堂好课！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77385,
+        "user": "逝水31",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77388,
+        "user": "逝水27",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77388,
+        "user": "wnqq111",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 77392,
+        "user": "",
+        "content": " 逝水14, ndh003, 裁决009, 逝水29, 逝水23, 逝水27, 棋乐, 逝水18, 裁决068, 裁决059, 裁决092, 裁决054, 白雪, 342, hanxiao, wnqq111, 蓝色★眼泪, 逝水24, 宁静致远, 逝水39, dennis, 纵横28, 裁决070, 裁决089, 逝水28, 逝水05."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77399,
+        "user": "逝水花月讲师",
+        "content": "课后在逝水的花月群有录像下载"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77401,
+        "user": "裁决009",
+        "content": "老师我要到逝水去"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77404,
+        "user": "逝水24",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77405,
+        "user": "逝水05",
+        "content": "瓦，最后一名阿，强"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77408,
+        "user": "",
+        "content": " 白雪, 裁决009, 裁决054, 裁决070, 逝水14, 逝水18, 逝水28, 逝水29."
+    }
+]

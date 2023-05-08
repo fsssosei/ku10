@@ -1,0 +1,3218 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72210,
+        "user": "",
+        "content": "ZJ0040040HH1GH0IH1GF"
+    },
+    {
+        "action": "LOAD",
+        "time_int": 72210,
+        "user": "",
+        "content": "ZJ088178098176"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 72212,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72215,
+        "user": "dennis",
+        "content": ".........."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72227,
+        "user": "zjrenju",
+        "content": "大家晚上好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72233,
+        "user": "裁决054",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72233,
+        "user": "过客180",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72237,
+        "user": "dennis",
+        "content": "晚安，好梦！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72237,
+        "user": "过客179",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72240,
+        "user": "zjrenju",
+        "content": "今天我们继续上星期一的内容"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72241,
+        "user": "裁决056",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72241,
+        "user": "过客179",
+        "content": ",,,."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72253,
+        "user": "洋洋",
+        "content": "我不好，我跑来的，累死了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72258,
+        "user": "zjrenju",
+        "content": "关于连的一些分析"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72261,
+        "user": "zjrenju",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72264,
+        "user": "zjrenju",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72265,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72268,
+        "user": "zjrenju",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72288,
+        "user": "zjrenju",
+        "content": "当黑棋在棋盘增加一子的时候"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72315,
+        "user": "zjrenju",
+        "content": "假如现在白棋要把黑棋连5的可能为0"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72329,
+        "user": "zjrenju",
+        "content": "是不是和单独一子的时候一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72340,
+        "user": "zjrenju",
+        "content": "只需要8个白棋就可以？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72384,
+        "user": "zjrenju",
+        "content": "上次我们讲到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72387,
+        "user": "过客179",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 72390,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72432,
+        "user": "蓝色★眼泪",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72441,
+        "user": "dennis",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72450,
+        "user": "裁决077",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72456,
+        "user": "zjrenju",
+        "content": "白需要8个子才可以使黑的连五的可能为0"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72475,
+        "user": "zjrenju",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72475,
+        "user": "zjrenju",
+        "content": "ZJ099"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72478,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72481,
+        "user": "zjrenju",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72482,
+        "user": "zjrenju",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72482,
+        "user": "zjrenju",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72483,
+        "user": "zjrenju",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72483,
+        "user": "zjrenju",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72484,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72484,
+        "user": "zjrenju",
+        "content": "ZJ179"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72485,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72486,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72486,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72486,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72487,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72487,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72487,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72488,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72492,
+        "user": "zjrenju",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72506,
+        "user": "zjrenju",
+        "content": "当黑形成这样的连接以后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72516,
+        "user": "zjrenju",
+        "content": "是不是还只需要8个呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72523,
+        "user": "zjrenju",
+        "content": "谁回答我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72550,
+        "user": "dennis",
+        "content": "肯定不止八个吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72566,
+        "user": "zjrenju",
+        "content": "那么现在需要几个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72575,
+        "user": "纵横16",
+        "content": "？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72599,
+        "user": "纵横17",
+        "content": "???"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72600,
+        "user": "dennis",
+        "content": "15？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72610,
+        "user": "裁决077",
+        "content": "10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72611,
+        "user": "梦",
+        "content": "了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72613,
+        "user": "梦",
+        "content": "断了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72616,
+        "user": "zjrenju",
+        "content": "10个是对的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72617,
+        "user": "风清",
+        "content": "，"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72620,
+        "user": "zjrenju",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72620,
+        "user": "裁决061",
+        "content": "?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72621,
+        "user": "zjrenju",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72621,
+        "user": "zjrenju",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72623,
+        "user": "zjrenju",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72623,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72624,
+        "user": "zjrenju",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72625,
+        "user": "zjrenju",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72626,
+        "user": "zjrenju",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72626,
+        "user": "水晶019",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72626,
+        "user": "zjrenju",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72627,
+        "user": "zjrenju",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72645,
+        "user": "纵横10",
+        "content": "怎么那么多个白的啊？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72671,
+        "user": "纵横16",
+        "content": "嘘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72675,
+        "user": "zjrenju",
+        "content": "这样就需要10个白棋才可以使这里形成连的2他成5的可能为0"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72694,
+        "user": "zjrenju",
+        "content": "比单独一个子的时候增加了2个防守的子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72715,
+        "user": "zjrenju",
+        "content": "而多出来的两颗棋子的防守是因为黑多了一子后形成的另外的一条连线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72736,
+        "user": "zjrenju",
+        "content": "由此我们可以推断出，当黑棋子力在棋盘的连接点越多，要想使其无法连五的防守子力也同样需要增加"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72760,
+        "user": "zjrenju",
+        "content": "在棋盘中的点都是有作用的，而这个作用会在对局进行中体现出来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72792,
+        "user": "zjrenju",
+        "content": "我们换种方法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72800,
+        "user": "zjrenju",
+        "content": "来看这几个局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72809,
+        "user": "zjrenju",
+        "content": "他连5的可能性"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 72817,
+        "user": "zjrenju",
+        "content": 2
+    },
+    {
+        "action": "TALK",
+        "time_int": 72822,
+        "user": "纵横16",
+        "content": "纵横社团的棋友谢谢前来听课中途不要退场我是蓝剑，谢谢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72838,
+        "user": "zjrenju",
+        "content": "在连和间的局面中"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72840,
+        "user": "纵横20",
+        "content": "oo"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72845,
+        "user": "纵横17",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72851,
+        "user": "过客173",
+        "content": "老大好，我是蝶儿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72852,
+        "user": "zjrenju",
+        "content": "黑棋连5的可能是一样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72861,
+        "user": "zjrenju",
+        "content": "在这样的情况下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72862,
+        "user": "纵横20",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72863,
+        "user": "dennis",
+        "content": "与课堂无关的话题请用私聊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72877,
+        "user": "zjrenju",
+        "content": "他有多少种连5的可能？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72883,
+        "user": "纵横17",
+        "content": "小蝶"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72893,
+        "user": "zjrenju",
+        "content": "大家能够算出来吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72920,
+        "user": "随遇而安",
+        "content": "算不出，怎么算呀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72940,
+        "user": "zjrenju",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72941,
+        "user": "zjrenju",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72942,
+        "user": "zjrenju",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72943,
+        "user": "zjrenju",
+        "content": "ZJ0e6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72953,
+        "user": "zjrenju",
+        "content": "比如这样算一种"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72954,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72955,
+        "user": "zjrenju",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72962,
+        "user": "zjrenju",
+        "content": "这样呀是一种"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72964,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72965,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72965,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72966,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72966,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72967,
+        "user": "zjrenju",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72981,
+        "user": "随遇而安",
+        "content": "这样算啊，那要好多种吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72989,
+        "user": "过客173",
+        "content": "大家好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72993,
+        "user": "随遇而安",
+        "content": "一个子有8个方向呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72995,
+        "user": "zjrenju",
+        "content": "我们第一课说过单独一子的时候他是又0种连5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73003,
+        "user": "zjrenju",
+        "content": "20"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73043,
+        "user": "zjrenju",
+        "content": "这里大家下课后计算下吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73052,
+        "user": "裁决077",
+        "content": "你说说呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73058,
+        "user": "zjrenju",
+        "content": "在这样的局面下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73076,
+        "user": "zjrenju",
+        "content": "有34种连5的可能"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73086,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73087,
+        "user": "zjrenju",
+        "content": "ZJ099"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73093,
+        "user": "zjrenju",
+        "content": "这样也是一样的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73107,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73108,
+        "user": "zjrenju",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73117,
+        "user": "zjrenju",
+        "content": "但假如黑到在这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73143,
+        "user": "zjrenju",
+        "content": "这个图型可以有多少种连5的可能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73184,
+        "user": "zjrenju",
+        "content": "在这个图形里却有40种连5的可能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73202,
+        "user": "zjrenju",
+        "content": "这里就出现一个问题：为什么连和间的二会少几种连五的可能呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73219,
+        "user": "zjrenju",
+        "content": "少的那几种去哪里了呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73227,
+        "user": "洋洋",
+        "content": "没有重复就是40了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73243,
+        "user": "zjrenju",
+        "content": "我们认为在同样数量棋子的情况下，具有二的局面比没有二的局面要更有进攻性，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73266,
+        "user": "zjrenju",
+        "content": "所以我们认为连和间的两颗子所形成连五可能性的数量比挂的两颗子所形成连五可能性的数量少的那些子力已经转化为了进攻性。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73291,
+        "user": "zjrenju",
+        "content": "而挂的两颗子连的两颗子能形成连五的可能性更多，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73305,
+        "user": "zjrenju",
+        "content": "我们认为这些多出来的子力用在了拓展性上面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73330,
+        "user": "zjrenju",
+        "content": "我们还可以观察到，连和间的两颗子仅形成了一条线，"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73332,
+        "user": "zjrenju",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73333,
+        "user": "zjrenju",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73335,
+        "user": "zjrenju",
+        "content": "ZJ03b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73336,
+        "user": "zjrenju",
+        "content": "ZJ05d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73346,
+        "user": "思雨",
+        "content": "？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73353,
+        "user": "zjrenju",
+        "content": "而挂的两颗子已经架构出了一个面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73354,
+        "user": "梦",
+        "content": "雨干 吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73374,
+        "user": "zjrenju",
+        "content": "到这里就又出现了两个新的名词：进攻性和拓展性。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73396,
+        "user": "zjrenju",
+        "content": "进攻与拓展是五子棋永恒的主题，五子棋能存在多久"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73411,
+        "user": "zjrenju",
+        "content": "关于他们的讨论就有多久。无论规则怎么改变，这里的理论都是适用的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73430,
+        "user": "zjrenju",
+        "content": "我们经常听到许多人说的做棋，其实做棋就是线和面的组合"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73447,
+        "user": "zjrenju",
+        "content": "他们必须符合可以增加连接、能够占居强大的空间这两条原则"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73472,
+        "user": "zjrenju",
+        "content": "我们首先从二开始我们今天的话题"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73474,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73475,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "FIRST",
+        "time_int": 73476,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73477,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73490,
+        "user": "zjrenju",
+        "content": "我们先来看直线的二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73498,
+        "user": "裁决054",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73512,
+        "user": "zjrenju",
+        "content": "就进攻性而言，这里有4个可以直接形成活三的点，我们用字母A表示"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73517,
+        "user": "zjrenju",
+        "content": "ZJa8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73520,
+        "user": "zjrenju",
+        "content": "ZJb8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73521,
+        "user": "zjrenju",
+        "content": "ZJ78A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73523,
+        "user": "zjrenju",
+        "content": "ZJ68A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73541,
+        "user": "zjrenju",
+        "content": "这四个点是黑下步可以形成活三的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73559,
+        "user": "zjrenju",
+        "content": "同时具备2个可以形成眠三的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73567,
+        "user": "zjrenju",
+        "content": "我们用B表示"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73573,
+        "user": "zjrenju",
+        "content": "ZJc8B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73578,
+        "user": "zjrenju",
+        "content": "ZJ58B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73596,
+        "user": "zjrenju",
+        "content": "有4个可以和盘面的两个黑子在下步同时形成活二的交叉点"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73601,
+        "user": "zjrenju",
+        "content": "ZJ99X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73605,
+        "user": "zjrenju",
+        "content": "ZJ89X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73609,
+        "user": "zjrenju",
+        "content": "ZJ97X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73613,
+        "user": "zjrenju",
+        "content": "ZJ87X"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73621,
+        "user": "zjrenju",
+        "content": "这里我想问下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73635,
+        "user": "zjrenju",
+        "content": "在这个活二的连线上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73659,
+        "user": "zjrenju",
+        "content": "有多少可以在下步和黑的子力形成活二的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73690,
+        "user": "随遇而安",
+        "content": "10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73700,
+        "user": "洋洋",
+        "content": "四个点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73703,
+        "user": "zjrenju",
+        "content": "有28个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73709,
+        "user": "arcsine",
+        "content": "28"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73712,
+        "user": "洋洋",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73721,
+        "user": "纵横40",
+        "content": "哈，没数过来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73722,
+        "user": "随遇而安",
+        "content": "怎么算出28个来的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73728,
+        "user": "arcsine",
+        "content": "数"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73733,
+        "user": "zjrenju",
+        "content": "这些点都属于间接进攻的点，间接进攻我们也称为拓展，"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73739,
+        "user": "zjrenju",
+        "content": "ZJa9C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73744,
+        "user": "zjrenju",
+        "content": "ZJbaC"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73748,
+        "user": "zjrenju",
+        "content": "ZJcbC"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73753,
+        "user": "zjrenju",
+        "content": "ZJ9aC"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73758,
+        "user": "zjrenju",
+        "content": "ZJ9bC"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73764,
+        "user": "洋洋",
+        "content": "只看你的标记呀，晕"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73774,
+        "user": "zjrenju",
+        "content": "这些点都是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73782,
+        "user": "随遇而安",
+        "content": "明白了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73787,
+        "user": "zjrenju",
+        "content": "其他的就你课后去算了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73811,
+        "user": "纵横40",
+        "content": "恩恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73815,
+        "user": "zjrenju",
+        "content": "我们今天讲这个只是让你了解各个棋型的类似和不同"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73843,
+        "user": "zjrenju",
+        "content": "因为很多的理论在某个地方适用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73858,
+        "user": "zjrenju",
+        "content": "不代表任何地方都相同的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73859,
+        "user": "幸福520",
+        "content": "11L为什么也是？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73885,
+        "user": "zjrenju",
+        "content": "活二的定义是下步可以形成活三的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73898,
+        "user": "zjrenju",
+        "content": "那么L11和黑2的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73911,
+        "user": "zjrenju",
+        "content": "他的下步可以形成活三吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73931,
+        "user": "幸福520",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73932,
+        "user": "zjrenju",
+        "content": "了解这个你就可以明白L11为什么也是活二了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73959,
+        "user": "zjrenju",
+        "content": "从图中我们就可以了解到两颗黑子的拓展区域是非常广的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73972,
+        "user": "zjrenju",
+        "content": "是棋盘的7*8格区域"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74003,
+        "user": "zjrenju",
+        "content": "也就是说这样的棋型他的扩展能力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74008,
+        "user": "zjrenju",
+        "content": "是棋盘的7*8格区域"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74027,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74029,
+        "user": "zjrenju",
+        "content": "ZJ099"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74043,
+        "user": "zjrenju",
+        "content": "我们来看斜二的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74062,
+        "user": "zjrenju",
+        "content": "他的进攻能力和直线的是一样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74078,
+        "user": "zjrenju",
+        "content": "有4个还个可以形成眠三的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74088,
+        "user": "zjrenju",
+        "content": "和2个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74099,
+        "user": "Sky",
+        "content": "00"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74114,
+        "user": "zjrenju",
+        "content": "4个直接的进攻点，2个可以形成眠三的间接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74136,
+        "user": "裁决054",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74137,
+        "user": "zjrenju",
+        "content": "但有6个可以和盘面的两个黑子在下步同时形成活二的交叉点"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74142,
+        "user": "zjrenju",
+        "content": "ZJa8X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74146,
+        "user": "zjrenju",
+        "content": "ZJ97X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74149,
+        "user": "zjrenju",
+        "content": "ZJ79X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74153,
+        "user": "zjrenju",
+        "content": "ZJ89X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74156,
+        "user": "zjrenju",
+        "content": "ZJ98X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74161,
+        "user": "zjrenju",
+        "content": "ZJ8aX"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74179,
+        "user": "zjrenju",
+        "content": "还有24个可以和盘面的某一手黑棋形成活二的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74206,
+        "user": "zjrenju",
+        "content": "和直线的连二相比叫"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74219,
+        "user": "zjrenju",
+        "content": "可以直接同时形成活二交叉点的点增加了2个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74237,
+        "user": "zjrenju",
+        "content": "但可以和某个黑棋形成活二的却少了4个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74255,
+        "user": "zjrenju",
+        "content": "那么我们就会有这样的问题，阳线的二好呢还是阴线的二更好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74287,
+        "user": "zjrenju",
+        "content": "五子棋中决定胜利的很重要的条件是连接和空间，就连接来说，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74328,
+        "user": "zjrenju",
+        "content": "交叉点可以比单独的活二多了条直接的进攻连线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74346,
+        "user": "zjrenju",
+        "content": "由于他比阳线的二多2个这样的点，所以他的进攻性就比阳线的要强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74377,
+        "user": "zjrenju",
+        "content": "虽然少了4个可以和盘面直接形成活二的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74397,
+        "user": "裁决054",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74407,
+        "user": "zjrenju",
+        "content": "我们再来看拓展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74428,
+        "user": "zjrenju",
+        "content": "直线的覆盖范围我们刚才已经说了；"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74438,
+        "user": "zjrenju",
+        "content": "是7*8格的范围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74453,
+        "user": "zjrenju",
+        "content": "阴线活二的拓展区域是一个8*8的范围，比阳线的多了一格的区域"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74461,
+        "user": "zjrenju",
+        "content": "ZJc9A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74465,
+        "user": "zjrenju",
+        "content": "ZJ9cA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74469,
+        "user": "zjrenju",
+        "content": "ZJ85A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74473,
+        "user": "zjrenju",
+        "content": "ZJ58A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74494,
+        "user": "zjrenju",
+        "content": "是这样的一个覆盖范围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74509,
+        "user": "zjrenju",
+        "content": "也就是说他的拓展性比阳线的更强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74526,
+        "user": "zjrenju",
+        "content": "我们可以得出这样的结论，阴线的二比阳线的二要强，无论是进攻还是拓展。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74547,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74548,
+        "user": "zjrenju",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74559,
+        "user": "zjrenju",
+        "content": "我们来看挂马的二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74574,
+        "user": "zjrenju",
+        "content": "这里他没有直接的进攻点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74587,
+        "user": "zjrenju",
+        "content": "却有10个可以和盘面的两个黑子在下步同时形成活二的交叉点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74605,
+        "user": "zjrenju",
+        "content": "同时还有28个可以和盘面单独子在下步形成活二的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74634,
+        "user": "zjrenju",
+        "content": "同时他空间的拓展区域是一个8*9的范围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74637,
+        "user": "幸福520",
+        "content": "对不起  到现在我也不知道什么是阳线？阴线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74678,
+        "user": "裁决054",
+        "content": "斜为阴"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74683,
+        "user": "zjrenju",
+        "content": "对于术语本来想做次专门的课程的，但怕太过于简单，所以就没做"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74705,
+        "user": "zjrenju",
+        "content": "棋盘中可以看到的连接线为阳线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74729,
+        "user": "arcsine",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74740,
+        "user": "zjrenju",
+        "content": "斜的无法见的连接线为阴线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74744,
+        "user": "幸福520",
+        "content": "哦知道了谢谢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74762,
+        "user": "zjrenju",
+        "content": "我们就可以得出这样的一个结论，挂的二比连的二更有拓展性"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74778,
+        "user": "zjrenju",
+        "content": "拓展是需要空间来支持的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74791,
+        "user": "zjrenju",
+        "content": "所以这样的棋型一般在开局和空间比较大的区域使用更能体现威力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74812,
+        "user": "zjrenju",
+        "content": "主要的原因是他不具备直接的进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74825,
+        "user": "zjrenju",
+        "content": "需要有后续的连接来促使他具备进攻的可能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74839,
+        "user": "zjrenju",
+        "content": "如果空间狭小，就无法使他的连接有效"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74864,
+        "user": "zjrenju",
+        "content": "而这些结论是通过我们自己的分析来完成的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74883,
+        "user": "纵横20",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74885,
+        "user": "zjrenju",
+        "content": "所以挂马除了防守以外"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74889,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74910,
+        "user": "zjrenju",
+        "content": "他的进攻和做棋的手法基本出现在开局阶段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74929,
+        "user": "zjrenju",
+        "content": "或者说是在20手内的范围内比较有效果"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74960,
+        "user": "zjrenju",
+        "content": "如果中盘以后的挂马他的进攻能力就会相对减弱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75001,
+        "user": "zjrenju",
+        "content": "对二有了一定的了解，我们就来看成三的局面"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75014,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75015,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75015,
+        "user": "zjrenju",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75034,
+        "user": "arcsine",
+        "content": "。。"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 75037,
+        "user": "",
+        "content": " 纵横20, 裁决052, 5873627, 水晶019, 裁决068, 裁决054, 随遇而安, 幸福520, 蓝色★眼泪, 裁决殿★明月, maxking, 裁决077, 裁决056, 梦, 77247068, dennis, 裁决019, 裁决070, 菜女, 342, 寒冰, arcsine, 纵横10, 纵横40."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75047,
+        "user": "arcsine",
+        "content": "都厉害"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75053,
+        "user": "纵横40",
+        "content": "偶最厉害"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75055,
+        "user": "纵横40",
+        "content": "吼吼"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75063,
+        "user": "裁决072",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75066,
+        "user": "zjrenju",
+        "content": "黑棋增加一手后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75068,
+        "user": "纵横10",
+        "content": "哄，我最后一秒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75077,
+        "user": "zjrenju",
+        "content": "他的连接会发生什么样的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75081,
+        "user": "纵横10",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75088,
+        "user": "arcsine",
+        "content": "这堂课不错我很喜欢的：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75095,
+        "user": "zjrenju",
+        "content": "大家自己也可以按我们刚才说的思考下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75106,
+        "user": "arcsine",
+        "content": "有N个活2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75108,
+        "user": "纵横17",
+        "content": "我在啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75114,
+        "user": "纵横10",
+        "content": "好的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75122,
+        "user": "纵横10",
+        "content": "谢谢ZJRENJU"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75124,
+        "user": "zjrenju",
+        "content": "在增加了一个黑子后，形成了8个可以和盘面的两个黑子在下步同时形成活二的交叉点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75127,
+        "user": "白雪",
+        "content": "我也来了，我没看见刚才在出去了，对不起老师"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75132,
+        "user": "zjrenju",
+        "content": "ZJa9X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75137,
+        "user": "zjrenju",
+        "content": "ZJa7X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75141,
+        "user": "zjrenju",
+        "content": "ZJaaX"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75144,
+        "user": "zjrenju",
+        "content": "ZJa6X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75148,
+        "user": "zjrenju",
+        "content": "ZJ87X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75152,
+        "user": "zjrenju",
+        "content": "ZJ86X"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75173,
+        "user": "zjrenju",
+        "content": "2个可以和盘面三个黑子同时形成活二的交叉点，"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75176,
+        "user": "zjrenju",
+        "content": "ZJ97A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75178,
+        "user": "zjrenju",
+        "content": "ZJ99A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75181,
+        "user": "zjrenju",
+        "content": "ZJ89X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75185,
+        "user": "zjrenju",
+        "content": "ZJ8aX"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75201,
+        "user": "zjrenju",
+        "content": "同时有32个可以和盘面单独黑子形成活二的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75215,
+        "user": "zjrenju",
+        "content": "拓展区域也增加到7*9的范围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75237,
+        "user": "zjrenju",
+        "content": "这样就产生了一个对比"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75256,
+        "user": "zjrenju",
+        "content": "也就是说在增加一个子力以后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75275,
+        "user": "zjrenju",
+        "content": "他的扩展只是增加了一格的区域"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75299,
+        "user": "zjrenju",
+        "content": "但他的进攻性就完全体现出来了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75328,
+        "user": "zjrenju",
+        "content": "那么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75342,
+        "user": "zjrenju",
+        "content": "斜的三会发生什么样的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75348,
+        "user": "arcsine",
+        "content": "差不多咯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75350,
+        "user": "zjrenju",
+        "content": "是不是更有效果"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75354,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75354,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75355,
+        "user": "zjrenju",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75356,
+        "user": "zjrenju",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75359,
+        "user": "arcsine",
+        "content": "活2一样的咯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75395,
+        "user": "zjrenju",
+        "content": "他的连接点是一样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75411,
+        "user": "zjrenju",
+        "content": "但有没发现有不同的？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75426,
+        "user": "arcsine",
+        "content": "进攻性大一点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75442,
+        "user": "zjrenju",
+        "content": "唯一的不同是阴线的连三把拓展区域增加到了9*9。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75465,
+        "user": "zjrenju",
+        "content": "我们对在单独两连的情况下回顾就发现"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75485,
+        "user": "zjrenju",
+        "content": "原来阴线的连二只比阳线的连二多拓展一格空间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75500,
+        "user": "zjrenju",
+        "content": "但在双方都增加一个连接后，他们的比却成为了两格的区域"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75515,
+        "user": "zjrenju",
+        "content": "阴线的力量就在对局的过程中体现出来了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75558,
+        "user": "zjrenju",
+        "content": "而这些变化是我们假设黑三在直接活三的情况下产生的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75567,
+        "user": "zjrenju",
+        "content": "假如他们不活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75582,
+        "user": "77247068",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75584,
+        "user": "zjrenju",
+        "content": "又会是什么样的呢"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75599,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75599,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75600,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75601,
+        "user": "zjrenju",
+        "content": "ZJ089"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75608,
+        "user": "arcsine",
+        "content": "成角"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75618,
+        "user": "zjrenju",
+        "content": "我们看这个棋型，成角"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75640,
+        "user": "zjrenju",
+        "content": "在一个阳线活二可以同时和两个黑子形成活二的交叉点落下另外的一个子。使黑棋成为团角的形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75651,
+        "user": "zjrenju",
+        "content": "这里会有什么变化吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75676,
+        "user": "arcsine",
+        "content": "活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75681,
+        "user": "zjrenju",
+        "content": "这里形成了12个可以直接形成活三的进攻点，6个可以形成眠三的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75705,
+        "user": "zjrenju",
+        "content": "相对刚才的只扩展空间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75720,
+        "user": "arcsine",
+        "content": "12个？我数不过来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75728,
+        "user": "arcsine",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75741,
+        "user": "zjrenju",
+        "content": "这里就把进攻性体现了出来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75766,
+        "user": "zjrenju",
+        "content": "也就是我们经常听到的成角易攻的依据了"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75769,
+        "user": "zjrenju",
+        "content": "ZJa7A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75770,
+        "user": "zjrenju",
+        "content": "ZJb6A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75771,
+        "user": "zjrenju",
+        "content": "ZJa8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75773,
+        "user": "zjrenju",
+        "content": "ZJb8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75775,
+        "user": "zjrenju",
+        "content": "ZJ7aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75776,
+        "user": "zjrenju",
+        "content": "ZJ6bA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75779,
+        "user": "zjrenju",
+        "content": "ZJ8aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75780,
+        "user": "zjrenju",
+        "content": "ZJ78A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75782,
+        "user": "zjrenju",
+        "content": "ZJ68A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75783,
+        "user": "zjrenju",
+        "content": "ZJ87A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75784,
+        "user": "zjrenju",
+        "content": "ZJ86A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75786,
+        "user": "zjrenju",
+        "content": "ZJ8bA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75794,
+        "user": "zjrenju",
+        "content": "能够形成活三的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75806,
+        "user": "zjrenju",
+        "content": "就是直接的进攻点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75816,
+        "user": "zjrenju",
+        "content": "这里应该是12个吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75819,
+        "user": "arcsine",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75839,
+        "user": "zjrenju",
+        "content": "1个可以和盘面三个黑子同时形成活二的交叉点"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75845,
+        "user": "zjrenju",
+        "content": "ZJ99X"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75856,
+        "user": "过客176",
+        "content": "是的看见了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75857,
+        "user": "zjrenju",
+        "content": "27个可以和盘面单独黑子形成活二的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75887,
+        "user": "zjrenju",
+        "content": "拓展区域和阳线的连二只多了一格"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75899,
+        "user": "zjrenju",
+        "content": "但却多了许多直接进攻的连接，而且覆盖面非常大"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75914,
+        "user": "zjrenju",
+        "content": "没有直接活三的一子，使自己的进攻性变的很强，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75943,
+        "user": "zjrenju",
+        "content": "也说明在开局阶段应该更多地寻找连接和空间的扩展，为以后的行棋做准备"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75960,
+        "user": "zjrenju",
+        "content": "在许多开局里面都有这样的选择，比如云月、松月等。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75986,
+        "user": "zjrenju",
+        "content": "相信对这个棋型应该不陌生"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76014,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76015,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76016,
+        "user": "zjrenju",
+        "content": "ZJ099"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76038,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76047,
+        "user": "zjrenju",
+        "content": "斜线的2除了刚才我们看的以外"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76059,
+        "user": "zjrenju",
+        "content": "还有另外的一种连接手段"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76061,
+        "user": "zjrenju",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76093,
+        "user": "zjrenju",
+        "content": "这里他的直接进攻点比刚才少了一个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76107,
+        "user": "zjrenju",
+        "content": "同时可以和盘面单独黑子形成活二的连接点也只有24个，少了3个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76127,
+        "user": "zjrenju",
+        "content": "但他的拓展区域却增加了一格"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76146,
+        "user": "zjrenju",
+        "content": "因此我们可以有这样的结论。这个棋型的进攻性比团角的要弱，但拓展却增强了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76157,
+        "user": "arcsine",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76174,
+        "user": "zjrenju",
+        "content": "这个棋型在斜月、瑞星和明星中经常出现"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76203,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76204,
+        "user": "zjrenju",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76214,
+        "user": "zjrenju",
+        "content": "另外我们看这样的棋型"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76233,
+        "user": "zjrenju",
+        "content": "这个也可以在挂马的二中出现"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76253,
+        "user": "zjrenju",
+        "content": "这里他的直接进攻点只有8个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76268,
+        "user": "zjrenju",
+        "content": "4个可以形成眠三的连接点，1个可以和盘面三个黑子同时形成活二的交叉点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76290,
+        "user": "zjrenju",
+        "content": "32个可以和盘面单独黑子形成活二的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76303,
+        "user": "zjrenju",
+        "content": "拓展区域8*9的范围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76311,
+        "user": "zjrenju",
+        "content": "通过这样的了解"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76342,
+        "user": "zjrenju",
+        "content": "我们可以的出的结论是这个棋型的扩展也比团角的要强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76356,
+        "user": "zjrenju",
+        "content": "但进攻性相对就减弱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76387,
+        "user": "zjrenju",
+        "content": "而且通过这些分析我们就可以得到这样的结论"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76413,
+        "user": "zjrenju",
+        "content": "进攻性强的扩展性相对就会减弱"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76432,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76432,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76434,
+        "user": "zjrenju",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76434,
+        "user": "zjrenju",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76457,
+        "user": "zjrenju",
+        "content": "这个棋型也是挂马后的一种扩展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76496,
+        "user": "zjrenju",
+        "content": "直接进攻点减少到4个，2个可以形成眠三的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76512,
+        "user": "zjrenju",
+        "content": "4个可以和盘面三个黑子同时形成活二的交叉点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76529,
+        "user": "zjrenju",
+        "content": "36个可以和盘面黑子形成活二的连接点，拓展区域9*9的范围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76552,
+        "user": "zjrenju",
+        "content": "扩展棋请的形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76576,
+        "user": "zjrenju",
+        "content": "往往需要自己的下步连接给自己增加进攻性"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76583,
+        "user": "zjrenju",
+        "content": "这也是关键"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76586,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76587,
+        "user": "zjrenju",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76602,
+        "user": "zjrenju",
+        "content": "另外这样的棋型也是不错的选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76637,
+        "user": "zjrenju",
+        "content": "我们已经做的分析是在没有白棋参与的情况下的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76647,
+        "user": "arcsine",
+        "content": "对"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76654,
+        "user": "逝水33",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76661,
+        "user": "zjrenju",
+        "content": "但五子棋是两个人下的，是通过限制来衡量的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76683,
+        "user": "zjrenju",
+        "content": "所以我们也就必须对有白子的情况下做同样的了解"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76685,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76686,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76687,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76690,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76713,
+        "user": "zjrenju",
+        "content": "开局分为直指和斜指两种，就目前里说，直指开局的比例相对要高很多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76741,
+        "user": "zjrenju",
+        "content": "也是正式比赛大家比较喜欢使用的开局"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76757,
+        "user": "zjrenju",
+        "content": "由于有了白棋的阻挡，发生了许多变化，这里直接的进攻点没了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76777,
+        "user": "zjrenju",
+        "content": "有4个可以和盘面的两个黑子在下步同时形成活二的交叉点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76795,
+        "user": "zjrenju",
+        "content": "另外还有28个可以和盘面的某一手黑棋形成活二的连接点。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76810,
+        "user": "zjrenju",
+        "content": "这说明这个白子只起到了对黑棋直接进攻的限制，对黑棋的拓展没有什么影响"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76835,
+        "user": "5873627",
+        "content": "为什么直指多些?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76868,
+        "user": "arcsine",
+        "content": "斜指很少有平衡局"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76883,
+        "user": "zjrenju",
+        "content": "斜指开局目前来说，可以平衡的局面很少"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76907,
+        "user": "5873627",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76912,
+        "user": "zjrenju",
+        "content": "而且我们第一课中说到过一个道理"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76923,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76943,
+        "user": "zjrenju",
+        "content": "就是越远离天元的白子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76958,
+        "user": "zjrenju",
+        "content": "防守就相对要弱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76986,
+        "user": "zjrenju",
+        "content": "我们回到今天的内容"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76996,
+        "user": "zjrenju",
+        "content": "接下来的一手白棋下什么地方呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77010,
+        "user": "zjrenju",
+        "content": "黑有右边的空间覆盖范围，这个范围是白棋没涉足的区域"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77027,
+        "user": "zjrenju",
+        "content": "同时还有4个可以和盘面的两个黑子在下步同时形成活二的交叉点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77056,
+        "user": "zjrenju",
+        "content": "这个图型是松月开局，假如白4防在J8限制黑右边空间的发展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77090,
+        "user": "zjrenju",
+        "content": "那么黑的下步就会选择H9和G9来发展"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77092,
+        "user": "zjrenju",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77093,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77095,
+        "user": "zjrenju",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77099,
+        "user": "zjrenju",
+        "content": "ZJ89A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77105,
+        "user": "zjrenju",
+        "content": "ZJ79B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77106,
+        "user": "wei_qqq",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77123,
+        "user": "纵横20",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77132,
+        "user": "zjrenju",
+        "content": "我们把白棋撇开不看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77140,
+        "user": "zjrenju",
+        "content": "我们可以看到什么样的情况"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77152,
+        "user": "arcsine",
+        "content": "有很多活2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77169,
+        "user": "zjrenju",
+        "content": "第一个是我们刚才说到的团角的黑型"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77172,
+        "user": "zjrenju",
+        "content": "ZJ0cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77174,
+        "user": "zjrenju",
+        "content": "ZJ0dc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77174,
+        "user": "zjrenju",
+        "content": "ZJ0cd"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77181,
+        "user": "zjrenju",
+        "content": "是这样的对吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77185,
+        "user": "arcsine",
+        "content": "对"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77190,
+        "user": "zjrenju",
+        "content": "另外的一个"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77192,
+        "user": "zjrenju",
+        "content": "ZJ0c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77192,
+        "user": "zjrenju",
+        "content": "ZJ0d4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77193,
+        "user": "zjrenju",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77206,
+        "user": "zjrenju",
+        "content": "是不是也是我们刚才说到过的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77223,
+        "user": "裁决054",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77260,
+        "user": "zjrenju",
+        "content": "对于这个后面的变化我们在松月开局中做分析"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77262,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77262,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77262,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77263,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77263,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77263,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77264,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77264,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77265,
+        "user": "zjrenju",
+        "content": "ZJ078"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77266,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77270,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77274,
+        "user": "zjrenju",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77291,
+        "user": "zjrenju",
+        "content": "这个的话我们会在云月变化里讲"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77294,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77295,
+        "user": "zjrenju",
+        "content": "ZJ199"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77314,
+        "user": "zjrenju",
+        "content": "我们先来看这个后黑的思路分析"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77330,
+        "user": "zjrenju",
+        "content": "也是云月变化的一种"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77333,
+        "user": "arcsine",
+        "content": "团角"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77339,
+        "user": "zjrenju",
+        "content": "ZJ87A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77343,
+        "user": "zjrenju",
+        "content": "ZJ89B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77350,
+        "user": "zjrenju",
+        "content": "ZJa8C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77370,
+        "user": "zjrenju",
+        "content": "黑下步选择那个点会更好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77399,
+        "user": "arcsine",
+        "content": "我喜欢B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77404,
+        "user": "过客176",
+        "content": "B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77407,
+        "user": "水晶019",
+        "content": "我喜欢A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77414,
+        "user": "风清",
+        "content": "A吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77419,
+        "user": "5873627",
+        "content": "A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77421,
+        "user": "dennis",
+        "content": "a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77432,
+        "user": "zjrenju",
+        "content": "我们刚才说过，不是所有的形状在所有的场合都可以使用的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77477,
+        "user": "zjrenju",
+        "content": "假如黑5下在B点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77478,
+        "user": "zjrenju",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77479,
+        "user": "zjrenju",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77524,
+        "user": "zjrenju",
+        "content": "白6防H7黑棋空间进行压缩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77542,
+        "user": "zjrenju",
+        "content": "这里白的棋型大家熟悉吗"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77550,
+        "user": "zjrenju",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77550,
+        "user": "zjrenju",
+        "content": "ZJ0c3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77552,
+        "user": "zjrenju",
+        "content": "ZJ0d5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77564,
+        "user": "zjrenju",
+        "content": "和我们刚才说的这个是不是一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77571,
+        "user": "arcsine",
+        "content": "双卦"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77578,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77579,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77579,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77603,
+        "user": "zjrenju",
+        "content": "这样黑只有唯一的一个活二了，不管往那边发展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77615,
+        "user": "zjrenju",
+        "content": "白都可以利用防守对其分割"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77630,
+        "user": "zjrenju",
+        "content": "这主要来于白4和6对黑棋的分化，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77647,
+        "user": "zjrenju",
+        "content": "以天元为界黑两边的发展已经得不到好的连接，"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77650,
+        "user": "zjrenju",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77653,
+        "user": "zjrenju",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77654,
+        "user": "zjrenju",
+        "content": "ZJ196"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77655,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77655,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77658,
+        "user": "zjrenju",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77658,
+        "user": "zjrenju",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77659,
+        "user": "zjrenju",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77686,
+        "user": "zjrenju",
+        "content": "这个而且是许多初学者特别喜欢下的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77701,
+        "user": "zjrenju",
+        "content": "所以当这个棋型产生时，也要考虑到他后面可连续的变化。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77711,
+        "user": "纵横20",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77714,
+        "user": "zjrenju",
+        "content": "这里的5不是好的选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77721,
+        "user": "arcsine",
+        "content": "2打就被提掉了。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77739,
+        "user": "幸福520",
+        "content": "可下到这就不知道怎么下了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77741,
+        "user": "zjrenju",
+        "content": "这个5也不是两打点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77748,
+        "user": "dennis",
+        "content": "....."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77756,
+        "user": "arcsine",
+        "content": "哦，不懂"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77763,
+        "user": "zjrenju",
+        "content": "今天时间到了，我们只能下次再说了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77780,
+        "user": "zjrenju",
+        "content": "希望今天的内容不被大家笑话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77782,
+        "user": "纵横20",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77784,
+        "user": "过客180",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77786,
+        "user": "arcsine",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77788,
+        "user": "过客180",
+        "content": "学到很多东西"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77792,
+        "user": "zjrenju",
+        "content": "可能太简单了点了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77793,
+        "user": "裁决054",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77794,
+        "user": "裁决056",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77795,
+        "user": "裁决072",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77797,
+        "user": "",
+        "content": " 5873627, 77247068, arcsine, dennis, 裁决019, 裁决052, 裁决054, 裁决056, 裁决070, 裁决077, 菜女, 蓝色★眼泪, 梦, 纵横10, 纵横40."
+    }
+]

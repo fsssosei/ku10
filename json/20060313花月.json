@@ -1,0 +1,4286 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 78604,
+        "user": "",
+        "content": "ZJ0210210HH1HI0II1GG0JJ1GH0IJ1GJ0GI1IH0JG1JI0KJ1LJ0IG1JF0KG1LG0HJ1LF0KK"
+    },
+    {
+        "action": "LOAD",
+        "time_int": 78604,
+        "user": "",
+        "content": "ZJ0881890991770aa17809a17a0791980a71a90ba1ca0971a60b71c708a1c60bb"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 78606,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78608,
+        "user": "zjrenju",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78609,
+        "user": "zjrenju",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78613,
+        "user": "zjrenju",
+        "content": "欢迎来到浙江五子棋教室"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78616,
+        "user": "zjrenju",
+        "content": "ZJ099"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78617,
+        "user": "admiral",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78624,
+        "user": "ny11",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78626,
+        "user": "过客538",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78626,
+        "user": "wyf",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78632,
+        "user": "过客544",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78637,
+        "user": "zjrenju",
+        "content": "今天我们来看最基础的变化，花月的内容"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78641,
+        "user": "hanxiao",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78649,
+        "user": "zjrenju",
+        "content": "花月开局是直指第四局"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78662,
+        "user": "zjrenju",
+        "content": "英文用D4来表示"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78674,
+        "user": "zjrenju",
+        "content": "做为黑必胜开局基本上退出了比赛的舞台"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78689,
+        "user": "zjrenju",
+        "content": "在花月开局中任何变化都是以黑胜告终"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78701,
+        "user": "zjrenju",
+        "content": "但做为攻击练习的基础是非常必要的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78714,
+        "user": "maxking",
+        "content": "接下去讲吧，老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78715,
+        "user": "zjrenju",
+        "content": "如何最短手数取胜以及取胜过程中的手筋都是我们学习的目标。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78735,
+        "user": "zjrenju",
+        "content": "很多取胜的手法都是非常巧妙的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78749,
+        "user": "zjrenju",
+        "content": "花月开局后，通过我们已经学习过的基础知识"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78763,
+        "user": "zjrenju",
+        "content": "我们知道五子棋是围绕限制和发展的理论来完成的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78787,
+        "user": "zjrenju",
+        "content": "那么白4的思路也就围绕这些来发展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78794,
+        "user": "zjrenju",
+        "content": "如果说到限制"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78797,
+        "user": "zjrenju",
+        "content": "ZJ77A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78801,
+        "user": "zjrenju",
+        "content": "ZJaaC"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78813,
+        "user": "zjrenju",
+        "content": "基本采用去防守黑的活二，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78821,
+        "user": "zjrenju",
+        "content": "比如A、C点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78843,
+        "user": "zjrenju",
+        "content": "这里另外也还有点也属于限制的范围"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78848,
+        "user": "zjrenju",
+        "content": "ZJa8E"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78883,
+        "user": "zjrenju",
+        "content": "另外的就是自己发展，形成对攻局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78886,
+        "user": "zjrenju",
+        "content": "比如"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78891,
+        "user": "zjrenju",
+        "content": "ZJ98B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78896,
+        "user": "zjrenju",
+        "content": "ZJ78C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78904,
+        "user": "zjrenju",
+        "content": "ZJ78D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78910,
+        "user": "zjrenju",
+        "content": "B、D点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78923,
+        "user": "zjrenju",
+        "content": "在我们已经学习过的理论中"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78932,
+        "user": "zjrenju",
+        "content": "如果现在防守的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78947,
+        "user": "zjrenju",
+        "content": "A点相对要比C点强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78965,
+        "user": "ny11",
+        "content": "多了一格"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78968,
+        "user": "420631350",
+        "content": ","
+    },
+    {
+        "action": "TALK",
+        "time_int": 78971,
+        "user": "zjrenju",
+        "content": "原因是C点的话给黑的空间格局讲更多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78981,
+        "user": "zjrenju",
+        "content": "虽然在花月开局中"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78994,
+        "user": "zjrenju",
+        "content": "没有盘端限制"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79035,
+        "user": "zjrenju",
+        "content": "但在我们思考的范畴里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79043,
+        "user": "zjrenju",
+        "content": "应该有这样的意识"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79054,
+        "user": "zjrenju",
+        "content": "如果想对攻的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79067,
+        "user": "zjrenju",
+        "content": "那么B点应该比D点要强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79083,
+        "user": "ny11",
+        "content": "为什么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79083,
+        "user": "zjrenju",
+        "content": "我们就对这几个比较强的点做次分析"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79124,
+        "user": "zjrenju",
+        "content": "B点在发展自己的同时有打断黑连接的作用"
+    },
+    {
+        "action": "BACK",
+        "time_int": 79130,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 79131,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79132,
+        "user": "zjrenju",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79133,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79134,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79135,
+        "user": "zjrenju",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79136,
+        "user": "zjrenju",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79144,
+        "user": "zjrenju",
+        "content": "我们说到过这个变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79161,
+        "user": "zjrenju",
+        "content": "这里的白2是同样的理论"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79172,
+        "user": "zjrenju",
+        "content": "使黑两边分割"
+    },
+    {
+        "action": "BACK",
+        "time_int": 79174,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 79174,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 79175,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 79175,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 79176,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79177,
+        "user": "zjrenju",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79177,
+        "user": "zjrenju",
+        "content": "ZJ099"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79184,
+        "user": "zjrenju",
+        "content": "我们继续今天的内容"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79199,
+        "user": "zjrenju",
+        "content": "ZJ177"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79206,
+        "user": "zjrenju",
+        "content": "首先我们看这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79210,
+        "user": "zjrenju",
+        "content": "白4是花月开局最强防守"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79221,
+        "user": "zjrenju",
+        "content": "ZJaaA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79223,
+        "user": "zjrenju",
+        "content": "ZJ9aA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79226,
+        "user": "zjrenju",
+        "content": "黑5两打I10、J10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79235,
+        "user": "zjrenju",
+        "content": "都为黑胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79250,
+        "user": "zjrenju",
+        "content": "首先我们分析1打的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79263,
+        "user": "zjrenju",
+        "content": "黑5在J10做拓展棋型的分析"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79263,
+        "user": "admiral",
+        "content": "J10"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79266,
+        "user": "zjrenju",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79284,
+        "user": "zjrenju",
+        "content": "黑5后白棋没自己的连接，还是必须对黑棋进行防守或者增加自己的连接手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79302,
+        "user": "zjrenju",
+        "content": "在我们已经对斜线三的棋型了解中"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79315,
+        "user": "zjrenju",
+        "content": "我们知道现在黑的连接是非常多的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79329,
+        "user": "zjrenju",
+        "content": "白也就同样形成了许多防点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79331,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79338,
+        "user": "420631350",
+        "content": ","
+    },
+    {
+        "action": "TALK",
+        "time_int": 79346,
+        "user": "zjrenju",
+        "content": "假如白6在G8点自己做两个活二的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79365,
+        "user": "zjrenju",
+        "content": "意图和黑形成对功局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79404,
+        "user": "zjrenju",
+        "content": "但黑却有自己发展同时限制白棋的手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79410,
+        "user": "zjrenju",
+        "content": "我们可以看到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79417,
+        "user": "zjrenju",
+        "content": "现在黑没有连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79430,
+        "user": "zjrenju",
+        "content": "白却有两个活二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79450,
+        "user": "zjrenju",
+        "content": "我们首先需要了解白可能形成的进攻线"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79465,
+        "user": "zjrenju",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 79466,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 79468,
+        "user": "zjrenju",
+        "content": "ZJ7aA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79484,
+        "user": "zjrenju",
+        "content": "4-6的二可以在A点活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79495,
+        "user": "zjrenju",
+        "content": "和白2取得连接"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79519,
+        "user": "zjrenju",
+        "content": "ZJ67O"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79530,
+        "user": "zjrenju",
+        "content": "2-6的二可以在O点和白4连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79568,
+        "user": "zjrenju",
+        "content": "在这里4-6的二和A点连接的后续手段必须通过2的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79590,
+        "user": "420631350",
+        "content": "."
+    },
+    {
+        "action": "MARK",
+        "time_int": 79594,
+        "user": "zjrenju",
+        "content": "ZJ98B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79598,
+        "user": "zjrenju",
+        "content": "ZJa7C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79617,
+        "user": "zjrenju",
+        "content": "而2的后续手段可以和白其他子连接的只有C点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79652,
+        "user": "小元",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 79655,
+        "user": "zjrenju",
+        "content": "这样一来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79657,
+        "user": "zjrenju",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79681,
+        "user": "zjrenju",
+        "content": "黑7在I10防守住白的一个活二，同时形成团角"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79686,
+        "user": "zjrenju",
+        "content": "ZJ7aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79691,
+        "user": "zjrenju",
+        "content": "ZJ98B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79695,
+        "user": "zjrenju",
+        "content": "ZJa7C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79706,
+        "user": "zjrenju",
+        "content": "并且对白在G线的A点进行限制"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79729,
+        "user": "zjrenju",
+        "content": "同时也把白企图和C点连接的也限制住了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79749,
+        "user": "zjrenju",
+        "content": "可以在B点形成反三"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79775,
+        "user": "zjrenju",
+        "content": "ZJ97N"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79795,
+        "user": "zjrenju",
+        "content": "ZJ97F"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79805,
+        "user": "zjrenju",
+        "content": "虽然白还是可以在F点反"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79826,
+        "user": "zjrenju",
+        "content": "但那样黑一防的话还是没了连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79849,
+        "user": "zjrenju",
+        "content": "而且黑却形成了两个眠三和一个活二的好棋型"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79867,
+        "user": "zjrenju",
+        "content": "比如"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79869,
+        "user": "zjrenju",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79870,
+        "user": "zjrenju",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79872,
+        "user": "zjrenju",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 79876,
+        "user": "zjrenju",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79883,
+        "user": "zjrenju",
+        "content": "这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79899,
+        "user": "zjrenju",
+        "content": "黑的团角仍然没有被破坏"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79901,
+        "user": "admiral",
+        "content": "shi"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79921,
+        "user": "zjrenju",
+        "content": "相反却多了9-1的活二和11-5的活二"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79934,
+        "user": "zjrenju",
+        "content": "ZJ97F"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79939,
+        "user": "zjrenju",
+        "content": "ZJc7G"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79952,
+        "user": "zjrenju",
+        "content": "这样黑还形成了可以通过F点活三后继续在G点活三和黑7进行连接的手段"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79968,
+        "user": "zjrenju",
+        "content": "ZJa9A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79972,
+        "user": "zjrenju",
+        "content": "ZJb8B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 79976,
+        "user": "zjrenju",
+        "content": "ZJc9C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 79990,
+        "user": "zjrenju",
+        "content": "另外还有通过A、B、C的进攻线"
+    },
+    {
+        "action": "MARK",
+        "time_int": 80000,
+        "user": "zjrenju",
+        "content": "ZJcaD"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80011,
+        "user": "zjrenju",
+        "content": "以及D、C的进攻线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80025,
+        "user": "zjrenju",
+        "content": "这样白无论如何也防守不住黑的几路进攻线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80035,
+        "user": "zjrenju",
+        "content": "如果白单防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80055,
+        "user": "zjrenju",
+        "content": "利用11线和黑眠三在K线的进攻足以获得胜利"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80069,
+        "user": "420631350",
+        "content": ","
+    },
+    {
+        "action": "TALK",
+        "time_int": 80071,
+        "user": "420631350",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 80094,
+        "user": "wei_qqq",
+        "content": "，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80102,
+        "user": "wyf",
+        "content": ","
+    },
+    {
+        "action": "TALK",
+        "time_int": 80107,
+        "user": "zjrenju",
+        "content": "后面的不知道是不是要摆下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80123,
+        "user": "洋洋",
+        "content": "摆"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80133,
+        "user": "zjrenju",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80140,
+        "user": "zjrenju",
+        "content": "如果在这里"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80142,
+        "user": "zjrenju",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80142,
+        "user": "zjrenju",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80143,
+        "user": "zjrenju",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80143,
+        "user": "zjrenju",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80144,
+        "user": "zjrenju",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MARK",
+        "time_int": 80146,
+        "user": "zjrenju",
+        "content": "ZJbbA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 80147,
+        "user": "zjrenju",
+        "content": "ZJb9A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80156,
+        "user": "zjrenju",
+        "content": "黑有这样的双杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 80158,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80159,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80159,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80159,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80160,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80161,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80162,
+        "user": "zjrenju",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80163,
+        "user": "zjrenju",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80163,
+        "user": "zjrenju",
+        "content": "ZJ1ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80164,
+        "user": "zjrenju",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80165,
+        "user": "zjrenju",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80165,
+        "user": "zjrenju",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80166,
+        "user": "zjrenju",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80174,
+        "user": "zjrenju",
+        "content": "18是白必须的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80180,
+        "user": "zjrenju",
+        "content": "否则"
+    },
+    {
+        "action": "BACK",
+        "time_int": 80181,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80182,
+        "user": "zjrenju",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80183,
+        "user": "zjrenju",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MARK",
+        "time_int": 80185,
+        "user": "zjrenju",
+        "content": "ZJb7A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80196,
+        "user": "zjrenju",
+        "content": "黑还是有双杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 80198,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80198,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80199,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80200,
+        "user": "zjrenju",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80201,
+        "user": "zjrenju",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80201,
+        "user": "zjrenju",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80204,
+        "user": "zjrenju",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80206,
+        "user": "zjrenju",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80207,
+        "user": "zjrenju",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80208,
+        "user": "zjrenju",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MARK",
+        "time_int": 80210,
+        "user": "zjrenju",
+        "content": "ZJ8cA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 80213,
+        "user": "zjrenju",
+        "content": "ZJ9dA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80226,
+        "user": "zjrenju",
+        "content": "这样黑还是双杀胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80248,
+        "user": "zjrenju",
+        "content": "这里没问题吧"
+    },
+    {
+        "action": "BACK",
+        "time_int": 80250,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80251,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80251,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80251,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80251,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80252,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80252,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80252,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80253,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80254,
+        "user": "zjrenju",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80254,
+        "user": "zjrenju",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80256,
+        "user": "zjrenju",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80257,
+        "user": "zjrenju",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80258,
+        "user": "zjrenju",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80266,
+        "user": "zjrenju",
+        "content": "或者也可以这样杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80273,
+        "user": "zjrenju",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80274,
+        "user": "zjrenju",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MARK",
+        "time_int": 80278,
+        "user": "zjrenju",
+        "content": "ZJbbA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 80280,
+        "user": "zjrenju",
+        "content": "ZJb9A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80317,
+        "user": "zjrenju",
+        "content": "还有什么点要说明的？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80317,
+        "user": "过客544",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80317,
+        "user": "420631350",
+        "content": ","
+    },
+    {
+        "action": "TALK",
+        "time_int": 80318,
+        "user": "ny11",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80353,
+        "user": "admiral",
+        "content": "10j7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 80372,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80373,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80373,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80373,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80373,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80374,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80374,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80374,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80374,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80375,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80375,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80375,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80376,
+        "user": "zjrenju",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80377,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80378,
+        "user": "zjrenju",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80379,
+        "user": "zjrenju",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80388,
+        "user": "zjrenju",
+        "content": "这个刚才已经说过"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80396,
+        "user": "admiral",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80398,
+        "user": "zjrenju",
+        "content": "黑多了两个眠三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80407,
+        "user": "zjrenju",
+        "content": "还有非常大的空间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80415,
+        "user": "zjrenju",
+        "content": "白没了自己的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80435,
+        "user": "zjrenju",
+        "content": "现在的情况还可以防守住黑的进攻吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80443,
+        "user": "admiral",
+        "content": "bu  neng"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80452,
+        "user": "admiral",
+        "content": "我弄明白了，谢谢！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80476,
+        "user": "zjrenju",
+        "content": "那么这个6也就是说不强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80492,
+        "user": "zjrenju",
+        "content": "白6在J9黑7也是类似的下法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80503,
+        "user": "zjrenju",
+        "content": "而且也比较简单"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80511,
+        "user": "zjrenju",
+        "content": "就当是习题"
+    },
+    {
+        "action": "BACK",
+        "time_int": 80526,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80527,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80527,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80527,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80527,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80528,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80529,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80530,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80531,
+        "user": "zjrenju",
+        "content": "ZJ179"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80541,
+        "user": "zjrenju",
+        "content": "假如白6在这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80547,
+        "user": "zjrenju",
+        "content": "黑7应该怎么下？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80555,
+        "user": "zjrenju",
+        "content": "大家说下自己的想法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80566,
+        "user": "niaoniao",
+        "content": "j8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80576,
+        "user": "风清",
+        "content": "G10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80597,
+        "user": "棋乐",
+        "content": "I10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80619,
+        "user": "裁决083",
+        "content": "h10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80625,
+        "user": "zjrenju",
+        "content": "我们在发展自己的过程也要考虑对手的发展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80633,
+        "user": "ny11",
+        "content": "8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80634,
+        "user": "zjrenju",
+        "content": "I10的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80635,
+        "user": "ny11",
+        "content": "J"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80636,
+        "user": "zjrenju",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80637,
+        "user": "zjrenju",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80638,
+        "user": "zjrenju",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 80638,
+        "user": "zjrenju",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80652,
+        "user": "zjrenju",
+        "content": "白可以直接抓3*3禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80658,
+        "user": "棋乐",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80670,
+        "user": "zjrenju",
+        "content": "这里只有2步棋，应该很容易看到的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80690,
+        "user": "zjrenju",
+        "content": "在我们刚才的理论中"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80701,
+        "user": "zjrenju",
+        "content": "I10是好的限制手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80726,
+        "user": "zjrenju",
+        "content": "这里黑同样没有进攻的连接，自己没一个活二，白却有个活二的连接"
+    },
+    {
+        "action": "BACK",
+        "time_int": 80731,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80731,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80732,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 80733,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 80745,
+        "user": "ny11",
+        "content": "J8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80755,
+        "user": "zjrenju",
+        "content": "我们首先来看白棋的进攻路线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80759,
+        "user": "hanxiao",
+        "content": "J8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80782,
+        "user": "zjrenju",
+        "content": "白有4-6的活二存在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80793,
+        "user": "棋乐",
+        "content": "11I"
+    },
+    {
+        "action": "MARK",
+        "time_int": 80804,
+        "user": "zjrenju",
+        "content": "ZJ78B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 80807,
+        "user": "zjrenju",
+        "content": "ZJ67F"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80812,
+        "user": "zjrenju",
+        "content": "进攻有连续手段的只有在B点活三然后在F点活三寻找连接"
+    },
+    {
+        "action": "MARK",
+        "time_int": 80834,
+        "user": "zjrenju",
+        "content": "ZJ9aC"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80837,
+        "user": "zjrenju",
+        "content": "那么可以对白这路进攻连接的限制点是C点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80861,
+        "user": "zjrenju",
+        "content": "但黑不可以直接下在C点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80867,
+        "user": "zjrenju",
+        "content": "我们刚才已经看到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80874,
+        "user": "zjrenju",
+        "content": "可以抓禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80880,
+        "user": "niaoniao",
+        "content": "i8?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80887,
+        "user": "小元",
+        "content": "."
+    },
+    {
+        "action": "MARK",
+        "time_int": 80898,
+        "user": "zjrenju",
+        "content": "ZJ7aA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80905,
+        "user": "zjrenju",
+        "content": "但我们应该想到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80910,
+        "user": "zjrenju",
+        "content": "白落在B点活三后，黑在A点就多个子力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80928,
+        "user": "zjrenju",
+        "content": "这个A点就是黑的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80953,
+        "user": "Sky",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80956,
+        "user": "zjrenju",
+        "content": "我们很多时候考虑对手的同时往往会把自己忘了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80972,
+        "user": "zjrenju",
+        "content": "如果白想继续活三就会受到黑在C点的反三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 80993,
+        "user": "zjrenju",
+        "content": "而白如果想在A点活三的话，就会形成和图三的变化类似的局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81008,
+        "user": "niaoniao",
+        "content": "挖挖"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81010,
+        "user": "zjrenju",
+        "content": "我们刚才说的变化类似的局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81014,
+        "user": "niaoniao",
+        "content": "老师打字好快啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81025,
+        "user": "zjrenju",
+        "content": "这样一分析就发现虽然白存在一个活二，但却不具备进攻的手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81040,
+        "user": "ny11",
+        "content": "事先准备好的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81042,
+        "user": "zjrenju",
+        "content": "黑就可以不理会白的活二"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81045,
+        "user": "zjrenju",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81046,
+        "user": "zjrenju",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81046,
+        "user": "niaoniao",
+        "content": "0"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81046,
+        "user": "zjrenju",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81051,
+        "user": "zjrenju",
+        "content": "自己发展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81072,
+        "user": "zjrenju",
+        "content": "同样做团角"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81078,
+        "user": "niaoniao",
+        "content": "老师备课好认真啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81107,
+        "user": "zjrenju",
+        "content": "这样白就无解了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81128,
+        "user": "zjrenju",
+        "content": "具体的是不是不用摆了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81138,
+        "user": "admiral",
+        "content": "不用了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81147,
+        "user": "棋乐",
+        "content": "老师这节课有没有录象啊，前面都没听，不知道有课"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81149,
+        "user": "zjrenju",
+        "content": "我们学习做杀的技巧和思路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81182,
+        "user": "zjrenju",
+        "content": "有录象的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81202,
+        "user": "niaoniao",
+        "content": "那我也要"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81204,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81205,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81205,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81205,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81207,
+        "user": "zjrenju",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81215,
+        "user": "zjrenju",
+        "content": "我们继续看这个6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81217,
+        "user": "棋乐",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81226,
+        "user": "zjrenju",
+        "content": "白6在G10形成两个活二形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81240,
+        "user": "zjrenju",
+        "content": "不理会黑棋在右侧的厚度"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81255,
+        "user": "zjrenju",
+        "content": "非常激烈的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81265,
+        "user": "zjrenju",
+        "content": "黑下步在什么地方？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81273,
+        "user": "zjrenju",
+        "content": "大家说说看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81291,
+        "user": "裁决098",
+        "content": "I8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81305,
+        "user": "zjrenju",
+        "content": "还有其他的吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81309,
+        "user": "ny11",
+        "content": "J9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81318,
+        "user": "5873627",
+        "content": "I10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81320,
+        "user": "admiral",
+        "content": "j8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81323,
+        "user": "风清",
+        "content": "G9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81343,
+        "user": "zjrenju",
+        "content": "这里黑如果直接去防守I8白的一个活二的话"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81346,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81357,
+        "user": "zjrenju",
+        "content": "虽然是非常稳健的走法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81367,
+        "user": "zjrenju",
+        "content": "老实的挡住白的斜活二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81379,
+        "user": "zjrenju",
+        "content": "但这样的下法放弃了对白跳二的防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81391,
+        "user": "zjrenju",
+        "content": "虽然白无法取胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81405,
+        "user": "zjrenju",
+        "content": "但可以尽可能的利用这个先手把局面导向复杂"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81407,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81408,
+        "user": "zjrenju",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81410,
+        "user": "zjrenju",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81423,
+        "user": "zjrenju",
+        "content": "给黑做禁点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81432,
+        "user": "zjrenju",
+        "content": "然后黑怎么下？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81447,
+        "user": "风清",
+        "content": "I10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81450,
+        "user": "admiral",
+        "content": "i6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81485,
+        "user": "zjrenju",
+        "content": "I10的话黑缺少考虑白还有8-10的活二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81495,
+        "user": "zjrenju",
+        "content": "黑必败了的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81497,
+        "user": "zjrenju",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81498,
+        "user": "zjrenju",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81500,
+        "user": "zjrenju",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81501,
+        "user": "zjrenju",
+        "content": "ZJ169"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81514,
+        "user": "zjrenju",
+        "content": "黑如何防？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81537,
+        "user": "风清",
+        "content": "上面吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81541,
+        "user": "zjrenju",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81542,
+        "user": "zjrenju",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81563,
+        "user": "zjrenju",
+        "content": "继续做V"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81573,
+        "user": "zjrenju",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81579,
+        "user": "zjrenju",
+        "content": "ZJ175"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81581,
+        "user": "zjrenju",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81581,
+        "user": "zjrenju",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81582,
+        "user": "zjrenju",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81589,
+        "user": "zjrenju",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81590,
+        "user": "zjrenju",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81591,
+        "user": "zjrenju",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81596,
+        "user": "zjrenju",
+        "content": "这样杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81598,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81598,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81598,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81599,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81599,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81600,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81601,
+        "user": "zjrenju",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81604,
+        "user": "zjrenju",
+        "content": "ZJ147"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81607,
+        "user": "zjrenju",
+        "content": "ZJ058"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81607,
+        "user": "zjrenju",
+        "content": "ZJ174"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81613,
+        "user": "zjrenju",
+        "content": "这样抓"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81615,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81615,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81615,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81616,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81616,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81616,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81617,
+        "user": "zjrenju",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81627,
+        "user": "zjrenju",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81630,
+        "user": "zjrenju",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81631,
+        "user": "zjrenju",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81632,
+        "user": "zjrenju",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81642,
+        "user": "zjrenju",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81642,
+        "user": "zjrenju",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81644,
+        "user": "zjrenju",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81646,
+        "user": "zjrenju",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81646,
+        "user": "zjrenju",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81647,
+        "user": "zjrenju",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81648,
+        "user": "zjrenju",
+        "content": "ZJ193"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81649,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81649,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81650,
+        "user": "zjrenju",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81651,
+        "user": "zjrenju",
+        "content": "ZJ193"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81654,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81655,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81655,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81656,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81657,
+        "user": "zjrenju",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81657,
+        "user": "zjrenju",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81658,
+        "user": "zjrenju",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81661,
+        "user": "zjrenju",
+        "content": "ZJ173"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81661,
+        "user": "zjrenju",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81662,
+        "user": "zjrenju",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81663,
+        "user": "zjrenju",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81680,
+        "user": "zjrenju",
+        "content": "这样都无法逃脱被抓的可能"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81686,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81687,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81687,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81687,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81687,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81687,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81688,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81688,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81688,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81688,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81688,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81689,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81689,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81689,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81690,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81691,
+        "user": "zjrenju",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81698,
+        "user": "zjrenju",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81705,
+        "user": "zjrenju",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81706,
+        "user": "zjrenju",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81707,
+        "user": "zjrenju",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81708,
+        "user": "zjrenju",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81709,
+        "user": "zjrenju",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81710,
+        "user": "zjrenju",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81715,
+        "user": "zjrenju",
+        "content": "类似了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81718,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81718,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81718,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81719,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81719,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81719,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81720,
+        "user": "zjrenju",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81721,
+        "user": "zjrenju",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81740,
+        "user": "admiral",
+        "content": "15下防？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81744,
+        "user": "zjrenju",
+        "content": "19反防的话白都有14-6的活二解"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81745,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81746,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81746,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81746,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81747,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81747,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81748,
+        "user": "zjrenju",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81749,
+        "user": "zjrenju",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81750,
+        "user": "zjrenju",
+        "content": "ZJ04b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81750,
+        "user": "zjrenju",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81763,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81764,
+        "user": "zjrenju",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81765,
+        "user": "zjrenju",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81766,
+        "user": "zjrenju",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81780,
+        "user": "zjrenju",
+        "content": "ZJ04a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81781,
+        "user": "zjrenju",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81781,
+        "user": "zjrenju",
+        "content": "ZJ06c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81787,
+        "user": "zjrenju",
+        "content": "ZJ14d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81788,
+        "user": "zjrenju",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81789,
+        "user": "zjrenju",
+        "content": "ZJ149"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81790,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81790,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81791,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81791,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81792,
+        "user": "zjrenju",
+        "content": "ZJ06d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81800,
+        "user": "zjrenju",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81801,
+        "user": "zjrenju",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81802,
+        "user": "zjrenju",
+        "content": "ZJ15c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81802,
+        "user": "zjrenju",
+        "content": "ZJ04d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81803,
+        "user": "zjrenju",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81803,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81804,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81804,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81804,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81804,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81805,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81806,
+        "user": "zjrenju",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81815,
+        "user": "zjrenju",
+        "content": "ZJ14d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81816,
+        "user": "zjrenju",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81816,
+        "user": "zjrenju",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81824,
+        "user": "zjrenju",
+        "content": "这样还是杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81826,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81826,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81827,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81827,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81827,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 81828,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81829,
+        "user": "zjrenju",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81831,
+        "user": "zjrenju",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81850,
+        "user": "zjrenju",
+        "content": "黑反三的话白有VCF"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81852,
+        "user": "zjrenju",
+        "content": "ZJ06d"
+    },
+    {
+        "action": "MARK",
+        "time_int": 81854,
+        "user": "zjrenju",
+        "content": "ZJ68A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 81857,
+        "user": "zjrenju",
+        "content": "ZJ4aA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81858,
+        "user": "420631350",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 81870,
+        "user": "zjrenju",
+        "content": "只有防中间"
+    },
+    {
+        "action": "BACK",
+        "time_int": 81872,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81873,
+        "user": "zjrenju",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81881,
+        "user": "zjrenju",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81882,
+        "user": "zjrenju",
+        "content": "ZJ03a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81882,
+        "user": "zjrenju",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MARK",
+        "time_int": 81887,
+        "user": "zjrenju",
+        "content": "ZJ59A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81900,
+        "user": "zjrenju",
+        "content": "还是可以33胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81920,
+        "user": "zjrenju",
+        "content": "所以这个11解禁的方法是不对的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81925,
+        "user": "admiral",
+        "content": "所以感觉上11还是I6好些。。"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 81927,
+        "user": "zjrenju",
+        "content": 10
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81928,
+        "user": "zjrenju",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81935,
+        "user": "zjrenju",
+        "content": "这个是最强"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81937,
+        "user": "zjrenju",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81938,
+        "user": "zjrenju",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81938,
+        "user": "zjrenju",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81940,
+        "user": "zjrenju",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 81940,
+        "user": "zjrenju",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81957,
+        "user": "zjrenju",
+        "content": "这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81970,
+        "user": "风清",
+        "content": "15为什么这样？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81972,
+        "user": "zjrenju",
+        "content": "最后局面呈现黑优，但取胜困难"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81988,
+        "user": "zjrenju",
+        "content": "15这个是非常强的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81996,
+        "user": "zjrenju",
+        "content": "空间的扩展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 81996,
+        "user": "风清",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82006,
+        "user": "zjrenju",
+        "content": "如果不这样更难发展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82028,
+        "user": "zjrenju",
+        "content": "那么这个7就被否定了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82035,
+        "user": "zjrenju",
+        "content": "大家没意见吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82043,
+        "user": "风清",
+        "content": "恩"
+    },
+    {
+        "action": "BACK",
+        "time_int": 82045,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82046,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82046,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82046,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82047,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82047,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82047,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82047,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82048,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82048,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 82056,
+        "user": "zjrenju",
+        "content": "我们来看正确的7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82058,
+        "user": "zjrenju",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82076,
+        "user": "zjrenju",
+        "content": "由于白棋的双二进攻路线非常单调"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82077,
+        "user": "admiral",
+        "content": "耶，答对了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82094,
+        "user": "zjrenju",
+        "content": "黑只要选择出完全牵制住白攻击的点就可以轻易取胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82112,
+        "user": "zjrenju",
+        "content": "黑7在J8做三个活二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82124,
+        "user": "zjrenju",
+        "content": "这个点并不是简单的去封堵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82135,
+        "user": "zjrenju",
+        "content": "而是利用自己的活二来牵制住对手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82146,
+        "user": "zjrenju",
+        "content": "限制了白所有的进攻线"
+    },
+    {
+        "action": "MARK",
+        "time_int": 82158,
+        "user": "zjrenju",
+        "content": "ZJ7bA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 82162,
+        "user": "zjrenju",
+        "content": "ZJ78B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 82166,
+        "user": "zjrenju",
+        "content": "ZJ79D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82177,
+        "user": "zjrenju",
+        "content": "假如白在B、D点活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82189,
+        "user": "zjrenju",
+        "content": "黑可在A点形成反三"
+    },
+    {
+        "action": "MARK",
+        "time_int": 82194,
+        "user": "zjrenju",
+        "content": "ZJabG"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82210,
+        "user": "zjrenju",
+        "content": "通过5-7的连接在G点进攻"
+    },
+    {
+        "action": "MARK",
+        "time_int": 82231,
+        "user": "zjrenju",
+        "content": "ZJ98F"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82244,
+        "user": "zjrenju",
+        "content": "如果白在F点活三，那么黑可在C点形成反三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82259,
+        "user": "admiral",
+        "content": "C？"
+    },
+    {
+        "action": "MARK",
+        "time_int": 82259,
+        "user": "zjrenju",
+        "content": "ZJb7E"
+    },
+    {
+        "action": "MARK",
+        "time_int": 82266,
+        "user": "zjrenju",
+        "content": "ZJa7C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82283,
+        "user": "zjrenju",
+        "content": "之后利用3-7的连接E点进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82298,
+        "user": "zjrenju",
+        "content": "和C点联系在M7点继续活三和黑5进行连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82313,
+        "user": "zjrenju",
+        "content": "这样的手法在许多对局中经常使用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82354,
+        "user": "zjrenju",
+        "content": "还需要摆出来还是这样思考？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82378,
+        "user": "zjrenju",
+        "content": "我按大家的要求"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82401,
+        "user": "裁决072",
+        "content": "到"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 82423,
+        "user": "",
+        "content": " wyf, admiral, 风清, ny11, 水晶019, 棋乐, 裁决068, 裁决083, Sky, 420631350, xiaoyudi9, 417976146, 纵横28, 纵横17, losedevil, 裁决089, 飘雪的夏天, wei_qqq, hanxiao, 我想飞, 平凡最浪漫, 洋洋."
+    },
+    {
+        "action": "TALK",
+        "time_int": 82424,
+        "user": "裁决072",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82434,
+        "user": "小元",
+        "content": "........."
+    },
+    {
+        "action": "TALK",
+        "time_int": 82439,
+        "user": "棋乐",
+        "content": "摆出最好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82442,
+        "user": "admiral",
+        "content": "2.0还没修复点名的bug.."
+    },
+    {
+        "action": "TALK",
+        "time_int": 82446,
+        "user": "小元",
+        "content": "BUG"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82452,
+        "user": "小元",
+        "content": "wo dian le"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82459,
+        "user": "小元",
+        "content": "mei ming zi"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82464,
+        "user": "zjrenju",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82472,
+        "user": "admiral",
+        "content": "你迟到了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82477,
+        "user": "裁决089",
+        "content": "摆摆吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82478,
+        "user": "小元",
+        "content": "。。。。。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82479,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82480,
+        "user": "zjrenju",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82481,
+        "user": "zjrenju",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82489,
+        "user": "zjrenju",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "BACK",
+        "time_int": 82492,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 82511,
+        "user": "小元",
+        "content": "算了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82512,
+        "user": "zjrenju",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82544,
+        "user": "zjrenju",
+        "content": "白怎么下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82548,
+        "user": "admiral",
+        "content": "反"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82564,
+        "user": "hanxiao",
+        "content": "防上面吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82564,
+        "user": "zjrenju",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82565,
+        "user": "zjrenju",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82565,
+        "user": "zjrenju",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82566,
+        "user": "zjrenju",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82566,
+        "user": "zjrenju",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82567,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82584,
+        "user": "zjrenju",
+        "content": "双杀了吧"
+    },
+    {
+        "action": "MARK",
+        "time_int": 82588,
+        "user": "zjrenju",
+        "content": "ZJa9A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82589,
+        "user": "admiral",
+        "content": "那无解了。。"
+    },
+    {
+        "action": "MARK",
+        "time_int": 82590,
+        "user": "zjrenju",
+        "content": "ZJcbA"
+    },
+    {
+        "action": "BACK",
+        "time_int": 82630,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82631,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82631,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82632,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82632,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82632,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82633,
+        "user": "zjrenju",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82647,
+        "user": "zjrenju",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82647,
+        "user": "zjrenju",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82648,
+        "user": "zjrenju",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82648,
+        "user": "zjrenju",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82648,
+        "user": "zjrenju",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82655,
+        "user": "zjrenju",
+        "content": "这样也可以"
+    },
+    {
+        "action": "BACK",
+        "time_int": 82656,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82657,
+        "user": "zjrenju",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82662,
+        "user": "zjrenju",
+        "content": "这样也可以"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82672,
+        "user": "zjrenju",
+        "content": "虽然白可以冲四反"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82679,
+        "user": "zjrenju",
+        "content": "但黑还存在VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82687,
+        "user": "zjrenju",
+        "content": "还是要来纺"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82703,
+        "user": "zjrenju",
+        "content": "G9点是一样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82714,
+        "user": "hanxiao",
+        "content": "到了十一手,白无防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82717,
+        "user": "zjrenju",
+        "content": "没什么区别"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82717,
+        "user": "admiral",
+        "content": "无解了吧"
+    },
+    {
+        "action": "BACK",
+        "time_int": 82720,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82721,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82721,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82721,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82722,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82722,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82722,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82723,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82723,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82724,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82724,
+        "user": "zjrenju",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82725,
+        "user": "zjrenju",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82726,
+        "user": "zjrenju",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82726,
+        "user": "zjrenju",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82727,
+        "user": "zjrenju",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82728,
+        "user": "zjrenju",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82747,
+        "user": "zjrenju",
+        "content": "这样的手法是非常多的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82749,
+        "user": "zjrenju",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82749,
+        "user": "zjrenju",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82750,
+        "user": "zjrenju",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82750,
+        "user": "zjrenju",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82753,
+        "user": "zjrenju",
+        "content": "ZJ1ea"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82754,
+        "user": "zjrenju",
+        "content": "ZJ0e8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82764,
+        "user": "zjrenju",
+        "content": "这样还是双杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82788,
+        "user": "zjrenju",
+        "content": "那么我们说了白的三个进攻的可能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82804,
+        "user": "zjrenju",
+        "content": "还有最后的在J7活三的"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 82810,
+        "user": "zjrenju",
+        "content": 7
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82811,
+        "user": "zjrenju",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82815,
+        "user": "zjrenju",
+        "content": "这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82824,
+        "user": "admiral",
+        "content": "弱。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82840,
+        "user": "zjrenju",
+        "content": "白棋唯一具有点欺骗性的下法了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82852,
+        "user": "zjrenju",
+        "content": "你来表示"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82859,
+        "user": "admiral",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82861,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82864,
+        "user": "admiral",
+        "content": "感觉上。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82870,
+        "user": "hanxiao",
+        "content": "弱"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82874,
+        "user": "admiral",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82879,
+        "user": "hanxiao",
+        "content": "GII"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82882,
+        "user": "zjrenju",
+        "content": "ZJ176"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82884,
+        "user": "admiral",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82886,
+        "user": "zjrenju",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82914,
+        "user": "admiral",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82917,
+        "user": "zjrenju",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82927,
+        "user": "hanxiao",
+        "content": "I11"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82941,
+        "user": "admiral",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82944,
+        "user": "zjrenju",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82949,
+        "user": "zjrenju",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 82950,
+        "user": "zjrenju",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82956,
+        "user": "zjrenju",
+        "content": "这样抓禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82963,
+        "user": "admiral",
+        "content": "认输。。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 82968,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82968,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82969,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82970,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82970,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 82971,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 82974,
+        "user": "hanxiao",
+        "content": "口服心服"
+    },
+    {
+        "action": "TALK",
+        "time_int": 82991,
+        "user": "zjrenju",
+        "content": "黑如果简单想活三解除3*3禁"
+    },
+    {
+        "action": "MARK",
+        "time_int": 83001,
+        "user": "zjrenju",
+        "content": "ZJ74A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83004,
+        "user": "zjrenju",
+        "content": "白14后由于白在A点还可以给黑冲出一个点"
+    },
+    {
+        "action": "MARK",
+        "time_int": 83023,
+        "user": "zjrenju",
+        "content": "ZJ97B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83026,
+        "user": "zjrenju",
+        "content": "白只要一跳冲就会在B点抓黑的4*3*3禁"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 83041,
+        "user": "zjrenju",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83045,
+        "user": "zjrenju",
+        "content": "15是唯一防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83060,
+        "user": "zjrenju",
+        "content": "但防这一手黑上面的优势就更巨大了"
+    },
+    {
+        "action": "MARK",
+        "time_int": 83065,
+        "user": "zjrenju",
+        "content": "ZJ9bC"
+    },
+    {
+        "action": "MARK",
+        "time_int": 83069,
+        "user": "zjrenju",
+        "content": "ZJa9D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83084,
+        "user": "zjrenju",
+        "content": "黑形成了通过C点的许多VCF点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83085,
+        "user": "admiral",
+        "content": "15后大概有V"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83099,
+        "user": "zjrenju",
+        "content": "以及在D点后形成的VCF进攻连接"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 83125,
+        "user": "zjrenju",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 83126,
+        "user": "zjrenju",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83128,
+        "user": "zjrenju",
+        "content": "白如果活三进攻，黑就增加一个子力，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83138,
+        "user": "zjrenju",
+        "content": "同时形成另外的VCF线"
+    },
+    {
+        "action": "MARK",
+        "time_int": 83143,
+        "user": "zjrenju",
+        "content": "ZJbbA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 83145,
+        "user": "zjrenju",
+        "content": "ZJ9bA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 83147,
+        "user": "zjrenju",
+        "content": "ZJ8aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 83149,
+        "user": "zjrenju",
+        "content": "ZJc8A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83182,
+        "user": "zjrenju",
+        "content": "到这里，这个白6也就完成了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83191,
+        "user": "zjrenju",
+        "content": "还有其他不明白的吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83197,
+        "user": "admiral",
+        "content": "骗着果然厉害。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83206,
+        "user": "zjrenju",
+        "content": "如果没什么问题了，我们就下课了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83217,
+        "user": "zjrenju",
+        "content": "下次课继续我们的内容"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83245,
+        "user": "水晶019",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83251,
+        "user": "过客538",
+        "content": "谢谢您！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 83252,
+        "user": "admiral",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 83259,
+        "user": "",
+        "content": " 417976146, 420631350, admiral, hanxiao, ny11, Sky, wyf, xiaoyudi9, 裁决068, 裁决083, 裁决089, 风清, 水晶019, 我想飞, 洋洋, 纵横28."
+    }
+]

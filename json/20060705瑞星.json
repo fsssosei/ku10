@@ -1,0 +1,4658 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 73089,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73094,
+        "user": "zjrenju",
+        "content": "ZJ088"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73099,
+        "user": "wei_qqq",
+        "content": "老师好！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73099,
+        "user": "zjrenju",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73101,
+        "user": "zjrenju",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73106,
+        "user": "zjrenju",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73107,
+        "user": "zjrenju",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73109,
+        "user": "zjrenju",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73115,
+        "user": "zjrenju",
+        "content": "ZJ079"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73115,
+        "user": "519753687",
+        "content": "老师好！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73125,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73130,
+        "user": "zjrenju",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73130,
+        "user": "yywanzi",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73130,
+        "user": "yywanzi",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73135,
+        "user": "yywanzi",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73135,
+        "user": "yywanzi",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73135,
+        "user": "zjrenju",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73135,
+        "user": "yywanzi",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73135,
+        "user": "yywanzi",
+        "content": "ZJ04a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73135,
+        "user": "yywanzi",
+        "content": "ZJ058"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73135,
+        "user": "yywanzi",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73135,
+        "user": "yywanzi",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73135,
+        "user": "风火轮",
+        "content": "老师好！"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73135,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73151,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 73151,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73161,
+        "user": "zjrenju",
+        "content": "ZJ088"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73161,
+        "user": "水晶014",
+        "content": "??"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73162,
+        "user": "zjrenju",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73168,
+        "user": "zjrenju",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73173,
+        "user": "风火轮",
+        "content": "5555555555"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73173,
+        "user": "zjrenju",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73178,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73178,
+        "user": "zjrenju",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73178,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73185,
+        "user": "zjrenju",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73185,
+        "user": "zjrenju",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73185,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73185,
+        "user": "zjrenju",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73190,
+        "user": "风火轮",
+        "content": "又掉了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73190,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73191,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73192,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73193,
+        "user": "过客494",
+        "content": "？？？？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73194,
+        "user": "zjrenju",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73194,
+        "user": "zjrenju",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73195,
+        "user": "zjrenju",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73197,
+        "user": "zjrenju",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73197,
+        "user": "风火轮",
+        "content": "怎么那么慢呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73206,
+        "user": "风火轮",
+        "content": "是我的电脑的问题吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73211,
+        "user": "新世纪",
+        "content": "系统点名了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73211,
+        "user": "轩7129",
+        "content": "点名了没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73225,
+        "user": "过客520",
+        "content": "白10不是I7吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73225,
+        "user": "水晶如风",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73226,
+        "user": "过客494",
+        "content": "10不是最强的吧？老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73230,
+        "user": "zjrenju",
+        "content": "上次的课程里好象朱建峰老师讲到这个10的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73244,
+        "user": "zjrenju",
+        "content": "10是骗的一种"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73252,
+        "user": "过客520",
+        "content": "最强哪？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73266,
+        "user": "zjrenju",
+        "content": "在瑞星开局中10基本是唯一的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73291,
+        "user": "zjrenju",
+        "content": "但了解所有的弱10对分析对局还是有必要的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73305,
+        "user": "锋",
+        "content": "老师讲下10=I7好吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73313,
+        "user": "过客494",
+        "content": "唯一是I7？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73325,
+        "user": "水晶寒星",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73325,
+        "user": "过客494",
+        "content": "老师对吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73325,
+        "user": "zjrenju",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73339,
+        "user": "水晶012",
+        "content": "'"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73339,
+        "user": "过客494",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73344,
+        "user": "过客520",
+        "content": "我想听老师讲10的骗着"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73346,
+        "user": "过客494",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73357,
+        "user": "新世纪",
+        "content": "晕，我在点名前千分之一秒掉了~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73377,
+        "user": "轩7129",
+        "content": "点过了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73377,
+        "user": "过客540",
+        "content": "网不好吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73377,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73379,
+        "user": "风清",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73382,
+        "user": "烟雨",
+        "content": "......"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73383,
+        "user": "风清",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73392,
+        "user": "Sky",
+        "content": "``"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73392,
+        "user": "Sky",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73392,
+        "user": "wei_qqq",
+        "content": "今天卡卡"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73392,
+        "user": "轩7129",
+        "content": "我怎么这么命苦啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73393,
+        "user": "zjrenju",
+        "content": "在这里上次好象讲了几个白12的变化了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73396,
+        "user": "zjrenju",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73398,
+        "user": "过客541",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73409,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73411,
+        "user": "过客539",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73412,
+        "user": "zjrenju",
+        "content": "11是必然的一手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73421,
+        "user": "烟雨",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73431,
+        "user": "zjrenju",
+        "content": "一方面在刚才的局面下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73431,
+        "user": "过客520",
+        "content": "11没有其他的吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73441,
+        "user": "zjrenju",
+        "content": "黑虽然有两个二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73453,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73463,
+        "user": "zjrenju",
+        "content": "但直接进攻没有后续的连接手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73471,
+        "user": "轩7129",
+        "content": "怎么这么慢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73474,
+        "user": "zjrenju",
+        "content": "自然无法给黑棋带来胜利"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73484,
+        "user": "过客503",
+        "content": "有11=I7的下法吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73489,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73494,
+        "user": "zjrenju",
+        "content": "11一方面可以形成两个活二的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73506,
+        "user": "过客503",
+        "content": "K7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73510,
+        "user": "zjrenju",
+        "content": "另外还可以控制外围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73522,
+        "user": "zjrenju",
+        "content": "在上次的课程里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73538,
+        "user": "zjrenju",
+        "content": "好象小朱讲完了两个12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73539,
+        "user": "纯溪",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73540,
+        "user": "zjrenju",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73543,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73551,
+        "user": "zjrenju",
+        "content": "这个和J9点的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73563,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73563,
+        "user": "zjrenju",
+        "content": "我们今天来看其他的12变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73627,
+        "user": "水晶015",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73637,
+        "user": "水晶风铃",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73647,
+        "user": "过客537",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73651,
+        "user": "过客541",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73651,
+        "user": "爱5子",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73651,
+        "user": "水晶013",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73652,
+        "user": "水晶013",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73652,
+        "user": "水晶013",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73652,
+        "user": "水晶013",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73653,
+        "user": "水晶013",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73660,
+        "user": "水晶013",
+        "content": "吓死我了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73660,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73660,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73665,
+        "user": "zjrenju",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73669,
+        "user": "xiaoyudi9",
+        "content": "9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73677,
+        "user": "zjrenju",
+        "content": "我们先来看这个12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73677,
+        "user": "过客517",
+        "content": "方块"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73690,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73700,
+        "user": "zjrenju",
+        "content": "白12分割黑棋同时做两个活二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73707,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73717,
+        "user": "水晶003",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73720,
+        "user": "爱我所爱",
+        "content": "这个12好像讲过了吧：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73727,
+        "user": "zjrenju",
+        "content": "这里黑由于多了在上方的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73728,
+        "user": "裁决殿001",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73765,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73769,
+        "user": "过客541",
+        "content": "13=f10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73771,
+        "user": "zjrenju",
+        "content": "我在看上次的录象"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73778,
+        "user": "水晶如风",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73778,
+        "user": "zjrenju",
+        "content": "好象没讲过"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73796,
+        "user": "锋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73800,
+        "user": "爱我所爱",
+        "content": "我这标注，13下J8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73810,
+        "user": "冰冰的泪",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73813,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73815,
+        "user": "爱我所爱",
+        "content": "J7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73821,
+        "user": "zjrenju",
+        "content": "13不可能下J8的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73830,
+        "user": "爱我所爱",
+        "content": "说错了I7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73833,
+        "user": "zjrenju",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73853,
+        "user": "过客533",
+        "content": "好啊，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73853,
+        "user": "zjrenju",
+        "content": "这里13可以进攻，迫使白防守J6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73868,
+        "user": "爱我所爱",
+        "content": "15下G11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73874,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73875,
+        "user": "zjrenju",
+        "content": "这样黑还可以利用的是上方的空间连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73875,
+        "user": "爱我所爱",
+        "content": "以前讲的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73876,
+        "user": "zjrenju",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73879,
+        "user": "zjrenju",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73907,
+        "user": "过客533",
+        "content": "厉害厉害"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73919,
+        "user": "zjrenju",
+        "content": "15继续活三进攻，同时可以和黑的1-7-13的眠三连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73932,
+        "user": "过客501",
+        "content": "请专心听讲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73944,
+        "user": "水晶003",
+        "content": "说的对"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73957,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73970,
+        "user": "水晶如风",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73972,
+        "user": "过客541",
+        "content": "13=f10不好吗？老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73984,
+        "user": "zjrenju",
+        "content": "等下，我和小朱联系呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73987,
+        "user": "过客517",
+        "content": "13=f10不好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74003,
+        "user": "过客541",
+        "content": "为什么不好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74023,
+        "user": "纯溪",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74036,
+        "user": "过客517",
+        "content": "给白棋造反V"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74041,
+        "user": "过客540",
+        "content": "7I有2个活"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74045,
+        "user": "裁决殿001",
+        "content": "......"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74046,
+        "user": "新世纪",
+        "content": "校长辛苦了~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74049,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74063,
+        "user": "zjrenju",
+        "content": "13F10的话，就忽略了下方的子力了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74080,
+        "user": "zjrenju",
+        "content": "而且白也自然必须防守I7点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74097,
+        "user": "zjrenju",
+        "content": "I7点现在是黑两个活二的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74115,
+        "user": "zjrenju",
+        "content": "可以连接右上和左下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74132,
+        "user": "zjrenju",
+        "content": "而且直接在上方进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74145,
+        "user": "zjrenju",
+        "content": "如果无法给黑棋带来胜利"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74146,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74161,
+        "user": "zjrenju",
+        "content": "反过来防白的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74171,
+        "user": "过客509",
+        "content": "AA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74173,
+        "user": "zjrenju",
+        "content": "就显的非常被动"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74187,
+        "user": "纯溪",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74192,
+        "user": "zjrenju",
+        "content": "现在的13一方面是进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74206,
+        "user": "zjrenju",
+        "content": "另外也是可以限制白棋发展的手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74232,
+        "user": "zjrenju",
+        "content": "从安全角度来说，也是比较可行的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74235,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74241,
+        "user": "过客511",
+        "content": "老师说的太好了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74254,
+        "user": "lyg26",
+        "content": ".,,"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74260,
+        "user": "水晶如风",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74262,
+        "user": "风清",
+        "content": ","
+    },
+    {
+        "action": "TALK",
+        "time_int": 74264,
+        "user": "zjrenju",
+        "content": "在我们无法了解全部的计算的情况下，这样的选择是比较正确的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74281,
+        "user": "zjrenju",
+        "content": "现在白棋有选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74283,
+        "user": "过客511",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74290,
+        "user": "zjrenju",
+        "content": "如果防在中间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74297,
+        "user": "风清",
+        "content": "这么多人掉？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74306,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74317,
+        "user": "过客531",
+        "content": "请专心听讲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74325,
+        "user": "水晶如风",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74327,
+        "user": "zjrenju",
+        "content": "黑可以通过眠三的冲然后在H12点限制白棋的眠三点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74331,
+        "user": "水晶风铃",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74342,
+        "user": "梦",
+        "content": "今天网不行吗？？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74356,
+        "user": "过客531",
+        "content": "请专心听讲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74365,
+        "user": "zjrenju",
+        "content": "我们先看这个变化吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74367,
+        "user": "zjrenju",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74368,
+        "user": "zjrenju",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74369,
+        "user": "zjrenju",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74369,
+        "user": "zjrenju",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74396,
+        "user": "zjrenju",
+        "content": "这样白的眠三被限制同时黑增加了另外的活二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74434,
+        "user": "zjrenju",
+        "content": "这里白只有唯一了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74445,
+        "user": "zjrenju",
+        "content": "如果防E9点的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74445,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74457,
+        "user": "zjrenju",
+        "content": "黑可以在J10活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74464,
+        "user": "水晶如风",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74471,
+        "user": "zjrenju",
+        "content": "迫使白防K9"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74490,
+        "user": "zjrenju",
+        "content": "ZJaeA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74490,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74491,
+        "user": "zjrenju",
+        "content": "ZJ7dB"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74497,
+        "user": "zjrenju",
+        "content": "ZJacC"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74502,
+        "user": "zjrenju",
+        "content": "ZJ7cD"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74519,
+        "user": "zjrenju",
+        "content": "然后黑还存在通过A、B、C、D点的VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74534,
+        "user": "zjrenju",
+        "content": "这里应该能够看明白吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74540,
+        "user": "zjrenju",
+        "content": "ZJ19d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74551,
+        "user": "口斤哥欠",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74555,
+        "user": "zjrenju",
+        "content": "白这样是唯一的手段"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74562,
+        "user": "zjrenju",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74563,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74566,
+        "user": "zjrenju",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74566,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74568,
+        "user": "过客523",
+        "content": "可以，老师讲得实在是太好了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74571,
+        "user": "zjrenju",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74582,
+        "user": "zjrenju",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74592,
+        "user": "zjrenju",
+        "content": "这里也是必须的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74599,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74621,
+        "user": "zjrenju",
+        "content": "之后，黑就可以利用到刚才的13为自己形成的两个活二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74636,
+        "user": "zjrenju",
+        "content": "以及下方的空间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74670,
+        "user": "zjrenju",
+        "content": "另外还有15-17-19线延伸出来的黑的眠三"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74697,
+        "user": "zjrenju",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74698,
+        "user": "zjrenju",
+        "content": "ZJ164"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74699,
+        "user": "zjrenju",
+        "content": "ZJ066"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74709,
+        "user": "zjrenju",
+        "content": "27继续做V"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74711,
+        "user": "zjrenju",
+        "content": "ZJ157"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74712,
+        "user": "zjrenju",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74735,
+        "user": "zjrenju",
+        "content": "到这里白无防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74736,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74751,
+        "user": "口斤哥欠",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74767,
+        "user": "过客531",
+        "content": "E6不行吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74767,
+        "user": "zjrenju",
+        "content": "我们还是来说下现在黑的进攻路线"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74770,
+        "user": "zjrenju",
+        "content": "ZJ156"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74771,
+        "user": "zjrenju",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74795,
+        "user": "zjrenju",
+        "content": "ZJ59A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74797,
+        "user": "zjrenju",
+        "content": "ZJ68A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74818,
+        "user": "zjrenju",
+        "content": "这样形成了新的V线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74870,
+        "user": "zjrenju",
+        "content": "现在白没直接的VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74872,
+        "user": "锋",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74876,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74887,
+        "user": "玩童",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74902,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74908,
+        "user": "过客497",
+        "content": "老师，还是走来看看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74920,
+        "user": "纯溪",
+        "content": "."
+    },
+    {
+        "action": "MARK",
+        "time_int": 74925,
+        "user": "zjrenju",
+        "content": "ZJ84B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74929,
+        "user": "zjrenju",
+        "content": "ZJ93B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74933,
+        "user": "zjrenju",
+        "content": "ZJ95B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74948,
+        "user": "zjrenju",
+        "content": "黑现在这样两套V"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74969,
+        "user": "水晶003",
+        "content": "喔"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74973,
+        "user": "过客494",
+        "content": "30防H7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74988,
+        "user": "zjrenju",
+        "content": "另外还有套V"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74989,
+        "user": "过客533",
+        "content": "百花羞"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74994,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74994,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75002,
+        "user": "zjrenju",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75006,
+        "user": "zjrenju",
+        "content": "ZJ094"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75008,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75015,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75024,
+        "user": "心枫",
+        "content": "棋神吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75028,
+        "user": "过客494",
+        "content": "都没了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75031,
+        "user": "zjrenju",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75035,
+        "user": "迈克",
+        "content": "G6\F7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75038,
+        "user": "zjrenju",
+        "content": "这样一样了"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75045,
+        "user": "zjrenju",
+        "content": "ZJ76A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75051,
+        "user": "zjrenju",
+        "content": "ZJ59B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75055,
+        "user": "zjrenju",
+        "content": "ZJ68B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75062,
+        "user": "口斤哥欠",
+        "content": "担心掉  点下名吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75067,
+        "user": "zjrenju",
+        "content": "也是双杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75086,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75090,
+        "user": "zjrenju",
+        "content": "我们先不下30手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75107,
+        "user": "zjrenju",
+        "content": "先来看下黑的几路进攻的可能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75122,
+        "user": "迈克",
+        "content": "30=I5?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75125,
+        "user": "独舞",
+        "content": "老师，几时点名？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75130,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75130,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 75134,
+        "user": "zjrenju",
+        "content": "ZJ84A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75135,
+        "user": "zjrenju",
+        "content": "ZJ93A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75137,
+        "user": "zjrenju",
+        "content": "ZJ95A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75138,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75138,
+        "user": "冰冰的泪",
+        "content": "一会偷袭。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75144,
+        "user": "独舞",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75146,
+        "user": "玩童",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75149,
+        "user": "zjrenju",
+        "content": "这样是第一种进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75151,
+        "user": "风火轮",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75153,
+        "user": "迈克",
+        "content": "30=I5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75158,
+        "user": "风火轮",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75159,
+        "user": "zjrenju",
+        "content": "是非常直观的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75165,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75183,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75186,
+        "user": "水晶风铃",
+        "content": ".."
+    },
+    {
+        "action": "MARK",
+        "time_int": 75195,
+        "user": "zjrenju",
+        "content": "ZJ76B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75201,
+        "user": "zjrenju",
+        "content": "ZJ67B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75213,
+        "user": "zjrenju",
+        "content": "ZJ87B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75228,
+        "user": "zjrenju",
+        "content": "这样是第二种"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75239,
+        "user": "过客531",
+        "content": "老师走下30=I5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75242,
+        "user": "zjrenju",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75243,
+        "user": "zjrenju",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75243,
+        "user": "zjrenju",
+        "content": "ZJ156"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75244,
+        "user": "zjrenju",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75245,
+        "user": "zjrenju",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75245,
+        "user": "zjrenju",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75246,
+        "user": "zjrenju",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75247,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75248,
+        "user": "wei_qqq",
+        "content": "wangzi 你5分钟了，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75266,
+        "user": "zjrenju",
+        "content": "有问题吗，这个30"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75285,
+        "user": "天使之吻",
+        "content": "到～"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75301,
+        "user": "冰凌",
+        "content": "吓一跳"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75304,
+        "user": "天使之吻",
+        "content": "到！"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 75307,
+        "user": "",
+        "content": " 5873627, Sky, 菜女, wei_qqq, 锋, 独舞, 我想飞, xiaoyudi9, 妖妖, qinazt, 休憩, 玩童, 水晶雨, 水晶014, 轩7129, 蓝雪人, 水晶012, ◆品棋◆, 水晶001, 风火轮, 天使之吻, 子非鱼, yezi, 水晶015, 小静, zizhu, 心枫, 逝水舞魅, 水晶寒星, yywanzi, 敏敏, 迈克, 梦依, 乐, 水晶如风, 爱5子, 烟雨, 纯溪, yonghumm, 莲珠秀, 519753687, 依依, 水晶风铃, 飞天, 冰凌, 水晶003, 忽悠专家, ￠髙級五子書童￠, Cat, zj03, 爱我所爱, 梦, 冰冰的泪, wnqq111."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75308,
+        "user": "wnqq111",
+        "content": "倒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75313,
+        "user": "口斤哥欠",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75315,
+        "user": "口斤哥欠",
+        "content": "哭"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75315,
+        "user": "wnqq111",
+        "content": "最后一名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75323,
+        "user": "梦",
+        "content": "5555555555555我最后一名"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75327,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75327,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75328,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75328,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75328,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75329,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75329,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75330,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75331,
+        "user": "口斤哥欠",
+        "content": "点不上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75342,
+        "user": "5873627",
+        "content": "我的反应够快吧."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75343,
+        "user": "wnqq111",
+        "content": "最后还有人给俺抢的啊"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75346,
+        "user": "zjrenju",
+        "content": "ZJ56C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75351,
+        "user": "zjrenju",
+        "content": "ZJ65C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75359,
+        "user": "zjrenju",
+        "content": "ZJ84C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75364,
+        "user": "zjrenju",
+        "content": "ZJ83C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75375,
+        "user": "zjrenju",
+        "content": "另外还有这样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75383,
+        "user": "水晶如风",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75395,
+        "user": "zjrenju",
+        "content": "所以现在白E6点是唯一的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75407,
+        "user": "天使之吻",
+        "content": "高！！多杀了！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75409,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75427,
+        "user": "zjrenju",
+        "content": "可以限制黑两套杀然后来防通过A路的进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75430,
+        "user": "玩童",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75430,
+        "user": "zjrenju",
+        "content": "ZJ156"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75431,
+        "user": "zjrenju",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75439,
+        "user": "zjrenju",
+        "content": "但这样一来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75452,
+        "user": "zjrenju",
+        "content": "黑多了31手的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75477,
+        "user": "zjrenju",
+        "content": "所以这里白就无解了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75492,
+        "user": "zjrenju",
+        "content": "那么我们看另外的16"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75494,
+        "user": "过客483",
+        "content": "i4?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75497,
+        "user": "逝水舞魅",
+        "content": "I6"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75498,
+        "user": "zjrenju",
+        "content": 15
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75500,
+        "user": "zjrenju",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75502,
+        "user": "lyg26",
+        "content": "惨，去把洗衣机的衣服晾了，就错过了点名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75506,
+        "user": "过客497",
+        "content": "为什么这么安静"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75518,
+        "user": "zjrenju",
+        "content": "这个16比刚才的要强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75522,
+        "user": "过客531",
+        "content": "请专心听讲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75541,
+        "user": "zjrenju",
+        "content": "首先现在白自己形成了V，虽然这个V是没什么作用的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75541,
+        "user": "lyg26",
+        "content": "我不是有意的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75556,
+        "user": "zjrenju",
+        "content": "但却是一手眠三的形成点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75566,
+        "user": "zjrenju",
+        "content": "假如现在黑这样下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75567,
+        "user": "zjrenju",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75568,
+        "user": "zjrenju",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75569,
+        "user": "轩7129",
+        "content": "认命吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75570,
+        "user": "zjrenju",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75596,
+        "user": "zjrenju",
+        "content": "这个19后会是什么样的情况"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75606,
+        "user": "zjrenju",
+        "content": "谁知道请告诉我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75646,
+        "user": "zjrenju",
+        "content": "555，没有人告诉我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75646,
+        "user": "过客531",
+        "content": "没有威力了，黑的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75658,
+        "user": "梦",
+        "content": "哭了？？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75666,
+        "user": "zjrenju",
+        "content": "谁来表示白？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75668,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75671,
+        "user": "zjrenju",
+        "content": "请说我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75673,
+        "user": "水晶003",
+        "content": "老师 这局从开始就没听懂"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75676,
+        "user": "Sky",
+        "content": "我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75680,
+        "user": "过客531",
+        "content": "G10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75680,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75685,
+        "user": "过客527",
+        "content": "我也是"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75728,
+        "user": "过客531",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75730,
+        "user": "zjrenju",
+        "content": "你可以落子了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75730,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75732,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75739,
+        "user": "过客531",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75745,
+        "user": "lyg26",
+        "content": "晕，g10?黑活三都不防守？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75746,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75783,
+        "user": "zjrenju",
+        "content": "请继续"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75806,
+        "user": "过客511",
+        "content": "请问老师.."
+    },
+    {
+        "action": "BACK",
+        "time_int": 75811,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75812,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75812,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75812,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75812,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75813,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75814,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75815,
+        "user": "zjrenju",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75816,
+        "user": "zjrenju",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75818,
+        "user": "zjrenju",
+        "content": "ZJ7aA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75833,
+        "user": "zjrenju",
+        "content": "这个A点是白的43点吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75838,
+        "user": "zjrenju",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75839,
+        "user": "zjrenju",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75840,
+        "user": "zjrenju",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75841,
+        "user": "zjrenju",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75848,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75852,
+        "user": "过客511",
+        "content": "明白了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75860,
+        "user": "zjrenju",
+        "content": "531，你继续吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75861,
+        "user": "过客511",
+        "content": "谢谢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75869,
+        "user": "过客531",
+        "content": "EN"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75881,
+        "user": "过客501",
+        "content": "老师您讲得是禁手的是吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75893,
+        "user": "水晶003",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75897,
+        "user": "zjrenju",
+        "content": "当然有禁手的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75919,
+        "user": "过客531",
+        "content": "老师``我继续可以吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75925,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75927,
+        "user": "水晶如风",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75930,
+        "user": "过客501",
+        "content": "才看明白谢谢您"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75938,
+        "user": "Sky",
+        "content": "E9挡黑三"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75941,
+        "user": "过客531",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75943,
+        "user": "zjrenju",
+        "content": "可以"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75946,
+        "user": "zjrenju",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75957,
+        "user": "Sky",
+        "content": "最后抓K9的红XX"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75959,
+        "user": "过客531",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75961,
+        "user": "zjrenju",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75981,
+        "user": "zjrenju",
+        "content": "20是对的，谢谢你"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75988,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75990,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75990,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75991,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75995,
+        "user": "zjrenju",
+        "content": "ZJ159"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75997,
+        "user": "zjrenju",
+        "content": "ZJ5cA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76003,
+        "user": "小雅",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76014,
+        "user": "zjrenju",
+        "content": "这样白防守后同时形成在A点的VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76023,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76025,
+        "user": "小雅",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76025,
+        "user": "zjrenju",
+        "content": "就迫使黑棋防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76031,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76032,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76035,
+        "user": "zjrenju",
+        "content": "这样黑就丢了先手"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76038,
+        "user": "zjrenju",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76039,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76040,
+        "user": "zjrenju",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76041,
+        "user": "zjrenju",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76047,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76047,
+        "user": "水晶015",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76048,
+        "user": "zjrenju",
+        "content": "之后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76062,
+        "user": "zjrenju",
+        "content": "白24瞄准K9的禁点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76065,
+        "user": "zjrenju",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76067,
+        "user": "zjrenju",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76068,
+        "user": "zjrenju",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76069,
+        "user": "zjrenju",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76076,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76078,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76080,
+        "user": "zjrenju",
+        "content": "这样就说*4禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76085,
+        "user": "zjrenju",
+        "content": "4*4"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76086,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76087,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76089,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76089,
+        "user": "水晶003",
+        "content": "哦。是这样"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76090,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76090,
+        "user": "水晶如风",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76091,
+        "user": "zj03",
+        "content": "24好棋"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76092,
+        "user": "zjrenju",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76093,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76095,
+        "user": "zjrenju",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76096,
+        "user": "zjrenju",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76097,
+        "user": "zjrenju",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76098,
+        "user": "zjrenju",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76105,
+        "user": "lyg26",
+        "content": "GG"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76105,
+        "user": "zjrenju",
+        "content": "这里也是同样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76115,
+        "user": "玩童",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76120,
+        "user": "zjrenju",
+        "content": "所以这个19是黑的败点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76122,
+        "user": "zj03",
+        "content": "2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76128,
+        "user": "小鸟",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76134,
+        "user": "zjrenju",
+        "content": "那么我们来看正确的黑的19"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76134,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76140,
+        "user": "zjrenju",
+        "content": 18
+    },
+    {
+        "action": "TALK",
+        "time_int": 76155,
+        "user": "过客503",
+        "content": "E9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76160,
+        "user": "zjrenju",
+        "content": "ZJ059"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76168,
+        "user": "zjrenju",
+        "content": "这个19是正确的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76183,
+        "user": "水晶003",
+        "content": "是白16所致？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76191,
+        "user": "zjrenju",
+        "content": "可以连接到左下以及和黑3形成连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76228,
+        "user": "zjrenju",
+        "content": "而且这个19迫使白防守H12点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76232,
+        "user": "zjrenju",
+        "content": "ZJ148"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76235,
+        "user": "zjrenju",
+        "content": "ZJb9A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76238,
+        "user": "zjrenju",
+        "content": "ZJ8cA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76249,
+        "user": "zjrenju",
+        "content": "如果这样的话，黑有简单的杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76269,
+        "user": "zjrenju",
+        "content": "这样一来，左下是没有白棋的区域"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76282,
+        "user": "小雅",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76288,
+        "user": "zj03",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76294,
+        "user": "zjrenju",
+        "content": "对空间的运用来说，是非常有利的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76294,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 76296,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76298,
+        "user": "zjrenju",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76310,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76314,
+        "user": "水晶003",
+        "content": "哦"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76319,
+        "user": "zjrenju",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76320,
+        "user": "zjrenju",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76322,
+        "user": "zjrenju",
+        "content": "ZJ077"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76328,
+        "user": "zjrenju",
+        "content": "这样的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76330,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76333,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76337,
+        "user": "zjrenju",
+        "content": "黑21也是必须+"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76353,
+        "user": "过客531",
+        "content": "为什么？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76364,
+        "user": "zjrenju",
+        "content": "因为白有VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76366,
+        "user": "过客501",
+        "content": "老师我什么时候可以成为学员"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76366,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76367,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76368,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76370,
+        "user": "zjrenju",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76372,
+        "user": "zjrenju",
+        "content": "ZJ7aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76379,
+        "user": "zjrenju",
+        "content": "ZJaaB"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76384,
+        "user": "zjrenju",
+        "content": "ZJa9C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76386,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76388,
+        "user": "zjrenju",
+        "content": "ZJ8bD"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76397,
+        "user": "zjrenju",
+        "content": "这样的4步VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76416,
+        "user": "风火轮",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76425,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76425,
+        "user": "zjrenju",
+        "content": "而且得到这些的都是白16形成的眠三的功能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76442,
+        "user": "风火轮",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76445,
+        "user": "风火轮",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76446,
+        "user": "zjrenju",
+        "content": "所以这个16相对要比我们刚才看的强"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76448,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76449,
+        "user": "zjrenju",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76450,
+        "user": "zjrenju",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76451,
+        "user": "zjrenju",
+        "content": "ZJ077"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76456,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76482,
+        "user": "zjrenju",
+        "content": "这里白就有许多选择"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76485,
+        "user": "zjrenju",
+        "content": "ZJ68A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76489,
+        "user": "zjrenju",
+        "content": "ZJ95B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76494,
+        "user": "zjrenju",
+        "content": "ZJ7aC"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76513,
+        "user": "zjrenju",
+        "content": "A点或者B点，或者先冲了C点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76520,
+        "user": "zjrenju",
+        "content": "大家说说看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76523,
+        "user": "zjrenju",
+        "content": "怎么下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76531,
+        "user": "过客503",
+        "content": "B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76537,
+        "user": "过客531",
+        "content": "先C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76538,
+        "user": "水晶如风",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76550,
+        "user": "水晶003",
+        "content": "C先冲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76560,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76562,
+        "user": "忽悠专家",
+        "content": "直接A"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76568,
+        "user": "zjrenju",
+        "content": "ZJ168"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76574,
+        "user": "zjrenju",
+        "content": "我们先看这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76581,
+        "user": "水晶015",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76584,
+        "user": "zjrenju",
+        "content": "那么现在黑25怎么选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76586,
+        "user": "水晶015",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76606,
+        "user": "忽悠专家",
+        "content": "E6?"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76632,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76633,
+        "user": "过客494",
+        "content": "G5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76634,
+        "user": "过客527",
+        "content": "E5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76652,
+        "user": "zjrenju",
+        "content": "我们先C点冲的情况"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76654,
+        "user": "zjrenju",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76655,
+        "user": "zjrenju",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76656,
+        "user": "zjrenju",
+        "content": "ZJ168"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76682,
+        "user": "zjrenju",
+        "content": "如果是这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76695,
+        "user": "zjrenju",
+        "content": "现在27什么地方最好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76704,
+        "user": "过客503",
+        "content": "H7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76716,
+        "user": "zjrenju",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76725,
+        "user": "水晶003",
+        "content": "H7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76725,
+        "user": "zjrenju",
+        "content": "H7 是最好的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76732,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76739,
+        "user": "zjrenju",
+        "content": "但也有其他的胜法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76777,
+        "user": "zjrenju",
+        "content": "这样的话黑是直接做VCF"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76781,
+        "user": "zjrenju",
+        "content": "ZJ67A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76783,
+        "user": "zjrenju",
+        "content": "ZJ85A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76785,
+        "user": "zjrenju",
+        "content": "ZJ94A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76811,
+        "user": "zjrenju",
+        "content": "很明显的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76817,
+        "user": "水晶003",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76825,
+        "user": "水晶如风",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76828,
+        "user": "zjrenju",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76829,
+        "user": "zjrenju",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76829,
+        "user": "zjrenju",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76830,
+        "user": "zjrenju",
+        "content": "ZJ065"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76831,
+        "user": "zjrenju",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76832,
+        "user": "zjrenju",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76833,
+        "user": "zjrenju",
+        "content": "ZJ185"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76845,
+        "user": "水晶风铃",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76848,
+        "user": "zjrenju",
+        "content": "白只能够这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76851,
+        "user": "水晶001",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76853,
+        "user": "zjrenju",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76854,
+        "user": "zjrenju",
+        "content": "ZJ154"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76855,
+        "user": "zjrenju",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76856,
+        "user": "zjrenju",
+        "content": "ZJ175"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76858,
+        "user": "zjrenju",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76870,
+        "user": "zjrenju",
+        "content": "这样黑就胜了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76871,
+        "user": "口斤哥欠",
+        "content": "。。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76872,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76872,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76872,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76873,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76873,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76874,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76874,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76875,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76875,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76876,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76876,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76881,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76885,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76886,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76887,
+        "user": "水晶风铃",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76890,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76894,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76899,
+        "user": "水晶015",
+        "content": "///////////"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76914,
+        "user": "zjrenju",
+        "content": "27以后白就没的防了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76918,
+        "user": "水晶风铃",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76922,
+        "user": "Sky",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76925,
+        "user": "水晶003",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76931,
+        "user": "zjrenju",
+        "content": "这里的计算大家自己算下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76935,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76941,
+        "user": "zjrenju",
+        "content": "时间关系"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76943,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76943,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76944,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76944,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76946,
+        "user": "zjrenju",
+        "content": "ZJ168"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76963,
+        "user": "zjrenju",
+        "content": "我们来看这个24直接的防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76968,
+        "user": "zjrenju",
+        "content": "现在25怎么下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76978,
+        "user": "zjrenju",
+        "content": "可以和刚才一样吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76990,
+        "user": "水晶003",
+        "content": "F6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77016,
+        "user": "5873627",
+        "content": "E6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77034,
+        "user": "逝水舞魅",
+        "content": "E7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77046,
+        "user": "过客531",
+        "content": "F6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77054,
+        "user": "水晶012",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77061,
+        "user": "水晶015",
+        "content": "///////"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77067,
+        "user": "zjrenju",
+        "content": "ZJ057"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77072,
+        "user": "zjrenju",
+        "content": "这样的话"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77077,
+        "user": "zjrenju",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77090,
+        "user": "zjrenju",
+        "content": "白双杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77097,
+        "user": "zjrenju",
+        "content": "黑没有VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77107,
+        "user": "zjrenju",
+        "content": "但白有两套V"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77108,
+        "user": "水晶003",
+        "content": "是"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77110,
+        "user": "zjrenju",
+        "content": "ZJa9A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77115,
+        "user": "zjrenju",
+        "content": "ZJ7aB"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77118,
+        "user": "zjrenju",
+        "content": "ZJbaB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77129,
+        "user": "zjrenju",
+        "content": "黑无法同时防"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77135,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77136,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77137,
+        "user": "zjrenju",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77147,
+        "user": "zjrenju",
+        "content": "25在这里白也是一样杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77149,
+        "user": "zjrenju",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77177,
+        "user": "水晶012",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77179,
+        "user": "zjrenju",
+        "content": "和刚才的唯一的不同是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77202,
+        "user": "5873627",
+        "content": "E6呢?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77204,
+        "user": "zjrenju",
+        "content": "刚才的白棋冲了后给黑在I8形成了一手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77217,
+        "user": "zjrenju",
+        "content": "可以给黑VCF的进攻路线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77234,
+        "user": "zjrenju",
+        "content": "这样的话，白有了选择"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77236,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77236,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77237,
+        "user": "zjrenju",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77238,
+        "user": "zjrenju",
+        "content": "ZJ166"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77252,
+        "user": "zjrenju",
+        "content": "E6的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77256,
+        "user": "迈克",
+        "content": "E6没有F6好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77262,
+        "user": "zjrenju",
+        "content": "白切断要点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77292,
+        "user": "水晶003",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77294,
+        "user": "zjrenju",
+        "content": "对F6才是这里的手筋点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77295,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77296,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77297,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77298,
+        "user": "zjrenju",
+        "content": "ZJ066"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77307,
+        "user": "zjrenju",
+        "content": "这里黑存在VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77317,
+        "user": "水晶003",
+        "content": "是"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77325,
+        "user": "zjrenju",
+        "content": "ZJ55A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77326,
+        "user": "zjrenju",
+        "content": "ZJ56A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77329,
+        "user": "zjrenju",
+        "content": "ZJ48A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77330,
+        "user": "zjrenju",
+        "content": "ZJ57A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77335,
+        "user": "水晶如风",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77350,
+        "user": "zjrenju",
+        "content": "这样就迫使白先来防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77353,
+        "user": "锋",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77370,
+        "user": "水晶风铃",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77371,
+        "user": "zjrenju",
+        "content": "那么也就是说黑没有丢掉先手的情况"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77375,
+        "user": "水晶003",
+        "content": "老师就是老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77380,
+        "user": "zjrenju",
+        "content": "自己做了扩展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77388,
+        "user": "过客531",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77396,
+        "user": "zjrenju",
+        "content": "因为下面的空间就非常大了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77413,
+        "user": "zjrenju",
+        "content": "但这里又是白棋的思考"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77446,
+        "user": "zjrenju",
+        "content": "ZJ148"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77457,
+        "user": "zjrenju",
+        "content": "谁来表示黑？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77462,
+        "user": "zjrenju",
+        "content": "请说我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77502,
+        "user": "水晶003",
+        "content": "我来试试"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77502,
+        "user": "迈克",
+        "content": "我"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77528,
+        "user": "水晶003",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77533,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77537,
+        "user": "水晶012",
+        "content": "//"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77545,
+        "user": "zjrenju",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77551,
+        "user": "水晶003",
+        "content": "ZJ038"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77551,
+        "user": "zjrenju",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77559,
+        "user": "水晶003",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77567,
+        "user": "zjrenju",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77578,
+        "user": "过客494",
+        "content": "丢了先手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77589,
+        "user": "我想飞",
+        "content": "老师：黑在H7也有V，和这个F6哪个好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77608,
+        "user": "水晶003",
+        "content": "是老师。。。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77612,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77617,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77617,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77617,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77622,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77622,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77622,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77627,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77627,
+        "user": "wnqq111",
+        "content": "老师点名吧我机子卡快掉线了:("
+    },
+    {
+        "action": "BACK",
+        "time_int": 77627,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77627,
+        "user": "过客531",
+        "content": "刚刚讲过了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77633,
+        "user": "zjrenju",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77638,
+        "user": "zjrenju",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77643,
+        "user": "zjrenju",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77648,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77669,
+        "user": "我想飞",
+        "content": "ZJ057"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77674,
+        "user": "zjrenju",
+        "content": "你来V下看"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77674,
+        "user": "zjrenju",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77681,
+        "user": "我想飞",
+        "content": "ZJ048"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77686,
+        "user": "zjrenju",
+        "content": "ZJ156"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77686,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77690,
+        "user": "水晶003",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77692,
+        "user": "迈克",
+        "content": "黑挂了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77697,
+        "user": "zjrenju",
+        "content": "白是有反的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77717,
+        "user": "我想飞",
+        "content": "没看见"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77721,
+        "user": "zjrenju",
+        "content": "看明白了吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77726,
+        "user": "我想飞",
+        "content": "，不好意思"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77733,
+        "user": "zjrenju",
+        "content": "2-4-8-28"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77740,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77740,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77745,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77745,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77745,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77750,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77750,
+        "user": "zjrenju",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77750,
+        "user": "水晶003",
+        "content": "先走29手 行？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77761,
+        "user": "zjrenju",
+        "content": "ZJ168"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77767,
+        "user": "wei_qqq",
+        "content": "上了一堂好课！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77773,
+        "user": "zjrenju",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77778,
+        "user": "zjrenju",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77778,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77782,
+        "user": "zjrenju",
+        "content": "ZJ048"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77788,
+        "user": "zjrenju",
+        "content": "ZJ137"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77790,
+        "user": "zjrenju",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77792,
+        "user": "zjrenju",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77798,
+        "user": "zjrenju",
+        "content": "ZJ057"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77805,
+        "user": "zjrenju",
+        "content": "这样还是一样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77834,
+        "user": "水晶003",
+        "content": "对 对  看漏了E5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77841,
+        "user": "zjrenju",
+        "content": "今天时间也差不多了，我们下次继续吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77852,
+        "user": "烟雨",
+        "content": "老师，都快睡觉了，点名吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77852,
+        "user": "Cat",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77852,
+        "user": "zjrenju",
+        "content": "谢谢大家的参与"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77857,
+        "user": "yonghumm",
+        "content": "谢谢老师。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77857,
+        "user": "天使之吻",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77857,
+        "user": "过客531",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77857,
+        "user": "烟雨",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77862,
+        "user": "水晶003",
+        "content": "好的 老师再见  真开心"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77862,
+        "user": "玩童",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77862,
+        "user": "水晶012",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77862,
+        "user": "子非鱼",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77862,
+        "user": "我想飞",
+        "content": "感谢您的热心帮助！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77865,
+        "user": "yywanzi",
+        "content": "BYE"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77868,
+        "user": "过客503",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77872,
+        "user": "口斤哥欠",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77872,
+        "user": "水晶风铃",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77874,
+        "user": "过客519",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77878,
+        "user": "风火轮",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77878,
+        "user": "过客501",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77878,
+        "user": "心枫",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77878,
+        "user": "zjrenju",
+        "content": "小朱让我代大家说声抱歉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77878,
+        "user": "独舞",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77878,
+        "user": "风火轮",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77878,
+        "user": "冰冰的泪",
+        "content": "下课了？？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77878,
+        "user": "乐",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77878,
+        "user": "过客523",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77883,
+        "user": "水晶003",
+        "content": "ZJ195"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77883,
+        "user": "风火轮",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77883,
+        "user": "xiaoyudi9",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77883,
+        "user": "依依",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77883,
+        "user": "519753687",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77888,
+        "user": "小静",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77888,
+        "user": "yywanzi",
+        "content": "谢谢"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77888,
+        "user": "",
+        "content": " 519753687, 5873627, Cat, qinazt, Sky, wei_qqq, wnqq111, xiaoyudi9, yezi, yonghumm, zizhu, zj03, ￠髙級五子書童￠, ◆品棋◆, 爱5子, 爱我所爱, 冰冰的泪, 冰凌, 菜女, 纯溪, 独舞, 飞天, 风火轮, 忽悠专家, 乐, 莲珠秀, 梦, 梦依, 敏敏, 逝水舞魅, 水晶001, 水晶012, 水晶014, 水晶风铃, 水晶寒星, 水晶如风, 水晶雨, 天使之吻, 我想飞, 小静, 心枫, 休憩, 妖妖, 依依."
+    }
+]

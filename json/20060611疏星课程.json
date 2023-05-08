@@ -1,0 +1,3356 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72866,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72867,
+        "user": "wnqq111",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72869,
+        "user": "wnqq111",
+        "content": "好久不见了，还好吧？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72871,
+        "user": "wei_qqq",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72876,
+        "user": "徐永伟",
+        "content": "欢迎来到浙江五子棋教室"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72877,
+        "user": "过客579",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72878,
+        "user": "清秋弈人",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72881,
+        "user": "茜茜",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72882,
+        "user": "梦依",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72884,
+        "user": "水晶015",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72887,
+        "user": "菜女",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72895,
+        "user": "冰冰的泪",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72898,
+        "user": "吴镝",
+        "content": "今天继续梳星的讲解。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72906,
+        "user": "过客550",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72910,
+        "user": "过客550",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72918,
+        "user": "茜茜",
+        "content": "疏星？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72923,
+        "user": "爱我所爱",
+        "content": "梳星？？？？？？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72923,
+        "user": "吴镝",
+        "content": "我刚了解到一个变化的。大家一起来看看吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72925,
+        "user": "吴镝",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72928,
+        "user": "吴镝",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72929,
+        "user": "吴镝",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72930,
+        "user": "吴镝",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72930,
+        "user": "吴镝",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72931,
+        "user": "吴镝",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72932,
+        "user": "水晶002",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72937,
+        "user": "吴镝",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72947,
+        "user": "水晶017",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 72955,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72957,
+        "user": "吴镝",
+        "content": "ZJ079"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72967,
+        "user": "水晶015",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72969,
+        "user": "吴镝",
+        "content": "黑7的出现因为7走G9白可以必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72976,
+        "user": "bendan",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72990,
+        "user": "吴镝",
+        "content": "这个黑7的白必胜大家想必都了解了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72992,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72992,
+        "user": "bendan",
+        "content": "老师也在orc听棵么"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72992,
+        "user": "吴镝",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73001,
+        "user": "吴镝",
+        "content": "来看看这个黑7的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73005,
+        "user": "吴镝",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73046,
+        "user": "吴镝",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73047,
+        "user": "吴镝",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73050,
+        "user": "吴镝",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73070,
+        "user": "冰冰的泪",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73073,
+        "user": "冰冰的泪",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73102,
+        "user": "吴镝",
+        "content": "到11为止白取得向左下发展的权力。。拥有先手的优势。白如何做棋更有效果呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73134,
+        "user": "水晶鱼缸",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73147,
+        "user": "水晶015",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73152,
+        "user": "过客582",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73155,
+        "user": "过客568",
+        "content": "老师讲解"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73156,
+        "user": "冰冰的泪",
+        "content": "11 1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73161,
+        "user": "玩童",
+        "content": "F9?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73166,
+        "user": "519753687",
+        "content": "\"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73167,
+        "user": "吴镝",
+        "content": "大家可以提一些进攻点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73172,
+        "user": "吴镝",
+        "content": "我们来一个一个分析"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73188,
+        "user": "子非鱼",
+        "content": "F9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73191,
+        "user": "吴镝",
+        "content": "ZJ169"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73191,
+        "user": "zmsy001",
+        "content": "G12"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73191,
+        "user": "吴镝",
+        "content": "ZJ079"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73204,
+        "user": "吴镝",
+        "content": "先看看F9的。后续手段在哪里？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73224,
+        "user": "冰冰的泪",
+        "content": "222"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73247,
+        "user": "过客544",
+        "content": "下F9是为了H11吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73257,
+        "user": "过客576",
+        "content": "祝愉快的一天！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73287,
+        "user": "水晶002",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73290,
+        "user": "水晶015",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73296,
+        "user": "冰冰的泪",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73301,
+        "user": "过客582",
+        "content": "？？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73310,
+        "user": "冰冰的泪",
+        "content": "222"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73329,
+        "user": "zmsy001",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73329,
+        "user": "锋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73333,
+        "user": "虞旭鹏",
+        "content": "2017"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73335,
+        "user": "吴镝",
+        "content": "ZJ167"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73352,
+        "user": "吴镝",
+        "content": "大概这样是比较强的进攻了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73377,
+        "user": "吴镝",
+        "content": "ZJ078"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73379,
+        "user": "过客569",
+        "content": "你以为躲起来就找不到你了吗？没有用的！象你这样出色的男人，无论在什么地方，都像漆黑中的萤火虫一样，那样的鲜明，那样的出众。你那忧郁的眼神，稀嘘的胡喳子，神乎其神的刀法，和那杯DryMartine，都深深地迷住了我。不过，虽然你是这样的出色，但是行有行规，无论怎样你要付清昨晚的过夜费呀，叫女人不用给钱吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73386,
+        "user": "小艾",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73387,
+        "user": "吴镝",
+        "content": "现在白如何继续拓展？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73391,
+        "user": "zmsy001",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73395,
+        "user": "wei_qqq",
+        "content": "哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73398,
+        "user": "休憩",
+        "content": "请尊重老师的劳动"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73400,
+        "user": "冰冰的泪",
+        "content": "请不要捣乱课堂秩序"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73404,
+        "user": "新世纪",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73421,
+        "user": "wei_qqq",
+        "content": "569你做了我不敢做的事"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73427,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73428,
+        "user": "过客569",
+        "content": "啊哦～～"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73434,
+        "user": "小艾",
+        "content": "你做过客，你也敢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73438,
+        "user": "过客569",
+        "content": "俺也不敢了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73452,
+        "user": "锋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73464,
+        "user": "过客543",
+        "content": "G10对吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73473,
+        "user": "水晶001",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73476,
+        "user": "冰冰的泪",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73483,
+        "user": "冰冰的泪",
+        "content": "老师都被你气跑了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73488,
+        "user": "水晶002",
+        "content": "老师掉了。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73489,
+        "user": "玩童",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73491,
+        "user": "如意",
+        "content": "把老师气走了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73492,
+        "user": "过客582",
+        "content": "什么啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73492,
+        "user": "白雪",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73507,
+        "user": "冰冰的泪",
+        "content": "回来了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73508,
+        "user": "爱我所爱",
+        "content": "老师你怎么跑了/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73514,
+        "user": "吴镝",
+        "content": "大家可以说下自己对这个局面的想法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73528,
+        "user": "茜茜",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73533,
+        "user": "风清",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73535,
+        "user": "过客582",
+        "content": "老师接着讲啊"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73541,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73541,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73542,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73544,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73545,
+        "user": "吴镝",
+        "content": "ZJ167"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73557,
+        "user": "吴镝",
+        "content": "12是正确的白必胜"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73584,
+        "user": "吴镝",
+        "content": "ZJ069"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73606,
+        "user": "吴镝",
+        "content": "13控制住白原有的活二和眠三连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73625,
+        "user": "吴镝",
+        "content": "但由于黑自身没有反击。白在下面可以放手做棋了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73631,
+        "user": "吴镝",
+        "content": "ZJ158"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73669,
+        "user": "人生如梦",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73670,
+        "user": "吴镝",
+        "content": "14拓展。另外防住黑可能出现的反击"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73672,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73673,
+        "user": "吴镝",
+        "content": "ZJ176"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73676,
+        "user": "zj17",
+        "content": "抓H七吗"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73688,
+        "user": "吴镝",
+        "content": "ZJ058"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73706,
+        "user": "吴镝",
+        "content": "14如果这么进攻黑抢占E8后局面复杂"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73713,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73714,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73716,
+        "user": "吴镝",
+        "content": "ZJ158"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73730,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73745,
+        "user": "吴镝",
+        "content": "现在存在简单的抓H7的33禁"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73756,
+        "user": "吴镝",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73757,
+        "user": "吴镝",
+        "content": "ZJ156"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73757,
+        "user": "吴镝",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73759,
+        "user": "吴镝",
+        "content": "ZJ157"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73761,
+        "user": "吴镝",
+        "content": "ZJ055"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73761,
+        "user": "吴镝",
+        "content": "ZJ177"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73764,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73765,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73765,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73766,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73766,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73767,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73785,
+        "user": "吴镝",
+        "content": "所以黑依然不可能防在G6。这个点始终是白的先手权力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73796,
+        "user": "水晶002",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73803,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73817,
+        "user": "zj17",
+        "content": "E六呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73847,
+        "user": "水晶015",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73853,
+        "user": "锋",
+        "content": "还没点名吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73855,
+        "user": "吴镝",
+        "content": "ZJ056"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73879,
+        "user": "吴镝",
+        "content": "E6比较有效的压缩了白棋的进攻。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73881,
+        "user": "吴镝",
+        "content": "ZJ176"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73896,
+        "user": "吴镝",
+        "content": "这里黑不可以防在D9。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73898,
+        "user": "吴镝",
+        "content": "ZJ049"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73899,
+        "user": "吴镝",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73899,
+        "user": "吴镝",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73900,
+        "user": "吴镝",
+        "content": "ZJ175"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73909,
+        "user": "吴镝",
+        "content": "简单的形成必胜形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73910,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73912,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73913,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73914,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73915,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73916,
+        "user": "吴镝",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73936,
+        "user": "锋",
+        "content": "老师点杀时慢点，好吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73950,
+        "user": "吴镝",
+        "content": "黑17只能继续无奈的跟住。18这里白没有直接取胜的材料了。大家想想白做在哪里强？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74003,
+        "user": "水晶鱼缸",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74014,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74018,
+        "user": "wei_qqq",
+        "content": "E11？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74029,
+        "user": "随遇而安",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74032,
+        "user": "过客568",
+        "content": "E10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74032,
+        "user": "bendan",
+        "content": "g12"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74052,
+        "user": "吴镝",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74064,
+        "user": "zmsy001",
+        "content": "我还是认为G12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74101,
+        "user": "过客543",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74104,
+        "user": "过客582",
+        "content": "？？？？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74108,
+        "user": "冰冰的泪",
+        "content": "哈哈~~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74108,
+        "user": "过客544",
+        "content": "``` 43 你好认真哦 `"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74114,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74116,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74118,
+        "user": "wei_qqq",
+        "content": "喊口号喊口号"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74119,
+        "user": "冰冰的泪",
+        "content": "582你上线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74120,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74137,
+        "user": "过客582",
+        "content": "上着呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74149,
+        "user": "水晶002",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74157,
+        "user": "过客582",
+        "content": "老师认真点好不好啊，不要老是跑啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74160,
+        "user": "吴镝",
+        "content": "18是打开局面的一手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74172,
+        "user": "吴镝",
+        "content": "但显得单薄了呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74172,
+        "user": "冰冰的泪",
+        "content": "没有啊？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74174,
+        "user": "吴镝",
+        "content": "ZJ049"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74193,
+        "user": "过客582",
+        "content": "上了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74204,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74217,
+        "user": "随遇而安",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74245,
+        "user": "吴镝",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74245,
+        "user": "小雅",
+        "content": "请私聊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74290,
+        "user": "小雅",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74295,
+        "user": "冰冰的泪",
+        "content": "。。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74298,
+        "user": "小艾",
+        "content": "我还在吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74304,
+        "user": "冰冰的泪",
+        "content": "晕倒~~~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74305,
+        "user": "吴镝",
+        "content": "20以后确实很难防了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74306,
+        "user": "玩童",
+        "content": "在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74310,
+        "user": "小艾",
+        "content": "呵呵，谢谢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74315,
+        "user": "茜茜",
+        "content": "不在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74323,
+        "user": "茜茜",
+        "content": "你在家里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74324,
+        "user": "锋",
+        "content": "今真怕掉线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74331,
+        "user": "吴镝",
+        "content": "事实上18这里很多点都可以做成必胜形状了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74337,
+        "user": "小艾",
+        "content": "呵呵，倒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74353,
+        "user": "茜茜",
+        "content": "与课堂无关的话题请用私聊"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74354,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74355,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74357,
+        "user": "吴镝",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74357,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74358,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74359,
+        "user": "吴镝",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74382,
+        "user": "过客583",
+        "content": "刚才的20以后怎么杀啊  老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74386,
+        "user": "吴镝",
+        "content": "18借用上面的眠三也是很强的做棋手段。似乎黑也没有防了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74392,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74393,
+        "user": "吴镝",
+        "content": "ZJ149"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74394,
+        "user": "吴镝",
+        "content": "ZJ03a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74394,
+        "user": "吴镝",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74400,
+        "user": "天使之吻",
+        "content": "哇～老师，这个点漂亮！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74420,
+        "user": "天使之吻",
+        "content": "E12的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74424,
+        "user": "吴镝",
+        "content": "这个次序黑也是没有防的。大家课后可以自己摆一下"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74426,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74428,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74428,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74429,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74429,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74430,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74442,
+        "user": "wei_qqq",
+        "content": "老师=="
+    },
+    {
+        "action": "TALK",
+        "time_int": 74443,
+        "user": "吴镝",
+        "content": "15盖在外面不成立的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74451,
+        "user": "吴镝",
+        "content": "ZJ078"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74455,
+        "user": "棋乐",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74458,
+        "user": "wei_qqq",
+        "content": "刚才3个18你用字母标"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74473,
+        "user": "吴镝",
+        "content": "因为H7的三三存在。黑可能的防点只有G8了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74477,
+        "user": "wei_qqq",
+        "content": "看18是八卦胜点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74481,
+        "user": "吴镝",
+        "content": "ZJ157"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74497,
+        "user": "zj17",
+        "content": "H七难道不行吗，下在。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74520,
+        "user": "吴镝",
+        "content": "16团角牵制住黑的活二。必胜形"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74523,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74523,
+        "user": "吴镝",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74525,
+        "user": "吴镝",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74529,
+        "user": "人生如梦",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74538,
+        "user": "zj17",
+        "content": "我是说。黑下在H七"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74552,
+        "user": "吴镝",
+        "content": "16如果老实的跟过去防。容易和黑形成纠缠。局面复杂难胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74554,
+        "user": "zj17",
+        "content": "15黑H七"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74560,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74561,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74562,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74562,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74564,
+        "user": "吴镝",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74567,
+        "user": "吴镝",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74574,
+        "user": "吴镝",
+        "content": "ZJ176"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74604,
+        "user": "小雅",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74620,
+        "user": "吴镝",
+        "content": "H7的15想利用反三来防守。但白只要简单的交换一下就解决了黑的威胁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74633,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74635,
+        "user": "吴镝",
+        "content": "ZJ049"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74640,
+        "user": "吴镝",
+        "content": "ZJ166"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74654,
+        "user": "吴镝",
+        "content": "17挡上下面白是直接VCT取胜"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74669,
+        "user": "吴镝",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74670,
+        "user": "吴镝",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74671,
+        "user": "吴镝",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74672,
+        "user": "吴镝",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74673,
+        "user": "吴镝",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74675,
+        "user": "吴镝",
+        "content": "ZJ165"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74677,
+        "user": "吴镝",
+        "content": "ZJ064"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74681,
+        "user": "吴镝",
+        "content": "ZJ175"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74682,
+        "user": "吴镝",
+        "content": "ZJ055"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74683,
+        "user": "吴镝",
+        "content": "ZJ174"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74691,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74691,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74692,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74693,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74693,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74694,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74695,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74695,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74696,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74696,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74699,
+        "user": "吴镝",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74702,
+        "user": "吴镝",
+        "content": "ZJ164"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74703,
+        "user": "吴镝",
+        "content": "ZJ065"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74715,
+        "user": "吴镝",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74727,
+        "user": "吴镝",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74732,
+        "user": "小雅",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74733,
+        "user": "吴镝",
+        "content": "ZJ175"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74737,
+        "user": "吴镝",
+        "content": "ZJ073"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74743,
+        "user": "吴镝",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74743,
+        "user": "吴镝",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74744,
+        "user": "吴镝",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74745,
+        "user": "吴镝",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74746,
+        "user": "吴镝",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74752,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74753,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74754,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74754,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74755,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74756,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74756,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74757,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74757,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74758,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74758,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74759,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74759,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74761,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74762,
+        "user": "吴镝",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74790,
+        "user": "吴镝",
+        "content": "17只能挡在下面。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74792,
+        "user": "吴镝",
+        "content": "ZJ149"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74793,
+        "user": "吴镝",
+        "content": "ZJ03a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74794,
+        "user": "吴镝",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74817,
+        "user": "吴镝",
+        "content": "这里就和刚才的形状类似了。现在黑防在哪里？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74822,
+        "user": "锋",
+        "content": "还原了，老师杀来看看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74838,
+        "user": "bendan",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74846,
+        "user": "锋",
+        "content": "E7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74873,
+        "user": "吴镝",
+        "content": "ZJ057"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74879,
+        "user": "吴镝",
+        "content": "ZJ138"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74883,
+        "user": "吴镝",
+        "content": "ZJ027"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74884,
+        "user": "吴镝",
+        "content": "ZJ148"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74884,
+        "user": "吴镝",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74889,
+        "user": "吴镝",
+        "content": "ZJ146"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74891,
+        "user": "吴镝",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74893,
+        "user": "吴镝",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74895,
+        "user": "吴镝",
+        "content": "ZJ047"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74897,
+        "user": "吴镝",
+        "content": "ZJ137"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74918,
+        "user": "吴镝",
+        "content": "E7的防点不成立"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74920,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74921,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74922,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74922,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74923,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74924,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74925,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74925,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74927,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74927,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74928,
+        "user": "zj17",
+        "content": "26下在D七不是胜了吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74931,
+        "user": "锋",
+        "content": "我弄明白了，谢谢！"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74937,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74938,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74939,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74939,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74940,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74940,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74963,
+        "user": "吴镝",
+        "content": "刚刚的15也不成立。最强的还是G8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74966,
+        "user": "吴镝",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74967,
+        "user": "吴镝",
+        "content": "ZJ157"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74974,
+        "user": "棋乐",
+        "content": "梦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74985,
+        "user": "519753687",
+        "content": "变化太多了 记不住"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74997,
+        "user": "519753687",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75006,
+        "user": "吴镝",
+        "content": "黑17防在哪里比较好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75009,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75019,
+        "user": "◆品棋◆",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75032,
+        "user": "随遇而安",
+        "content": "防不住了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75040,
+        "user": "茜茜",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75051,
+        "user": "zj20",
+        "content": "大家好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75053,
+        "user": "锋",
+        "content": "难点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75067,
+        "user": "锋",
+        "content": "白太活了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75068,
+        "user": "zj17",
+        "content": "比赛就要开始了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75091,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75093,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75094,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75096,
+        "user": "吴镝",
+        "content": "ZJ078"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75097,
+        "user": "zmsy001",
+        "content": "什么比赛？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75097,
+        "user": "吴镝",
+        "content": "ZJ157"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75099,
+        "user": "吴镝",
+        "content": "ZJ049"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75115,
+        "user": "人生如梦",
+        "content": "世界杯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75133,
+        "user": "小艾",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75133,
+        "user": "zmsy001",
+        "content": "荷兰对塞黑 ？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75137,
+        "user": "吴镝",
+        "content": "黑17做活二来反击。白哪里强？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75138,
+        "user": "zj17",
+        "content": "YES"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75148,
+        "user": "休憩",
+        "content": "与课堂无关的话题请用私聊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75169,
+        "user": "小雅",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75190,
+        "user": "冰冰的泪",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75195,
+        "user": "过客582",
+        "content": "222"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75213,
+        "user": "棋乐",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75216,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75226,
+        "user": "随遇而安",
+        "content": "8d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75237,
+        "user": "水晶015",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75242,
+        "user": "茜茜",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75265,
+        "user": "过客586",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75265,
+        "user": "天使之吻",
+        "content": "‘’‘’"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75266,
+        "user": "随遇而安",
+        "content": "GM，18=8d，应该可以杀了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75277,
+        "user": "过客582",
+        "content": "老师去看球了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75278,
+        "user": "吴镝",
+        "content": "ZJ148"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75289,
+        "user": "随遇而安",
+        "content": "估计是，哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75297,
+        "user": "冰冰的泪",
+        "content": "17黑不能进攻吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75324,
+        "user": "519753687",
+        "content": "老师做棋 真棒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75332,
+        "user": "yywanzi",
+        "content": "刚才在上面贴  现在又来下面了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75347,
+        "user": "吴镝",
+        "content": "很巧妙的牵制。和银月黑5的必胜类似。但由于是白棋多了抓禁的手段。更容易取胜一些"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75349,
+        "user": "茜茜",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75366,
+        "user": "吴镝",
+        "content": "18之后没防了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75368,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75369,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75372,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75372,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75374,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75376,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75376,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75393,
+        "user": "wei_qqq",
+        "content": "17=G7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75406,
+        "user": "吴镝",
+        "content": "13不成立了。黑只能防这个向下延伸的眠三"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75409,
+        "user": "吴镝",
+        "content": "ZJ078"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75455,
+        "user": "zmsy001",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75469,
+        "user": "吴镝",
+        "content": "14需要继续做棋。哪个点更强一些呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75483,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75493,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75504,
+        "user": "bendan",
+        "content": "e8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75508,
+        "user": "吴镝",
+        "content": "ZJ158"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75520,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75524,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75530,
+        "user": "吴镝",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75531,
+        "user": "吴镝",
+        "content": "ZJ157"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75546,
+        "user": "水晶014",
+        "content": "还原？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75548,
+        "user": "吴镝",
+        "content": "如果15防在F9就可以还原刚才的胜法"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75553,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75553,
+        "user": "随遇而安",
+        "content": "GM，现在和刚才还原了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75554,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75557,
+        "user": "吴镝",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75588,
+        "user": "StarRain",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75598,
+        "user": "冰冰的泪",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75611,
+        "user": "吴镝",
+        "content": "15黑做这种进攻的点白如何应对？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75615,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75637,
+        "user": "子非鱼",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75647,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75650,
+        "user": "过客582",
+        "content": "？？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75652,
+        "user": "五子棋痴",
+        "content": "晕"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 75652,
+        "user": "",
+        "content": " bendan, 水晶012, yywanzi, 蓝天海韵, yuelee00, 水晶011, 小雅, XF520, wei_qqq, 虞旭鹏, 417976146, 随遇而安, 依依, 519753687, 小艾, 徐永伟, 妖妖, 水晶014, 天使之吻, 玩童, 新世纪, 水晶鱼缸, 敏敏, 5873627, 茜茜, 水晶017, 休憩, 人生如梦, 失落缘, xuan7129, 爱我所爱, zizhu, 水晶015, 水晶010, qinazt, ◆品棋◆, 锋, zmsy001, wyf, 我想飞, 水晶001, 爱5子, 棋乐, ndh001, 水晶002, yysanyue, 水晶碎梦, 水晶019, shp, 飞天, 风清, yynaizi, shp888, 冷月花魂, yezi, 竹子, 醉茶轩江山, 不乖, 雨欣小梦, pingguo123, 白雪, cat7004, 蓉儿, 沟通无极限, 棋迷, 平凡最浪漫, 五子棋痴, 如意, zj17, 冰冰的泪."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75655,
+        "user": "过客582",
+        "content": "请不要刷屏"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75661,
+        "user": "五子棋痴",
+        "content": "差一点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75663,
+        "user": "吴镝",
+        "content": "先点名省得要看球的着急~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75671,
+        "user": "蓉儿",
+        "content": "555555555555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75671,
+        "user": "五子棋痴",
+        "content": "突然袭击呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75672,
+        "user": "冰冰的泪",
+        "content": "蓉儿~~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75673,
+        "user": "新世纪",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75674,
+        "user": "随遇而安",
+        "content": "GM，白如果直接攻一手那？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75674,
+        "user": "过客582",
+        "content": "请尊重老师的劳动"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75674,
+        "user": "水晶014",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75690,
+        "user": "蓉儿",
+        "content": "点名时掉啦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75699,
+        "user": "小雅",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75700,
+        "user": "吴镝",
+        "content": "ZJ169"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75700,
+        "user": "我想飞",
+        "content": "老师也急吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75707,
+        "user": "吴镝",
+        "content": "是啊。。我也着急。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75711,
+        "user": "蓉儿",
+        "content": "我答到答不了5555555555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75712,
+        "user": "过客544",
+        "content": "。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75713,
+        "user": "水晶014",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75715,
+        "user": "过客582",
+        "content": "与课堂无关的话题请用私聊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75716,
+        "user": "过客569",
+        "content": "可怜的蓉儿啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75721,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75722,
+        "user": "蓉儿",
+        "content": "我哭。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75724,
+        "user": "zj17",
+        "content": "我走了。88"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75724,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75727,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75731,
+        "user": "小艾",
+        "content": "点到你了，哭什么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75738,
+        "user": "吴镝",
+        "content": "16白直接进攻。黑在G9还是J9反三？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75753,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75759,
+        "user": "吴镝",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75761,
+        "user": "吴镝",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75762,
+        "user": "吴镝",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75791,
+        "user": "吴镝",
+        "content": "ZJ157"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75793,
+        "user": "吴镝",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75794,
+        "user": "吴镝",
+        "content": "ZJ175"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75807,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75808,
+        "user": "蓉儿",
+        "content": "还好还好。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75812,
+        "user": "吴镝",
+        "content": "22之后黑无力进攻。白必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75815,
+        "user": "随遇而安",
+        "content": "j9强些吧"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75816,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75817,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75817,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75818,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75818,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75820,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75821,
+        "user": "吴镝",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75823,
+        "user": "吴镝",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75836,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75841,
+        "user": "吴镝",
+        "content": "黑现在防在哪里？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75875,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75879,
+        "user": "随遇而安",
+        "content": "7g"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75881,
+        "user": "过客582",
+        "content": "老师讲快点啊"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75886,
+        "user": "吴镝",
+        "content": "ZJ077"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75896,
+        "user": "随遇而安",
+        "content": "比赛马上就开始了，吼吼"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75905,
+        "user": "水晶014",
+        "content": "开始了哈哈"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75908,
+        "user": "吴镝",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75909,
+        "user": "吴镝",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75911,
+        "user": "吴镝",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75913,
+        "user": "吴镝",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75942,
+        "user": "吴镝",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75949,
+        "user": "吴镝",
+        "content": "ZJ048"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75950,
+        "user": "吴镝",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75951,
+        "user": "吴镝",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75958,
+        "user": "吴镝",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75976,
+        "user": "吴镝",
+        "content": "28后必胜形~大家可以自己拆一下"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75982,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75982,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75983,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75983,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75984,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75985,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75985,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75986,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75986,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75987,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76003,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76011,
+        "user": "过客582",
+        "content": "晕倒，怎么退了，还没看清楚呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76035,
+        "user": "吴镝",
+        "content": "呵呵比较着急。大家看漏的地方可以看下录象"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76046,
+        "user": "过客582",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76050,
+        "user": "茜茜",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76050,
+        "user": "过客544",
+        "content": "老师急着去看球``大家理解一下``"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76053,
+        "user": "随遇而安",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76058,
+        "user": "水晶鱼缸",
+        "content": "理解"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76065,
+        "user": "wei_qqq",
+        "content": "过客没录象哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76067,
+        "user": "吴镝",
+        "content": "18之后黑没有什么好的防点了。因为始终存在抓G7的三三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76067,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76069,
+        "user": "吴镝",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76070,
+        "user": "吴镝",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76070,
+        "user": "吴镝",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76071,
+        "user": "吴镝",
+        "content": "ZJ157"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76073,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76074,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76075,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76076,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76077,
+        "user": "吴镝",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76091,
+        "user": "吴镝",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76095,
+        "user": "吴镝",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76097,
+        "user": "吴镝",
+        "content": "ZJ157"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76098,
+        "user": "吴镝",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76098,
+        "user": "吴镝",
+        "content": "ZJ159"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76099,
+        "user": "吴镝",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76100,
+        "user": "吴镝",
+        "content": "ZJ175"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76101,
+        "user": "小艾",
+        "content": "以后课提前半小时吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76102,
+        "user": "吴镝",
+        "content": "ZJ056"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76102,
+        "user": "◆品棋◆",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76104,
+        "user": "蓉儿",
+        "content": "进球我报告给老师你听，呵呵"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76114,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76114,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76115,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76115,
+        "user": "过客582",
+        "content": "塞黑对荷兰，老师哪个能赢"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76115,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76116,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76117,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76117,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76118,
+        "user": "◆品棋◆",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 76118,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76120,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76121,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76123,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76123,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76124,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76125,
+        "user": "吴镝",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76138,
+        "user": "吴镝",
+        "content": "15不成立。在来看其他的15"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76165,
+        "user": "虞旭鹏",
+        "content": "00"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76172,
+        "user": "徐永伟",
+        "content": "今天提前下课吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76174,
+        "user": "水晶019",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76179,
+        "user": "徐永伟",
+        "content": "大家看球"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76179,
+        "user": "水晶014",
+        "content": "哈哈好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76182,
+        "user": "wei_qqq",
+        "content": "555555555555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76186,
+        "user": "吴镝",
+        "content": "其他的15下次课继续讲~呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76187,
+        "user": "如意",
+        "content": "是呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76188,
+        "user": "锋",
+        "content": "88888"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76189,
+        "user": "过客573",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76192,
+        "user": "茜茜",
+        "content": "又8是中国滴足球"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76194,
+        "user": "如意",
+        "content": "开始拉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76195,
+        "user": "水晶鱼缸",
+        "content": "谢谢 校长"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76196,
+        "user": "锋",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76196,
+        "user": "冰冰的泪",
+        "content": "呵呵，谢谢校长"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76196,
+        "user": "过客544",
+        "content": "谢谢老师~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76198,
+        "user": "wei_qqq",
+        "content": "老师不要走，有问题问"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 76198,
+        "user": "",
+        "content": " 417976146, 519753687, 5873627, bendan, cat7004, ndh001, pingguo123, qinazt, shp, shp888, wei_qqq, wyf, xuan7129, yezi, yuelee00, yynaizi, yysanyue, yywanzi, zizhu, ◆品棋◆, 爱5子, 爱我所爱, 白雪, 冰冰的泪, 不乖, 飞天, 锋, 风清, 沟通无极限, 蓝天海韵, 冷月花魂, 敏敏, 平凡最浪漫, 棋乐, 蓉儿, 如意, 失落缘, 水晶001, 水晶002, 水晶010, 水晶011, 水晶012, 水晶014, 水晶015, 水晶017, 水晶019, 水晶碎梦, 水晶鱼缸, 天使之吻, 玩童, 我想飞, 五子棋痴, 小艾, 新世纪, 休憩, 徐永伟, 妖妖, 依依, 虞旭鹏, 雨欣小梦, 竹子, 醉茶轩江山, 茜茜."
+    }
+]

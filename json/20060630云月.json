@@ -1,0 +1,5402 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72446,
+        "user": "",
+        "content": "ZJ0020020HH1HI"
+    },
+    {
+        "action": "LOAD",
+        "time_int": 72446,
+        "user": "",
+        "content": "ZJ088189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72446,
+        "user": "过客071",
+        "content": "还不开始"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72447,
+        "user": "过客086",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72447,
+        "user": "晴子",
+        "content": "差不多到了"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 72449,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72454,
+        "user": "失落缘",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72455,
+        "user": "失落缘",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72455,
+        "user": "失落缘",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72461,
+        "user": "zj03",
+        "content": "校长最近跑哪切了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72474,
+        "user": "失落缘",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72474,
+        "user": "失落缘",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72475,
+        "user": "失落缘",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72475,
+        "user": "失落缘",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72476,
+        "user": "失落缘",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72477,
+        "user": "失落缘",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72478,
+        "user": "失落缘",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72479,
+        "user": "失落缘",
+        "content": "ZJ068"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72489,
+        "user": "失落缘",
+        "content": "上节课小白老师讲了这个4的2打最强变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72493,
+        "user": "失落缘",
+        "content": "HOHO"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72501,
+        "user": "失落缘",
+        "content": "我们今天换一个"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72503,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72504,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72504,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72504,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72504,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72505,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72506,
+        "user": "失落缘",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72511,
+        "user": "失落缘",
+        "content": "这个是最后一个6了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72517,
+        "user": "失落缘",
+        "content": "我们大概看下就可以了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72525,
+        "user": "小雅",
+        "content": "啊？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72529,
+        "user": "yywanzi",
+        "content": "咋没我啊 点名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72537,
+        "user": "yezi",
+        "content": "没到时间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72545,
+        "user": "yezi",
+        "content": "刚上课啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72545,
+        "user": "失落缘",
+        "content": "晕"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72556,
+        "user": "蓝雪人",
+        "content": "你们不是有的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72560,
+        "user": "yonghumm",
+        "content": "啊？下课了吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72563,
+        "user": "蓝雪人",
+        "content": "别吵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72569,
+        "user": "xiaoyudi9",
+        "content": "哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72578,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72579,
+        "user": "爱棋",
+        "content": "与课堂无关的话题请用私聊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72582,
+        "user": "Sharon",
+        "content": "偶觉得今天阿根廷会输~ ：（"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72592,
+        "user": "xiaoyudi9",
+        "content": "哈"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72597,
+        "user": "失落缘",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72604,
+        "user": "失落缘",
+        "content": "这里7直接做棋"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72605,
+        "user": "失落缘",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72607,
+        "user": "晴子",
+        "content": "支持意大利"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72613,
+        "user": "yonghumm",
+        "content": "几点开赛？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72615,
+        "user": "过客093",
+        "content": "阿根廷才不会输勒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72622,
+        "user": "失落缘",
+        "content": "如果8对攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72629,
+        "user": "水晶绿茶",
+        "content": "败"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72631,
+        "user": "Sharon",
+        "content": "如果裁判公正的话：（"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72653,
+        "user": "失落缘",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72655,
+        "user": "茜茜",
+        "content": "与课堂无关的话题请用私聊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72657,
+        "user": "蓝雪人",
+        "content": "好了好了上课了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72661,
+        "user": "失落缘",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72661,
+        "user": "过客075",
+        "content": "请认真听课"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72662,
+        "user": "失落缘",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72663,
+        "user": "失落缘",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72663,
+        "user": "失落缘",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72663,
+        "user": "蓝雪人",
+        "content": "请不要捣乱课堂秩序"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72668,
+        "user": "失落缘",
+        "content": "这样黑直接强攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72670,
+        "user": "过客089",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72707,
+        "user": "过客068",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72731,
+        "user": "爱棋",
+        "content": "请不要捣乱课堂秩序"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72731,
+        "user": "过客086",
+        "content": "老师好！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72733,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72741,
+        "user": "失落缘",
+        "content": "现在白只有进攻"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72742,
+        "user": "失落缘",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72743,
+        "user": "失落缘",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72744,
+        "user": "失落缘",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72763,
+        "user": "失落缘",
+        "content": "现在白攻不动了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72765,
+        "user": "失落缘",
+        "content": "ZJ195"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72772,
+        "user": "Sharon",
+        "content": "白棋这样只有死"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72776,
+        "user": "Sharon",
+        "content": "偶刚才试过了~"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72777,
+        "user": "失落缘",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72783,
+        "user": "失落缘",
+        "content": "这样就挂了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72792,
+        "user": "失落缘",
+        "content": "ZJ1b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72793,
+        "user": "失落缘",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72794,
+        "user": "失落缘",
+        "content": "ZJ183"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72798,
+        "user": "失落缘",
+        "content": "ZJ0a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72798,
+        "user": "失落缘",
+        "content": "ZJ1b2"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72799,
+        "user": "失落缘",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72803,
+        "user": "失落缘",
+        "content": "这样双杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72842,
+        "user": "爱棋",
+        "content": "请尊重老师的劳动"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 72852,
+        "user": "失落缘",
+        "content": 9
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72853,
+        "user": "失落缘",
+        "content": "ZJ1b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72870,
+        "user": "失落缘",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72870,
+        "user": "失落缘",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72883,
+        "user": "失落缘",
+        "content": "这样的话11先跳3限制白的活动范围"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72885,
+        "user": "失落缘",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72903,
+        "user": "失落缘",
+        "content": "这样再做棋牵制"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72915,
+        "user": "失落缘",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72916,
+        "user": "失落缘",
+        "content": "ZJ079"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72919,
+        "user": "过客089",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72923,
+        "user": "失落缘",
+        "content": "这样白要攻的话"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72924,
+        "user": "失落缘",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72928,
+        "user": "失落缘",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72929,
+        "user": "失落缘",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72929,
+        "user": "失落缘",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72930,
+        "user": "失落缘",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72944,
+        "user": "失落缘",
+        "content": "黑反先之后就杀了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72945,
+        "user": "失落缘",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72946,
+        "user": "失落缘",
+        "content": "ZJ183"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72947,
+        "user": "失落缘",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72950,
+        "user": "失落缘",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72951,
+        "user": "失落缘",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73007,
+        "user": "失落缘",
+        "content": "所以这个8对攻失败"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73025,
+        "user": "失落缘",
+        "content": 7
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73029,
+        "user": "失落缘",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73030,
+        "user": "水晶绿茶",
+        "content": "8哪儿都失败"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73043,
+        "user": "过客096",
+        "content": "6是不是错了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73045,
+        "user": "失落缘",
+        "content": "这个谁来杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73054,
+        "user": "失落缘",
+        "content": "这个6是ANDO实战走过的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73069,
+        "user": "水晶绿茶",
+        "content": "我来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73085,
+        "user": "小雅",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73087,
+        "user": "水晶绿茶",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73095,
+        "user": "失落缘",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73113,
+        "user": "水晶绿茶",
+        "content": "我还走白？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73116,
+        "user": "水晶绿茶",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73122,
+        "user": "失落缘",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73125,
+        "user": "水晶绿茶",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73141,
+        "user": "失落缘",
+        "content": "ZJ184"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73148,
+        "user": "过客096",
+        "content": "杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73150,
+        "user": "爱棋",
+        "content": "oo"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73156,
+        "user": "水晶绿茶",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73157,
+        "user": "过客101",
+        "content": "b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73164,
+        "user": "过客075",
+        "content": "HOHO"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73197,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73233,
+        "user": "迈克",
+        "content": "?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73244,
+        "user": "水晶绿茶",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73247,
+        "user": "过客089",
+        "content": "@@"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73249,
+        "user": "失落缘",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73253,
+        "user": "水晶绿茶",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73256,
+        "user": "失落缘",
+        "content": "ZJ1b3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73279,
+        "user": "爱棋",
+        "content": "m7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73283,
+        "user": "水晶绿茶",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73287,
+        "user": "迈克",
+        "content": "..........."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73296,
+        "user": "过客101",
+        "content": "杀可、了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73296,
+        "user": "失落缘",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73298,
+        "user": "水晶绿茶",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73305,
+        "user": "爱棋",
+        "content": "m7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73305,
+        "user": "失落缘",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73315,
+        "user": "迈克",
+        "content": "为啥非要做列。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73319,
+        "user": "过客101",
+        "content": "错了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73319,
+        "user": "水晶绿茶",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73332,
+        "user": "水晶绿茶",
+        "content": "错了么？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73335,
+        "user": "失落缘",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73337,
+        "user": "水晶绿茶",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73348,
+        "user": "过客075",
+        "content": "好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73353,
+        "user": "过客101",
+        "content": "21=26位"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73353,
+        "user": "xiaoyudi9",
+        "content": "没"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73375,
+        "user": "天使之吻",
+        "content": "复杂了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73382,
+        "user": "过客101",
+        "content": "早杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73386,
+        "user": "失落缘",
+        "content": "HOHO"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73390,
+        "user": "失落缘",
+        "content": "谢谢绿茶"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73391,
+        "user": "水晶绿茶",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73399,
+        "user": "过客101",
+        "content": "老师我说对吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73407,
+        "user": "过客071",
+        "content": "21M7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73409,
+        "user": "过客101",
+        "content": "21==26"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73411,
+        "user": "天使之吻",
+        "content": "15就杀了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73428,
+        "user": "过客075",
+        "content": "15有反"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73440,
+        "user": "天使之吻",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73450,
+        "user": "yezi",
+        "content": "15H6"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73461,
+        "user": "失落缘",
+        "content": 14
+    },
+    {
+        "action": "TALK",
+        "time_int": 73467,
+        "user": "过客075",
+        "content": "有反"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73474,
+        "user": "失落缘",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73477,
+        "user": "过客075",
+        "content": "不行的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73481,
+        "user": "失落缘",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73482,
+        "user": "失落缘",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73482,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73486,
+        "user": "失落缘",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73487,
+        "user": "失落缘",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73492,
+        "user": "失落缘",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73493,
+        "user": "失落缘",
+        "content": "ZJ1b3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73521,
+        "user": "过客101",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73533,
+        "user": "yezi",
+        "content": "没了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73541,
+        "user": "过客101",
+        "content": "9494"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73543,
+        "user": "过客071",
+        "content": "这样好象不行"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73562,
+        "user": "过客075",
+        "content": "不能杀吧？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73563,
+        "user": "迈克",
+        "content": "似乎G6也可以杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73589,
+        "user": "爱棋",
+        "content": "请专心听讲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73614,
+        "user": "失落缘",
+        "content": "HOHO"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73622,
+        "user": "失落缘",
+        "content": "能不能杀大家自己看"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73626,
+        "user": "失落缘",
+        "content": 7
+    },
+    {
+        "action": "TALK",
+        "time_int": 73632,
+        "user": "失落缘",
+        "content": "偷懒讲其他的8了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73634,
+        "user": "失落缘",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73649,
+        "user": "过客060",
+        "content": "汗```"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73655,
+        "user": "失落缘",
+        "content": "这个就是ANDO实战的走法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73659,
+        "user": "失落缘",
+        "content": "也是最强的8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73659,
+        "user": "迈克",
+        "content": "偷懒。。。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73662,
+        "user": "失落缘",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73668,
+        "user": "失落缘",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73669,
+        "user": "失落缘",
+        "content": "ZJ078"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73669,
+        "user": "洋洋",
+        "content": "坚决反对老师偷懒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73675,
+        "user": "失落缘",
+        "content": "但是11妙手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73704,
+        "user": "天使之吻",
+        "content": "支持洋洋！！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73729,
+        "user": "新世纪",
+        "content": "支持吻！！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73731,
+        "user": "失落缘",
+        "content": "HOHO"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73742,
+        "user": "xiaoyudi9",
+        "content": "哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73756,
+        "user": "天使之吻",
+        "content": "^_^"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73763,
+        "user": "zmsy001",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73763,
+        "user": "过客096",
+        "content": "11继续 ？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73778,
+        "user": "失落缘",
+        "content": "现在白怎么防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73786,
+        "user": "过客060",
+        "content": "-- 老师不可以把刚刚那个杀走完么```"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73794,
+        "user": "迈克",
+        "content": "G10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73797,
+        "user": "如意",
+        "content": "就不用打小报告了 徐过不了晚 就会知道的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73814,
+        "user": "爱棋",
+        "content": "g10"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73815,
+        "user": "失落缘",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73817,
+        "user": "茜茜",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73823,
+        "user": "过客101",
+        "content": "f8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73824,
+        "user": "失落缘",
+        "content": "如果这样"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73840,
+        "user": "失落缘",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73874,
+        "user": "失落缘",
+        "content": "这样13作棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73876,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73882,
+        "user": "失落缘",
+        "content": "同时连接左边"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73914,
+        "user": "失落缘",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73915,
+        "user": "水晶015",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73919,
+        "user": "过客101",
+        "content": "i4只有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73920,
+        "user": "失落缘",
+        "content": "这样14防守之后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73927,
+        "user": "过客101",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73932,
+        "user": "过客101",
+        "content": "是这里？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73940,
+        "user": "失落缘",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73970,
+        "user": "失落缘",
+        "content": "这样黑左边和下面优势很大"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73988,
+        "user": "迈克",
+        "content": "G5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74005,
+        "user": "失落缘",
+        "content": "ZJ175"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74017,
+        "user": "失落缘",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74018,
+        "user": "失落缘",
+        "content": "ZJ174"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74022,
+        "user": "失落缘",
+        "content": "这样黑强攻"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74024,
+        "user": "失落缘",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74025,
+        "user": "失落缘",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74026,
+        "user": "失落缘",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74032,
+        "user": "失落缘",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74033,
+        "user": "失落缘",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74037,
+        "user": "小雅",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74047,
+        "user": "失落缘",
+        "content": "后面VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74068,
+        "user": "天使之吻",
+        "content": "。"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74073,
+        "user": "失落缘",
+        "content": 17
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74074,
+        "user": "失落缘",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74079,
+        "user": "失落缘",
+        "content": "这样也不行"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74104,
+        "user": "天使之吻",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74107,
+        "user": "茜茜",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74111,
+        "user": "失落缘",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74112,
+        "user": "失落缘",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74113,
+        "user": "失落缘",
+        "content": "ZJ058"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74114,
+        "user": "失落缘",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74114,
+        "user": "失落缘",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74115,
+        "user": "失落缘",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74116,
+        "user": "失落缘",
+        "content": "ZJ093"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74116,
+        "user": "天使之吻",
+        "content": "完蛋了，我掉了：（（"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74116,
+        "user": "失落缘",
+        "content": "ZJ192"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74117,
+        "user": "失落缘",
+        "content": "ZJ0a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74118,
+        "user": "失落缘",
+        "content": "ZJ1b2"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74118,
+        "user": "失落缘",
+        "content": "ZJ063"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74119,
+        "user": "失落缘",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74119,
+        "user": "失落缘",
+        "content": "ZJ083"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74122,
+        "user": "失落缘",
+        "content": "VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74140,
+        "user": "爱5子",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74141,
+        "user": "过客089",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74154,
+        "user": "茜茜",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74161,
+        "user": "过客075",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74162,
+        "user": "失落缘",
+        "content": "所以这个16是不行的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74163,
+        "user": "过客060",
+        "content": "大家好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74165,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74176,
+        "user": "迈克",
+        "content": "老师，趁大家都在赶紧点名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74179,
+        "user": "Sharon",
+        "content": "回去"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74186,
+        "user": "Sharon",
+        "content": "15"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74200,
+        "user": "失落缘",
+        "content": 15
+    },
+    {
+        "action": "TALK",
+        "time_int": 74205,
+        "user": "失落缘",
+        "content": "换哪里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74212,
+        "user": "爱棋",
+        "content": "上了一堂好课！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74223,
+        "user": "过客068",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74225,
+        "user": "过客071",
+        "content": "I6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74231,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74233,
+        "user": "Sharon",
+        "content": "。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74237,
+        "user": "失落缘",
+        "content": "这里？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74238,
+        "user": "小雅",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74242,
+        "user": "过客071",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74243,
+        "user": "过客089",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74244,
+        "user": "过客075",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74250,
+        "user": "失落缘",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74251,
+        "user": "失落缘",
+        "content": "ZJ165"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74251,
+        "user": "失落缘",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74252,
+        "user": "失落缘",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74252,
+        "user": "失落缘",
+        "content": "ZJ058"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74264,
+        "user": "锋",
+        "content": "更快"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74270,
+        "user": "过客101",
+        "content": "哈哈"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74272,
+        "user": "失落缘",
+        "content": 15
+    },
+    {
+        "action": "TALK",
+        "time_int": 74274,
+        "user": "过客075",
+        "content": "G4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74281,
+        "user": "失落缘",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74293,
+        "user": "失落缘",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74300,
+        "user": "失落缘",
+        "content": "ZJ158"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74301,
+        "user": "水晶004",
+        "content": ","
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74305,
+        "user": "失落缘",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74305,
+        "user": "失落缘",
+        "content": "ZJ1a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74306,
+        "user": "失落缘",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74306,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74307,
+        "user": "失落缘",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74324,
+        "user": "过客071",
+        "content": "18不好吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74332,
+        "user": "过客071",
+        "content": "18F7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74343,
+        "user": "过客075",
+        "content": "18=F7？"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74350,
+        "user": "失落缘",
+        "content": 17
+    },
+    {
+        "action": "TALK",
+        "time_int": 74351,
+        "user": "Sharon",
+        "content": "。。。。。。。。。。。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74353,
+        "user": "失落缘",
+        "content": "ZJ167"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74354,
+        "user": "过客089",
+        "content": "。。。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74361,
+        "user": "失落缘",
+        "content": "ZJ077"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74364,
+        "user": "茜茜",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74375,
+        "user": "过客075",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74376,
+        "user": "爱棋",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74383,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74383,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74383,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74383,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74384,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74385,
+        "user": "失落缘",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74396,
+        "user": "失落缘",
+        "content": "所以这样就挂了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74396,
+        "user": "锋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74402,
+        "user": "失落缘",
+        "content": "有问题么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74405,
+        "user": "过客101",
+        "content": "g5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74411,
+        "user": "过客089",
+        "content": "米有。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74420,
+        "user": "爱棋",
+        "content": "没  11妙啊"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74423,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74423,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74432,
+        "user": "失落缘",
+        "content": "14还有什么其他防守呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74474,
+        "user": "失落缘",
+        "content": "没了么？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74485,
+        "user": "过客101",
+        "content": "h5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74485,
+        "user": "过客089",
+        "content": "H6/."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74503,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74503,
+        "user": "失落缘",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74511,
+        "user": "失落缘",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74514,
+        "user": "失落缘",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74515,
+        "user": "失落缘",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74516,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74517,
+        "user": "失落缘",
+        "content": "ZJ068"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74521,
+        "user": "失落缘",
+        "content": "直接杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74524,
+        "user": "过客075",
+        "content": "防不了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74527,
+        "user": "过客075",
+        "content": "恩"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74528,
+        "user": "失落缘",
+        "content": 13
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74531,
+        "user": "失落缘",
+        "content": "ZJ186"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74544,
+        "user": "水晶004",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74550,
+        "user": "迈克",
+        "content": "。。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74557,
+        "user": "失落缘",
+        "content": "ZJ075"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74561,
+        "user": "失落缘",
+        "content": "这个黑继续做"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74565,
+        "user": "失落缘",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74566,
+        "user": "失落缘",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74571,
+        "user": "失落缘",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74571,
+        "user": "失落缘",
+        "content": "ZJ066"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74572,
+        "user": "失落缘",
+        "content": "ZJ157"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74574,
+        "user": "失落缘",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74583,
+        "user": "失落缘",
+        "content": "这样黑做杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74584,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74586,
+        "user": "过客089",
+        "content": "恩。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74588,
+        "user": "失落缘",
+        "content": "22只有这样"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74591,
+        "user": "失落缘",
+        "content": "ZJ074"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74596,
+        "user": "失落缘",
+        "content": "后面简单杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74597,
+        "user": "失落缘",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74600,
+        "user": "失落缘",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74601,
+        "user": "失落缘",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74602,
+        "user": "失落缘",
+        "content": "ZJ072"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74602,
+        "user": "失落缘",
+        "content": "ZJ173"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74603,
+        "user": "失落缘",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74603,
+        "user": "失落缘",
+        "content": "ZJ183"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74604,
+        "user": "失落缘",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74608,
+        "user": "过客089",
+        "content": "15手。。摆16手行么？。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74653,
+        "user": "过客089",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74667,
+        "user": "茜茜",
+        "content": "."
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74672,
+        "user": "失落缘",
+        "content": 14
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74672,
+        "user": "失落缘",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74675,
+        "user": "失落缘",
+        "content": "这个么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74686,
+        "user": "过客089",
+        "content": "恩。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74701,
+        "user": "过客089",
+        "content": "不好是么？。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74701,
+        "user": "失落缘",
+        "content": "应该也可以"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74704,
+        "user": "失落缘",
+        "content": "ZJ175"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74705,
+        "user": "失落缘",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74747,
+        "user": "失落缘",
+        "content": "这样应该也可以杀的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74756,
+        "user": "失落缘",
+        "content": "大家自己拆"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74756,
+        "user": "过客089",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74757,
+        "user": "失落缘",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74758,
+        "user": "过客089",
+        "content": "恩。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74761,
+        "user": "过客089",
+        "content": "谢谢老师。。"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74776,
+        "user": "失落缘",
+        "content": 13
+    },
+    {
+        "action": "TALK",
+        "time_int": 74787,
+        "user": "失落缘",
+        "content": "对于这个13还有别的问题么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74798,
+        "user": "爱棋",
+        "content": "老师偷懒哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74807,
+        "user": "失落缘",
+        "content": "锻炼大家拆棋能力呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74815,
+        "user": "失落缘",
+        "content": "同时自己偷懒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74817,
+        "user": "失落缘",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74828,
+        "user": "新世纪",
+        "content": "13很强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74832,
+        "user": "爱棋",
+        "content": "不对吧  主要是老师想偷懒  嘿嘿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74863,
+        "user": "失落缘",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74865,
+        "user": "失落缘",
+        "content": 11
+    },
+    {
+        "action": "TALK",
+        "time_int": 74869,
+        "user": "失落缘",
+        "content": "我们换12"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74873,
+        "user": "失落缘",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74873,
+        "user": "小雅",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74904,
+        "user": "失落缘",
+        "content": "这个又应该怎么办呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74935,
+        "user": "过客089",
+        "content": "G9?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74941,
+        "user": "失落缘",
+        "content": "ZJ079"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74946,
+        "user": "失落缘",
+        "content": "黑继续做棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74950,
+        "user": "失落缘",
+        "content": "保持左边的优势"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74954,
+        "user": "失落缘",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74982,
+        "user": "过客089",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74991,
+        "user": "迈克",
+        "content": "偶想13做K9呢。。。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74995,
+        "user": "失落缘",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75003,
+        "user": "失落缘",
+        "content": "这样黑继续老实防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75035,
+        "user": "失落缘",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75036,
+        "user": "失落缘",
+        "content": "ZJ177"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75040,
+        "user": "迈克",
+        "content": "老师，13直接走K9咋样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75062,
+        "user": "失落缘",
+        "content": "嘎嘎"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75069,
+        "user": "失落缘",
+        "content": "等下我看看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75075,
+        "user": "过客089",
+        "content": "@@"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75100,
+        "user": "失落缘",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75111,
+        "user": "失落缘",
+        "content": "这里右边黑就可以直接杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75122,
+        "user": "过客089",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75124,
+        "user": "过客089",
+        "content": "嗯。。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75125,
+        "user": "失落缘",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75125,
+        "user": "失落缘",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75126,
+        "user": "失落缘",
+        "content": "ZJ1e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75126,
+        "user": "失落缘",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75127,
+        "user": "失落缘",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75131,
+        "user": "失落缘",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75132,
+        "user": "失落缘",
+        "content": "ZJ1ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75133,
+        "user": "失落缘",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75163,
+        "user": "失落缘",
+        "content": 15
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75164,
+        "user": "失落缘",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75171,
+        "user": "失落缘",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75177,
+        "user": "失落缘",
+        "content": "ZJ176"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75178,
+        "user": "失落缘",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75179,
+        "user": "失落缘",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75180,
+        "user": "失落缘",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75181,
+        "user": "失落缘",
+        "content": "ZJ186"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75185,
+        "user": "失落缘",
+        "content": "这样左边杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75187,
+        "user": "失落缘",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75187,
+        "user": "失落缘",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75188,
+        "user": "失落缘",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75188,
+        "user": "失落缘",
+        "content": "ZJ148"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75194,
+        "user": "失落缘",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75220,
+        "user": "过客089",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75222,
+        "user": "迈克",
+        "content": "27。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75222,
+        "user": "失落缘",
+        "content": "这里15的作用就显示出来了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75230,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75230,
+        "user": "失落缘",
+        "content": "ZJ05b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75231,
+        "user": "失落缘",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75232,
+        "user": "失落缘",
+        "content": "ZJ03b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75232,
+        "user": "失落缘",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75233,
+        "user": "失落缘",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75233,
+        "user": "失落缘",
+        "content": "ZJ14b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75237,
+        "user": "失落缘",
+        "content": "被反了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75246,
+        "user": "失落缘",
+        "content": "嘎嘎"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75254,
+        "user": "失落缘",
+        "content": 13
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75256,
+        "user": "失落缘",
+        "content": "ZJ177"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75265,
+        "user": "失落缘",
+        "content": "我们换14"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75283,
+        "user": "失落缘",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75293,
+        "user": "失落缘",
+        "content": "这样继续强攻"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75294,
+        "user": "失落缘",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75295,
+        "user": "失落缘",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75302,
+        "user": "失落缘",
+        "content": "然后17做杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75353,
+        "user": "爱棋",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75363,
+        "user": "失落缘",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75367,
+        "user": "失落缘",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75372,
+        "user": "失落缘",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75390,
+        "user": "失落缘",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75391,
+        "user": "失落缘",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75420,
+        "user": "失落缘",
+        "content": "ZJ069"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75423,
+        "user": "水晶007",
+        "content": "这是"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75425,
+        "user": "失落缘",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75429,
+        "user": "失落缘",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75430,
+        "user": "失落缘",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75431,
+        "user": "失落缘",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75432,
+        "user": "失落缘",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75433,
+        "user": "失落缘",
+        "content": "ZJ057"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75468,
+        "user": "失落缘",
+        "content": "这样还是死了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75477,
+        "user": "过客089",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75502,
+        "user": "过客096",
+        "content": "几点下课？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75503,
+        "user": "失落缘",
+        "content": "哈哈"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75506,
+        "user": "失落缘",
+        "content": 15
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75507,
+        "user": "失落缘",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75519,
+        "user": "天使之吻",
+        "content": "通宵课堂"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75529,
+        "user": "水晶007",
+        "content": "哇"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75536,
+        "user": "失落缘",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75537,
+        "user": "失落缘",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75539,
+        "user": "失落缘",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75540,
+        "user": "失落缘",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75541,
+        "user": "失落缘",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75542,
+        "user": "失落缘",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75543,
+        "user": "失落缘",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75543,
+        "user": "失落缘",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75544,
+        "user": "失落缘",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75545,
+        "user": "失落缘",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75546,
+        "user": "失落缘",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75548,
+        "user": "失落缘",
+        "content": "ZJ185"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75549,
+        "user": "过客096",
+        "content": "哇~"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75549,
+        "user": "失落缘",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75550,
+        "user": "失落缘",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75550,
+        "user": "失落缘",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75553,
+        "user": "失落缘",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75562,
+        "user": "过客089",
+        "content": "@@"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75573,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75586,
+        "user": "水晶007",
+        "content": "在下棋吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75587,
+        "user": "过客096",
+        "content": "老师，慢点好不？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75588,
+        "user": "过客089",
+        "content": "这个好像松月.."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75592,
+        "user": "水晶007",
+        "content": "云月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75603,
+        "user": "失落缘",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75623,
+        "user": "水晶007",
+        "content": "我倒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75645,
+        "user": "过客096",
+        "content": "踩"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75648,
+        "user": "失落缘",
+        "content": 13
+    },
+    {
+        "action": "TALK",
+        "time_int": 75655,
+        "user": "失落缘",
+        "content": "这里其他变化大家自己想"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75656,
+        "user": "失落缘",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75658,
+        "user": "过客089",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75661,
+        "user": "失落缘",
+        "content": "继续偷懒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75666,
+        "user": "水晶007",
+        "content": "我倒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75674,
+        "user": "xiaoyudi9",
+        "content": "哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75678,
+        "user": "过客096",
+        "content": "在踩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75678,
+        "user": "yezi",
+        "content": "偶们哪会想到这么杀啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75684,
+        "user": "新世纪",
+        "content": "吧唧~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75692,
+        "user": "zmsy001",
+        "content": "顶"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75692,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75693,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75694,
+        "user": "失落缘",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75696,
+        "user": "过客093",
+        "content": "强烈抗议老师偷懒"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75700,
+        "user": "失落缘",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75709,
+        "user": "失落缘",
+        "content": "这个12，13照样在下面作棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75760,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75764,
+        "user": "失落缘",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75782,
+        "user": "失落缘",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75783,
+        "user": "子非鱼",
+        "content": "G7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75783,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75783,
+        "user": "失落缘",
+        "content": "ZJ077"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75791,
+        "user": "失落缘",
+        "content": "恩这样直接双杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75795,
+        "user": "失落缘",
+        "content": "所以这个和刚才不一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75799,
+        "user": "Sharon",
+        "content": "F8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75805,
+        "user": "失落缘",
+        "content": "这里左边黑多了一个眠三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75814,
+        "user": "失落缘",
+        "content": "所以我们只有从左边防"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75814,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75815,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75816,
+        "user": "失落缘",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75822,
+        "user": "失落缘",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75828,
+        "user": "失落缘",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75829,
+        "user": "失落缘",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75833,
+        "user": "过客101",
+        "content": "学到很多东西"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75845,
+        "user": "失落缘",
+        "content": "这样黑继续连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75855,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75858,
+        "user": "过客071",
+        "content": "晕"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75863,
+        "user": "过客071",
+        "content": "白33了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75866,
+        "user": "失落缘",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75866,
+        "user": "失落缘",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75868,
+        "user": "水晶007",
+        "content": "完全看不懂也不懂用这东西"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75875,
+        "user": "失落缘",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75879,
+        "user": "失落缘",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75889,
+        "user": "水晶009",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75892,
+        "user": "失落缘",
+        "content": "这样21做杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75893,
+        "user": "失落缘",
+        "content": "ZJ194"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75896,
+        "user": "失落缘",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75901,
+        "user": "失落缘",
+        "content": "23继续做"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75902,
+        "user": "失落缘",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75905,
+        "user": "过客089",
+        "content": "？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75908,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75909,
+        "user": "失落缘",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75918,
+        "user": "失落缘",
+        "content": "这样就双杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75930,
+        "user": "水晶007",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75933,
+        "user": "过客089",
+        "content": "到。。。"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 75950,
+        "user": "",
+        "content": " 水晶004, 水晶绿茶, 水晶016, 水晶010, 417976146, XF520, 冷月花魂, 逸舟, 清逸, 随遇而安, 水晶009, 涵婷, 如意, yezi, 天使之吻, qinazt, zj03, 子非鱼, 蓝雪人, 新世纪, 乐, 小静, 锋, yysanyue, 平凡最浪漫, 爱棋, 晴子, Sharon, xiaoyudi9, 水晶005, 迈克, hanxiao, 逝水舞魅, 我想飞, 茜茜, 水晶014, 轩7129, 519753687, zmsy001, 小雅, 微波炉, 思雨, yonghumm, 醉茶轩江山, 小鸟, 水晶018, 水晶015, wnqq111, 冰冰的泪."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75951,
+        "user": "水晶绿茶",
+        "content": "007 点教室中间那个东西"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75956,
+        "user": "过客093",
+        "content": "只看见一个杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75960,
+        "user": "失落缘",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75961,
+        "user": "失落缘",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75962,
+        "user": "失落缘",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75962,
+        "user": "新世纪",
+        "content": "23和25帅到被罚款~"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75962,
+        "user": "失落缘",
+        "content": "ZJ1e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75963,
+        "user": "失落缘",
+        "content": "ZJ0e7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75985,
+        "user": "水晶007",
+        "content": "额？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75986,
+        "user": "过客093",
+        "content": "谢谢老师 看见了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76023,
+        "user": "zj03",
+        "content": "3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76039,
+        "user": "过客093",
+        "content": "21  杵那没明白"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76054,
+        "user": "失落缘",
+        "content": 21
+    },
+    {
+        "action": "TALK",
+        "time_int": 76073,
+        "user": "过客089",
+        "content": "= =||"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76075,
+        "user": "失落缘",
+        "content": "这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76083,
+        "user": "失落缘",
+        "content": "黑有2步V"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76102,
+        "user": "过客093",
+        "content": "放这有杀吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76105,
+        "user": "微波炉",
+        "content": "I4是杀点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76109,
+        "user": "失落缘",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76109,
+        "user": "失落缘",
+        "content": "ZJ0a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76110,
+        "user": "失落缘",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76110,
+        "user": "失落缘",
+        "content": "ZJ094"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76141,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76141,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76141,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76142,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76147,
+        "user": "失落缘",
+        "content": "还有问题么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76149,
+        "user": "过客093",
+        "content": "哦 跳着跑的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76155,
+        "user": "爱棋",
+        "content": "没"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76175,
+        "user": "过客089",
+        "content": "米有。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76186,
+        "user": "过客093",
+        "content": "谢谢您！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76186,
+        "user": "过客089",
+        "content": "：）老师讲得很详细。。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76187,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76187,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76188,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76188,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76188,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76188,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76189,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76189,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76189,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76190,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76190,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76193,
+        "user": "失落缘",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76193,
+        "user": "失落缘",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76195,
+        "user": "失落缘",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76195,
+        "user": "失落缘",
+        "content": "ZJ168"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76198,
+        "user": "失落缘",
+        "content": "这个呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76250,
+        "user": "锋",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76257,
+        "user": "失落缘",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76258,
+        "user": "失落缘",
+        "content": "ZJ184"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76262,
+        "user": "yywanzi",
+        "content": "咋没我啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76269,
+        "user": "失落缘",
+        "content": "这里直接攻"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76270,
+        "user": "失落缘",
+        "content": "ZJ0d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76271,
+        "user": "失落缘",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76282,
+        "user": "失落缘",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76295,
+        "user": "失落缘",
+        "content": "这样19做杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76296,
+        "user": "失落缘",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76297,
+        "user": "失落缘",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76301,
+        "user": "失落缘",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76316,
+        "user": "过客089",
+        "content": "：）"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76321,
+        "user": "失落缘",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76322,
+        "user": "失落缘",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76326,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76327,
+        "user": "失落缘",
+        "content": "ZJ1e5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76355,
+        "user": "失落缘",
+        "content": "ZJ0d5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76362,
+        "user": "失落缘",
+        "content": "这样黑上面有VCF"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76367,
+        "user": "失落缘",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76369,
+        "user": "过客071",
+        "content": "黑杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76375,
+        "user": "失落缘",
+        "content": "所以还是得防这边"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76380,
+        "user": "失落缘",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76381,
+        "user": "过客071",
+        "content": "黑I6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76381,
+        "user": "失落缘",
+        "content": "ZJ186"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76382,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76382,
+        "user": "失落缘",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76383,
+        "user": "失落缘",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76418,
+        "user": "失落缘",
+        "content": "这个没问题了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76432,
+        "user": "新世纪",
+        "content": "23在j11如何"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76434,
+        "user": "过客081",
+        "content": "太快了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76437,
+        "user": "过客075",
+        "content": "26=I6？"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76468,
+        "user": "失落缘",
+        "content": 25
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76472,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76473,
+        "user": "失落缘",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76473,
+        "user": "失落缘",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76474,
+        "user": "失落缘",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76484,
+        "user": "失落缘",
+        "content": "上面还有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76487,
+        "user": "过客075",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76500,
+        "user": "失落缘",
+        "content": "所以这个还是不行"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76527,
+        "user": "失落缘",
+        "content": 15
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76528,
+        "user": "失落缘",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76529,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76529,
+        "user": "失落缘",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76543,
+        "user": "失落缘",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76544,
+        "user": "失落缘",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76545,
+        "user": "失落缘",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76568,
+        "user": "失落缘",
+        "content": "这样黑防守之后，白攻不动"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76601,
+        "user": "过客081",
+        "content": "黑好象都赢了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76611,
+        "user": "ndh005",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76612,
+        "user": "失落缘",
+        "content": "怎么防都不行了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76620,
+        "user": "失落缘",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76622,
+        "user": "失落缘",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76623,
+        "user": "失落缘",
+        "content": "ZJ1e7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76624,
+        "user": "失落缘",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76625,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76626,
+        "user": "失落缘",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76635,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76652,
+        "user": "过客071",
+        "content": "20J5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76668,
+        "user": "爱棋",
+        "content": "在老师手里  怎么都是胜  嘿嘿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76681,
+        "user": "过客071",
+        "content": "一样"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76685,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76686,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76686,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76687,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76687,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76689,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76695,
+        "user": "失落缘",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76706,
+        "user": "失落缘",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76706,
+        "user": "失落缘",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76707,
+        "user": "失落缘",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76745,
+        "user": "失落缘",
+        "content": "哈哈"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76749,
+        "user": "失落缘",
+        "content": 18
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76753,
+        "user": "失落缘",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76753,
+        "user": "失落缘",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76753,
+        "user": "过客071",
+        "content": "21还是K8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76754,
+        "user": "失落缘",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76754,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76755,
+        "user": "失落缘",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76756,
+        "user": "失落缘",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76756,
+        "user": "失落缘",
+        "content": "ZJ174"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76757,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76758,
+        "user": "失落缘",
+        "content": "ZJ074"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76758,
+        "user": "失落缘",
+        "content": "ZJ175"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76759,
+        "user": "失落缘",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76759,
+        "user": "失落缘",
+        "content": "ZJ173"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76760,
+        "user": "失落缘",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76763,
+        "user": "失落缘",
+        "content": "直接就杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76772,
+        "user": "失落缘",
+        "content": "不需要防"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76813,
+        "user": "失落缘",
+        "content": 17
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76814,
+        "user": "失落缘",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76815,
+        "user": "失落缘",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76816,
+        "user": "失落缘",
+        "content": "ZJ1b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76819,
+        "user": "失落缘",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76826,
+        "user": "失落缘",
+        "content": "这样更快"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76870,
+        "user": "爱棋",
+        "content": "上了一堂好课！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76876,
+        "user": "过客075",
+        "content": "恩"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76890,
+        "user": "失落缘",
+        "content": 13
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76892,
+        "user": "失落缘",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76893,
+        "user": "失落缘",
+        "content": "ZJ075"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76900,
+        "user": "失落缘",
+        "content": "这里活三也没有什么意义"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76906,
+        "user": "失落缘",
+        "content": "等于帮黑走棋"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76916,
+        "user": "失落缘",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76917,
+        "user": "失落缘",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76926,
+        "user": "失落缘",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76926,
+        "user": "失落缘",
+        "content": "ZJ066"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76927,
+        "user": "失落缘",
+        "content": "ZJ157"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76927,
+        "user": "失落缘",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76931,
+        "user": "失落缘",
+        "content": "直接就死了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76934,
+        "user": "519753687",
+        "content": "多走"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76946,
+        "user": "失落缘",
+        "content": "所以这个12也死了"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76949,
+        "user": "失落缘",
+        "content": 11
+    },
+    {
+        "action": "TALK",
+        "time_int": 76962,
+        "user": "失落缘",
+        "content": "这个变化还有什么问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76963,
+        "user": "失落缘",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76971,
+        "user": "爱棋",
+        "content": "^_^"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76981,
+        "user": "yysanyue",
+        "content": "学到很多东西"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76988,
+        "user": "新世纪",
+        "content": "一颗黑11引发的血案……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76989,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76999,
+        "user": "yywanzi",
+        "content": "谢谢您！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77030,
+        "user": "失落缘",
+        "content": "没的话这个变化就到这里了啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77044,
+        "user": "过客103",
+        "content": "刚才没看到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77047,
+        "user": "过客075",
+        "content": "好吧"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77049,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77049,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77049,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77049,
+        "user": "519753687",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77050,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77050,
+        "user": "水晶009",
+        "content": "/"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77051,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77056,
+        "user": "爱棋",
+        "content": "555555555都是11惹的祸"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77059,
+        "user": "失落缘",
+        "content": "这个6的变化主要就这些了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77061,
+        "user": "失落缘",
+        "content": "HOHO"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77062,
+        "user": "过客103",
+        "content": "再给看下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77071,
+        "user": "失落缘",
+        "content": "嘎嘎，简单自己拆呢"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77073,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77073,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77074,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77074,
+        "user": "失落缘",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77080,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77088,
+        "user": "失落缘",
+        "content": "先我们来看最强的4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77090,
+        "user": "失落缘",
+        "content": "现在"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77092,
+        "user": "失落缘",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77094,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77095,
+        "user": "失落缘",
+        "content": "ZJ079"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77098,
+        "user": "过客075",
+        "content": "我最想学这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77106,
+        "user": "失落缘",
+        "content": "这个两打的方向要对"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77108,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77109,
+        "user": "失落缘",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77110,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77111,
+        "user": "失落缘",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77117,
+        "user": "失落缘",
+        "content": "别打成这2个了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77136,
+        "user": "失落缘",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77137,
+        "user": "失落缘",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77141,
+        "user": "失落缘",
+        "content": "先看一打"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77143,
+        "user": "失落缘",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77148,
+        "user": "失落缘",
+        "content": "这个6是最简单的变化"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77161,
+        "user": "失落缘",
+        "content": "ZJ079"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77163,
+        "user": "Sharon",
+        "content": "GM 这个黑死都讲过N+1遍了~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77170,
+        "user": "失落缘",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77182,
+        "user": "风清",
+        "content": "没讲过吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77189,
+        "user": "过客075",
+        "content": "我没学过"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77189,
+        "user": "失落缘",
+        "content": "首先申明"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77198,
+        "user": "风清",
+        "content": "就是没讲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77201,
+        "user": "失落缘",
+        "content": "我没讲过这个黑死啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77203,
+        "user": "失落缘",
+        "content": "嘎嘎"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77210,
+        "user": "失落缘",
+        "content": "只讲过白死"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77213,
+        "user": "Sharon",
+        "content": "那偶到是要看看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77217,
+        "user": "Sharon",
+        "content": "哦对哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77218,
+        "user": "519753687",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77222,
+        "user": "过客103",
+        "content": "请不要捣乱课堂秩序"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77224,
+        "user": "xiaoyudi9",
+        "content": "哈"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77226,
+        "user": "失落缘",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77227,
+        "user": "失落缘",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77230,
+        "user": "过客103",
+        "content": "请尊重老师的劳动"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77234,
+        "user": "Sharon",
+        "content": "讲错"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77236,
+        "user": "失落缘",
+        "content": "这样进攻是明显不行的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77240,
+        "user": "Sharon",
+        "content": "是白挂来着"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77242,
+        "user": "失落缘",
+        "content": "9之后白动不了了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77244,
+        "user": "爱棋",
+        "content": "请尊重老师的劳动"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77245,
+        "user": "失落缘",
+        "content": "直接死了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77248,
+        "user": "失落缘",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77249,
+        "user": "失落缘",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77250,
+        "user": "失落缘",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77253,
+        "user": "失落缘",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77254,
+        "user": "失落缘",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77254,
+        "user": "失落缘",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77255,
+        "user": "失落缘",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77256,
+        "user": "失落缘",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77256,
+        "user": "失落缘",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77257,
+        "user": "失落缘",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77267,
+        "user": "过客081",
+        "content": "老师啊，我上了几次课，也没什么感受，是不是可以讲讲做棋的方法啊"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 77270,
+        "user": "失落缘",
+        "content": 7
+    },
+    {
+        "action": "TALK",
+        "time_int": 77288,
+        "user": "失落缘",
+        "content": "做棋方法是靠积累出来的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77299,
+        "user": "失落缘",
+        "content": "如果连定式都不会"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77310,
+        "user": "失落缘",
+        "content": "那就不用想了，肯定不会做棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77317,
+        "user": "过客075",
+        "content": "要慢慢学吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77332,
+        "user": "失落缘",
+        "content": "看定式看多了，自然就知道怎么做了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77332,
+        "user": "过客081",
+        "content": "哦，那定式有好多哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77345,
+        "user": "失落缘",
+        "content": "当然不是所有定式都要背完"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77351,
+        "user": "失落缘",
+        "content": "目前的五子棋水平"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77354,
+        "user": "过客093",
+        "content": "谢谢老师教导  回去好好看定式"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77355,
+        "user": "失落缘",
+        "content": "还没人有这个本事"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77369,
+        "user": "过客081",
+        "content": "哦，这样的哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77373,
+        "user": "过客103",
+        "content": "na"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77377,
+        "user": "过客103",
+        "content": "哪"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77408,
+        "user": "失落缘",
+        "content": "嘿嘿，闲话不说了，背定式看实战谱都是必须的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77415,
+        "user": "过客075",
+        "content": "五子棋象围棋一样有职业棋手吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77416,
+        "user": "过客081",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77417,
+        "user": "过客103",
+        "content": "好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77421,
+        "user": "失落缘",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77428,
+        "user": "过客093",
+        "content": "有些定式只有6  7个子就没了  看不懂呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77436,
+        "user": "失落缘",
+        "content": "我们来看定式的走法"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77456,
+        "user": "失落缘",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77457,
+        "user": "失落缘",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77458,
+        "user": "失落缘",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77459,
+        "user": "失落缘",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77460,
+        "user": "失落缘",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77478,
+        "user": "失落缘",
+        "content": "这是五珠定石的基本走法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77498,
+        "user": "Sharon",
+        "content": "这样白棋就可以自刎了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77516,
+        "user": "失落缘",
+        "content": "这里如果是实战，我们就要预先考虑到白的反攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77516,
+        "user": "迈克",
+        "content": "好多双杀点。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77520,
+        "user": "Sharon",
+        "content": "好郁闷的，总是白挂"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77520,
+        "user": "风清",
+        "content": "12当上面呢"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77536,
+        "user": "失落缘",
+        "content": "ZJ168"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77551,
+        "user": "失落缘",
+        "content": "14也是定式上的最强防守"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77561,
+        "user": "失落缘",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77561,
+        "user": "失落缘",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77562,
+        "user": "失落缘",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77563,
+        "user": "失落缘",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77564,
+        "user": "失落缘",
+        "content": "ZJ059"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77577,
+        "user": "失落缘",
+        "content": "这样就是进攻的基本型"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77579,
+        "user": "失落缘",
+        "content": "ZJ148"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77586,
+        "user": "失落缘",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77587,
+        "user": "失落缘",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77593,
+        "user": "失落缘",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77594,
+        "user": "失落缘",
+        "content": "ZJ19d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77608,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77622,
+        "user": "迈克",
+        "content": "杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77622,
+        "user": "失落缘",
+        "content": "这个定式，我们除了看刚才的黑白交换保持先手的走法，就要看这几步基本的杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77647,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77653,
+        "user": "失落缘",
+        "content": "这样的杀到实战应当是不需要任何思考就能杀得出来的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77665,
+        "user": "失落缘",
+        "content": "这个就是背定式的最终目的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77678,
+        "user": "失落缘",
+        "content": "遇到类似形状，一眼就杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77686,
+        "user": "失落缘",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77687,
+        "user": "失落缘",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77688,
+        "user": "失落缘",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77688,
+        "user": "失落缘",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77689,
+        "user": "失落缘",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77703,
+        "user": "失落缘",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 77728,
+        "user": "失落缘",
+        "content": 11
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77729,
+        "user": "失落缘",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77744,
+        "user": "锋",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77759,
+        "user": "失落缘",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77774,
+        "user": "失落缘",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77776,
+        "user": "失落缘",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77777,
+        "user": "失落缘",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77778,
+        "user": "失落缘",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77785,
+        "user": "失落缘",
+        "content": "这个的杀法也不难的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77786,
+        "user": "失落缘",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77804,
+        "user": "失落缘",
+        "content": "到这里，我们也应该一眼就看出黑怎么杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77805,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77844,
+        "user": "失落缘",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77845,
+        "user": "失落缘",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77847,
+        "user": "失落缘",
+        "content": "ZJ05b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77847,
+        "user": "失落缘",
+        "content": "ZJ14b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77848,
+        "user": "失落缘",
+        "content": "ZJ05d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77857,
+        "user": "失落缘",
+        "content": "这样是很常见的杀法"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77859,
+        "user": "失落缘",
+        "content": "ZJ15e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77860,
+        "user": "失落缘",
+        "content": "ZJ06c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77861,
+        "user": "失落缘",
+        "content": "ZJ14e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77861,
+        "user": "失落缘",
+        "content": "ZJ07d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77862,
+        "user": "失落缘",
+        "content": "ZJ18e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77863,
+        "user": "失落缘",
+        "content": "ZJ04d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77896,
+        "user": "Sharon",
+        "content": "挂就一个字，每天遇N次于：（"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77896,
+        "user": "水晶004",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77897,
+        "user": "失落缘",
+        "content": "同样，这里21跳也是可以的，但要注意边界对形状的影响"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77909,
+        "user": "失落缘",
+        "content": "HOHO"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77921,
+        "user": "xiaoyudi9",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77930,
+        "user": "失落缘",
+        "content": "时间到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77930,
+        "user": "过客075",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77931,
+        "user": "失落缘",
+        "content": "嘿嘿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77932,
+        "user": "过客081",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77934,
+        "user": "茜茜",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77935,
+        "user": "失落缘",
+        "content": "可以继续偷懒了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77935,
+        "user": "清逸",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77936,
+        "user": "水晶004",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77936,
+        "user": "爱棋",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77937,
+        "user": "子非鱼",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77938,
+        "user": "过客081",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77939,
+        "user": "新世纪",
+        "content": "上了一堂好课！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77940,
+        "user": "天使之吻",
+        "content": "不许嘿嘿！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77941,
+        "user": "qinazt",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77943,
+        "user": "",
+        "content": " 417976146, 519753687, hanxiao, qinazt, Sharon, xiaoyudi9, yezi, yonghumm, yysanyue, zj03, zmsy001, 爱棋, 冰冰的泪, 锋, 涵婷, 蓝雪人, 乐, 冷月花魂, 迈克, 平凡最浪漫, 晴子, 如意, 逝水舞魅, 水晶004, 水晶005, 水晶009, 水晶010, 水晶014, 水晶016, 水晶018, 水晶绿茶, 思雨, 随遇而安, 天使之吻, 微波炉, 我想飞, 小静, 小鸟, 新世纪, 子非鱼, 茜茜."
+    }
+]
