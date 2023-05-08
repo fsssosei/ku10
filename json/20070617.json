@@ -1,0 +1,8312 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72782,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72784,
+        "user": "乐",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72784,
+        "user": "桃夭",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72788,
+        "user": "乐棋",
+        "content": "老师好！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72788,
+        "user": "sky",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72789,
+        "user": "sky",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72790,
+        "user": "sky",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72795,
+        "user": "sky",
+        "content": "明星开局"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72805,
+        "user": "【水晶】小雨",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72810,
+        "user": "8283726",
+        "content": "点名了吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72812,
+        "user": "sky",
+        "content": "我想大家都比较熟的吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72819,
+        "user": "8283726",
+        "content": "刚掉了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72819,
+        "user": "sky",
+        "content": "自动点了一次"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72827,
+        "user": "8283726",
+        "content": "5555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72841,
+        "user": "玩童",
+        "content": "8283726点到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72851,
+        "user": "sky",
+        "content": "明星开局，黑稍优局."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72863,
+        "user": "sky",
+        "content": "现代定式是黑必胜开局，很多人都有终结谱，sosei的五星门中也讲过这个开局"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72878,
+        "user": "亓亓",
+        "content": "嗯."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72880,
+        "user": "sky",
+        "content": "白4常见有H9、G9、H7、I10、J8及K9等点可供选择。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72897,
+        "user": "sky",
+        "content": "白4守于H9点与瑞星同型，"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72905,
+        "user": "sky",
+        "content": "ZJ89A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72907,
+        "user": "sky",
+        "content": "ZJ79B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72910,
+        "user": "sky",
+        "content": "ZJ9aC"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72931,
+        "user": "sky",
+        "content": "这三个是明星局特有的几个点吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72967,
+        "user": "sky",
+        "content": "先从弱的还是先从强的开始呢?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72977,
+        "user": "过客806",
+        "content": "最强防点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72979,
+        "user": "亓亓",
+        "content": "强的.'"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72981,
+        "user": "过客806",
+        "content": "开始"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72982,
+        "user": "かぇで",
+        "content": "还有分吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72983,
+        "user": "sky",
+        "content": "呵呵"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72985,
+        "user": "sky",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72990,
+        "user": "かぇで",
+        "content": "SKY"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72991,
+        "user": "鹰",
+        "content": "从强的开奖"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72995,
+        "user": "烛光",
+        "content": "这个不是死了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73004,
+        "user": "sky",
+        "content": "明瑞共通，白4为最强防守，黑5=g9, i7, j9（胜率各100%,90%,70%）"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73021,
+        "user": "sky",
+        "content": "ZJ79A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73024,
+        "user": "sky",
+        "content": "ZJ97B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73027,
+        "user": "sky",
+        "content": "ZJa9C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73032,
+        "user": "sky",
+        "content": "A点一打"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73039,
+        "user": "sky",
+        "content": "好多人都了解的吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73055,
+        "user": "过客806",
+        "content": "这个不了解"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73058,
+        "user": "sky",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73059,
+        "user": "sky",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73060,
+        "user": "sky",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73061,
+        "user": "sky",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73062,
+        "user": "sky",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73063,
+        "user": "sky",
+        "content": "ZJ176"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73063,
+        "user": "sky",
+        "content": "ZJ065"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73066,
+        "user": "鹰",
+        "content": "不了解"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73086,
+        "user": "sky",
+        "content": "常见定式"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73101,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73102,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73103,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73103,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73104,
+        "user": "sky",
+        "content": "ZJ176"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73105,
+        "user": "sky",
+        "content": "ZJ068"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73115,
+        "user": "sky",
+        "content": "次常见定式"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73122,
+        "user": "かぇで",
+        "content": "没见过"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73122,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73123,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73124,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73125,
+        "user": "sky",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73133,
+        "user": "sky",
+        "content": "骗的常用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73138,
+        "user": "sky",
+        "content": "这个9正手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73141,
+        "user": "飞翔着的10号",
+        "content": "瑞了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73143,
+        "user": "过客806",
+        "content": "什么骗的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73149,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73150,
+        "user": "亓亓",
+        "content": "8手骗."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73155,
+        "user": "飞翔着的10号",
+        "content": "F6行吗？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73157,
+        "user": "sky",
+        "content": "ZJ066"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73162,
+        "user": "sky",
+        "content": "ZJ176"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73163,
+        "user": "sky",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73164,
+        "user": "sky",
+        "content": "ZJ157"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73167,
+        "user": "竹影清雨",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73171,
+        "user": "sky",
+        "content": "好象这个12黑杀不出"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73185,
+        "user": "飞翔着的10号",
+        "content": "当作业看看，^_^"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73197,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73197,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73197,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73198,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73200,
+        "user": "sky",
+        "content": "ZJ078"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73204,
+        "user": "sky",
+        "content": "这个是败"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73210,
+        "user": "かぇで",
+        "content": "那个是百"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73211,
+        "user": "sky",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73212,
+        "user": "sky",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73212,
+        "user": "sky",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73219,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73220,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73220,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73221,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73221,
+        "user": "sky",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73227,
+        "user": "sky",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73228,
+        "user": "sky",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73235,
+        "user": "鹰",
+        "content": "晕，我离开了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73237,
+        "user": "sky",
+        "content": "所以这个8是骗招"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73241,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73244,
+        "user": "かぇで",
+        "content": "骗什么用的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73255,
+        "user": "亓亓",
+        "content": "如果不熟定就容易下错咯."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73259,
+        "user": "sky",
+        "content": "这样跟瑞星的区别就是现在的11手可以挡下"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 73264,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73265,
+        "user": "sky",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73266,
+        "user": "sky",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73267,
+        "user": "sky",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73267,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73268,
+        "user": "sky",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73268,
+        "user": "sky",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73269,
+        "user": "sky",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73271,
+        "user": "sky",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73280,
+        "user": "sky",
+        "content": "只能挡上的对不?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73283,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73286,
+        "user": "sky",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73287,
+        "user": "sky",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73288,
+        "user": "sky",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73289,
+        "user": "かぇで",
+        "content": "不对"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73291,
+        "user": "幸福人生",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73293,
+        "user": "亓亓",
+        "content": "对."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73296,
+        "user": "sky",
+        "content": "区别就在这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73298,
+        "user": "かぇで",
+        "content": "就对吧"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 73306,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73307,
+        "user": "sky",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73307,
+        "user": "sky",
+        "content": "ZJ199"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73307,
+        "user": "过客806",
+        "content": "就是"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73308,
+        "user": "sky",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73309,
+        "user": "sky",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73310,
+        "user": "sky",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73310,
+        "user": "sky",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73311,
+        "user": "sky",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73311,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73312,
+        "user": "sky",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73313,
+        "user": "sky",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73313,
+        "user": "sky",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73323,
+        "user": "かぇで",
+        "content": "当地下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73325,
+        "user": "sky",
+        "content": "这样黑就胜定了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73329,
+        "user": "sky",
+        "content": "ZJ166"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73330,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73331,
+        "user": "sky",
+        "content": "ZJ176"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73331,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 73333,
+        "user": "sky",
+        "content": "ZJ76A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73336,
+        "user": "sky",
+        "content": "ZJ66B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73338,
+        "user": "sky",
+        "content": "ZJa6C"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73343,
+        "user": "sky",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73344,
+        "user": "sky",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73354,
+        "user": "sky",
+        "content": "后面不讲了``"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73356,
+        "user": "亓亓",
+        "content": "秒杀."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73357,
+        "user": "かぇで",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73363,
+        "user": "亓亓",
+        "content": "双杀.- -"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73367,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73371,
+        "user": "sky",
+        "content": "等一下讲第二打"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73377,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73377,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73378,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73379,
+        "user": "sky",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73380,
+        "user": "sky",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73398,
+        "user": "sky",
+        "content": "占了白的八卦点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73404,
+        "user": "かぇで",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73410,
+        "user": "sky",
+        "content": "成二个活二和一个眠三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73417,
+        "user": "sky",
+        "content": "黑胜了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73426,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73426,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73428,
+        "user": "sky",
+        "content": "ZJ176"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73428,
+        "user": "sky",
+        "content": "ZJ065"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73448,
+        "user": "sky",
+        "content": "这个就是多了8.9二个子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73455,
+        "user": "かぇで",
+        "content": "不懂"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 73456,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73457,
+        "user": "sky",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73458,
+        "user": "sky",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73458,
+        "user": "sky",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73459,
+        "user": "sky",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73459,
+        "user": "sky",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73460,
+        "user": "sky",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73460,
+        "user": "sky",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73461,
+        "user": "sky",
+        "content": "ZJ176"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73462,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73463,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73463,
+        "user": "sky",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73464,
+        "user": "sky",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73467,
+        "user": "sky",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73469,
+        "user": "sky",
+        "content": "ZJ176"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73470,
+        "user": "sky",
+        "content": "ZJ065"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73471,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73471,
+        "user": "かぇで",
+        "content": "老实慢点"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73472,
+        "user": "sky",
+        "content": "ZJ9aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73474,
+        "user": "sky",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73479,
+        "user": "sky",
+        "content": "这里多了二个子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73487,
+        "user": "皮皮",
+        "content": "老师点名了吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73488,
+        "user": "かぇで",
+        "content": "没看懂"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73496,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73497,
+        "user": "sky",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73503,
+        "user": "sky",
+        "content": "加上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73504,
+        "user": "かぇで",
+        "content": "没区别"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73506,
+        "user": "过客806",
+        "content": "太快了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73507,
+        "user": "sky",
+        "content": "是不是一样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73511,
+        "user": "亓亓",
+        "content": "是,'"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73515,
+        "user": "亓亓",
+        "content": "小骗而已."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73520,
+        "user": "亓亓",
+        "content": "没啥效果.- -"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73521,
+        "user": "过客806",
+        "content": "不看不很懂"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73524,
+        "user": "幸福人生",
+        "content": "中级课，下来要复习消化的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73525,
+        "user": "sky",
+        "content": "因为一打``我简单讲一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73533,
+        "user": "sky",
+        "content": "别处都可以听到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73538,
+        "user": "かぇで",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73542,
+        "user": "sky",
+        "content": "如果大家想听的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73545,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73548,
+        "user": "かぇで",
+        "content": "去那里听"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73550,
+        "user": "sky",
+        "content": "我以后慢慢讲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73553,
+        "user": "かぇで",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73559,
+        "user": "sky",
+        "content": "主要是讲二打的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73559,
+        "user": "过客806",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73562,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73563,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73563,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73563,
+        "user": "かぇで",
+        "content": "不客气"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73564,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73564,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73564,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73565,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73565,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73566,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73566,
+        "user": "sky",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73570,
+        "user": "sky",
+        "content": "主要讲这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73581,
+        "user": "かぇで",
+        "content": "这个是什么开局"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73596,
+        "user": "sky",
+        "content": "明瑞共通最强防"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73599,
+        "user": "sky",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73600,
+        "user": "sky",
+        "content": "ZJ04b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73602,
+        "user": "sky",
+        "content": "ZJ15c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73603,
+        "user": "sky",
+        "content": "ZJ049"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73603,
+        "user": "幸福人生",
+        "content": "明星已经必胜了吗？老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73612,
+        "user": "sky",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73618,
+        "user": "sky",
+        "content": "二打必胜了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73623,
+        "user": "幸福人生",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73626,
+        "user": "过客806",
+        "content": "一打呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73632,
+        "user": "【水晶】物语",
+        "content": "........"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73632,
+        "user": "かぇで",
+        "content": "不知道"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73635,
+        "user": "sky",
+        "content": "一打早必胜了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73638,
+        "user": "桃夭",
+        "content": "哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73645,
+        "user": "かぇで",
+        "content": "这个和那个没区别呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73647,
+        "user": "幸福人生",
+        "content": "一打就简单胜哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73652,
+        "user": "かぇで",
+        "content": "就是多了个5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73652,
+        "user": "过客806",
+        "content": "那是不和花蒲一样了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73657,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73658,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73658,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73658,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73658,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73659,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73659,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73660,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73660,
+        "user": "sky",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73661,
+        "user": "sky",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73661,
+        "user": "sky",
+        "content": "ZJ199"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73670,
+        "user": "亓亓",
+        "content": "是不是跟棋型有关呢?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73671,
+        "user": "sky",
+        "content": "我是指这个共通"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73676,
+        "user": "sky",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73681,
+        "user": "かぇで",
+        "content": "普"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73686,
+        "user": "皮皮",
+        "content": "这个是2打吗？"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73691,
+        "user": "sky",
+        "content": "ZJa8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73693,
+        "user": "sky",
+        "content": "ZJ79B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73701,
+        "user": "かぇで",
+        "content": "走B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73702,
+        "user": "幸福人生",
+        "content": "下瑞千万别下这个4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73708,
+        "user": "sky",
+        "content": "大家常看到是这二个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73709,
+        "user": "かぇで",
+        "content": "为什么"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73718,
+        "user": "sky",
+        "content": "ZJ179"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73723,
+        "user": "桃夭",
+        "content": "因为明必胜啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73730,
+        "user": "幸福人生",
+        "content": "下这个等于等死"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73733,
+        "user": "sky",
+        "content": "黑肯定是挡右边的吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73738,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73738,
+        "user": "sky",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73743,
+        "user": "sky",
+        "content": "ZJa8A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73746,
+        "user": "かぇで",
+        "content": "我还以为下黑的呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73748,
+        "user": "【水晶】物语",
+        "content": "这个4黑5有两个必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73749,
+        "user": "亓亓",
+        "content": "可是如果5手放.7的位置呢."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73750,
+        "user": "sky",
+        "content": "跟这里有联结"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73771,
+        "user": "sky",
+        "content": "那个我还没做到必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73781,
+        "user": "sky",
+        "content": "可能有人做到也不有可能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73789,
+        "user": "sky",
+        "content": "也有可能"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73793,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73793,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73794,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73795,
+        "user": "sky",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73801,
+        "user": "亓亓",
+        "content": "J8点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73809,
+        "user": "sky",
+        "content": "以前日本人喜欢下这里的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73813,
+        "user": "sky",
+        "content": "叫它二打的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73818,
+        "user": "かぇで",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73827,
+        "user": "亓亓",
+        "content": "嗯."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73829,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73832,
+        "user": "幸福人生",
+        "content": "看起来也比较优"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73835,
+        "user": "sky",
+        "content": "在一些以前的日本谱里能常看到"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73839,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73840,
+        "user": "sky",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73852,
+        "user": "sky",
+        "content": "不过后来有了这个5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73866,
+        "user": "sky",
+        "content": "经过大家的努力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73867,
+        "user": "竹影清雨",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73867,
+        "user": "かぇで",
+        "content": "这个5好看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73882,
+        "user": "sky",
+        "content": "现在可以说必胜了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73887,
+        "user": "sky",
+        "content": "ZJ179"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73887,
+        "user": "かぇで",
+        "content": "哦"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73888,
+        "user": "sky",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73901,
+        "user": "sky",
+        "content": "这是经常看到的下法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73910,
+        "user": "かぇで",
+        "content": "然后怎么走"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73915,
+        "user": "sky",
+        "content": "现在看一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73921,
+        "user": "【水晶】物语",
+        "content": "象浦月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73926,
+        "user": "sky",
+        "content": "8先活了这个三后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73941,
+        "user": "sky",
+        "content": "反而给黑多了一个子"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73946,
+        "user": "sky",
+        "content": "ZJa8A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73950,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73955,
+        "user": "sky",
+        "content": "这里看看也是黑的好点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73962,
+        "user": "sky",
+        "content": "如果白不管"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73976,
+        "user": "sky",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73987,
+        "user": "sky",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73991,
+        "user": "かぇで",
+        "content": "输定了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73994,
+        "user": "sky",
+        "content": "黑就可以从这里进攻"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74022,
+        "user": "sky",
+        "content": "ZJ175"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74043,
+        "user": "sky",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74045,
+        "user": "sky",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74046,
+        "user": "sky",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74047,
+        "user": "sky",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74049,
+        "user": "sky",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74055,
+        "user": "sky",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74056,
+        "user": "sky",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74058,
+        "user": "sky",
+        "content": "ZJb8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74059,
+        "user": "sky",
+        "content": "ZJ94A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74063,
+        "user": "sky",
+        "content": "双杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74064,
+        "user": "かぇで",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74070,
+        "user": "sky",
+        "content": "大家能看明白不?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74072,
+        "user": "かぇで",
+        "content": "看到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74078,
+        "user": "玩童",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74081,
+        "user": "无可无不可",
+        "content": "能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74083,
+        "user": "かぇで",
+        "content": "就是不会走"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74083,
+        "user": "飞翔着的10号",
+        "content": "换个10也一样杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74084,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74085,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74085,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74085,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74086,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74086,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74087,
+        "user": "sky",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74088,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74088,
+        "user": "sky",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74090,
+        "user": "sky",
+        "content": "ZJ176"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74091,
+        "user": "sky",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74092,
+        "user": "sky",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74110,
+        "user": "sky",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74112,
+        "user": "sky",
+        "content": "ZJbaA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74114,
+        "user": "sky",
+        "content": "ZJcaA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74123,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74126,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74126,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74127,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74127,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74127,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74127,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74128,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74128,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74129,
+        "user": "sky",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74139,
+        "user": "sky",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74159,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74161,
+        "user": "sky",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74192,
+        "user": "sky",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74194,
+        "user": "sky",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74195,
+        "user": "sky",
+        "content": "ZJ164"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74196,
+        "user": "无可无不可",
+        "content": "做杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74197,
+        "user": "sky",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74198,
+        "user": "sky",
+        "content": "ZJ1c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74200,
+        "user": "sky",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74202,
+        "user": "sky",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74203,
+        "user": "sky",
+        "content": "ZJ065"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74204,
+        "user": "sky",
+        "content": "ZJ155"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74205,
+        "user": "sky",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74206,
+        "user": "sky",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74209,
+        "user": "sky",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74214,
+        "user": "sky",
+        "content": "杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74221,
+        "user": "无可无不可",
+        "content": "下面？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74232,
+        "user": "sky",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74232,
+        "user": "sky",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74234,
+        "user": "かぇで",
+        "content": "中间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74244,
+        "user": "sky",
+        "content": "明白?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74246,
+        "user": "かぇで",
+        "content": "不是禁呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74251,
+        "user": "桃夭",
+        "content": "恩"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74255,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74255,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74257,
+        "user": "无可无不可",
+        "content": "24那里也可以？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74259,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74259,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74261,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74261,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74262,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74266,
+        "user": "sky",
+        "content": "ZJ065"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74267,
+        "user": "sky",
+        "content": "ZJ155"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74268,
+        "user": "sky",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74269,
+        "user": "sky",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74270,
+        "user": "sky",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74273,
+        "user": "sky",
+        "content": "ZJ176"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74273,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74284,
+        "user": "sky",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74285,
+        "user": "【水晶】物语",
+        "content": "VCF只有一点可以防了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74299,
+        "user": "sky",
+        "content": "不可以吧?"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74308,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74309,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74309,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74309,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74310,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74312,
+        "user": "sky",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74313,
+        "user": "かぇで",
+        "content": "右边"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74313,
+        "user": "sky",
+        "content": "ZJ176"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74315,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74316,
+        "user": "sky",
+        "content": "ZJ184"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74317,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74318,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74318,
+        "user": "sky",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74319,
+        "user": "sky",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74329,
+        "user": "sky",
+        "content": "哦是说这个"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74340,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74341,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74341,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74341,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74341,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74341,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74342,
+        "user": "飞翔着的10号",
+        "content": "白先冲四呢？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74342,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74342,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74342,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74343,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74344,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74346,
+        "user": "sky",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74346,
+        "user": "sky",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74347,
+        "user": "sky",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74348,
+        "user": "sky",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74348,
+        "user": "sky",
+        "content": "ZJ164"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74349,
+        "user": "sky",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74350,
+        "user": "sky",
+        "content": "ZJ1c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74351,
+        "user": "sky",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74351,
+        "user": "sky",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74352,
+        "user": "sky",
+        "content": "ZJ065"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74353,
+        "user": "sky",
+        "content": "ZJ155"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74355,
+        "user": "sky",
+        "content": "ZJ084"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74361,
+        "user": "sky",
+        "content": "这样就不行"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74362,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74367,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74368,
+        "user": "かぇで",
+        "content": "不懂"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74370,
+        "user": "sky",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74371,
+        "user": "sky",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74373,
+        "user": "『镇魂歌』傷傷",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74380,
+        "user": "sky",
+        "content": "自杀?"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74384,
+        "user": "sky",
+        "content": "ZJ96A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74387,
+        "user": "かぇで",
+        "content": "抓禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74389,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 74389,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74390,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74391,
+        "user": "sky",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74392,
+        "user": "sky",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74393,
+        "user": "sky",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74394,
+        "user": "sky",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74395,
+        "user": "sky",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74397,
+        "user": "かぇで",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74400,
+        "user": "『镇魂歌』傷傷",
+        "content": "我说怎么没见下棋.."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74406,
+        "user": "『镇魂歌』傷傷",
+        "content": ".."
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74413,
+        "user": "sky",
+        "content": 13
+    },
+    {
+        "action": "TALK",
+        "time_int": 74425,
+        "user": "sky",
+        "content": "反正这样后黑做杀胜定了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74443,
+        "user": "かぇで",
+        "content": "双杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74450,
+        "user": "sky",
+        "content": "大家可以课后自已试"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74452,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74452,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74452,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74453,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74453,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74453,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74454,
+        "user": "sky",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74462,
+        "user": "sky",
+        "content": "所以这个点很重要"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74468,
+        "user": "sky",
+        "content": "白肯定得点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74474,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "MARK",
+        "time_int": 74483,
+        "user": "sky",
+        "content": "ZJ8aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74485,
+        "user": "sky",
+        "content": "ZJb7B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74495,
+        "user": "sky",
+        "content": "你们说黑会下哪点"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74514,
+        "user": "sky",
+        "content": "ZJ87C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74516,
+        "user": "天使之吻",
+        "content": "B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74522,
+        "user": "かぇで",
+        "content": "A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74548,
+        "user": "幸福人生",
+        "content": "B"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74553,
+        "user": "sky",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74553,
+        "user": "sky",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74554,
+        "user": "かぇで",
+        "content": "A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74556,
+        "user": "天使之吻",
+        "content": "有C会可能会走C点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74558,
+        "user": "『镇魂歌』傷傷",
+        "content": "d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74564,
+        "user": "sky",
+        "content": "后面黑怎么走?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74573,
+        "user": "かぇで",
+        "content": "不知道"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74588,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74605,
+        "user": "棋棋可儿",
+        "content": "8G"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74608,
+        "user": "竹影清雨",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74624,
+        "user": "かぇで",
+        "content": "F9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74638,
+        "user": "sky",
+        "content": "谁上来试试"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74645,
+        "user": "かぇで",
+        "content": "可儿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74670,
+        "user": "sky",
+        "content": "没人说我?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74687,
+        "user": "かぇで",
+        "content": "校长上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74688,
+        "user": "棋棋可儿",
+        "content": "太难了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74718,
+        "user": "幸福人生",
+        "content": "俺9下K7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74728,
+        "user": "sky",
+        "content": "这个9是必败的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74731,
+        "user": "sky",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74731,
+        "user": "sky",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74732,
+        "user": "sky",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74732,
+        "user": "sky",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74737,
+        "user": "かぇで",
+        "content": "啊"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74740,
+        "user": "sky",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74767,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74768,
+        "user": "sky",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74769,
+        "user": "sky",
+        "content": "ZJ149"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74771,
+        "user": "飞翔着的10号",
+        "content": "这个10棋型很熟悉常见"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74781,
+        "user": "sky",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74782,
+        "user": "sky",
+        "content": "ZJ198"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74782,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74783,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74783,
+        "user": "sky",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74784,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74785,
+        "user": "sky",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74787,
+        "user": "sky",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74788,
+        "user": "sky",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74789,
+        "user": "sky",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74791,
+        "user": "sky",
+        "content": "ZJ76A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74794,
+        "user": "かぇで",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74795,
+        "user": "sky",
+        "content": "三三禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74826,
+        "user": "sky",
+        "content": "别的就化差不多更弱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74827,
+        "user": "飞翔着的10号",
+        "content": "^_^，谢谢老是了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74831,
+        "user": "过客806",
+        "content": "那C10防呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74834,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74835,
+        "user": "幸福人生",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74841,
+        "user": "sky",
+        "content": "ZJ03a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74841,
+        "user": "幸福人生",
+        "content": "看见了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74842,
+        "user": "sky",
+        "content": "ZJ185"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74848,
+        "user": "sky",
+        "content": "逃不掉啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74856,
+        "user": "过客806",
+        "content": "呵呵"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74858,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74859,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74859,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74859,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74859,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74860,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74861,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74862,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74862,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74863,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74864,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74864,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74865,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74865,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74866,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74866,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74867,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74867,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 74871,
+        "user": "sky",
+        "content": "ZJ8a "
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74875,
+        "user": "sky",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74875,
+        "user": "sky",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74876,
+        "user": "sky",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74888,
+        "user": "かぇで",
+        "content": "一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74895,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74906,
+        "user": "sky",
+        "content": "ZJ198"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74918,
+        "user": "sky",
+        "content": "这样以后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74936,
+        "user": "sky",
+        "content": "黑明显被白牵制"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74952,
+        "user": "sky",
+        "content": "所以也不怎么好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74960,
+        "user": "sky",
+        "content": "不过倒也可下下的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74966,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74966,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74967,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74967,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74968,
+        "user": "sky",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74975,
+        "user": "sky",
+        "content": "这个是正招"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74985,
+        "user": "sky",
+        "content": "挡了白的活二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74996,
+        "user": "sky",
+        "content": "自已成了个好型"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75007,
+        "user": "sky",
+        "content": "这是开局时常下的手法"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75036,
+        "user": "sky",
+        "content": "ZJa7A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75037,
+        "user": "sky",
+        "content": "ZJ96A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75038,
+        "user": "sky",
+        "content": "ZJ87A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75047,
+        "user": "sky",
+        "content": "ZJ69A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75059,
+        "user": "sky",
+        "content": "差不多白能下的也就这几个吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75070,
+        "user": "亓亓",
+        "content": "J6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75073,
+        "user": "sky",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75085,
+        "user": "sky",
+        "content": "ZJ69A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75097,
+        "user": "sky",
+        "content": "白想跟这点有联系"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75122,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75129,
+        "user": "sky",
+        "content": "黑怎么办?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75148,
+        "user": "かぇで",
+        "content": "黑的8G"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75160,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75172,
+        "user": "sky",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75173,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75178,
+        "user": "sky",
+        "content": "后面呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75188,
+        "user": "かぇで",
+        "content": "不知道"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75198,
+        "user": "かぇで",
+        "content": "K8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75200,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75200,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75202,
+        "user": "sky",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75207,
+        "user": "sky",
+        "content": "这里怎么样?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75239,
+        "user": "幸福人生",
+        "content": "应该不错吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75245,
+        "user": "皮皮",
+        "content": "做了个简单的VCT"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75250,
+        "user": "かぇで",
+        "content": "不怎么样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75250,
+        "user": "sky",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75256,
+        "user": "幸福人生",
+        "content": "还有K5也可以"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75283,
+        "user": "sky",
+        "content": "差不多这个意思"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75291,
+        "user": "sky",
+        "content": "就是黑做棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75298,
+        "user": "sky",
+        "content": "如果白攻"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75311,
+        "user": "sky",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75320,
+        "user": "sky",
+        "content": "ZJ069"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75326,
+        "user": "sky",
+        "content": "黑就跟一步"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75335,
+        "user": "sky",
+        "content": "白还是没棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75364,
+        "user": "竹影清雨",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75379,
+        "user": "かぇで",
+        "content": "白G8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75401,
+        "user": "かぇで",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75406,
+        "user": "sky",
+        "content": "你来试试"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75409,
+        "user": "かぇで",
+        "content": "我不会走"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75413,
+        "user": "かぇで",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75415,
+        "user": "sky",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75419,
+        "user": "かぇで",
+        "content": "然后怎么走"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75437,
+        "user": "かぇで",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75448,
+        "user": "sky",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75449,
+        "user": "皮皮",
+        "content": "杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75455,
+        "user": "かぇで",
+        "content": "是呀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75457,
+        "user": "sky",
+        "content": "ZJ1c4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75457,
+        "user": "幸福人生",
+        "content": "好恐怖，13下11下面就输了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75458,
+        "user": "sky",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75468,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75488,
+        "user": "sky",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75488,
+        "user": "sky",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75516,
+        "user": "sky",
+        "content": "还有防吗?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75523,
+        "user": "かぇで",
+        "content": "ZJ1d8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75527,
+        "user": "かぇで",
+        "content": "没右了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75529,
+        "user": "sky",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75530,
+        "user": "sky",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75530,
+        "user": "亓亓",
+        "content": "不好吧."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75531,
+        "user": "sky",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75541,
+        "user": "亓亓",
+        "content": "放.25的地方呢>"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75542,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75542,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75542,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75543,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75544,
+        "user": "かぇで",
+        "content": "死了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75549,
+        "user": "sky",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75558,
+        "user": "sky",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75559,
+        "user": "sky",
+        "content": "ZJ173"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75560,
+        "user": "sky",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75560,
+        "user": "sky",
+        "content": "ZJ175"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75561,
+        "user": "sky",
+        "content": "ZJ083"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75562,
+        "user": "sky",
+        "content": "ZJ182"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75563,
+        "user": "sky",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75565,
+        "user": "过客806",
+        "content": "这么跳禁点啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75567,
+        "user": "かぇで",
+        "content": "不行"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75573,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75573,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75574,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75574,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75574,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75575,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75575,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75575,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75579,
+        "user": "sky",
+        "content": "还有哪?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75609,
+        "user": "sky",
+        "content": "米有了就过"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75613,
+        "user": "亓亓",
+        "content": "呒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75614,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75616,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75616,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75617,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75617,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75617,
+        "user": "かぇで",
+        "content": "过"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75617,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75618,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75619,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75619,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 75640,
+        "user": "sky",
+        "content": "ZJc8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75641,
+        "user": "sky",
+        "content": "ZJ95A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75642,
+        "user": "sky",
+        "content": "ZJb5A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75648,
+        "user": "sky",
+        "content": "那就讲这几个吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75657,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75659,
+        "user": "sky",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75675,
+        "user": "sky",
+        "content": "ZJ068"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75680,
+        "user": "sky",
+        "content": "黑做一步"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75690,
+        "user": "sky",
+        "content": "白什么棋都米了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75690,
+        "user": "【水晶】物语",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75706,
+        "user": "sky",
+        "content": "等死了:)"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75717,
+        "user": "飞翔着的10号",
+        "content": "冷静"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75723,
+        "user": "竹影清雨",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75753,
+        "user": "亓亓",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75762,
+        "user": "幸福人生",
+        "content": "。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75774,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75775,
+        "user": "sky",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75780,
+        "user": "sky",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75780,
+        "user": "sky",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75784,
+        "user": "sky",
+        "content": "不对是这样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75815,
+        "user": "sky",
+        "content": "黑先活这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75865,
+        "user": "sky",
+        "content": "后面大家认为该防哪里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75906,
+        "user": "棋棋可儿",
+        "content": "8L"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75906,
+        "user": "过客805",
+        "content": "8K"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75913,
+        "user": "かぇで",
+        "content": "L8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75915,
+        "user": "sky",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75916,
+        "user": "『镇魂歌』偶来了88",
+        "content": "m7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75920,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 75923,
+        "user": "sky",
+        "content": "ZJc8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75924,
+        "user": "sky",
+        "content": "ZJb8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75925,
+        "user": "sky",
+        "content": "ZJd7A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75946,
+        "user": "幸福人生",
+        "content": "防不住啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75946,
+        "user": "竹影清雨",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75959,
+        "user": "亓亓",
+        "content": ",,"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75960,
+        "user": "sky",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75961,
+        "user": "sky",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75966,
+        "user": "sky",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75967,
+        "user": "sky",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75972,
+        "user": "sky",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75973,
+        "user": "sky",
+        "content": "ZJ058"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75974,
+        "user": "sky",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75976,
+        "user": "sky",
+        "content": "ZJ8bA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75980,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75988,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75988,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75989,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75989,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75989,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75991,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75993,
+        "user": "sky",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75993,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75994,
+        "user": "sky",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76003,
+        "user": "sky",
+        "content": "ZJd6A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76005,
+        "user": "sky",
+        "content": "ZJbaB"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76008,
+        "user": "sky",
+        "content": "ZJe7C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76014,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76019,
+        "user": "sky",
+        "content": "防了A后接下去BC杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76038,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76038,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76038,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76039,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76039,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76039,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76040,
+        "user": "sky",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76040,
+        "user": "sky",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76041,
+        "user": "sky",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76042,
+        "user": "sky",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76055,
+        "user": "sky",
+        "content": "ZJ1ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76057,
+        "user": "sky",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76058,
+        "user": "sky",
+        "content": "ZJ1b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76060,
+        "user": "sky",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76061,
+        "user": "sky",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76062,
+        "user": "sky",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76063,
+        "user": "sky",
+        "content": "ZJa5A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76066,
+        "user": "sky",
+        "content": "ZJc5B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76070,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76070,
+        "user": "sky",
+        "content": "双杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76084,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76084,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76084,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76084,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76085,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76085,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76086,
+        "user": "sky",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76086,
+        "user": "sky",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76088,
+        "user": "sky",
+        "content": "ZJcbA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76091,
+        "user": "sky",
+        "content": "ZJd7B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76093,
+        "user": "sky",
+        "content": "ZJe7C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76097,
+        "user": "sky",
+        "content": "双杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76105,
+        "user": "かぇで",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76138,
+        "user": "かぇで",
+        "content": "不是长连呀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76141,
+        "user": "sky",
+        "content": "ZJ1cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76144,
+        "user": "sky",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76145,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76145,
+        "user": "sky",
+        "content": "ZJ0e7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76149,
+        "user": "sky",
+        "content": "??"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76155,
+        "user": "sky",
+        "content": "长连?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76161,
+        "user": "かぇで",
+        "content": "没有"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76165,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76165,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76166,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76166,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76166,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76166,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76166,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76167,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76167,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76167,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76168,
+        "user": "sky",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76169,
+        "user": "sky",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76170,
+        "user": "sky",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76172,
+        "user": "sky",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76174,
+        "user": "sky",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76175,
+        "user": "sky",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76177,
+        "user": "sky",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76179,
+        "user": "【水晶】物语",
+        "content": "SYK老师真仔细~"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76179,
+        "user": "sky",
+        "content": "ZJ58A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76183,
+        "user": "sky",
+        "content": "ZJ8bB"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76194,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76194,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76195,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76195,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76195,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76196,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76197,
+        "user": "sky",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76198,
+        "user": "sky",
+        "content": "ZJ1b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76199,
+        "user": "sky",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76203,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76205,
+        "user": "sky",
+        "content": "ZJ1a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76206,
+        "user": "sky",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76208,
+        "user": "sky",
+        "content": "ZJd6A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76211,
+        "user": "sky",
+        "content": "ZJb6B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76214,
+        "user": "sky",
+        "content": "ZJc8C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76217,
+        "user": "sky",
+        "content": "双杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76241,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76241,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76241,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76241,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76242,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76242,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76242,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76243,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76261,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76261,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76262,
+        "user": "sky",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76267,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76267,
+        "user": "竹影清雨",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76269,
+        "user": "sky",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76300,
+        "user": "sky",
+        "content": "后面也没有了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76317,
+        "user": "亓亓",
+        "content": ",,,"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76330,
+        "user": "sky",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76332,
+        "user": "幸福人生",
+        "content": "换14"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76334,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76334,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76335,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76335,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76335,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76335,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76336,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76336,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76336,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76338,
+        "user": "sky",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76345,
+        "user": "sky",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76348,
+        "user": "sky",
+        "content": "也是这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76369,
+        "user": "亓亓",
+        "content": ","
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76379,
+        "user": "sky",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76380,
+        "user": "sky",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76381,
+        "user": "sky",
+        "content": "ZJ1c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76381,
+        "user": "sky",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76388,
+        "user": "幸福人生",
+        "content": "这个形状不错"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76392,
+        "user": "sky",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76393,
+        "user": "sky",
+        "content": "ZJ0d6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76398,
+        "user": "sky",
+        "content": "杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76414,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76417,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76418,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76418,
+        "user": "sky",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76439,
+        "user": "sky",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76446,
+        "user": "sky",
+        "content": "杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76465,
+        "user": "过客815",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76469,
+        "user": "『镇魂歌』傷傷",
+        "content": "g"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76470,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76478,
+        "user": "sky",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76483,
+        "user": "亓亓",
+        "content": ","
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76502,
+        "user": "sky",
+        "content": "ZJ1ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76505,
+        "user": "sky",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76506,
+        "user": "sky",
+        "content": "ZJ1ea"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76507,
+        "user": "sky",
+        "content": "ZJ0e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76508,
+        "user": "sky",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76516,
+        "user": "sky",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76517,
+        "user": "sky",
+        "content": "ZJ1b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76518,
+        "user": "sky",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76519,
+        "user": "sky",
+        "content": "ZJ1fa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76520,
+        "user": "sky",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76520,
+        "user": "sky",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76521,
+        "user": "sky",
+        "content": "ZJ0d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76522,
+        "user": "sky",
+        "content": "ZJ1e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76523,
+        "user": "sky",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76549,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76549,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76549,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76549,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76549,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76549,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76550,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76550,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76550,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76550,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76550,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76551,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76551,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76551,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76551,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76551,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76552,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76552,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76552,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76552,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76552,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76553,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76554,
+        "user": "sky",
+        "content": "ZJ1b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76555,
+        "user": "sky",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76556,
+        "user": "sky",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76559,
+        "user": "sky",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76574,
+        "user": "sky",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76576,
+        "user": "sky",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76583,
+        "user": "sky",
+        "content": "杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76592,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76613,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76613,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76613,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76613,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76614,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76614,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76615,
+        "user": "sky",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76615,
+        "user": "sky",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76634,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76635,
+        "user": "sky",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76656,
+        "user": "sky",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76657,
+        "user": "sky",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76661,
+        "user": "sky",
+        "content": "双杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76675,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76676,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76676,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76677,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76677,
+        "user": "亓亓",
+        "content": ",,"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76677,
+        "user": "sky",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76678,
+        "user": "sky",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76679,
+        "user": "sky",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76680,
+        "user": "sky",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76686,
+        "user": "亓亓",
+        "content": "杀了."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76687,
+        "user": "sky",
+        "content": "双杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76701,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76701,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76701,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76701,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76702,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76702,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76702,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76703,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76704,
+        "user": "sky",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76705,
+        "user": "sky",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76713,
+        "user": "sky",
+        "content": "直接叫杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76722,
+        "user": "sky",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76725,
+        "user": "sky",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76726,
+        "user": "sky",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76736,
+        "user": "sky",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76738,
+        "user": "sky",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76741,
+        "user": "sky",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76742,
+        "user": "sky",
+        "content": "ZJ1c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76743,
+        "user": "sky",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76758,
+        "user": "空空",
+        "content": "k5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76771,
+        "user": "sky",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76776,
+        "user": "亓亓",
+        "content": ",,"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76779,
+        "user": "sky",
+        "content": "ZJ095"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76782,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76782,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76785,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76791,
+        "user": "sky",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76816,
+        "user": "sky",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76817,
+        "user": "sky",
+        "content": "ZJ093"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76829,
+        "user": "『镇魂歌』傷傷",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76835,
+        "user": "亓亓",
+        "content": "下面."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76844,
+        "user": "sky",
+        "content": "ZJ182"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76845,
+        "user": "sky",
+        "content": "ZJ073"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76846,
+        "user": "sky",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76846,
+        "user": "sky",
+        "content": "ZJ0b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76848,
+        "user": "sky",
+        "content": "ZJ1c2"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76849,
+        "user": "sky",
+        "content": "ZJ0a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76850,
+        "user": "sky",
+        "content": "ZJ183"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76852,
+        "user": "sky",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76864,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76864,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76864,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76865,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76865,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76866,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76866,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76866,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76867,
+        "user": "sky",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76868,
+        "user": "sky",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76869,
+        "user": "sky",
+        "content": "ZJ182"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76871,
+        "user": "竹影清雨",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76874,
+        "user": "sky",
+        "content": "ZJ075"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76898,
+        "user": "sky",
+        "content": "米了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76905,
+        "user": "亓亓",
+        "content": ",,,"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76914,
+        "user": "●品棋○",
+        "content": "："
+    },
+    {
+        "action": "TALK",
+        "time_int": 76918,
+        "user": "●品棋○",
+        "content": "大家好！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76925,
+        "user": "sky",
+        "content": "ZJ1a2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76931,
+        "user": "无可无不可",
+        "content": "到处都是特务"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76932,
+        "user": "sky",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76933,
+        "user": "sky",
+        "content": "ZJ173"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76933,
+        "user": "sky",
+        "content": "ZJ066"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76934,
+        "user": "sky",
+        "content": "ZJ156"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76935,
+        "user": "sky",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76935,
+        "user": "sky",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76937,
+        "user": "sky",
+        "content": "ZJ065"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76937,
+        "user": "sky",
+        "content": "ZJ155"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76938,
+        "user": "sky",
+        "content": "ZJ064"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76943,
+        "user": "『镇魂歌』傷傷",
+        "content": ","
+    },
+    {
+        "action": "BACK",
+        "time_int": 76949,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76949,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76949,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76949,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76949,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76950,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76950,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76950,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76950,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76950,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76950,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76951,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76951,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76951,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 76951,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76951,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76951,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76951,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76952,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76952,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76952,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76952,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76953,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76953,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76953,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76954,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76962,
+        "user": "sky",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76999,
+        "user": "sky",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77001,
+        "user": "sky",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77001,
+        "user": "sky",
+        "content": "ZJ1c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77002,
+        "user": "sky",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77003,
+        "user": "sky",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77010,
+        "user": "sky",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77011,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77012,
+        "user": "sky",
+        "content": "ZJ0e8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77013,
+        "user": "『镇魂歌』傷傷",
+        "content": "."
+    },
+    {
+        "action": "MARK",
+        "time_int": 77015,
+        "user": "sky",
+        "content": "ZJe7A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77017,
+        "user": "sky",
+        "content": "ZJe5A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77021,
+        "user": "sky",
+        "content": "也米了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77026,
+        "user": "亓亓",
+        "content": ","
+    },
+    {
+        "action": "TALK",
+        "time_int": 77031,
+        "user": "sky",
+        "content": "所以这个16死了"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 77040,
+        "user": "sky",
+        "content": 15
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77041,
+        "user": "sky",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77065,
+        "user": "sky",
+        "content": "大家说说现在黑怎么走?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77089,
+        "user": "空空",
+        "content": "k10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77116,
+        "user": "sky",
+        "content": "对了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77120,
+        "user": "棋棋可儿",
+        "content": "7L"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77124,
+        "user": "sky",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77125,
+        "user": "sky",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77146,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77151,
+        "user": "sky",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77154,
+        "user": "sky",
+        "content": "再这样"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77178,
+        "user": "sky",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77178,
+        "user": "sky",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77209,
+        "user": "『镇魂歌』傷傷",
+        "content": ","
+    },
+    {
+        "action": "TALK",
+        "time_int": 77218,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77219,
+        "user": "sky",
+        "content": "这步是叫VCF"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77227,
+        "user": "sky",
+        "content": "ZJ1f1"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77228,
+        "user": "sky",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77229,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77230,
+        "user": "sky",
+        "content": "ZJ0e7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77230,
+        "user": "sky",
+        "content": "ZJ1f7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77231,
+        "user": "sky",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77232,
+        "user": "sky",
+        "content": "ZJ1d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77233,
+        "user": "sky",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77233,
+        "user": "sky",
+        "content": "ZJ18d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77234,
+        "user": "sky",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77235,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77235,
+        "user": "sky",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 77251,
+        "user": "sky",
+        "content": 21
+    },
+    {
+        "action": "TALK",
+        "time_int": 77253,
+        "user": "皮皮",
+        "content": "很难看出的V呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77261,
+        "user": "sky",
+        "content": "现在知了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77263,
+        "user": "幸福人生",
+        "content": "在L9也一个意思吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77266,
+        "user": "皮皮",
+        "content": "是的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77277,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77278,
+        "user": "sky",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77280,
+        "user": "sky",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77295,
+        "user": "sky",
+        "content": "这个比较明显"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77302,
+        "user": "竹影清雨",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77311,
+        "user": "sky",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77317,
+        "user": "sky",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77331,
+        "user": "sky",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77332,
+        "user": "sky",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77350,
+        "user": "sky",
+        "content": "ZJ1dc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77352,
+        "user": "sky",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77353,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77355,
+        "user": "sky",
+        "content": "ZJ0da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77356,
+        "user": "sky",
+        "content": "ZJ1eb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77357,
+        "user": "sky",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77358,
+        "user": "sky",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77358,
+        "user": "sky",
+        "content": "ZJ0ad"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77373,
+        "user": "『镇魂歌』傷傷",
+        "content": "好帅@_@"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77386,
+        "user": "亓亓",
+        "content": "= ="
+    },
+    {
+        "action": "TALK",
+        "time_int": 77434,
+        "user": "sky",
+        "content": "还有问题吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77443,
+        "user": "【水晶】物语",
+        "content": "没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77444,
+        "user": "亓亓",
+        "content": ",米."
+    },
+    {
+        "action": "BACK",
+        "time_int": 77446,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77447,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77447,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77447,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77447,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77447,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77448,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77448,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77448,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77448,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77448,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77449,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77449,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77449,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77450,
+        "user": "sky",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77451,
+        "user": "sky",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77452,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77452,
+        "user": "sky",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77454,
+        "user": "sky",
+        "content": "ZJe7A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77455,
+        "user": "sky",
+        "content": "ZJd6A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77458,
+        "user": "sky",
+        "content": "这个太弱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77460,
+        "user": "『镇魂歌』偶来了88",
+        "content": "抱歉，我有急事先走了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77468,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77468,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77469,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77469,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77470,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77471,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77472,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77472,
+        "user": "sky",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77482,
+        "user": "sky",
+        "content": "刚才有人说下这"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77484,
+        "user": "sky",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77495,
+        "user": "sky",
+        "content": "下步黑怎么下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77511,
+        "user": "皮皮",
+        "content": "不是跳活3吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77515,
+        "user": "sky",
+        "content": "嗯"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77517,
+        "user": "sky",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77544,
+        "user": "sky",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77545,
+        "user": "sky",
+        "content": "ZJabA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77546,
+        "user": "sky",
+        "content": "ZJc9A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77551,
+        "user": "sky",
+        "content": "这个一样"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77553,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77554,
+        "user": "sky",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77559,
+        "user": "亓亓",
+        "content": ",'"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77565,
+        "user": "sky",
+        "content": "ZJc9A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77566,
+        "user": "sky",
+        "content": "ZJabA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77570,
+        "user": "sky",
+        "content": "也一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77587,
+        "user": "幸福人生",
+        "content": "也能杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77611,
+        "user": "sky",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77613,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77614,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77614,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77614,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77614,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77615,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77615,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77615,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77618,
+        "user": "幸福人生",
+        "content": "与顺序无关"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77634,
+        "user": "sky",
+        "content": "米问题了吧?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77639,
+        "user": "【水晶】物语",
+        "content": "米"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77642,
+        "user": "亓亓",
+        "content": "没."
+    },
+    {
+        "action": "BACK",
+        "time_int": 77645,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77646,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77646,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77646,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77647,
+        "user": "sky",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77648,
+        "user": "竹影清雨",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77648,
+        "user": "sky",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77659,
+        "user": "sky",
+        "content": "这个也相当于跟前面一样了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77670,
+        "user": "sky",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77671,
+        "user": "sky",
+        "content": "ZJ069"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77673,
+        "user": "亓亓",
+        "content": "简单杀.- -嗯."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77676,
+        "user": "幸福人生",
+        "content": "有问题再来向你请教吧，HOHO"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77679,
+        "user": "sky",
+        "content": "就是10-12换一下"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77690,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77690,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77691,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77691,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77691,
+        "user": "sky",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77697,
+        "user": "sky",
+        "content": "最后一个"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77701,
+        "user": "sky",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77730,
+        "user": "sky",
+        "content": "9挡了4-8``1挡了2-10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77734,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77748,
+        "user": "虞旭鹏",
+        "content": "0"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77750,
+        "user": "sky",
+        "content": "同样白没什么好办法"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77761,
+        "user": "sky",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77762,
+        "user": "sky",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77767,
+        "user": "sky",
+        "content": "再挡"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77799,
+        "user": "sky",
+        "content": "后面简单杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77827,
+        "user": "sky",
+        "content": "还用讲下去吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77855,
+        "user": "天使之吻",
+        "content": "要"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77867,
+        "user": "幸福人生",
+        "content": "回头下去看看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77868,
+        "user": "sky",
+        "content": "那你说个点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77881,
+        "user": "sky",
+        "content": "我给你演示一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77905,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77905,
+        "user": "幸福人生",
+        "content": "防不住"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77914,
+        "user": "天使之吻",
+        "content": "好象是没了哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77923,
+        "user": "亓亓",
+        "content": ","
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77935,
+        "user": "sky",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77935,
+        "user": "sky",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77938,
+        "user": "过客816",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 77941,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77941,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77942,
+        "user": "sky",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77942,
+        "user": "sky",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77947,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77948,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77948,
+        "user": "sky",
+        "content": "ZJ194"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77949,
+        "user": "sky",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77950,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77950,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77957,
+        "user": "sky",
+        "content": "挡不了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77961,
+        "user": "sky",
+        "content": "ZJ03d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77963,
+        "user": "sky",
+        "content": "ZJ04d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77964,
+        "user": "sky",
+        "content": "ZJ02c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77965,
+        "user": "sky",
+        "content": "ZJ0cd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77967,
+        "user": "sky",
+        "content": "ZJ0dd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77967,
+        "user": "sky",
+        "content": "ZJ0cc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77969,
+        "user": "『镇魂歌』傷傷",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77969,
+        "user": "sky",
+        "content": "ZJ024"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77970,
+        "user": "sky",
+        "content": "ZJ023"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77971,
+        "user": "sky",
+        "content": "ZJ043"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77980,
+        "user": "sky",
+        "content": "这种都叫成角``"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77990,
+        "user": "sky",
+        "content": "攻势力很强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77991,
+        "user": "幸福人生",
+        "content": "哦"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78014,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78014,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78015,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78015,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78015,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78015,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78015,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78016,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78016,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 78021,
+        "user": "sky",
+        "content": "ZJ85A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78024,
+        "user": "sky",
+        "content": "ZJ84A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78024,
+        "user": "8283726",
+        "content": "我都掉晕了"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78025,
+        "user": "sky",
+        "content": "ZJ83A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78026,
+        "user": "sky",
+        "content": "ZJ95A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78036,
+        "user": "sky",
+        "content": "何况还有这里可用上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78047,
+        "user": "sky",
+        "content": "所以没防了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78050,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78050,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78051,
+        "user": "sky",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78054,
+        "user": "幸福人生",
+        "content": "眠三再拐一个2的攻击力也很强吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78060,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78064,
+        "user": "幸福人生",
+        "content": "老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78067,
+        "user": "sky",
+        "content": "这个12算最强的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78076,
+        "user": "sky",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78097,
+        "user": "sky",
+        "content": "大家的意见13做哪里最好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78111,
+        "user": "『镇魂歌』傷傷",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 78117,
+        "user": "【水晶】物语",
+        "content": "J6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78136,
+        "user": "sky",
+        "content": "还有吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78149,
+        "user": "『镇魂歌』傷傷",
+        "content": "H5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78155,
+        "user": "无可无不可",
+        "content": "J5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78157,
+        "user": "【水晶】物语",
+        "content": "I5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78191,
+        "user": "过客808",
+        "content": "I5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78195,
+        "user": "sky",
+        "content": "继续说"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78203,
+        "user": "幸福人生",
+        "content": "H4，I5，J5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78209,
+        "user": "皮皮",
+        "content": "I6呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78210,
+        "user": "【水晶】物语",
+        "content": "............"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78213,
+        "user": "过客817",
+        "content": "I6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78221,
+        "user": "sky",
+        "content": "ZJ084"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78225,
+        "user": "sky",
+        "content": "好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78227,
+        "user": "朱天建",
+        "content": "H5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78231,
+        "user": "亓亓",
+        "content": "H4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78244,
+        "user": "亓亓",
+        "content": "H4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78244,
+        "user": "sky",
+        "content": "好多可能杀的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78245,
+        "user": "亓亓",
+        "content": "掉了."
+    },
+    {
+        "action": "TALK",
+        "time_int": 78249,
+        "user": "亓亓",
+        "content": "- -"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78251,
+        "user": "sky",
+        "content": "我没细拆"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78259,
+        "user": "sky",
+        "content": "但我拆的是这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78260,
+        "user": "【水晶】物语",
+        "content": "噢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78266,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 78269,
+        "user": "sky",
+        "content": "1.3.13一个特三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78283,
+        "user": "sky",
+        "content": "比较开阔"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78291,
+        "user": "【水晶】物语",
+        "content": "特3？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78297,
+        "user": "sky",
+        "content": "ZJ04c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78298,
+        "user": "sky",
+        "content": "ZJ06c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78299,
+        "user": "sky",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78299,
+        "user": "『镇魂歌』傷傷",
+        "content": "术语?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78300,
+        "user": "【水晶】物语",
+        "content": "特务3？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78301,
+        "user": "sky",
+        "content": "ZJ04e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78302,
+        "user": "sky",
+        "content": "ZJ05e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78303,
+        "user": "sky",
+        "content": "ZJ07e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78307,
+        "user": "sky",
+        "content": "ZJ13e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78309,
+        "user": "sky",
+        "content": "ZJ13c"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78314,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78314,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78315,
+        "user": "sky",
+        "content": "ZJ18e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78321,
+        "user": "亓亓",
+        "content": "嗯啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78331,
+        "user": "sky",
+        "content": "这种的叫特形三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78337,
+        "user": "sky",
+        "content": "就是可以冲二次"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78341,
+        "user": "sky",
+        "content": "ZJ03e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78342,
+        "user": "sky",
+        "content": "ZJ16e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78342,
+        "user": "sky",
+        "content": "ZJ01e"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78343,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78344,
+        "user": "sky",
+        "content": "ZJ02e"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78344,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78345,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78345,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78346,
+        "user": "sky",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78347,
+        "user": "sky",
+        "content": "ZJ15c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78347,
+        "user": "sky",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78348,
+        "user": "sky",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78349,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78349,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78349,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78350,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78350,
+        "user": "sky",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78351,
+        "user": "sky",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78352,
+        "user": "sky",
+        "content": "ZJ02c"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78353,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78353,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78353,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 78363,
+        "user": "sky",
+        "content": "明白我说的意思"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78369,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78370,
+        "user": "亓亓",
+        "content": "明白."
+    },
+    {
+        "action": "TALK",
+        "time_int": 78372,
+        "user": "【水晶】物语",
+        "content": "噢"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78376,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78376,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78376,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78376,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78377,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78377,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78377,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 78387,
+        "user": "无可无不可",
+        "content": "特型3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78405,
+        "user": "亓亓",
+        "content": "这样防不住了吧."
+    },
+    {
+        "action": "TALK",
+        "time_int": 78419,
+        "user": "sky",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78424,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 78454,
+        "user": "亓亓",
+        "content": "H5 和I5都只能单防了.- -"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78462,
+        "user": "幸福人生",
+        "content": "选几个点讲讲吧"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78466,
+        "user": "sky",
+        "content": "ZJa6A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78467,
+        "user": "sky",
+        "content": "ZJ85A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 78468,
+        "user": "sky",
+        "content": "ZJ87A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78474,
+        "user": "幸福人生",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78491,
+        "user": "sky",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78492,
+        "user": "sky",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78492,
+        "user": "sky",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78493,
+        "user": "sky",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78519,
+        "user": "sky",
+        "content": "ZJ195"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78520,
+        "user": "幸福人生",
+        "content": "这个不用讲了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78520,
+        "user": "sky",
+        "content": "ZJ074"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78522,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78523,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78523,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78523,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78523,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78524,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78525,
+        "user": "sky",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78526,
+        "user": "sky",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78534,
+        "user": "亓亓",
+        "content": "也杀了."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78537,
+        "user": "sky",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78538,
+        "user": "sky",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78539,
+        "user": "sky",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78540,
+        "user": "sky",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78541,
+        "user": "sky",
+        "content": "ZJ183"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78542,
+        "user": "sky",
+        "content": "ZJ0b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78542,
+        "user": "sky",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78549,
+        "user": "sky",
+        "content": "ZJ0c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78549,
+        "user": "sky",
+        "content": "ZJ1b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78551,
+        "user": "sky",
+        "content": "ZJ0e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78551,
+        "user": "sky",
+        "content": "ZJ1d5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78552,
+        "user": "sky",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78552,
+        "user": "sky",
+        "content": "ZJ1d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78556,
+        "user": "sky",
+        "content": "ZJ0d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78557,
+        "user": "sky",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78560,
+        "user": "sky",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78590,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78590,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78590,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78591,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78591,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78591,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78591,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78591,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78591,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78592,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78592,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78592,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78592,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78592,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78592,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78593,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78593,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78593,
+        "user": "sky",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 78594,
+        "user": "亓亓",
+        "content": "算得好快.- -"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78594,
+        "user": "sky",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78595,
+        "user": "sky",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78616,
+        "user": "sky",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78620,
+        "user": "sky",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78622,
+        "user": "sky",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78622,
+        "user": "sky",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78625,
+        "user": "sky",
+        "content": "ZJ193"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78626,
+        "user": "sky",
+        "content": "ZJ082"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78627,
+        "user": "sky",
+        "content": "ZJ183"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78627,
+        "user": "sky",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78632,
+        "user": "sky",
+        "content": "后面也杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78636,
+        "user": "sky",
+        "content": "OK了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78648,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78653,
+        "user": "幸福人生",
+        "content": "OK"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78656,
+        "user": "亓亓",
+        "content": "OK"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78676,
+        "user": "亓亓",
+        "content": "明白"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78681,
+        "user": "幸福人生",
+        "content": "那下课吧，谢谢空老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78685,
+        "user": "sky",
+        "content": "那就下课"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78687,
+        "user": "『镇魂歌』傷傷",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 78689,
+        "user": "亓亓",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78690,
+        "user": "乐棋",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 78691,
+        "user": "",
+        "content": " 8283726, houyi, 『双』小银花, 『镇魂歌』傷傷, 『镇魂歌』叵叵, 【水晶】物语, 【水晶】小雨, 飞翔着的10号, 花落无声, 极地剑客, 乐, 乐棋, 莲珠秀, 敏敏, 棋棋可儿, 桃夭, 玩童, 无可无不可, 幸福人生, 徐永伟, 寻, 虞旭鹏, 朱天建, 竹影清雨, 亓亓."
+    }
+]

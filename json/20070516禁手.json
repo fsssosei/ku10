@@ -1,0 +1,3758 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72782,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72788,
+        "user": "乐",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72793,
+        "user": "董志伟",
+        "content": "老师好~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72796,
+        "user": "【水晶】小雨",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72800,
+        "user": "徐永伟",
+        "content": "欢迎光临浙江五子棋教室"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72801,
+        "user": "【水晶】意",
+        "content": "您好！很高兴见到您！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72812,
+        "user": "爱",
+        "content": "大家好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72813,
+        "user": "徐永伟",
+        "content": "今天我继续做禁手方面的内容"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72813,
+        "user": "88591214",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72818,
+        "user": "【水晶】湘湘",
+        "content": "见到您非常高兴！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72823,
+        "user": "绯雪",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72835,
+        "user": "【水晶】快乐",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72843,
+        "user": "OKOK",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72848,
+        "user": "徐永伟",
+        "content": "在上次的初级课程里，我们讨论了几个关于禁手的判断的问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72861,
+        "user": "徐永伟",
+        "content": "今天我们先来看一个习题"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72869,
+        "user": "徐永伟",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72869,
+        "user": "徐永伟",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72869,
+        "user": "徐永伟",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72870,
+        "user": "徐永伟",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72872,
+        "user": "徐永伟",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72872,
+        "user": "徐永伟",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72875,
+        "user": "徐永伟",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72876,
+        "user": "徐永伟",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72877,
+        "user": "徐永伟",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72880,
+        "user": "徐永伟",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72881,
+        "user": "徐永伟",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72914,
+        "user": "徐永伟",
+        "content": "我们先把禁手的显示关闭，方便等下做禁手的判断"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72938,
+        "user": "徐永伟",
+        "content": "现在这个习题到黑11手后要白棋下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72945,
+        "user": "徐永伟",
+        "content": "如果是你下白的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72961,
+        "user": "徐永伟",
+        "content": "你会怎么下？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72970,
+        "user": "徐永伟",
+        "content": "说下你的思路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72999,
+        "user": "88591214",
+        "content": "J9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73002,
+        "user": "OKOK",
+        "content": "J9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73025,
+        "user": "徐永伟",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73026,
+        "user": "徐永伟",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73031,
+        "user": "徐永伟",
+        "content": "J9的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73039,
+        "user": "hl_love",
+        "content": "G12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73041,
+        "user": "88591214",
+        "content": "E10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73043,
+        "user": "徐永伟",
+        "content": "白现在没V吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73052,
+        "user": "徐永伟",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73078,
+        "user": "徐永伟",
+        "content": "这样的思路不是最好的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73080,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73080,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73081,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73095,
+        "user": "88591214",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73096,
+        "user": "徐永伟",
+        "content": "白12手有更强的手法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73104,
+        "user": "【水晶】心和",
+        "content": "I11？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73106,
+        "user": "幸福人生",
+        "content": "J11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73117,
+        "user": "飞翔着的10号",
+        "content": "G8可以吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73127,
+        "user": "徐永伟",
+        "content": "既然我们的课题是以禁手为主"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73135,
+        "user": "徐永伟",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73136,
+        "user": "【水晶】快乐",
+        "content": "能抓吗"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73138,
+        "user": "徐永伟",
+        "content": "ZJ078"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73159,
+        "user": "徐永伟",
+        "content": "I11肯定不行了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73168,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73168,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73170,
+        "user": "徐永伟",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73171,
+        "user": "徐永伟",
+        "content": "ZJ078"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73178,
+        "user": "徐永伟",
+        "content": "J11的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73182,
+        "user": "徐永伟",
+        "content": "黑13后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73187,
+        "user": "徐永伟",
+        "content": "白怎么选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73198,
+        "user": "无可无不可",
+        "content": "跳"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73200,
+        "user": "徐永伟",
+        "content": "大家说下看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73201,
+        "user": "无可无不可",
+        "content": "四"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73211,
+        "user": "幸福人生",
+        "content": "K12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73219,
+        "user": "幸福人生",
+        "content": "K11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73221,
+        "user": "88591214",
+        "content": "E8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73222,
+        "user": "徐永伟",
+        "content": "K12是冲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73222,
+        "user": "无可无不可",
+        "content": "K11"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73228,
+        "user": "徐永伟",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73229,
+        "user": "徐永伟",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73235,
+        "user": "徐永伟",
+        "content": "然后呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73243,
+        "user": "幸福人生",
+        "content": "K12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73262,
+        "user": "幸福人生",
+        "content": "然后K8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73263,
+        "user": "飞翔着的10号",
+        "content": "G8,G12?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73264,
+        "user": "徐永伟",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73264,
+        "user": "徐永伟",
+        "content": "ZJ0cd"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73280,
+        "user": "幸福人生",
+        "content": "K8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73285,
+        "user": "徐永伟",
+        "content": "G8有棋了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73298,
+        "user": "裁决殿★003",
+        "content": "f8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73309,
+        "user": "徐永伟",
+        "content": "ZJ168"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73309,
+        "user": "【水晶】湘湘",
+        "content": "F8也没"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73316,
+        "user": "飞翔着的10号",
+        "content": "G14的三三禁"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73323,
+        "user": "徐永伟",
+        "content": "ZJ05b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73325,
+        "user": "幸福人生",
+        "content": "K8活呀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73328,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73328,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73330,
+        "user": "徐永伟",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73347,
+        "user": "徐永伟",
+        "content": "这里第一个问题为什么是K8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73364,
+        "user": "幸福人生",
+        "content": "反正左边是禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73384,
+        "user": "hl_love",
+        "content": "限制黑的活三赢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73392,
+        "user": "hl_love",
+        "content": "同时保持先手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73401,
+        "user": "hl_love",
+        "content": "进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73402,
+        "user": "幸福人生",
+        "content": "起到了放守作用"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73403,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73404,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73404,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73405,
+        "user": "徐永伟",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73409,
+        "user": "徐永伟",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73422,
+        "user": "过客309",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73425,
+        "user": "徐永伟",
+        "content": "这个是利用禁手的一种思路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73440,
+        "user": "徐永伟",
+        "content": "需要对禁手的判断有非常好的理解"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73469,
+        "user": "徐永伟",
+        "content": "在今后我们有专门的利用禁手的课程分析"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73477,
+        "user": "徐永伟",
+        "content": "ZJ68A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73500,
+        "user": "徐永伟",
+        "content": "白在J11活三，表面看上去黑可以在G8形成反活三，但白棋利用自己6-8-12的眠三跳冲在A点给黑制造了4*3*3的禁点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73525,
+        "user": "徐永伟",
+        "content": "然后在K8跳活三，这样一方面对黑的活三进行了限制，使这个三不成为真正的活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73541,
+        "user": "徐永伟",
+        "content": "就迫使黑来对白棋进行防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73550,
+        "user": "徐永伟",
+        "content": "但现在防不住了"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73588,
+        "user": "徐永伟",
+        "content": "ZJ7cB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73598,
+        "user": "徐永伟",
+        "content": "黑在这里形成反V的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73609,
+        "user": "徐永伟",
+        "content": "白有自己的VCF进攻"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73612,
+        "user": "徐永伟",
+        "content": "ZJ0f1"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73614,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73614,
+        "user": "徐永伟",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73615,
+        "user": "徐永伟",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73616,
+        "user": "徐永伟",
+        "content": "ZJ0cd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73616,
+        "user": "徐永伟",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73617,
+        "user": "徐永伟",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73618,
+        "user": "徐永伟",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73623,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73623,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73623,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73624,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73624,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73625,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73626,
+        "user": "徐永伟",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73633,
+        "user": "徐永伟",
+        "content": "放中间的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73639,
+        "user": "徐永伟",
+        "content": "白有先手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73646,
+        "user": "幸福人生",
+        "content": "I12杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73661,
+        "user": "徐永伟",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73662,
+        "user": "徐永伟",
+        "content": "ZJ0cd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73662,
+        "user": "徐永伟",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73669,
+        "user": "徐永伟",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73694,
+        "user": "徐永伟",
+        "content": "这样白就胜了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73699,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73699,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73700,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73701,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73723,
+        "user": "徐永伟",
+        "content": "这里最重要的就是给A点制造了禁点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73760,
+        "user": "徐永伟",
+        "content": "同时限制了黑的活三无法成为真正的活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73765,
+        "user": "花落无声",
+        "content": "请问我如何报道登记"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73784,
+        "user": "裁决殿★003",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73787,
+        "user": "徐永伟",
+        "content": "在五子棋里，禁手是非常重要的一贯环节"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73835,
+        "user": "【水晶】肘子",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73845,
+        "user": "徐永伟",
+        "content": "而且也使五子棋形成了以设置禁点和躲避禁点的不动的思维方法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73868,
+        "user": "徐永伟",
+        "content": "接下去我们继续做禁手的识别的内容"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73883,
+        "user": "徐永伟",
+        "content": "一方面是巩固上次的课程内容"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73901,
+        "user": "徐永伟",
+        "content": "同时也可以对禁手有更好的判断能力"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 73902,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73922,
+        "user": "徐永伟",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73923,
+        "user": "徐永伟",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73924,
+        "user": "徐永伟",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73924,
+        "user": "徐永伟",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73926,
+        "user": "徐永伟",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73926,
+        "user": "徐永伟",
+        "content": "ZJ074"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73927,
+        "user": "徐永伟",
+        "content": "ZJ066"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73928,
+        "user": "徐永伟",
+        "content": "ZJ065"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73931,
+        "user": "徐永伟",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73951,
+        "user": "徐永伟",
+        "content": "不知道多少人关闭了禁手的显示功能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73974,
+        "user": "88591214",
+        "content": "怎么关闭"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73978,
+        "user": "园园",
+        "content": "徐老师，能不能同时讲下怎么跳出禁手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74002,
+        "user": "徐永伟",
+        "content": "把禁手边上的勾取消"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74025,
+        "user": "88591214",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74030,
+        "user": "徐永伟",
+        "content": "不是跳出，是躲开禁手吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74044,
+        "user": "hl_love",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74051,
+        "user": "爱",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74051,
+        "user": "【水晶】湘湘",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74055,
+        "user": "徐永伟",
+        "content": "偶今天也学小天"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74059,
+        "user": "爱",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74059,
+        "user": "园园",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74066,
+        "user": "hl_love",
+        "content": "到"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 74066,
+        "user": "",
+        "content": " 【水晶】意, 幸福人生, 【水晶】小雨, 飞翔着的10号, yyyezi, 桃夭, 园园, 董志伟, 乐, 敏敏, 【水晶】春天, AUTHOR, 绯雪, 冰凌, 蝈蝈, 【水晶】如风, 天使之吻, gumuyuan, OKOK, ndh003, 花落无声, 叛逆鈊鎖, 【水晶】海天, 裁决殿★003, 【水晶】鸣鸣, xinye, 蛐蛐, 想想."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74066,
+        "user": "徐永伟",
+        "content": "点名可不分时间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74068,
+        "user": "裁决殿★003",
+        "content": "高"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74079,
+        "user": "绯雪",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74086,
+        "user": "飞翔着的10号",
+        "content": "....."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74104,
+        "user": "绯雪",
+        "content": "教师等下可不可以不要点呐"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74121,
+        "user": "徐永伟",
+        "content": "现在我们来判断下我们看到的A点是不是禁点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74131,
+        "user": "爱",
+        "content": "我也答了呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74139,
+        "user": "董志伟",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74145,
+        "user": "徐永伟",
+        "content": "现在的A点是禁吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74148,
+        "user": "爱",
+        "content": "我答到了怎么没有我啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74149,
+        "user": "徐永伟",
+        "content": "为什么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74152,
+        "user": "董志伟",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74175,
+        "user": "董志伟",
+        "content": "33禁手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74182,
+        "user": "爱",
+        "content": "不是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74186,
+        "user": "88591214",
+        "content": "老师我刚离开一会你就点名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74187,
+        "user": "徐永伟",
+        "content": "怎么判断的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74191,
+        "user": "hl_love",
+        "content": "不是禁受"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74209,
+        "user": "yyyezi",
+        "content": "2、8和3、4形成 33禁"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74230,
+        "user": "徐永伟",
+        "content": "ZJ76B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74250,
+        "user": "徐永伟",
+        "content": "A3-4是活三没错"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74270,
+        "user": "徐永伟",
+        "content": "但8-2-A想成为活三的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74273,
+        "user": "幸福人生",
+        "content": "真够复杂的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74285,
+        "user": "徐永伟",
+        "content": "必须具备能够形成活四的能力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74299,
+        "user": "幸福人生",
+        "content": "是活3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74299,
+        "user": "徐永伟",
+        "content": "要形成活四必须下在B点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74325,
+        "user": "徐永伟",
+        "content": "那么现在的问题B点黑可以下吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74337,
+        "user": "幸福人生",
+        "content": "因为7-B-4不是活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74342,
+        "user": "园园",
+        "content": "不可以，也是禁手"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74356,
+        "user": "徐永伟",
+        "content": "ZJ86C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74369,
+        "user": "爱",
+        "content": "这个是多重禁手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74376,
+        "user": "幸福人生",
+        "content": "C是禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74386,
+        "user": "裁决殿★003",
+        "content": "74 12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74405,
+        "user": "幸福人生",
+        "content": "B可以下子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74414,
+        "user": "徐永伟",
+        "content": "要判断B点是不是可以落子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74417,
+        "user": "园园",
+        "content": "都是黑棋，没有白棋，下到一起当然全部是禁手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74432,
+        "user": "88591214",
+        "content": "如意姐姐好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74439,
+        "user": "徐永伟",
+        "content": "需要考虑的是C点能够不能够落子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74443,
+        "user": "如意",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74450,
+        "user": "徐永伟",
+        "content": "从表面来看B点是一个4*3*3的构成点，我们就必须来判断这里的4*3*3构成点是不是禁点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74505,
+        "user": "徐永伟",
+        "content": "我们假设在B点也落下了黑子，就出现了A-B-2-8的活四和5-6-B线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74524,
+        "user": "徐永伟",
+        "content": "B-4-7线的两个三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74550,
+        "user": "徐永伟",
+        "content": "5-6-B线三是活三，可以形成活四"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74577,
+        "user": "徐永伟",
+        "content": "4-7-B的三想活四的话只有下在C点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74595,
+        "user": "徐永伟",
+        "content": "那么现在C点是不是禁点呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74612,
+        "user": "无可无不可",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74616,
+        "user": "裁决殿★003",
+        "content": "当然"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74626,
+        "user": "无可无不可",
+        "content": "三三三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74626,
+        "user": "徐永伟",
+        "content": "既然这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74647,
+        "user": "徐永伟",
+        "content": "那么这里的C点就成了4*3*3的禁点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74663,
+        "user": "徐永伟",
+        "content": "们就反过来推断，，B点也就不是禁点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74676,
+        "user": "徐永伟",
+        "content": "也就是说A点同时形成了两个活三，所以A点为3*3禁点。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74700,
+        "user": "徐永伟",
+        "content": "我们这里说的B点不是禁点，是在什么样的情况下的判断"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74702,
+        "user": "过客310",
+        "content": "有没有简单的判定方法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74703,
+        "user": "徐永伟",
+        "content": "大家知道吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74733,
+        "user": "无可无不可",
+        "content": "是走A以后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74741,
+        "user": "徐永伟",
+        "content": "如果单纯地判断，这里的B点也是禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74745,
+        "user": "徐永伟",
+        "content": "对"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74745,
+        "user": "幸福人生",
+        "content": "假设A有子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74751,
+        "user": "【水晶】心和",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74755,
+        "user": "徐永伟",
+        "content": "幸福说的没错"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74769,
+        "user": "园园",
+        "content": "可是2 B 8 和B 5 6是禁手啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74783,
+        "user": "徐永伟",
+        "content": "刚才说的B点不是禁是在假设A点落子的情况下的判断"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74786,
+        "user": "88591214",
+        "content": "那反过来看B点不也就是禁了吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74810,
+        "user": "徐永伟",
+        "content": "这样的推断虽然很烦琐，但却是正确的推断方法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74823,
+        "user": "徐永伟",
+        "content": "禁手不是凭感觉去想的，他是有定义和规则可以寻找"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74835,
+        "user": "园园",
+        "content": "恩，这样就不是禁手了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74841,
+        "user": "徐永伟",
+        "content": "如果有人问我有没有简单的方法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74847,
+        "user": "徐永伟",
+        "content": "我是没有的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74869,
+        "user": "无可无不可",
+        "content": "简单的方法是增强计算和判断力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74872,
+        "user": "徐永伟",
+        "content": "其实多重禁手，这个算是比较简单的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74883,
+        "user": "88591214",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74893,
+        "user": "徐永伟",
+        "content": "多增加这样的练习，这对以后大家遇到禁手的判断是有帮助的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74897,
+        "user": "幸福人生",
+        "content": "循环了的怎么办？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74929,
+        "user": "徐永伟",
+        "content": "记得浙江教室刚开始的时候，我们讲过一个5次判断的禁手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74958,
+        "user": "徐永伟",
+        "content": "不过那个好象太复杂了，现实比赛中根本不可能遇到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74962,
+        "user": "过客310",
+        "content": "反来反去绕死人的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74968,
+        "user": "徐永伟",
+        "content": "所以我们这里就不说了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74971,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 74972,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74973,
+        "user": "徐永伟",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74974,
+        "user": "徐永伟",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74975,
+        "user": "徐永伟",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74975,
+        "user": "徐永伟",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74976,
+        "user": "徐永伟",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74976,
+        "user": "徐永伟",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74976,
+        "user": "徐永伟",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74977,
+        "user": "徐永伟",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74981,
+        "user": "爱",
+        "content": "那实战其实遇上这种情况的概率和中500万彩票差不多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74983,
+        "user": "让心情放飞",
+        "content": "可以讲一点很实用的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74984,
+        "user": "徐永伟",
+        "content": "我们来看这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75022,
+        "user": "徐永伟",
+        "content": "这个也是安东教室用来增加学员对禁手判断的课程"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75036,
+        "user": "徐永伟",
+        "content": "记得我01年的时候在那边"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75049,
+        "user": "徐永伟",
+        "content": "就被这个搞混了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75061,
+        "user": "88591214",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75065,
+        "user": "【水晶】湘湘",
+        "content": "抱歉，我有急事先走了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75071,
+        "user": "无可无不可",
+        "content": "很好的构思啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75075,
+        "user": "徐永伟",
+        "content": "现在，大家说下看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75083,
+        "user": "徐永伟",
+        "content": "这里有几个禁点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75100,
+        "user": "园园",
+        "content": "有假设的点吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75118,
+        "user": "徐永伟",
+        "content": "不用假设"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75127,
+        "user": "徐永伟",
+        "content": "禁点有几个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75140,
+        "user": "园园",
+        "content": "那几个X就是几个禁手吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75148,
+        "user": "幸福人生",
+        "content": "3乘4=12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75164,
+        "user": "幸福人生",
+        "content": "同形"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75171,
+        "user": "徐永伟",
+        "content": "为什么不是16个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75190,
+        "user": "幸福人生",
+        "content": "中间不是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75199,
+        "user": "徐永伟",
+        "content": "为什么中间的不是"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75202,
+        "user": "徐永伟",
+        "content": "ZJ99A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75202,
+        "user": "园园",
+        "content": "老师就是老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75203,
+        "user": "裁决殿★003",
+        "content": "433"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75206,
+        "user": "徐永伟",
+        "content": "ZJa9B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75208,
+        "user": "过客310",
+        "content": "9494"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75212,
+        "user": "徐永伟",
+        "content": "ZJa8C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75216,
+        "user": "徐永伟",
+        "content": "ZJ98D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75229,
+        "user": "幸福人生",
+        "content": "B是A就不是了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75233,
+        "user": "徐永伟",
+        "content": "幸福你来做说明可以吗"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75245,
+        "user": "幸福人生",
+        "content": "ZJ0f1"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75252,
+        "user": "幸福人生",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75253,
+        "user": "幸福人生",
+        "content": "ZJ099"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75301,
+        "user": "幸福人生",
+        "content": "这样一个活3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75301,
+        "user": "徐永伟",
+        "content": "这里为什么不是3*3*3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75312,
+        "user": "幸福人生",
+        "content": "1-9-4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75320,
+        "user": "徐永伟",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75330,
+        "user": "徐永伟",
+        "content": "其他的两个呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75337,
+        "user": "徐永伟",
+        "content": "怎么不是活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75339,
+        "user": "【水晶】心和",
+        "content": "只有一个活3 其他都是禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75339,
+        "user": "幸福人生",
+        "content": "因为J9不能下子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75355,
+        "user": "幸福人生",
+        "content": "I8也不能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75364,
+        "user": "徐永伟",
+        "content": "恩，谢谢你"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75370,
+        "user": "幸福人生",
+        "content": "33禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75376,
+        "user": "徐永伟",
+        "content": "因为这里的J9和I8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75392,
+        "user": "桃夭",
+        "content": "老师，为什么中间的不是禁，不明白：（（"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75395,
+        "user": "徐永伟",
+        "content": "都是4*3*3的禁点"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75401,
+        "user": "徐永伟",
+        "content": "ZJa9A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75409,
+        "user": "徐永伟",
+        "content": "比如这里的A点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75445,
+        "user": "过客310",
+        "content": "混了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75457,
+        "user": "徐永伟",
+        "content": "他是4-A-7和3-A-6的活三构成点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75464,
+        "user": "【水晶】心和",
+        "content": "因为走了9以后 J9I8都是禁点 不能落子"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75475,
+        "user": "徐永伟",
+        "content": "ZJ98B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75484,
+        "user": "徐永伟",
+        "content": "同样的B点也是一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75496,
+        "user": "无可无不可",
+        "content": "所以只有一个三现在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75511,
+        "user": "徐永伟",
+        "content": "那么这里面的四个点其实是同一个形状"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75525,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75530,
+        "user": "徐永伟",
+        "content": "是对称的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75560,
+        "user": "徐永伟",
+        "content": "这样一来，也就是说在黑棋中间的4个点不是禁点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75613,
+        "user": "【水晶】心和",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75618,
+        "user": "园园",
+        "content": "懂了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75638,
+        "user": "徐永伟",
+        "content": "没有什么问题的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75657,
+        "user": "徐永伟",
+        "content": "我们对禁的了解就到这里结束"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75675,
+        "user": "徐永伟",
+        "content": "接下去我们看面的概念"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 75678,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75697,
+        "user": "徐永伟",
+        "content": "进攻与拓展是五子棋永恒的主题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75708,
+        "user": "徐永伟",
+        "content": "无论规则怎么改变，这里的理论都是适用的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75720,
+        "user": "徐永伟",
+        "content": "我们经常听到许多人说的做棋，其实做棋就是线和面的组合"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75733,
+        "user": "徐永伟",
+        "content": "他们必须符合可以增加连接、能够占居强大的空间这两条原则"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75754,
+        "user": "徐永伟",
+        "content": "单一的子我们称为点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75782,
+        "user": "徐永伟",
+        "content": "当有多个同色棋子在一起的时候就会形成面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75801,
+        "user": "徐永伟",
+        "content": "但这个面的作用到底有多大"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75818,
+        "user": "徐永伟",
+        "content": "是我们讨论的问题，也是五子棋最基本的理论"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75823,
+        "user": "徐永伟",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75824,
+        "user": "徐永伟",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75830,
+        "user": "【水晶】如风",
+        "content": "2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75863,
+        "user": "徐永伟",
+        "content": "黑在阳线的二的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75918,
+        "user": "徐永伟",
+        "content": "我们把可以形成活三的点称为进攻点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75931,
+        "user": "徐永伟",
+        "content": "是对手必须防守的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75982,
+        "user": "徐永伟",
+        "content": "那么把一些连接成二的点称为间接进攻+"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75995,
+        "user": "徐永伟",
+        "content": "间接进攻我们也称为拓展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76025,
+        "user": "徐永伟",
+        "content": "那么当这样两个棋子存在的时候"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76055,
+        "user": "徐永伟",
+        "content": "他们分别有多少这样的点呢"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76058,
+        "user": "徐永伟",
+        "content": "ZJa8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76060,
+        "user": "徐永伟",
+        "content": "ZJb8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76062,
+        "user": "徐永伟",
+        "content": "ZJ78A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76064,
+        "user": "徐永伟",
+        "content": "ZJ68A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76076,
+        "user": "徐永伟",
+        "content": "直接进攻的点有四个"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76108,
+        "user": "徐永伟",
+        "content": "ZJc8B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76112,
+        "user": "徐永伟",
+        "content": "ZJ58B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76115,
+        "user": "徐永伟",
+        "content": "有2个点可以使下步形成眠三。我们用字母B表示"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76134,
+        "user": "徐永伟",
+        "content": "ZJ99X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76137,
+        "user": "徐永伟",
+        "content": "ZJ89X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76141,
+        "user": "徐永伟",
+        "content": "ZJ97X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76144,
+        "user": "徐永伟",
+        "content": "ZJ87X"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76147,
+        "user": "徐永伟",
+        "content": "有4个可以和盘面的两个黑子在下步同时形成活二的交叉点，我们用字母X表示"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76164,
+        "user": "徐永伟",
+        "content": "另外还有28个可以和盘面的某一手黑棋形成活二的连接点"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76178,
+        "user": "徐永伟",
+        "content": "ZJb6C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76182,
+        "user": "徐永伟",
+        "content": "比如这个点"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76197,
+        "user": "徐永伟",
+        "content": "ZJcbC"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76204,
+        "user": "徐永伟",
+        "content": "或者更远"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76226,
+        "user": "徐永伟",
+        "content": "这些点都属于间接进攻的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76247,
+        "user": "徐永伟",
+        "content": "两颗黑子的拓展区域是非常广的。是棋盘的7*8格区域"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76274,
+        "user": "徐永伟",
+        "content": "这样也就说明一个问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76294,
+        "user": "徐永伟",
+        "content": "一旦形成了一个局部的面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76309,
+        "user": "徐永伟",
+        "content": "如果对手的子力是零的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76322,
+        "user": "徐永伟",
+        "content": "那么他的扩展能力是非常强的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76389,
+        "user": "徐永伟",
+        "content": "在疏星对局中盘后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76418,
+        "user": "徐永伟",
+        "content": "我们经常可以看见会把单个子力下到比较远的地方"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76456,
+        "user": "叛逆鈊鎖",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76458,
+        "user": "88591214",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76459,
+        "user": "徐永伟",
+        "content": "对手没子力的范围，目的就是期待下步能够形成面"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 76468,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76468,
+        "user": "88591214",
+        "content": "哦"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76469,
+        "user": "徐永伟",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76470,
+        "user": "徐永伟",
+        "content": "ZJ099"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76481,
+        "user": "【水晶】如风",
+        "content": "3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76489,
+        "user": "徐永伟",
+        "content": "这个是斜线的二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76501,
+        "user": "徐永伟",
+        "content": "那么和刚才的有什么不同吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76532,
+        "user": "徐永伟",
+        "content": "就进攻性来说，他们是一样"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76538,
+        "user": "徐永伟",
+        "content": "ZJa8X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76541,
+        "user": "徐永伟",
+        "content": "ZJ97X"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76548,
+        "user": "徐永伟",
+        "content": "ZJ98X"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76563,
+        "user": "徐永伟",
+        "content": "但有6个可以和盘面的两个黑子在下步同时形成活二的交叉点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76588,
+        "user": "徐永伟",
+        "content": "另外还有24个可以和盘面的某一手黑棋形成活二的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76606,
+        "user": "徐永伟",
+        "content": "这里可以直接同时形成活二交叉点的点增加了2个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76618,
+        "user": "徐永伟",
+        "content": "但可以和某个黑棋形成活二的却少了4个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76630,
+        "user": "徐永伟",
+        "content": "那么我们就会有这样的问题，阳线的二好呢还是阴线的二更好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76650,
+        "user": "爱",
+        "content": "阴"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76655,
+        "user": "园园",
+        "content": "阴线的吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76666,
+        "user": "徐永伟",
+        "content": "五子棋中决定胜利的很重要的条件是连接和空间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76668,
+        "user": "飞翔着的10号",
+        "content": "是否需要结合白的棋子的位置来选择呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76673,
+        "user": "无可无不可",
+        "content": "连接更多？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76698,
+        "user": "徐永伟",
+        "content": "就连接来说，阴线比阳线的二在下步和黑单独子力形成活二连接的少了4个点，但却多了2个可以和盘面的两个黑子在下步同时形成活二的交叉点，而交叉点一旦形成，就比单独的活二多了条直接的进攻连线，由于他比阳线的二多2个这样的点，所以他的进攻性就比阳线的要强，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76740,
+        "user": "飞翔着的10号",
+        "content": "印象中浦月有个变化是根据白的位置选的是阳线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76750,
+        "user": "爱",
+        "content": "那阳的拓展性强了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76755,
+        "user": "徐永伟",
+        "content": "阴线活二的拓展区域是一个8*8的范围，比阳线的多了一格的区域"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76777,
+        "user": "徐永伟",
+        "content": "也就是说他的拓展性比阳线的更强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76783,
+        "user": "园园",
+        "content": "对手要防的点也越多吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76789,
+        "user": "徐永伟",
+        "content": "通过这两个方面的比较，我们可以得出这样的结论，阴线的二比阳线的二要强，无论是进攻还是拓展"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76824,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76825,
+        "user": "徐永伟",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76831,
+        "user": "【水晶】春天",
+        "content": "老师咋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76833,
+        "user": "园园",
+        "content": "哈哈"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 76843,
+        "user": "",
+        "content": " 乐, 幸福人生, AUTHOR, 天使之吻, 园园, 飞翔着的10号, 【水晶】心和, 爱, 无可无不可, 【水晶】春天, 【水晶】意, 【水晶】如风, 春天, 88591214, 【水晶】小雨, 裁决殿★003, xinye, gumuyuan, 冰凌, 【水晶】鸣鸣, yyyezi, ndh003, OKOK, 绯雪, 叛逆鈊鎖, 蝈蝈, 传鹰, 让心情放飞, 花落无声."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76845,
+        "user": "徐永伟",
+        "content": "这是一个挂的二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76858,
+        "user": "无可无不可",
+        "content": "向戴老师学习了都"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76860,
+        "user": "徐永伟",
+        "content": "其实我想看看有多少人在睡觉的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76891,
+        "user": "徐永伟",
+        "content": "这里他没有直接的进攻点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76899,
+        "user": "爱",
+        "content": "汗，我刚睡醒。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76909,
+        "user": "徐永伟",
+        "content": "却有10个可以和盘面的两个黑子在下步同时形成活二的交叉点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76930,
+        "user": "徐永伟",
+        "content": "同时还有28个可以和盘面单独子在下步形成活二的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76943,
+        "user": "徐永伟",
+        "content": "同时他空间的拓展区域是一个8*9的范围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76962,
+        "user": "徐永伟",
+        "content": "我们就可以得出这样的一个结论，挂的二比连的二更有拓展性"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76984,
+        "user": "园园",
+        "content": "这是挂的二？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76993,
+        "user": "徐永伟",
+        "content": "拓展是需要空间来支持的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77006,
+        "user": "如意",
+        "content": "：9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77010,
+        "user": "徐永伟",
+        "content": "所以这样的棋型一般在开局和空间比较大的区域使用更能体现威力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77016,
+        "user": "如意",
+        "content": "：（"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77032,
+        "user": "徐永伟",
+        "content": "主要的原因是他不具备直接的进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77045,
+        "user": "徐永伟",
+        "content": "需要有后续的连接来促使他具备进攻的可能，如果空间狭小，就无法使他的连接有效"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77103,
+        "user": "徐永伟",
+        "content": "所以现在许多黑优的开局基本也是这个形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77114,
+        "user": "徐永伟",
+        "content": "其实我们了解这些"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77124,
+        "user": "园园",
+        "content": "那怎么防这种挂呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77127,
+        "user": "徐永伟",
+        "content": "不光是记录他们的特点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77138,
+        "user": "徐永伟",
+        "content": "更主要的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77156,
+        "user": "徐永伟",
+        "content": "是通过对这样棋型的了解"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77161,
+        "user": "爱",
+        "content": "如何运用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77174,
+        "user": "爱",
+        "content": "在什么时候灵活运用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77175,
+        "user": "徐永伟",
+        "content": "我们能够更好地判断两打的位置"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77191,
+        "user": "徐永伟",
+        "content": "因为在5手的时候"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77207,
+        "user": "徐永伟",
+        "content": "也就是棋型刚形成的时候"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77221,
+        "user": "徐永伟",
+        "content": "在什么地方更具备连接和进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77235,
+        "user": "徐永伟",
+        "content": "也就表明这个点的重要性"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77260,
+        "user": "园园",
+        "content": "不知道什么是两打"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77262,
+        "user": "【水晶】心和",
+        "content": "那间的2是不是比连和挂都差？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77285,
+        "user": "徐永伟",
+        "content": "间的要差点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77290,
+        "user": "【水晶】心和",
+        "content": "噢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77316,
+        "user": "徐永伟",
+        "content": "对二有了些了解"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77325,
+        "user": "徐永伟",
+        "content": "我们来看三个棋的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77329,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77330,
+        "user": "徐永伟",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77330,
+        "user": "徐永伟",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77341,
+        "user": "徐永伟",
+        "content": "这样是直线的活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77360,
+        "user": "徐永伟",
+        "content": "在增加了一个黑子后，形成了8个可以和盘面的两个黑子在下步同时形成活二的交叉点"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77375,
+        "user": "徐永伟",
+        "content": "ZJa9A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77377,
+        "user": "徐永伟",
+        "content": "ZJaaA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77380,
+        "user": "徐永伟",
+        "content": "ZJ89A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77382,
+        "user": "徐永伟",
+        "content": "2个可以和盘面三个黑子同时形成活二的交叉点，我们用字母A表示"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77387,
+        "user": "徐永伟",
+        "content": "ZJa9B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77390,
+        "user": "徐永伟",
+        "content": "ZJaaB"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77394,
+        "user": "徐永伟",
+        "content": "ZJ89B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77395,
+        "user": "徐永伟",
+        "content": "ZJ99A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77397,
+        "user": "徐永伟",
+        "content": "ZJ97A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77409,
+        "user": "徐永伟",
+        "content": "同时有32个可以和盘面单独黑子形成活二的连接点。拓展区域也增加到7*9的范围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77426,
+        "user": "徐永伟",
+        "content": "也就是说"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77439,
+        "user": "徐永伟",
+        "content": "在增加了一手黑棋后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77446,
+        "user": "徐永伟",
+        "content": "发生了许多变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77482,
+        "user": "徐永伟",
+        "content": "时间关系，我讲的快点，数据方面大家不用太在意记"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77487,
+        "user": "徐永伟",
+        "content": "只要了解大概"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77489,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77489,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77490,
+        "user": "徐永伟",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77491,
+        "user": "徐永伟",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77527,
+        "user": "徐永伟",
+        "content": "斜线的活三和直线的没什么区别"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77545,
+        "user": "徐永伟",
+        "content": "他的直接进攻和间接进攻基本一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77553,
+        "user": "徐永伟",
+        "content": "但不同的 是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77568,
+        "user": "徐永伟",
+        "content": "阴线的连三把拓展区域增加到了9*9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77601,
+        "user": "徐永伟",
+        "content": "这里我们要回顾下刚才两个棋的情况"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77618,
+        "user": "徐永伟",
+        "content": "原来阴线的连二只比阳线的连二多拓展一格空间，但在双方都增加一个连接后，他们的比却成为了两格的区域。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77636,
+        "user": "徐永伟",
+        "content": "阴线的力量就在对局的过程中体现出来了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77678,
+        "user": "徐永伟",
+        "content": "那么这个棋型是我们在直接进攻的情况下产生的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77694,
+        "user": "徐永伟",
+        "content": "如果我们的第三手不进攻"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77696,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77697,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77697,
+        "user": "徐永伟",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77698,
+        "user": "徐永伟",
+        "content": "ZJ089"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77703,
+        "user": "徐永伟",
+        "content": "比如这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77729,
+        "user": "徐永伟",
+        "content": "会是什么情况呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77757,
+        "user": "徐永伟",
+        "content": "使黑棋成为团角的形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77776,
+        "user": "徐永伟",
+        "content": "这里形成了12个可以直接形成活三的进攻点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77777,
+        "user": "无可无不可",
+        "content": "只知道这个一般是好型"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77791,
+        "user": "徐永伟",
+        "content": "6个可以形成眠三的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77802,
+        "user": "徐永伟",
+        "content": "1个可以和盘面三个黑子同时形成活二的交叉点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77816,
+        "user": "徐永伟",
+        "content": "27个可以和盘面单独黑子形成活二的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77835,
+        "user": "徐永伟",
+        "content": "拓展区域和阳线的连二只多了一格，但却多了许多直接进攻的连接，而且覆盖面非常大"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77853,
+        "user": "徐永伟",
+        "content": "没有直接活三的一子，使自己的进攻性变的很强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77869,
+        "user": "徐永伟",
+        "content": "也说明在开局阶段应该更多地寻找连接和空间的扩展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77883,
+        "user": "徐永伟",
+        "content": "为以后的行棋做准备"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77909,
+        "user": "徐永伟",
+        "content": "通过这个我们也可以了解到5手打点的好坏了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77919,
+        "user": "徐永伟",
+        "content": "这里说个局面"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77921,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77921,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77925,
+        "user": "徐永伟",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77926,
+        "user": "徐永伟",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77927,
+        "user": "徐永伟",
+        "content": "ZJ179"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77931,
+        "user": "【水晶】如风",
+        "content": "3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77939,
+        "user": "徐永伟",
+        "content": "比如浦月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77951,
+        "user": "徐永伟",
+        "content": "那么这里的打点怎么选择"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77957,
+        "user": "徐永伟",
+        "content": "ZJa7A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77961,
+        "user": "徐永伟",
+        "content": "ZJa8B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77964,
+        "user": "徐永伟",
+        "content": "ZJa9C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77967,
+        "user": "徐永伟",
+        "content": "ZJa6D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77976,
+        "user": "徐永伟",
+        "content": "在这几个点中"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77990,
+        "user": "徐永伟",
+        "content": "你认为根据刚才的理论"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78001,
+        "user": "徐永伟",
+        "content": "还会选择D点吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78009,
+        "user": "【水晶】心和",
+        "content": "不"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78018,
+        "user": "88591214",
+        "content": "不"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78025,
+        "user": "【水晶】心和",
+        "content": "D点是自杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78030,
+        "user": "110指挥中心",
+        "content": "不，不，不"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78037,
+        "user": "徐永伟",
+        "content": "但记得许多刚下棋的朋友"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78048,
+        "user": "爱",
+        "content": "那个是直接点认输点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78050,
+        "user": "徐永伟",
+        "content": "往往会选择D点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78065,
+        "user": "爱",
+        "content": "初级里都点这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78072,
+        "user": "徐永伟",
+        "content": "其实在无禁手D点也是可选择的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78105,
+        "user": "徐永伟",
+        "content": "时间不够了，大家是希望下次听还是今天说完"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78115,
+        "user": "爱",
+        "content": "说啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78116,
+        "user": "园园",
+        "content": "今天"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78118,
+        "user": "绯雪",
+        "content": "今天说完"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78118,
+        "user": "【水晶】春天",
+        "content": "今天"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78132,
+        "user": "无可无不可",
+        "content": "都可以啦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78138,
+        "user": "花落无声",
+        "content": "对,一次说完"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78140,
+        "user": "园园",
+        "content": "还早啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78140,
+        "user": "幸福人生",
+        "content": "讲快点可以讲完吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78142,
+        "user": "徐永伟",
+        "content": "那需要到10点或者更长时间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78144,
+        "user": "【水晶】心和",
+        "content": "随便 看老师的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78149,
+        "user": "园园",
+        "content": "没关系"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78149,
+        "user": "【水晶】春天",
+        "content": "继续点名哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78162,
+        "user": "爱",
+        "content": "GO ON"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78166,
+        "user": "徐永伟",
+        "content": "因为这个还是第一个形状"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78170,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78170,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78171,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 78174,
+        "user": "爱",
+        "content": "这又不是说评书"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78184,
+        "user": "无可无不可",
+        "content": "多给分分，就十一点吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78187,
+        "user": "爱",
+        "content": "还留悬念"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78191,
+        "user": "徐永伟",
+        "content": "ZJ198"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78192,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78194,
+        "user": "徐永伟",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78194,
+        "user": "徐永伟",
+        "content": "ZJ089"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78213,
+        "user": "徐永伟",
+        "content": "我们经常也会听到这样的一句话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78231,
+        "user": "徐永伟",
+        "content": "成角易攻，就是说明这样的棋型的攻击线路的强大"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78239,
+        "user": "【水晶】如风",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 78244,
+        "user": "徐永伟",
+        "content": "在许多开局里面都有这样的选择，比如云月、松月等"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78245,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78246,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78249,
+        "user": "徐永伟",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78250,
+        "user": "徐永伟",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78251,
+        "user": "徐永伟",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78252,
+        "user": "徐永伟",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78265,
+        "user": "徐永伟",
+        "content": "这个是云月的选择打点"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78267,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78267,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78268,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78268,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78269,
+        "user": "徐永伟",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78269,
+        "user": "徐永伟",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78270,
+        "user": "徐永伟",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78270,
+        "user": "徐永伟",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78284,
+        "user": "徐永伟",
+        "content": "这个是松月的选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78304,
+        "user": "徐永伟",
+        "content": "从这些打点的选择我们就不难发现"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78319,
+        "user": "徐永伟",
+        "content": "这样的棋型的强大"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78325,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78326,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78326,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78327,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78329,
+        "user": "徐永伟",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78330,
+        "user": "徐永伟",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78351,
+        "user": "徐永伟",
+        "content": "我们继续看这样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78360,
+        "user": "徐永伟",
+        "content": "这个图比刚才的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78399,
+        "user": "徐永伟",
+        "content": "他的直接进攻点少了一个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78411,
+        "user": "徐永伟",
+        "content": "同时可以和盘面单独黑子形成活二的连接点也只有24个，少了3个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78425,
+        "user": "徐永伟",
+        "content": "但他的拓展区域却增加了一格"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78441,
+        "user": "徐永伟",
+        "content": "这个棋型的进攻性比团角的要弱，但拓展却增强了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78459,
+        "user": "徐永伟",
+        "content": "这个棋型基本在斜月、瑞星和明星中出现"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78472,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78472,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78473,
+        "user": "徐永伟",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78474,
+        "user": "徐永伟",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78480,
+        "user": "徐永伟",
+        "content": "我们继续看这个"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78490,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 78490,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78491,
+        "user": "徐永伟",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78512,
+        "user": "徐永伟",
+        "content": "也可以把刚才的理解成挂马的二形成的连接"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78514,
+        "user": "徐永伟",
+        "content": "ZJ099"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78529,
+        "user": "徐永伟",
+        "content": "这样就是挂马后的第三手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78548,
+        "user": "徐永伟",
+        "content": "这里他的直接进攻点只有8个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78560,
+        "user": "徐永伟",
+        "content": "4个可以形成眠三的连接点，1个可以和盘面三个黑子同时形成活二的交叉点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78585,
+        "user": "徐永伟",
+        "content": "32个可以和盘面单独黑子形成活二的连接点，拓展区域8*9的范围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78591,
+        "user": "徐永伟",
+        "content": "同样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78606,
+        "user": "徐永伟",
+        "content": "和团角的形状相比"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78621,
+        "user": "徐永伟",
+        "content": "他的进攻性要不如团角"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78633,
+        "user": "徐永伟",
+        "content": "但扩展比团角强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78646,
+        "user": "徐永伟",
+        "content": "这个棋型在云月、浦月、松月中常出现"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78652,
+        "user": "爱",
+        "content": "比三角呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78674,
+        "user": "徐永伟",
+        "content": "松月的两打就基本取于这样的棋型"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78688,
+        "user": "徐永伟",
+        "content": "和三角不相上下"
+    },
+    {
+        "action": "BACK",
+        "time_int": 78700,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 78701,
+        "user": "徐永伟",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78707,
+        "user": "徐永伟",
+        "content": "我们继续看这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78722,
+        "user": "徐永伟",
+        "content": "挂马的二进行拓展的一个棋型，直接进攻点减少到4个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78744,
+        "user": "徐永伟",
+        "content": "2个可以形成眠三的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78755,
+        "user": "徐永伟",
+        "content": "4个可以和盘面三个黑子同时形成活二的交叉点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78778,
+        "user": "徐永伟",
+        "content": "36个可以和盘面黑子形成活二的连接点，拓展区域9*9的范围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78806,
+        "user": "徐永伟",
+        "content": "通过对这些棋型的分析"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78818,
+        "user": "徐永伟",
+        "content": "我们已经了解到直接进攻强的棋型在拓展方面相对会弱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78832,
+        "user": "徐永伟",
+        "content": "拓展强的，他直接的进攻也自然减弱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78846,
+        "user": "徐永伟",
+        "content": "就需要有后续的连接来做为资源巩固这些棋型"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78862,
+        "user": "徐永伟",
+        "content": "在对局中我们经常会遇到这些棋型"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78875,
+        "user": "徐永伟",
+        "content": "了解他们的不同对很好掌握拓展和连接非常重要"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78890,
+        "user": "徐永伟",
+        "content": "我们经常说到的必胜，就是通过这些棋型和面来完成的。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78926,
+        "user": "徐永伟",
+        "content": "今天的课我们就到这里，希望下次的分析课我们会参与白棋一起分析"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78932,
+        "user": "【水晶】如风",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78932,
+        "user": "徐永伟",
+        "content": "谢谢大家的参与"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78934,
+        "user": "【水晶】心和",
+        "content": "谢谢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78938,
+        "user": "幸福人生",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78939,
+        "user": "天使之吻",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78940,
+        "user": "无可无不可",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78943,
+        "user": "乐",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78945,
+        "user": "叛逆鈊鎖",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78946,
+        "user": "园园",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78946,
+        "user": "yyyezi",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78946,
+        "user": "爱",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78949,
+        "user": "裁决殿★003",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78949,
+        "user": "徐永伟",
+        "content": "希望今天的内容对大家有帮助"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78952,
+        "user": "让心情放飞",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 78953,
+        "user": "绯雪",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 78955,
+        "user": "",
+        "content": " gumuyuan, ndh003, OKOK, xinye, yyyezi, 【水晶】春天, 【水晶】鸣鸣, 【水晶】如风, 【水晶】小雨, 【水晶】意, 裁决殿★003, 飞翔着的10号, 乐, 叛逆鈊鎖, 天使之吻, 幸福人生, 园园, 绯雪, 蝈蝈."
+    }
+]

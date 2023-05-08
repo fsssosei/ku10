@@ -1,0 +1,4310 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72632,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72636,
+        "user": "fiona",
+        "content": "大家好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72639,
+        "user": "乐棋",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72643,
+        "user": "fiona",
+        "content": "偶刚回家"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72643,
+        "user": "【水晶】信步",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72644,
+        "user": "李小羽",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72646,
+        "user": "【水晶】片汤",
+        "content": "白老师好~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72647,
+        "user": "幸福人生",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72649,
+        "user": "【水晶】鸣鸣",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72653,
+        "user": "裁决殿★003",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72654,
+        "user": "【水晶】萱旋",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72655,
+        "user": "伊人",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72658,
+        "user": "fiona",
+        "content": "今天讲什么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72658,
+        "user": "曼珠沙华",
+        "content": "laoshihao"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72658,
+        "user": "【水晶】飞鸿",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72662,
+        "user": "【水晶】瞳孔",
+        "content": "laoshi hao"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72670,
+        "user": "【水晶】呆呆",
+        "content": "讲故事"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72670,
+        "user": "莲珠秀",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72673,
+        "user": "学习",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72683,
+        "user": "【水晶】萱旋",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72686,
+        "user": "乐",
+        "content": "大家好！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72688,
+        "user": "fiona",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72689,
+        "user": "fiona",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72695,
+        "user": "fiona",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72701,
+        "user": "fiona",
+        "content": "还是瑞星好了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72703,
+        "user": "fiona",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72704,
+        "user": "fiona",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72705,
+        "user": "fiona",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72705,
+        "user": "fiona",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72706,
+        "user": "fiona",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72707,
+        "user": "fiona",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72708,
+        "user": "fiona",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72709,
+        "user": "fiona",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72751,
+        "user": "幸福人生",
+        "content": "1"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72753,
+        "user": "fiona",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72761,
+        "user": "fiona",
+        "content": "这个12 谁知道？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72782,
+        "user": "ndh003",
+        "content": "我想知道还有多少个12能下= ="
+    },
+    {
+        "action": "TALK",
+        "time_int": 72792,
+        "user": "【水晶】小雨",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72795,
+        "user": "fiona",
+        "content": "这个12 谁会？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72797,
+        "user": "裁决殿★003",
+        "content": "j9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72805,
+        "user": "幸福人生",
+        "content": "这个是败的吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72807,
+        "user": "fiona",
+        "content": "黑必胜，白必胜 还是平衡"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72808,
+        "user": "【水晶】小雨",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72812,
+        "user": "fiona",
+        "content": "选择题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72819,
+        "user": "ndh003",
+        "content": "。。明显黑优"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72823,
+        "user": "裁决殿★003",
+        "content": "pingheng"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72829,
+        "user": "幸福人生",
+        "content": "黑胜吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72840,
+        "user": "fiona",
+        "content": "幸福回答的是正确的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72848,
+        "user": "fiona",
+        "content": "我们来看看这里的走法"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72858,
+        "user": "fiona",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72886,
+        "user": "幸福人生",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72888,
+        "user": "fiona",
+        "content": "白有2个防点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72894,
+        "user": "fiona",
+        "content": "1个1个来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72896,
+        "user": "fiona",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72932,
+        "user": "fiona",
+        "content": "谁来算算"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72975,
+        "user": "幸福人生",
+        "content": "H5做杀？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72976,
+        "user": "【水晶】小雨",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72984,
+        "user": "幸福人生",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72995,
+        "user": "幸福人生",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72998,
+        "user": "fiona",
+        "content": "15后白最强只能在H7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73007,
+        "user": "幸福人生",
+        "content": "ZJ066"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73008,
+        "user": "幸福人生",
+        "content": "ZJ156"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73009,
+        "user": "幸福人生",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73013,
+        "user": "幸福人生",
+        "content": "ZJ194"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73016,
+        "user": "幸福人生",
+        "content": "ZJ065"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73017,
+        "user": "fiona",
+        "content": "然后黑左边就犀利哗啦的杀掉了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73019,
+        "user": "幸福人生",
+        "content": "ZJ164"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73022,
+        "user": "幸福人生",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73034,
+        "user": "幸福人生",
+        "content": "ZJ175"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73036,
+        "user": "幸福人生",
+        "content": "ZJ068"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73036,
+        "user": "fiona",
+        "content": "finish"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73037,
+        "user": "fiona",
+        "content": "谢谢幸福"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73049,
+        "user": "幸福人生",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73049,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73050,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73050,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73050,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73050,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73051,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73051,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73052,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73053,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73054,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73055,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73056,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73056,
+        "user": "fiona",
+        "content": "ZJ166"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73066,
+        "user": "fiona",
+        "content": "003来走"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73096,
+        "user": "fiona",
+        "content": "偶继续"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73108,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73109,
+        "user": "fiona",
+        "content": "14走左边 同样是黑走H5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73111,
+        "user": "fiona",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73119,
+        "user": "fiona",
+        "content": "学习这个12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73139,
+        "user": "fiona",
+        "content": "要学的是下面局部黑的优势方向？和线位的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73148,
+        "user": "fiona",
+        "content": "我们在这里先说说下面局部吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73161,
+        "user": "【水晶】瞳孔",
+        "content": "这是一个大定式 黑胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73171,
+        "user": "fiona",
+        "content": "局部定性H5和H7对于黑来说是2个好点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73193,
+        "user": "fiona",
+        "content": "学习必胜定试 主要学习连接的线位 和攻击的形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73203,
+        "user": "【水晶】瞳孔",
+        "content": "噢"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73209,
+        "user": "fiona",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73210,
+        "user": "fiona",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73210,
+        "user": "fiona",
+        "content": "ZJ165"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73211,
+        "user": "fiona",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73218,
+        "user": "fiona",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73237,
+        "user": "fiona",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73245,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73246,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73247,
+        "user": "fiona",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73255,
+        "user": "【水晶】春天",
+        "content": "太快了点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73264,
+        "user": "【水晶】春天",
+        "content": "没看清楚呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73264,
+        "user": "fiona",
+        "content": "到这里后黑都比较容易杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73268,
+        "user": "fiona",
+        "content": "我只摆1个变化图"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73275,
+        "user": "【水晶】春天",
+        "content": "哦"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73329,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73329,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73330,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73330,
+        "user": "fiona",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73341,
+        "user": "裁决殿★003",
+        "content": "吃饭去了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73341,
+        "user": "fiona",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73349,
+        "user": "fiona",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73350,
+        "user": "fiona",
+        "content": "ZJ083"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73360,
+        "user": "fiona",
+        "content": "21 就黑杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73380,
+        "user": "李小羽",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73388,
+        "user": "fiona",
+        "content": "黑下面局部优势过大"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73400,
+        "user": "裁决殿★003",
+        "content": "第一次来就警告。啊啊啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73408,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73429,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73434,
+        "user": "fiona",
+        "content": "大家看懂这个形状了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73444,
+        "user": "幸福人生",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73448,
+        "user": "【水晶】萱旋",
+        "content": "懂了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73452,
+        "user": "【水晶】春天",
+        "content": "恩"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73452,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73453,
+        "user": "fiona",
+        "content": "ZJ084"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73453,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73460,
+        "user": "fiona",
+        "content": "这个21能杀吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73479,
+        "user": "fiona",
+        "content": "回头大家去研究"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73489,
+        "user": "fiona",
+        "content": "这里我跳跃到一个类似图"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73491,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73494,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73494,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73494,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73494,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73494,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73494,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73494,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73494,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73494,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73496,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73497,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73497,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73501,
+        "user": "fiona",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73502,
+        "user": "fiona",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73503,
+        "user": "fiona",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73503,
+        "user": "fiona",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73504,
+        "user": "fiona",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73505,
+        "user": "fiona",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73505,
+        "user": "fiona",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73506,
+        "user": "fiona",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73508,
+        "user": "fiona",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73509,
+        "user": "fiona",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73510,
+        "user": "fiona",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73510,
+        "user": "fiona",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73511,
+        "user": "fiona",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73512,
+        "user": "fiona",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73512,
+        "user": "fiona",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73513,
+        "user": "fiona",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73520,
+        "user": "fiona",
+        "content": "大家看到了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73529,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73529,
+        "user": "fiona",
+        "content": "下面局部形状是一样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73529,
+        "user": "【水晶】海天",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73543,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73550,
+        "user": "fiona",
+        "content": "下面的形状和刚才摆的那个变化是类似的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73553,
+        "user": "fiona",
+        "content": "ZJ083"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73566,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73578,
+        "user": "【水晶】春天",
+        "content": "白的下K7呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73602,
+        "user": "幸福人生",
+        "content": "有V哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73614,
+        "user": "【水晶】小雨",
+        "content": "现在只能走G4吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73632,
+        "user": "fiona",
+        "content": "大家看懂  了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73639,
+        "user": "幸福人生",
+        "content": "杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73639,
+        "user": "fiona",
+        "content": "形状知道了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73650,
+        "user": "【水晶】春天",
+        "content": "知道了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73651,
+        "user": "【水晶】瞳孔",
+        "content": "知道了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73653,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73653,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73653,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73654,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73654,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73654,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73654,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73654,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73655,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73655,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73655,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73655,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73656,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73656,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73657,
+        "user": "fiona",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73657,
+        "user": "fiona",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73659,
+        "user": "fiona",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73660,
+        "user": "fiona",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73661,
+        "user": "fiona",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73661,
+        "user": "fiona",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73662,
+        "user": "fiona",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73663,
+        "user": "fiona",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73664,
+        "user": "fiona",
+        "content": "ZJ166"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73671,
+        "user": "fiona",
+        "content": "那现在黑先如何胜？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73735,
+        "user": "【水晶】萱旋",
+        "content": "G5？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73736,
+        "user": "【水晶】春天",
+        "content": "下G5试试"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73745,
+        "user": "fiona",
+        "content": "ZJ075"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73757,
+        "user": "fiona",
+        "content": "G5 思路是什么？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73779,
+        "user": "【水晶】萱旋",
+        "content": "一子双杀？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73783,
+        "user": "【水晶】春天",
+        "content": "再下E5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73789,
+        "user": "fiona",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73789,
+        "user": "fiona",
+        "content": "ZJ057"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73790,
+        "user": "fiona",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73796,
+        "user": "fiona",
+        "content": "白反杀。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73797,
+        "user": "【水晶】春天",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73800,
+        "user": "幸福人生",
+        "content": "F5"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73819,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73819,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73820,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73820,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73829,
+        "user": "fiona",
+        "content": "那现在我们继续走H3好不好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73835,
+        "user": "【水晶】春天",
+        "content": "好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73838,
+        "user": "【水晶】小雨",
+        "content": "J5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73839,
+        "user": "【水晶】瞳孔",
+        "content": "好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73847,
+        "user": "fiona",
+        "content": "ZJ083"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73854,
+        "user": "fiona",
+        "content": "那现在白唯一防"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73870,
+        "user": "幸福人生",
+        "content": "ZJ165"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73875,
+        "user": "fiona",
+        "content": "这个现在黑杀不掉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73884,
+        "user": "fiona",
+        "content": "和刚才的不一样的地方"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73889,
+        "user": "fiona",
+        "content": "不是黑本身"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73897,
+        "user": "fiona",
+        "content": "是和白的构造不一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73905,
+        "user": "fiona",
+        "content": "白棋在右边变了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73921,
+        "user": "fiona",
+        "content": "刚才右边没有12 16的竖2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73924,
+        "user": "李小羽",
+        "content": "白12位置"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73929,
+        "user": "fiona",
+        "content": "只有斜2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73935,
+        "user": "fiona",
+        "content": "是6和J8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73941,
+        "user": "fiona",
+        "content": "这里产生了差异"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73954,
+        "user": "fiona",
+        "content": "区别是白控制了K线，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73960,
+        "user": "【水晶】瞳孔",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73967,
+        "user": "【水晶】小雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73968,
+        "user": "fiona",
+        "content": "刚才是白在J线有棋子 不能形成杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73993,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73993,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73995,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73995,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73995,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73995,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73995,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73998,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73998,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73998,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73999,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73999,
+        "user": "fiona",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74000,
+        "user": "fiona",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74001,
+        "user": "fiona",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74002,
+        "user": "fiona",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74002,
+        "user": "fiona",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74003,
+        "user": "fiona",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74005,
+        "user": "fiona",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74006,
+        "user": "fiona",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74007,
+        "user": "fiona",
+        "content": "ZJ174"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74014,
+        "user": "fiona",
+        "content": "这个局面黑先如何胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74025,
+        "user": "【水晶】瞳孔",
+        "content": "冲4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74040,
+        "user": "【水晶】春天",
+        "content": "没的冲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74053,
+        "user": "【水晶】瞳孔",
+        "content": "两个跳冲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74054,
+        "user": "【水晶】春天",
+        "content": "冲也没用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74069,
+        "user": "【水晶】小雨",
+        "content": ";"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74076,
+        "user": "fiona",
+        "content": "走黑"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74077,
+        "user": "【水晶】春天",
+        "content": "那还可以"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74078,
+        "user": "【水晶】瞳孔",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74080,
+        "user": "fiona",
+        "content": "春天走白"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74084,
+        "user": "幸福人生",
+        "content": "转到又上"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74097,
+        "user": "幸福人生",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74099,
+        "user": "【水晶】瞳孔",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74100,
+        "user": "fiona",
+        "content": "这个是下面不让我搞，我就搞上面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74115,
+        "user": "幸福人生",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74116,
+        "user": "【水晶】瞳孔",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74118,
+        "user": "幸福人生",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74121,
+        "user": "【水晶】瞳孔",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74133,
+        "user": "幸福人生",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74135,
+        "user": "【水晶】瞳孔",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74142,
+        "user": "幸福人生",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74144,
+        "user": "【水晶】瞳孔",
+        "content": "ZJ0e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74147,
+        "user": "幸福人生",
+        "content": "ZJ1fa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74149,
+        "user": "【水晶】瞳孔",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74157,
+        "user": "fiona",
+        "content": "右边黑利用黑9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74165,
+        "user": "幸福人生",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74168,
+        "user": "【水晶】瞳孔",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74169,
+        "user": "江南新绿",
+        "content": "现在的人就是强啊"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74171,
+        "user": "fiona",
+        "content": "ZJ1e8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74185,
+        "user": "fiona",
+        "content": "黑先杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74199,
+        "user": "【水晶】萱旋",
+        "content": "I11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74201,
+        "user": "【水晶】小雨",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74201,
+        "user": "【水晶】瞳孔",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74202,
+        "user": "幸福人生",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74206,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74213,
+        "user": "fiona",
+        "content": "恭喜你回答错误"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74217,
+        "user": "fiona",
+        "content": "就骗你走I11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74218,
+        "user": "【水晶】小雨",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74218,
+        "user": "fiona",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74219,
+        "user": "fiona",
+        "content": "ZJ057"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74220,
+        "user": "fiona",
+        "content": "ZJ1cb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74230,
+        "user": "【水晶】萱旋",
+        "content": "晕"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74237,
+        "user": "幸福人生",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74237,
+        "user": "幸福人生",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74238,
+        "user": "幸福人生",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74239,
+        "user": "幸福人生",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74240,
+        "user": "幸福人生",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74241,
+        "user": "幸福人生",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74243,
+        "user": "fiona",
+        "content": "现在黑就很难杀了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74243,
+        "user": "幸福人生",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74244,
+        "user": "幸福人生",
+        "content": "ZJ19d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74245,
+        "user": "幸福人生",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74246,
+        "user": "fiona",
+        "content": "这个才对"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74253,
+        "user": "【水晶】瞳孔",
+        "content": "噢"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74256,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74257,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74257,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74258,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74259,
+        "user": "fiona",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74259,
+        "user": "fiona",
+        "content": "ZJ057"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74260,
+        "user": "fiona",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74261,
+        "user": "fiona",
+        "content": "ZJ0bc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74266,
+        "user": "fiona",
+        "content": "杀线在 12线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74273,
+        "user": "fiona",
+        "content": "看明白没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74280,
+        "user": "【水晶】瞳孔",
+        "content": "明白"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74281,
+        "user": "【水晶】春天",
+        "content": "明白"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74284,
+        "user": "李小羽",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74296,
+        "user": "【水晶】小雨",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74299,
+        "user": "fiona",
+        "content": "这里黑7的利用是一个陷阱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74312,
+        "user": "fiona",
+        "content": "重点是黑9的右边和下面的连接发展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74336,
+        "user": "【水晶】小雨",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 74338,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74338,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74340,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74340,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74340,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74340,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74340,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74340,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74340,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74341,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74341,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74341,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74341,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74342,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74342,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74343,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74343,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74344,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74345,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74358,
+        "user": "fiona",
+        "content": "这个时候是空空的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74365,
+        "user": "fiona",
+        "content": "潜在计算"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74391,
+        "user": "fiona",
+        "content": "我们知道黑15是一个好点攻击了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74400,
+        "user": "fiona",
+        "content": "并且知道这个12是必败"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74402,
+        "user": "【水晶】瞳孔",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74410,
+        "user": "fiona",
+        "content": "那我们来看看现在比较流行的12团"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74411,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74412,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74412,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74412,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74413,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74413,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74414,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74414,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74414,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74415,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74415,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74416,
+        "user": "fiona",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74419,
+        "user": "fiona",
+        "content": "12团"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74432,
+        "user": "fiona",
+        "content": "第1感觉是白12 只在上面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74445,
+        "user": "【水晶】小雨",
+        "content": ";"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74449,
+        "user": "fiona",
+        "content": "和下面黑刚才的走法好象没有关系"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74449,
+        "user": "ndh003",
+        "content": "解决了没？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74460,
+        "user": "fiona",
+        "content": "大路半边 各走各的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74468,
+        "user": "【水晶】春天",
+        "content": "12H11呢"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74475,
+        "user": "fiona",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74477,
+        "user": "fiona",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74479,
+        "user": "fiona",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74487,
+        "user": "fiona",
+        "content": "感觉是这个很不错"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74490,
+        "user": "fiona",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74491,
+        "user": "fiona",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74499,
+        "user": "fiona",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74502,
+        "user": "fiona",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74509,
+        "user": "fiona",
+        "content": "好象这里的19就杀掉了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74511,
+        "user": "fiona",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74512,
+        "user": "fiona",
+        "content": "ZJ083"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74513,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74514,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74515,
+        "user": "fiona",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74516,
+        "user": "fiona",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74541,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74541,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74541,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74542,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74561,
+        "user": "fiona",
+        "content": "ZJ165"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74562,
+        "user": "fiona",
+        "content": "ZJ068"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74574,
+        "user": "fiona",
+        "content": "现在怎么防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74600,
+        "user": "【水晶】春天",
+        "content": "走I4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74616,
+        "user": "fiona",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74622,
+        "user": "fiona",
+        "content": "这里据说是唯一"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74644,
+        "user": "fiona",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74644,
+        "user": "fiona",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74645,
+        "user": "fiona",
+        "content": "ZJ083"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74658,
+        "user": "fiona",
+        "content": "这里因为提前有了18 19的交换所以不成立了了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74659,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74660,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74660,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74662,
+        "user": "fiona",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74663,
+        "user": "fiona",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74667,
+        "user": "fiona",
+        "content": "ZJ057"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74677,
+        "user": "【水晶】春天",
+        "content": "不好意思看错了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74682,
+        "user": "fiona",
+        "content": "23好象和刚才的区别是12的位子变了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74692,
+        "user": "fiona",
+        "content": "斜线本来是黑活3 带叫43"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74699,
+        "user": "fiona",
+        "content": "现在只是做43了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74709,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74710,
+        "user": "fiona",
+        "content": "黑全部的东西都集中在下面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74714,
+        "user": "fiona",
+        "content": "没有办法出去"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74719,
+        "user": "fiona",
+        "content": "黑很难获得优"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74731,
+        "user": "fiona",
+        "content": "我们在这里看到H7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74744,
+        "user": "fiona",
+        "content": "在刚才的变化中 只有1个变化是白拿到了的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74751,
+        "user": "fiona",
+        "content": "并且是黑必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74766,
+        "user": "fiona",
+        "content": "所以要是黑先走H7 局面会怎么样"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74771,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74771,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74771,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74771,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74771,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74772,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74773,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74774,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74774,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74775,
+        "user": "fiona",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74776,
+        "user": "fiona",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74777,
+        "user": "fiona",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74777,
+        "user": "fiona",
+        "content": "ZJ165"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74778,
+        "user": "fiona",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74779,
+        "user": "fiona",
+        "content": "ZJ195"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74784,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74807,
+        "user": "ndh003",
+        "content": "。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74816,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74816,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74816,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74817,
+        "user": "【水晶】小雨",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74819,
+        "user": "【水晶】小雨",
+        "content": "。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74821,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74822,
+        "user": "fiona",
+        "content": "ZJ165"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74827,
+        "user": "fiona",
+        "content": "这个16后"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74839,
+        "user": "【水晶】春天",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74845,
+        "user": "fiona",
+        "content": "ZJ185"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74852,
+        "user": "fiona",
+        "content": "黑右边没有连续手段"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74853,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74853,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74854,
+        "user": "fiona",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74857,
+        "user": "fiona",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74858,
+        "user": "fiona",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74859,
+        "user": "fiona",
+        "content": "ZJ194"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74878,
+        "user": "【水晶】春天",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74887,
+        "user": "fiona",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74900,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74901,
+        "user": "【水晶】春天",
+        "content": "ZJ195"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74901,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74903,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74904,
+        "user": "fiona",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74909,
+        "user": "fiona",
+        "content": "黑继续攻击卡看"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74910,
+        "user": "【水晶】春天",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74911,
+        "user": "fiona",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74911,
+        "user": "fiona",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74912,
+        "user": "fiona",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74914,
+        "user": "fiona",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74926,
+        "user": "fiona",
+        "content": "假如白走这里黑就运气好比较好了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74928,
+        "user": "fiona",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74928,
+        "user": "【水晶】小雨",
+        "content": "。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74938,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74939,
+        "user": "fiona",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74940,
+        "user": "fiona",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74940,
+        "user": "fiona",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74941,
+        "user": "fiona",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74941,
+        "user": "fiona",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74943,
+        "user": "fiona",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74946,
+        "user": "fiona",
+        "content": "黑就杀了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74958,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74958,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74959,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74959,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74959,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74960,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74964,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74964,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74965,
+        "user": "fiona",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74966,
+        "user": "fiona",
+        "content": "ZJ1d8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74977,
+        "user": "fiona",
+        "content": "这个26 黑就没有好办法处理"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74988,
+        "user": "【水晶】春天",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74991,
+        "user": "fiona",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74992,
+        "user": "【水晶】春天",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74994,
+        "user": "fiona",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74997,
+        "user": "【水晶】春天",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75000,
+        "user": "fiona",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75002,
+        "user": "【水晶】春天",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75012,
+        "user": "fiona",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75013,
+        "user": "fiona",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75014,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75025,
+        "user": "fiona",
+        "content": "这样黑已经失去了外事弹性"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75028,
+        "user": "【水晶】春天",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75039,
+        "user": "【水晶】春天",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75039,
+        "user": "fiona",
+        "content": "感觉不爽"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75039,
+        "user": "fiona",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75040,
+        "user": "fiona",
+        "content": "ZJ0a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75048,
+        "user": "fiona",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75053,
+        "user": "fiona",
+        "content": "个人觉得白好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75070,
+        "user": "【水晶】春天",
+        "content": "ZJ057"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75092,
+        "user": "fiona",
+        "content": "我也不会了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75092,
+        "user": "【水晶】喵喵",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75100,
+        "user": "fiona",
+        "content": "进中盘了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75106,
+        "user": "【水晶】小雨",
+        "content": "‘"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75108,
+        "user": "幸福人生",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75109,
+        "user": "幸福人生",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75110,
+        "user": "幸福人生",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75112,
+        "user": "【水晶】春天",
+        "content": "ZJ058"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75125,
+        "user": "【水晶】萱旋",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75126,
+        "user": "【水晶】小雨",
+        "content": "白杀了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75127,
+        "user": "【水晶】春天",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75132,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75132,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75133,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75137,
+        "user": "fiona",
+        "content": "我弱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75140,
+        "user": "fiona",
+        "content": "没有看哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75148,
+        "user": "【水晶】雨水",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75150,
+        "user": "fiona",
+        "content": "反正黑攻击的太急了 不好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75162,
+        "user": "fiona",
+        "content": "老是觉得黑右边缺手棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75165,
+        "user": "【水晶】萱旋",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75167,
+        "user": "fiona",
+        "content": "没有什么好的手段"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75175,
+        "user": "fiona",
+        "content": 14
+    },
+    {
+        "action": "TALK",
+        "time_int": 75187,
+        "user": "fiona",
+        "content": "所以这里就提高了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75194,
+        "user": "fiona",
+        "content": "出现了新的定试"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75196,
+        "user": "fiona",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75218,
+        "user": "fiona",
+        "content": "新定"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75222,
+        "user": "fiona",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75223,
+        "user": "fiona",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75236,
+        "user": "fiona",
+        "content": "因为这个17好也是黑好"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75238,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75238,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75239,
+        "user": "fiona",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75240,
+        "user": "fiona",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75241,
+        "user": "fiona",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75246,
+        "user": "fiona",
+        "content": "一般是这样走"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75254,
+        "user": "fiona",
+        "content": "普通定"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75257,
+        "user": "【水晶】春天",
+        "content": "ZJ087"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75263,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75275,
+        "user": "fiona",
+        "content": "这个时候在走3下面好象已经没有意思了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75276,
+        "user": "fiona",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75284,
+        "user": "fiona",
+        "content": "春天走的这个19"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75294,
+        "user": "【水晶】春天",
+        "content": "ZJ165"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75296,
+        "user": "fiona",
+        "content": "偶去年也走过"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75297,
+        "user": "fiona",
+        "content": "感觉很不错"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75299,
+        "user": "fiona",
+        "content": "ZJ068"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75303,
+        "user": "fiona",
+        "content": "很平衡"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75313,
+        "user": "【水晶】春天",
+        "content": "ZJ195"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75331,
+        "user": "fiona",
+        "content": "差不多平衡了 然后进中盘"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75383,
+        "user": "【水晶】春天",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75391,
+        "user": "fiona",
+        "content": "差不多了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75410,
+        "user": "fiona",
+        "content": "重点是黑先手消耗白的空间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75420,
+        "user": "【水晶】春天",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75426,
+        "user": "【水晶】荷",
+        "content": "///"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75443,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75448,
+        "user": "fiona",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75449,
+        "user": "fiona",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75462,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75463,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75466,
+        "user": "fiona",
+        "content": "我忘记了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75482,
+        "user": "fiona",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75484,
+        "user": "fiona",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75485,
+        "user": "fiona",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75490,
+        "user": "fiona",
+        "content": "感觉是这样吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75497,
+        "user": "【水晶】春天",
+        "content": "对"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75506,
+        "user": "fiona",
+        "content": "一般白要先走到23那个点。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75523,
+        "user": "【水晶】春天",
+        "content": "ZJ1d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75537,
+        "user": "fiona",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75538,
+        "user": "【水晶】春天",
+        "content": "那也不行"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75538,
+        "user": "fiona",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75553,
+        "user": "fiona",
+        "content": "ZJ059"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75556,
+        "user": "fiona",
+        "content": "也许吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75559,
+        "user": "fiona",
+        "content": "我不知道"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75570,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75570,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75570,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75570,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75570,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75571,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75571,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75571,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75575,
+        "user": "fiona",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75575,
+        "user": "fiona",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75577,
+        "user": "fiona",
+        "content": "ZJ195"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75582,
+        "user": "fiona",
+        "content": "要是这个样子"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75584,
+        "user": "fiona",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75589,
+        "user": "fiona",
+        "content": "记得25在这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75600,
+        "user": "fiona",
+        "content": "欺负白下面没有东西"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75660,
+        "user": "幸福人生",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75680,
+        "user": "fiona",
+        "content": "找不到谱了。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75687,
+        "user": "fiona",
+        "content": "反正就是不给白机会"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75710,
+        "user": "fiona",
+        "content": "一定要严格贯彻包饺子的原则"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75724,
+        "user": "fiona",
+        "content": "肉一定要在里面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75730,
+        "user": "幸福人生",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75753,
+        "user": "如意",
+        "content": "L8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75774,
+        "user": "fiona",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75779,
+        "user": "fiona",
+        "content": "这里？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75788,
+        "user": "fiona",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75797,
+        "user": "fiona",
+        "content": "那白怎么走"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75804,
+        "user": "fiona",
+        "content": "黑就在外面先手把左上攻击了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75811,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75818,
+        "user": "fiona",
+        "content": "然后带着优势走到E5附近"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75824,
+        "user": "fiona",
+        "content": "先手去防右边"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75831,
+        "user": "fiona",
+        "content": "不给对手机会 安全攻击完"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75892,
+        "user": "桃夭",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75922,
+        "user": "乐棋",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75931,
+        "user": "李小羽",
+        "content": "。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75931,
+        "user": "【水晶】萱旋",
+        "content": "=="
+    },
+    {
+        "action": "TALK",
+        "time_int": 75949,
+        "user": "幸福人生",
+        "content": "；"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75959,
+        "user": "【水晶】雨水",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75964,
+        "user": "【水晶】喵喵",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75982,
+        "user": "fiona",
+        "content": "大家有什么意见可以找水晶雨"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75987,
+        "user": "fiona",
+        "content": "或者是伟鬼"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75994,
+        "user": "【水晶】雨水",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76000,
+        "user": "ndh003",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76004,
+        "user": "【水晶】萱旋",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76014,
+        "user": "ndh003",
+        "content": "什么意见啊？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76021,
+        "user": "fiona",
+        "content": "没有其他的事 我就下课了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76028,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76028,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76028,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76028,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76028,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76029,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76029,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76029,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76029,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76029,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76029,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76030,
+        "user": "莲珠秀",
+        "content": "啊？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76030,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76031,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 76032,
+        "user": "fiona",
+        "content": "ZJ85A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76033,
+        "user": "【水晶】雨水",
+        "content": "好啊"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76037,
+        "user": "fiona",
+        "content": "ZJ87B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76040,
+        "user": "紫色",
+        "content": "啊啊啊"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76040,
+        "user": "fiona",
+        "content": "ZJbaC"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76043,
+        "user": "fiona",
+        "content": "ZJ83D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76055,
+        "user": "fiona",
+        "content": "这4个点是黑攻击的要点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76076,
+        "user": "fiona",
+        "content": "当瑞星 黑拿到这个13的时候往往就是这几个攻击点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76088,
+        "user": "fiona",
+        "content": "白的防点根据具体局面具体分析哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76110,
+        "user": "【水晶】鸣鸣",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76132,
+        "user": "江南新绿",
+        "content": "如果黑棋15=f7，白棋怎么杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76138,
+        "user": "fiona",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76147,
+        "user": "fiona",
+        "content": "不知道"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76150,
+        "user": "fiona",
+        "content": "能杀吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76163,
+        "user": "江南新绿",
+        "content": "不知道啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76174,
+        "user": "fiona",
+        "content": "我拿白就H5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76180,
+        "user": "fiona",
+        "content": "直接拍下去"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76198,
+        "user": "江南新绿",
+        "content": "试着走走行吗"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76212,
+        "user": "fiona",
+        "content": "ZJ185"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76216,
+        "user": "fiona",
+        "content": "偶这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76224,
+        "user": "【水晶】荷",
+        "content": "////"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76224,
+        "user": "江南新绿",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76237,
+        "user": "fiona",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76239,
+        "user": "【水晶】飞鸿",
+        "content": "大家好！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76245,
+        "user": "江南新绿",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76263,
+        "user": "fiona",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76264,
+        "user": "【水晶】喵喵",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76274,
+        "user": "fiona",
+        "content": "不会 觉得黑很不错"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76278,
+        "user": "学习",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76281,
+        "user": "曼珠沙华",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76285,
+        "user": "曼珠沙华",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76287,
+        "user": "学习",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76289,
+        "user": "学习",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76291,
+        "user": "曼珠沙华",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76297,
+        "user": "学习",
+        "content": "到"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76301,
+        "user": "江南新绿",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76304,
+        "user": "旭雨",
+        "content": "dao"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 76305,
+        "user": "",
+        "content": " 伊人, 江南新绿, 乐棋, 【水晶】雨水, 【水晶】荷, 【水晶】物语, 幸福人生, 【水晶】喵喵, 【水晶】信步, 【水晶】萱旋, ndh003, 莲珠秀, 【水晶】鸣鸣, 【水晶】呆呆, 桃夭, 裁决殿★003, sky, 【水晶】飞鸿, 小山谷, 【水晶】片汤, 【水晶】春天, 李小羽, 【水晶】小雨, 含笑, 【水晶】瞳孔, 敏敏, gumuyuan, 325701, 【水晶】海天, 最孤独的背影, 8283726, 紫色, 如意, 【水晶】嘎嘎."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76312,
+        "user": "fiona",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76313,
+        "user": "fiona",
+        "content": "到这里平衡 下课  或者是黑好。偶不知道"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76321,
+        "user": "江南新绿",
+        "content": "貌似会很安全"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76321,
+        "user": "最孤独的背影",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76323,
+        "user": "fiona",
+        "content": "希望下次比赛前我去研究下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76334,
+        "user": "江南新绿",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76339,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76339,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76339,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76339,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76339,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76340,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76344,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76347,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76347,
+        "user": "fiona",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76352,
+        "user": "旭雨",
+        "content": "老师我答到了阿"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76354,
+        "user": "fiona",
+        "content": "不过这样就白杀了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76361,
+        "user": "江南新绿",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76364,
+        "user": "fiona",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76364,
+        "user": "fiona",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76365,
+        "user": "fiona",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76365,
+        "user": "fiona",
+        "content": "ZJ06c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76366,
+        "user": "fiona",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76372,
+        "user": "fiona",
+        "content": "ZJ09d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76373,
+        "user": "fiona",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76410,
+        "user": "【水晶】春天",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76432,
+        "user": "fiona",
+        "content": "ZJ159"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76433,
+        "user": "fiona",
+        "content": "ZJ048"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76433,
+        "user": "fiona",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76446,
+        "user": "fiona",
+        "content": "33 谢谢新绿给我们的新提议"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76455,
+        "user": "【水晶】春天",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76459,
+        "user": "fiona",
+        "content": "ZJ157"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76474,
+        "user": "【水晶】春天",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76477,
+        "user": "【水晶】春天",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76480,
+        "user": "【水晶】春天",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76532,
+        "user": "【水晶】春天",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 76536,
+        "user": "",
+        "content": " 325701, 8283726, gumuyuan, ndh003, sky, 【水晶】春天, 【水晶】呆呆, 【水晶】飞鸿, 【水晶】海天, 【水晶】荷, 【水晶】鸣鸣, 【水晶】片汤, 【水晶】瞳孔, 【水晶】物语, 【水晶】小雨, 【水晶】信步, 【水晶】雨水, 【水晶】萱旋, 【水晶】喵喵, 裁决殿★003, 含笑, 乐棋, 李小羽, 莲珠秀, 敏敏, 桃夭, 小山谷, 幸福人生, 伊人, 紫色."
+    }
+]

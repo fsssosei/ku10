@@ -1,0 +1,2924 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72541,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72559,
+        "user": "徐永伟",
+        "content": "欢迎光临浙江五子棋教室"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72569,
+        "user": "含笑",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72572,
+        "user": "过客356",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72587,
+        "user": "虞旭鹏",
+        "content": "近来我的网差极了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72593,
+        "user": "徐永伟",
+        "content": "星期五由于服务器无法开启，耽误了大家的时间，不好意思"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72608,
+        "user": "过客356",
+        "content": "没什么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72624,
+        "user": "徐永伟",
+        "content": "今天继续由我讲流星的内容"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72625,
+        "user": "徐永伟",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72626,
+        "user": "徐永伟",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72627,
+        "user": "徐永伟",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72628,
+        "user": "徐永伟",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72629,
+        "user": "徐永伟",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72630,
+        "user": "徐永伟",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72630,
+        "user": "徐永伟",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72631,
+        "user": "徐永伟",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72631,
+        "user": "徐永伟",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72632,
+        "user": "徐永伟",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72633,
+        "user": "徐永伟",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72634,
+        "user": "徐永伟",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72634,
+        "user": "徐永伟",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72634,
+        "user": "徐永伟",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72636,
+        "user": "徐永伟",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72636,
+        "user": "徐永伟",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72637,
+        "user": "徐永伟",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72637,
+        "user": "徐永伟",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72638,
+        "user": "徐永伟",
+        "content": "ZJ0e7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72640,
+        "user": "徐永伟",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72640,
+        "user": "徐永伟",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72641,
+        "user": "徐永伟",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72642,
+        "user": "徐永伟",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72643,
+        "user": "徐永伟",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72643,
+        "user": "徐永伟",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72644,
+        "user": "徐永伟",
+        "content": "ZJ1fb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72645,
+        "user": "徐永伟",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72645,
+        "user": "徐永伟",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72646,
+        "user": "徐永伟",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72647,
+        "user": "徐永伟",
+        "content": "ZJ194"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72648,
+        "user": "徐永伟",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72674,
+        "user": "徐永伟",
+        "content": "在上次的流星课程中我们看了这个31的变化"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72682,
+        "user": "徐永伟",
+        "content": "ZJ1ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72682,
+        "user": "徐永伟",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72686,
+        "user": "徐永伟",
+        "content": "ZJ165"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72696,
+        "user": "徐永伟",
+        "content": "之后到这个34"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72707,
+        "user": "徐永伟",
+        "content": "然后问35怎么下好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72755,
+        "user": "徐永伟",
+        "content": "这里另外还有种34的下法是先冲了2-4-6线的眠三"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72756,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72757,
+        "user": "徐永伟",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72758,
+        "user": "徐永伟",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72759,
+        "user": "徐永伟",
+        "content": "ZJ165"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72778,
+        "user": "徐永伟",
+        "content": "这个也是一种方法"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72779,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72780,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72781,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72782,
+        "user": "徐永伟",
+        "content": "ZJ165"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72790,
+        "user": "徐永伟",
+        "content": "我们先看这样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72810,
+        "user": "徐永伟",
+        "content": "在这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72819,
+        "user": "徐永伟",
+        "content": "或者说这样的局面下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72839,
+        "user": "徐永伟",
+        "content": "白34是想利用外围做文章"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72858,
+        "user": "徐永伟",
+        "content": "同时可以限制黑在左边做大的可能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72878,
+        "user": "徐永伟",
+        "content": "在我们以前学习过的局面变化中"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72897,
+        "user": "徐永伟",
+        "content": "这个局部的流星变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72915,
+        "user": "徐永伟",
+        "content": "白存在的是两个方向的进攻可能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72935,
+        "user": "徐永伟",
+        "content": "第一是利用M和O线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72946,
+        "user": "徐永伟",
+        "content": "有个黑的禁点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72981,
+        "user": "徐永伟",
+        "content": "第二就上左上利用2-4-6的眠三形成的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73002,
+        "user": "徐永伟",
+        "content": "现在黑被包围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73068,
+        "user": "徐永伟",
+        "content": "黑的思路在这里就基本体现为和棋策略为好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73090,
+        "user": "徐永伟",
+        "content": "因为进攻的能力太弱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73100,
+        "user": "徐永伟",
+        "content": "就算有进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73118,
+        "user": "徐永伟",
+        "content": "许多时候也就存在一些骗点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73133,
+        "user": "徐永伟",
+        "content": "我们先来看一个选择"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73135,
+        "user": "徐永伟",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73146,
+        "user": "徐永伟",
+        "content": "黑35活三进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73181,
+        "user": "徐永伟",
+        "content": "这里同时可以限制白12-24的延伸"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73194,
+        "user": "徐永伟",
+        "content": "破坏在0线被抓的可能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73205,
+        "user": "徐永伟",
+        "content": "现在如果是你下白棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73216,
+        "user": "徐永伟",
+        "content": "你怎么选择？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73258,
+        "user": "徐永伟",
+        "content": "说出你自己的想法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73262,
+        "user": "过客357",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73339,
+        "user": "徐永伟",
+        "content": "好象没人在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73347,
+        "user": "水晶寒星",
+        "content": "J3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73355,
+        "user": "蓉儿",
+        "content": "8知道怎么下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73361,
+        "user": "●品棋○",
+        "content": "在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73377,
+        "user": "莲珠秀",
+        "content": "在思考啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73399,
+        "user": "蓉儿",
+        "content": "啊"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73402,
+        "user": "徐永伟",
+        "content": "ZJ1a3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73403,
+        "user": "过客363",
+        "content": "。。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73407,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73416,
+        "user": "wei_qqq",
+        "content": "大家好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73435,
+        "user": "徐永伟",
+        "content": "J3是不错的选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73451,
+        "user": "徐永伟",
+        "content": "在这里如果选择中间防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73464,
+        "user": "徐永伟",
+        "content": "那就会被骗了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73466,
+        "user": "徐永伟",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73474,
+        "user": "徐永伟",
+        "content": "假如这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73484,
+        "user": "徐永伟",
+        "content": "谁可以来表示下黑"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73534,
+        "user": "徐永伟",
+        "content": "请说我"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73586,
+        "user": "徐永伟",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73590,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73595,
+        "user": "徐永伟",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73596,
+        "user": "徐永伟",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73597,
+        "user": "徐永伟",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73620,
+        "user": "徐永伟",
+        "content": "黑就可以这样来做VCF"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73624,
+        "user": "徐永伟",
+        "content": "ZJ96A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73627,
+        "user": "徐永伟",
+        "content": "ZJ86B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73653,
+        "user": "徐永伟",
+        "content": "那么现在怎么防才可以防住黑的进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73746,
+        "user": "徐永伟",
+        "content": "大家思考下5分钟怎么样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73778,
+        "user": "蓉儿",
+        "content": "L3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73812,
+        "user": "莲珠秀",
+        "content": "先做个四四禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73813,
+        "user": "徐永伟",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73825,
+        "user": "徐永伟",
+        "content": "怎么做44？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73827,
+        "user": "徐永伟",
+        "content": "ZJ1e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73829,
+        "user": "徐永伟",
+        "content": "ZJ0f6"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73830,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73831,
+        "user": "徐永伟",
+        "content": "ZJ0f5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73832,
+        "user": "徐永伟",
+        "content": "ZJ1f6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73833,
+        "user": "徐永伟",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73839,
+        "user": "徐永伟",
+        "content": "这样吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73865,
+        "user": "徐永伟",
+        "content": "但这个还有双杀存在啊"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73867,
+        "user": "徐永伟",
+        "content": "ZJ86A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73873,
+        "user": "徐永伟",
+        "content": "ZJ84B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73886,
+        "user": "徐永伟",
+        "content": "ZJ75C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73890,
+        "user": "徐永伟",
+        "content": "ZJ73D"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73895,
+        "user": "徐永伟",
+        "content": "ZJa2D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73906,
+        "user": "莲珠秀",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73907,
+        "user": "徐永伟",
+        "content": "还是存在这样的进攻线"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73915,
+        "user": "徐永伟",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73916,
+        "user": "徐永伟",
+        "content": "ZJ0c3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73919,
+        "user": "徐永伟",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73920,
+        "user": "徐永伟",
+        "content": "ZJ0c2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73935,
+        "user": "徐永伟",
+        "content": "这样还是杀的吧"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73944,
+        "user": "徐永伟",
+        "content": "ZJb3A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73953,
+        "user": "徐永伟",
+        "content": "ZJa3B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73957,
+        "user": "徐永伟",
+        "content": "ZJd2C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73961,
+        "user": "徐永伟",
+        "content": "ZJa2D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73982,
+        "user": "徐永伟",
+        "content": "无解了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73995,
+        "user": "徐永伟",
+        "content": "其实I3是唯一防"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73997,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73998,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73998,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73999,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73999,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74000,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74000,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74000,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74003,
+        "user": "徐永伟",
+        "content": "ZJ1c3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74019,
+        "user": "徐永伟",
+        "content": "但这样的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74104,
+        "user": "蓉儿",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74107,
+        "user": "徐永伟",
+        "content": "黑可以借势来化白的优"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74110,
+        "user": "徐永伟",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74127,
+        "user": "徐永伟",
+        "content": "把白分割"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74151,
+        "user": "过客357",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74159,
+        "user": "蓉儿",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74173,
+        "user": "徐永伟",
+        "content": "ZJ157"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74214,
+        "user": "徐永伟",
+        "content": "但白可以继续以控制外围来回"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74228,
+        "user": "徐永伟",
+        "content": "而且还保留两边的进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74254,
+        "user": "过客363",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74298,
+        "user": "徐永伟",
+        "content": "这样黑只有继续进攻来化解"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74315,
+        "user": "徐永伟",
+        "content": "现在如果防的话是防不住的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74317,
+        "user": "徐永伟",
+        "content": "ZJ058"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74317,
+        "user": "徐永伟",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74319,
+        "user": "徐永伟",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74319,
+        "user": "徐永伟",
+        "content": "ZJ149"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74335,
+        "user": "过客363",
+        "content": "，，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74339,
+        "user": "徐永伟",
+        "content": "到这样的局面后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74365,
+        "user": "徐永伟",
+        "content": "黑基本无力攻击了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74367,
+        "user": "徐永伟",
+        "content": "ZJ0b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74368,
+        "user": "徐永伟",
+        "content": "ZJ186"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74383,
+        "user": "过客363",
+        "content": "。。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74445,
+        "user": "徐永伟",
+        "content": "就算到现在的局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74470,
+        "user": "徐永伟",
+        "content": "白存在上面的优势是明显的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74505,
+        "user": "徐永伟",
+        "content": "而且右下同时还隐藏杀的路线"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74508,
+        "user": "徐永伟",
+        "content": "ZJ021"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74509,
+        "user": "徐永伟",
+        "content": "ZJ1d5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74511,
+        "user": "徐永伟",
+        "content": "ZJ0d4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74513,
+        "user": "徐永伟",
+        "content": "ZJ1f5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74514,
+        "user": "徐永伟",
+        "content": "ZJ0e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74515,
+        "user": "徐永伟",
+        "content": "ZJ1f9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74515,
+        "user": "徐永伟",
+        "content": "ZJ0e8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74516,
+        "user": "徐永伟",
+        "content": "ZJ1f3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74532,
+        "user": "徐永伟",
+        "content": "这是白的一种"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74550,
+        "user": "徐永伟",
+        "content": "手段"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74552,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74553,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74553,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74554,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74554,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74555,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74555,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74562,
+        "user": "徐永伟",
+        "content": "ZJ1f9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74563,
+        "user": "徐永伟",
+        "content": "ZJ0e8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74564,
+        "user": "徐永伟",
+        "content": "ZJ1fa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74600,
+        "user": "徐永伟",
+        "content": "ZJ0f8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74601,
+        "user": "徐永伟",
+        "content": "ZJ1e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74602,
+        "user": "徐永伟",
+        "content": "ZJ0f5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74604,
+        "user": "徐永伟",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74605,
+        "user": "徐永伟",
+        "content": "ZJ0f6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74606,
+        "user": "徐永伟",
+        "content": "ZJ1e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74608,
+        "user": "徐永伟",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74611,
+        "user": "徐永伟",
+        "content": "ZJ1fd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74611,
+        "user": "徐永伟",
+        "content": "ZJ0fc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74613,
+        "user": "徐永伟",
+        "content": "ZJ1ec"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74614,
+        "user": "徐永伟",
+        "content": "ZJ0db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74614,
+        "user": "徐永伟",
+        "content": "ZJ1ea"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74632,
+        "user": "徐永伟",
+        "content": "这是另外的手段"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74717,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74717,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74717,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74718,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74718,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74719,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74719,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74720,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74720,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74720,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74721,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74722,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74723,
+        "user": "徐永伟",
+        "content": "ZJ0fc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74724,
+        "user": "徐永伟",
+        "content": "ZJ1e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74736,
+        "user": "徐永伟",
+        "content": "ZJ0f5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74737,
+        "user": "徐永伟",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74739,
+        "user": "徐永伟",
+        "content": "ZJ0f6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74742,
+        "user": "徐永伟",
+        "content": "ZJ1e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74743,
+        "user": "徐永伟",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74744,
+        "user": "徐永伟",
+        "content": "ZJ1f8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74745,
+        "user": "徐永伟",
+        "content": "ZJ0f7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74748,
+        "user": "徐永伟",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74749,
+        "user": "徐永伟",
+        "content": "ZJ0ea"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74749,
+        "user": "徐永伟",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74750,
+        "user": "徐永伟",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74751,
+        "user": "徐永伟",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74752,
+        "user": "徐永伟",
+        "content": "ZJ0bd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74754,
+        "user": "徐永伟",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74805,
+        "user": "徐永伟",
+        "content": "由这样的延伸来连接也是进攻的方向"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74838,
+        "user": "徐永伟",
+        "content": "这样黑应该就不太好防了吧"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 74907,
+        "user": "",
+        "content": " 蓉儿, 水晶寒星, 蓝雪人, 含笑."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74938,
+        "user": "莲珠秀",
+        "content": "晕，怎么偏我去喝水就点到呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74957,
+        "user": "徐永伟",
+        "content": "所以就算黑这样的强攻也很难有效果"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74967,
+        "user": "徐永伟",
+        "content": 35
+    },
+    {
+        "action": "TALK",
+        "time_int": 75000,
+        "user": "徐永伟",
+        "content": "另外的处理方法和寒星说的一样"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75004,
+        "user": "徐永伟",
+        "content": "ZJ1a3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75015,
+        "user": "徐永伟",
+        "content": "是直接外防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75030,
+        "user": "徐永伟",
+        "content": "当然这个点的处理可以有其他的选择"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75032,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75033,
+        "user": "徐永伟",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75034,
+        "user": "徐永伟",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75036,
+        "user": "徐永伟",
+        "content": "ZJ1a3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75046,
+        "user": "徐永伟",
+        "content": "比如这样"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75050,
+        "user": "徐永伟",
+        "content": "ZJ066"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75052,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75053,
+        "user": "徐永伟",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75056,
+        "user": "徐永伟",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75057,
+        "user": "徐永伟",
+        "content": "ZJ066"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75058,
+        "user": "徐永伟",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75061,
+        "user": "徐永伟",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75062,
+        "user": "徐永伟",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75068,
+        "user": "徐永伟",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75072,
+        "user": "徐永伟",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75073,
+        "user": "徐永伟",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75085,
+        "user": "徐永伟",
+        "content": "黑可以这样进攻吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75169,
+        "user": "徐永伟",
+        "content": "47后白怎么防好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75187,
+        "user": "水晶寒星",
+        "content": "H12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75200,
+        "user": "莲珠秀",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75201,
+        "user": "徐永伟",
+        "content": "直接进攻？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75215,
+        "user": "水晶寒星",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75260,
+        "user": "徐永伟",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75261,
+        "user": "徐永伟",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75281,
+        "user": "水晶寒星",
+        "content": "右边44"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75282,
+        "user": "徐永伟",
+        "content": "这样的话白有多少可连接的点呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75297,
+        "user": "徐永伟",
+        "content": "这个44抓不到"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75301,
+        "user": "徐永伟",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75301,
+        "user": "水晶寒星",
+        "content": "哦"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75304,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75319,
+        "user": "徐永伟",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75319,
+        "user": "徐永伟",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75321,
+        "user": "徐永伟",
+        "content": "ZJ1e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75322,
+        "user": "徐永伟",
+        "content": "ZJ0f5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75324,
+        "user": "徐永伟",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75326,
+        "user": "徐永伟",
+        "content": "ZJ0f6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75328,
+        "user": "徐永伟",
+        "content": "ZJ1d5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75348,
+        "user": "徐永伟",
+        "content": "是不是这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75353,
+        "user": "水晶寒星",
+        "content": "是抓不到"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75406,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75407,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75407,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75408,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75409,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75409,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75409,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75410,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75411,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75456,
+        "user": "徐永伟",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75471,
+        "user": "徐永伟",
+        "content": "所以这个48是比较可以的选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75487,
+        "user": "徐永伟",
+        "content": "同时还给黑出了难题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75497,
+        "user": "过客363",
+        "content": "，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75498,
+        "user": "徐永伟",
+        "content": "其实在刚才的情况下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75514,
+        "user": "徐永伟",
+        "content": "我们已经了解了黑的心理作用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75537,
+        "user": "徐永伟",
+        "content": "黑是尽量在不犯错误的情况下以和为主"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75560,
+        "user": "徐永伟",
+        "content": "所以不存在对白的威胁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75589,
+        "user": "徐永伟",
+        "content": "那么白就可以针对这样的局面和心理做反应"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75609,
+        "user": "徐永伟",
+        "content": "1保持心态的稳定"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75620,
+        "user": "徐永伟",
+        "content": "2不要盲目进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75637,
+        "user": "徐永伟",
+        "content": "以扩大优势和连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75661,
+        "user": "徐永伟",
+        "content": "增加外围子力为方针"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75674,
+        "user": "徐永伟",
+        "content": "基本就可以胜利"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75705,
+        "user": "徐永伟",
+        "content": "因为就算无法胜利，但最差的结果是什么，大家应该知道吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75770,
+        "user": "水晶寒星",
+        "content": "和"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75772,
+        "user": "徐永伟",
+        "content": "而且学习流星开局最大的好处是练习禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75792,
+        "user": "徐永伟",
+        "content": "以及中盘的控制和做棋的手法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75797,
+        "user": "水晶寒星",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75820,
+        "user": "徐永伟",
+        "content": "因为流星中存在的禁点最多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75831,
+        "user": "水晶寒星",
+        "content": "好象还很多骗的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75834,
+        "user": "徐永伟",
+        "content": "而且许多禁都很巧妙"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75853,
+        "user": "徐永伟",
+        "content": "另外因为已经到了中盘后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75873,
+        "user": "徐永伟",
+        "content": "就体现了中盘以后的心理"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75882,
+        "user": "徐永伟",
+        "content": "包括手法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75897,
+        "user": "徐永伟",
+        "content": "和控制能力"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75900,
+        "user": "徐永伟",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75916,
+        "user": "徐永伟",
+        "content": "假如黑这样防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75936,
+        "user": "徐永伟",
+        "content": "白下手在什么地方好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76005,
+        "user": "莲珠秀",
+        "content": "O8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76020,
+        "user": "徐永伟",
+        "content": "进攻？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76093,
+        "user": "徐永伟",
+        "content": "白的下手不是直接进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76105,
+        "user": "徐永伟",
+        "content": "但有非常强的点可以选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76118,
+        "user": "徐永伟",
+        "content": "如果在这样的情况下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76138,
+        "user": "徐永伟",
+        "content": "白基本会选择什么点来扩大"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76151,
+        "user": "徐永伟",
+        "content": "刚才基本说过了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76160,
+        "user": "徐永伟",
+        "content": "黑不存在进攻的本钱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76177,
+        "user": "徐永伟",
+        "content": "那么白怎么利用到这点来扩大自己"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76190,
+        "user": "徐永伟",
+        "content": "就是一种心理思考"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76215,
+        "user": "徐永伟",
+        "content": "如果直接进攻那等于给黑寻找防点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76245,
+        "user": "徐永伟",
+        "content": "因为你多手的同时也会给对手多子力防点的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76346,
+        "user": "含笑",
+        "content": "我是不是掉了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76368,
+        "user": "徐永伟",
+        "content": "好象还在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76390,
+        "user": "徐永伟",
+        "content": "现在的问题是白下手在什么地方好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76399,
+        "user": "过客363",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76415,
+        "user": "含笑",
+        "content": "55555,掉了：（"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76467,
+        "user": "过客368",
+        "content": "``"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76473,
+        "user": "徐永伟",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76493,
+        "user": "徐永伟",
+        "content": "在这里有非常强的一手棋可以利用"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76503,
+        "user": "徐永伟",
+        "content": "ZJ05b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76504,
+        "user": "徐永伟",
+        "content": "ZJ14b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76505,
+        "user": "徐永伟",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76521,
+        "user": "徐永伟",
+        "content": "如果黑这样活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76531,
+        "user": "徐永伟",
+        "content": "白怎么下好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76616,
+        "user": "蓉儿",
+        "content": "V"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76620,
+        "user": "莲珠秀",
+        "content": "白有V了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76635,
+        "user": "徐永伟",
+        "content": "容儿来表示下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76653,
+        "user": "蓉儿",
+        "content": "ZJ1bd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76655,
+        "user": "蓉儿",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76657,
+        "user": "蓉儿",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76659,
+        "user": "蓉儿",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76663,
+        "user": "蓉儿",
+        "content": "ZJ1f9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76672,
+        "user": "蓉儿",
+        "content": "ZJ0e8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76673,
+        "user": "蓉儿",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76676,
+        "user": "蓉儿",
+        "content": "ZJ0dc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76679,
+        "user": "蓉儿",
+        "content": "ZJ1ea"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76680,
+        "user": "蓉儿",
+        "content": "ZJ0db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76682,
+        "user": "蓉儿",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76683,
+        "user": "蓉儿",
+        "content": "ZJ0fa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76685,
+        "user": "蓉儿",
+        "content": "ZJ1ce"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76686,
+        "user": "蓉儿",
+        "content": "ZJ0df"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76687,
+        "user": "蓉儿",
+        "content": "ZJ1cb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76695,
+        "user": "徐永伟",
+        "content": "谢谢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76696,
+        "user": "水晶寒星",
+        "content": "厉害"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76713,
+        "user": "徐永伟",
+        "content": "这样的话黑无法活三进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76731,
+        "user": "徐永伟",
+        "content": "就算白没有V"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76739,
+        "user": "徐永伟",
+        "content": 53
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76741,
+        "user": "徐永伟",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76743,
+        "user": "徐永伟",
+        "content": "ZJ05d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76743,
+        "user": "徐永伟",
+        "content": "ZJ15c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76744,
+        "user": "徐永伟",
+        "content": "ZJ06c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76746,
+        "user": "徐永伟",
+        "content": "ZJ14e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76748,
+        "user": "徐永伟",
+        "content": "ZJ07d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76776,
+        "user": "徐永伟",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76776,
+        "user": "徐永伟",
+        "content": "ZJ0bd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76777,
+        "user": "徐永伟",
+        "content": "ZJ18e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76784,
+        "user": "徐永伟",
+        "content": "ZJ09d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76828,
+        "user": "徐永伟",
+        "content": "黑也无法有胜"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76842,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76843,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76843,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76844,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76845,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76845,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76845,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76846,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76847,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76847,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76848,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76848,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76851,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "FIRST",
+        "time_int": 76866,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "LAST",
+        "time_int": 76871,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76879,
+        "user": "徐永伟",
+        "content": 50
+    },
+    {
+        "action": "TALK",
+        "time_int": 76888,
+        "user": "徐永伟",
+        "content": "看了刚才的V线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76903,
+        "user": "徐永伟",
+        "content": "那么就表示黑必须防守"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76906,
+        "user": "徐永伟",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76921,
+        "user": "徐永伟",
+        "content": "如果这样的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76931,
+        "user": "徐永伟",
+        "content": "谁可以表示白胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76962,
+        "user": "徐永伟",
+        "content": "思考2分钟然后强说我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77083,
+        "user": "蓉儿",
+        "content": "我试一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77089,
+        "user": "徐永伟",
+        "content": "好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77096,
+        "user": "徐永伟",
+        "content": "继续吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77098,
+        "user": "蓉儿",
+        "content": "ZJ1f9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77100,
+        "user": "蓉儿",
+        "content": "ZJ0e8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77105,
+        "user": "蓉儿",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77107,
+        "user": "徐永伟",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77114,
+        "user": "蓉儿",
+        "content": "ZJ1fa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77117,
+        "user": "徐永伟",
+        "content": "ZJ0f8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77122,
+        "user": "蓉儿",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77123,
+        "user": "徐永伟",
+        "content": "ZJ0e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77129,
+        "user": "蓉儿",
+        "content": "ZJ1fd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77131,
+        "user": "徐永伟",
+        "content": "ZJ0fc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77132,
+        "user": "蓉儿",
+        "content": "ZJ1ec"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77134,
+        "user": "蓉儿",
+        "content": "ZJ0db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77144,
+        "user": "蓉儿",
+        "content": "ZJ1e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77145,
+        "user": "蓉儿",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77146,
+        "user": "蓉儿",
+        "content": "ZJ1ea"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77158,
+        "user": "徐永伟",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77167,
+        "user": "徐永伟",
+        "content": "谢谢，许多的禁点"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77174,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77175,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77175,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77176,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77176,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77177,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77178,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77178,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77179,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77181,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77182,
+        "user": "徐永伟",
+        "content": "ZJ0fc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77191,
+        "user": "徐永伟",
+        "content": "如果这样呢"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77200,
+        "user": "蓉儿",
+        "content": "ZJ1e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77202,
+        "user": "蓉儿",
+        "content": "ZJ0f5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77203,
+        "user": "蓉儿",
+        "content": "ZJ1f6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77206,
+        "user": "徐永伟",
+        "content": "ZJ0d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77207,
+        "user": "蓉儿",
+        "content": "ZJ1f8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77208,
+        "user": "徐永伟",
+        "content": "ZJ0f7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77217,
+        "user": "蓉儿",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77220,
+        "user": "徐永伟",
+        "content": "ZJ0ea"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77229,
+        "user": "蓉儿",
+        "content": "ZJ1e9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77236,
+        "user": "徐永伟",
+        "content": "强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77273,
+        "user": "过客369",
+        "content": "58`60二手不用的吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77336,
+        "user": "蓉儿",
+        "content": "恩，好象是没用"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77352,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77353,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77354,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77354,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77355,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77355,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77356,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77356,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77357,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77357,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77358,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77359,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77363,
+        "user": "徐永伟",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77364,
+        "user": "徐永伟",
+        "content": "ZJ1e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77364,
+        "user": "徐永伟",
+        "content": "ZJ0f5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77371,
+        "user": "徐永伟",
+        "content": "ZJ1fa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77372,
+        "user": "徐永伟",
+        "content": "ZJ0f8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77373,
+        "user": "徐永伟",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77373,
+        "user": "徐永伟",
+        "content": "ZJ0f6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77375,
+        "user": "徐永伟",
+        "content": "ZJ1e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77376,
+        "user": "徐永伟",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77378,
+        "user": "徐永伟",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77379,
+        "user": "徐永伟",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77380,
+        "user": "徐永伟",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77380,
+        "user": "徐永伟",
+        "content": "ZJ0dc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77383,
+        "user": "徐永伟",
+        "content": "ZJ1fd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77383,
+        "user": "徐永伟",
+        "content": "ZJ0fc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77384,
+        "user": "徐永伟",
+        "content": "ZJ1ea"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77391,
+        "user": "徐永伟",
+        "content": "也可以这样抓"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77398,
+        "user": "徐永伟",
+        "content": "方法很多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77407,
+        "user": "徐永伟",
+        "content": "看你怎么计算了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77444,
+        "user": "徐永伟",
+        "content": "所以说下流星太累，而且忧闷"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77454,
+        "user": "蓉儿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77461,
+        "user": "蓉儿",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77464,
+        "user": "徐永伟",
+        "content": "就是因为禁点太多的问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77468,
+        "user": "蓉儿",
+        "content": "卡了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77475,
+        "user": "徐永伟",
+        "content": "没"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77487,
+        "user": "徐永伟",
+        "content": "今天时间也基本到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77494,
+        "user": "徐永伟",
+        "content": "谢谢大家的参与"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77501,
+        "user": "过客356",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77508,
+        "user": "徐永伟",
+        "content": "下课了"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77510,
+        "user": "",
+        "content": " 含笑, 蓝雪人, 蓉儿."
+    }
+]

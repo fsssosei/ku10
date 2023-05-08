@@ -1,0 +1,4568 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72966,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72977,
+        "user": "AUTHOR",
+        "content": "大家好，今天我们继续水月的课程"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72981,
+        "user": "AUTHOR",
+        "content": "ZJ088"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72981,
+        "user": "清影",
+        "content": "谢谢你的问候呀~~~过客772~~~"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72982,
+        "user": "AUTHOR",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72983,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72988,
+        "user": "【水晶】小雨",
+        "content": "老师好！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72989,
+        "user": "AUTHOR",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72995,
+        "user": "AUTHOR",
+        "content": "上节课讲完了这个4"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72998,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73000,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73007,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73009,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73012,
+        "user": "AUTHOR",
+        "content": "还有这个4"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73018,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73033,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73033,
+        "user": "过客776",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73038,
+        "user": "AUTHOR",
+        "content": "今天来看一下这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73065,
+        "user": "清影",
+        "content": "好的"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73077,
+        "user": "AUTHOR",
+        "content": "ZJ96A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73079,
+        "user": "AUTHOR",
+        "content": "ZJa6B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73087,
+        "user": "AUTHOR",
+        "content": "5手2打点是A和B"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73101,
+        "user": "AUTHOR",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73126,
+        "user": "AUTHOR",
+        "content": "先来看一下这个点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73155,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73170,
+        "user": "AUTHOR",
+        "content": "1,3,5这个形状，在名,岚，山等很多开局的2打点中都反复出现过"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73179,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73180,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73181,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73183,
+        "user": "AUTHOR",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73184,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73185,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73191,
+        "user": "AUTHOR",
+        "content": "比如上节课刚讲过的这个"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73193,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73194,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73197,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73197,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73202,
+        "user": "AUTHOR",
+        "content": "这个和刚才的同型"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73207,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73208,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73210,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73212,
+        "user": "AUTHOR",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73223,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73224,
+        "user": "AUTHOR",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73240,
+        "user": "AUTHOR",
+        "content": "基本上，如果白2和4没有形成活2，这个5都是非常强的点"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73243,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73245,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73245,
+        "user": "AUTHOR",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73246,
+        "user": "AUTHOR",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73254,
+        "user": "AUTHOR",
+        "content": "ZJ66A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73256,
+        "user": "AUTHOR",
+        "content": "ZJ68Y"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73261,
+        "user": "AUTHOR",
+        "content": "ZJ68B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73265,
+        "user": "AUTHOR",
+        "content": "ZJ58C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73269,
+        "user": "AUTHOR",
+        "content": "ZJ86D"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73272,
+        "user": "AUTHOR",
+        "content": "ZJ87E"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73279,
+        "user": "AUTHOR",
+        "content": "ZJ56F"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73284,
+        "user": "AUTHOR",
+        "content": "接下来进攻的手段可以说非常多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73287,
+        "user": "AUTHOR",
+        "content": "优势巨大"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73289,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73290,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73294,
+        "user": "AUTHOR",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73305,
+        "user": "AUTHOR",
+        "content": "不过如果2和4活2的话，这样的5就不行了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73306,
+        "user": "AUTHOR",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73316,
+        "user": "AUTHOR",
+        "content": "ZJ198"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73340,
+        "user": "AUTHOR",
+        "content": "因为此时黑没有VCT，而白可以做出VCT来，这样黑防不住了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73342,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73343,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73343,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73344,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73345,
+        "user": "AUTHOR",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73346,
+        "user": "AUTHOR",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73365,
+        "user": "AUTHOR",
+        "content": "这样的情况下，一般2打都是挡活2两头"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73367,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73368,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73373,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73374,
+        "user": "AUTHOR",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73375,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73377,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73381,
+        "user": "AUTHOR",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73387,
+        "user": "AUTHOR",
+        "content": "好，回过头来看这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73406,
+        "user": "AUTHOR",
+        "content": "现在白没直接进攻的手段，当然只能来防守，黑优势非常大"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73442,
+        "user": "AUTHOR",
+        "content": "先来看看如果直接挡活2的话会怎么样"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73452,
+        "user": "AUTHOR",
+        "content": "ZJ185"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73459,
+        "user": "AUTHOR",
+        "content": "挡下面看上去非常弱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73471,
+        "user": "AUTHOR",
+        "content": "4,6形状很难看，效率很低"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73513,
+        "user": "AUTHOR",
+        "content": "现在右边非常空旷，可以做一下棋"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73515,
+        "user": "AUTHOR",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73522,
+        "user": "AUTHOR",
+        "content": "比如走在这里，一子通3路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73547,
+        "user": "AUTHOR",
+        "content": "这种是非常明显的必胜型"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73560,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73560,
+        "user": "AUTHOR",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73567,
+        "user": "AUTHOR",
+        "content": "或者这样做也可以"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73574,
+        "user": "AUTHOR",
+        "content": "白棋没有还手之力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73585,
+        "user": "【水晶】海天",
+        "content": "二路"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73588,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73589,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73593,
+        "user": "AUTHOR",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73604,
+        "user": "AUTHOR",
+        "content": "6挡这头的话，看上去稍微强一点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73616,
+        "user": "AUTHOR",
+        "content": "多防住了一些线路"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73636,
+        "user": "AUTHOR",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73654,
+        "user": "AUTHOR",
+        "content": "不过这个点黑通了3路后，白还是没办法防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73667,
+        "user": "昙花",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73683,
+        "user": "AUTHOR",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73704,
+        "user": "AUTHOR",
+        "content": "这个8稍微强一点，有谁愿意来演示一下黑如何胜？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73746,
+        "user": "AUTHOR",
+        "content": "看来大家都很矜持"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73750,
+        "user": "AUTHOR",
+        "content": "那我继续讲了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73777,
+        "user": "【水晶】海天",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73777,
+        "user": "AUTHOR",
+        "content": "白8做了个活2"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73780,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73791,
+        "user": "AUTHOR",
+        "content": "如果这样活3进攻就不太好了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73793,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73808,
+        "user": "AUTHOR",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73809,
+        "user": "AUTHOR",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73828,
+        "user": "AUTHOR",
+        "content": "不好意思掉线了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73834,
+        "user": "『镇魂歌』叵叵",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73835,
+        "user": "AUTHOR",
+        "content": "如果这样的话"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73871,
+        "user": "AUTHOR",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73880,
+        "user": "AUTHOR",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73886,
+        "user": "AUTHOR",
+        "content": "这样好象进攻手段不多了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73893,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73894,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73895,
+        "user": "AUTHOR",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73900,
+        "user": "AUTHOR",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73901,
+        "user": "AUTHOR",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73914,
+        "user": "AUTHOR",
+        "content": "这样看上去不错"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73916,
+        "user": "AUTHOR",
+        "content": "ZJ193"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73929,
+        "user": "AUTHOR",
+        "content": "不过14防完后，一下子也没有VCT的进攻手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73950,
+        "user": "AUTHOR",
+        "content": "那么这时候可以考虑一下前面的顺序"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73951,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73952,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73953,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73954,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73955,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73956,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73957,
+        "user": "AUTHOR",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73959,
+        "user": "AUTHOR",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73961,
+        "user": "AUTHOR",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73963,
+        "user": "AUTHOR",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73976,
+        "user": "AUTHOR",
+        "content": "这样的话，白能不能占这个点？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74000,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 74000,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74002,
+        "user": "AUTHOR",
+        "content": "ZJ193"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74011,
+        "user": "AUTHOR",
+        "content": "先来看一下刚才强防的位置"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74018,
+        "user": "AUTHOR",
+        "content": "因为少交换了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74020,
+        "user": "AUTHOR",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74025,
+        "user": "AUTHOR",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74026,
+        "user": "AUTHOR",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74028,
+        "user": "AUTHOR",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74029,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74033,
+        "user": "AUTHOR",
+        "content": "现在有简单VCT"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74036,
+        "user": "AUTHOR",
+        "content": "看上去不错"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74057,
+        "user": "AUTHOR",
+        "content": "看上去不错"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74058,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74059,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74060,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74060,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74061,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74062,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74063,
+        "user": "AUTHOR",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74068,
+        "user": "AUTHOR",
+        "content": "那么现在问题就是这个12了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74076,
+        "user": "AUTHOR",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74077,
+        "user": "AUTHOR",
+        "content": "ZJ185"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74084,
+        "user": "AUTHOR",
+        "content": "不反显然是不行的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74085,
+        "user": "过客765",
+        "content": "禁了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74085,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74086,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74087,
+        "user": "AUTHOR",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74093,
+        "user": "AUTHOR",
+        "content": "13必然要反一下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74102,
+        "user": "AUTHOR",
+        "content": "ZJ1c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74103,
+        "user": "AUTHOR",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74111,
+        "user": "AUTHOR",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74113,
+        "user": "AUTHOR",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74118,
+        "user": "AUTHOR",
+        "content": "ZJ193"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74121,
+        "user": "AUTHOR",
+        "content": "ZJ086"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74125,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74126,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74128,
+        "user": "AUTHOR",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74138,
+        "user": "AUTHOR",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74142,
+        "user": "AUTHOR",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74145,
+        "user": "AUTHOR",
+        "content": "ZJ074"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74146,
+        "user": "AUTHOR",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74147,
+        "user": "AUTHOR",
+        "content": "ZJ085"
+    },
+    {
+        "action": "FIRST",
+        "time_int": 74156,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74159,
+        "user": "AUTHOR",
+        "content": "这个14，黑直接简单VCT"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74164,
+        "user": "AUTHOR",
+        "content": 13
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74165,
+        "user": "AUTHOR",
+        "content": "ZJ184"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74169,
+        "user": "亓亓",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74178,
+        "user": "AUTHOR",
+        "content": "这个呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74208,
+        "user": "AUTHOR",
+        "content": "貌似没有VCT了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74225,
+        "user": "AUTHOR",
+        "content": "现在黑的优势在右边"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74231,
+        "user": "AUTHOR",
+        "content": "不过地方已经很小了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74253,
+        "user": "AUTHOR",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74260,
+        "user": "AUTHOR",
+        "content": "15比较显然"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74284,
+        "user": "AUTHOR",
+        "content": "要是被白活3占了，就被分割了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74299,
+        "user": "AUTHOR",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74300,
+        "user": "AUTHOR",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74310,
+        "user": "AUTHOR",
+        "content": "16防上面的话这里双杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74316,
+        "user": "AUTHOR",
+        "content": "ZJ1a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74317,
+        "user": "AUTHOR",
+        "content": "ZJ0c2"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74319,
+        "user": "AUTHOR",
+        "content": "ZJ1b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74320,
+        "user": "AUTHOR",
+        "content": "ZJ0c4"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74321,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74323,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74324,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74325,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74326,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74327,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74328,
+        "user": "AUTHOR",
+        "content": "ZJ193"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74334,
+        "user": "AUTHOR",
+        "content": "只有防下面了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74376,
+        "user": "AUTHOR",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74386,
+        "user": "AUTHOR",
+        "content": "17在这里可以便宜一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74393,
+        "user": "AUTHOR",
+        "content": "只能防上面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74395,
+        "user": "AUTHOR",
+        "content": "ZJ1b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74400,
+        "user": "AUTHOR",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74401,
+        "user": "AUTHOR",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74402,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74407,
+        "user": "AUTHOR",
+        "content": "上面有VCF"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74411,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74412,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74412,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74413,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74415,
+        "user": "AUTHOR",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74422,
+        "user": "AUTHOR",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74437,
+        "user": "AUTHOR",
+        "content": "然后19做VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74458,
+        "user": "AUTHOR",
+        "content": "这个VCF比较长，大家看看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74479,
+        "user": "AUTHOR",
+        "content": "大家看到VCF在哪里了吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74482,
+        "user": "【水晶】瞳孔",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74494,
+        "user": "【水晶】海天",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74498,
+        "user": "棋棋可儿",
+        "content": "shi"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74509,
+        "user": "AUTHOR",
+        "content": "ZJ1f1"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74517,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74519,
+        "user": "AUTHOR",
+        "content": "ZJ198"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74525,
+        "user": "『镇魂歌』叵叵",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74531,
+        "user": "AUTHOR",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74533,
+        "user": "AUTHOR",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74536,
+        "user": "AUTHOR",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74538,
+        "user": "AUTHOR",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74541,
+        "user": "AUTHOR",
+        "content": "ZJ0c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74543,
+        "user": "AUTHOR",
+        "content": "ZJ1d4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74545,
+        "user": "AUTHOR",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74548,
+        "user": "AUTHOR",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74555,
+        "user": "AUTHOR",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74572,
+        "user": "AUTHOR",
+        "content": "晕老是掉"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74574,
+        "user": "AUTHOR",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74580,
+        "user": "AUTHOR",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74583,
+        "user": "AUTHOR",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74594,
+        "user": "AUTHOR",
+        "content": "白虽然有个反4不过正好又反回去了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74596,
+        "user": "AUTHOR",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74598,
+        "user": "AUTHOR",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74599,
+        "user": "AUTHOR",
+        "content": "ZJ0d5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74601,
+        "user": "AUTHOR",
+        "content": "ZJ1e4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74602,
+        "user": "AUTHOR",
+        "content": "ZJ0b3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74608,
+        "user": "AUTHOR",
+        "content": "比较长，10步的VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74617,
+        "user": "【水晶】瞳孔",
+        "content": "哇"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74620,
+        "user": "AUTHOR",
+        "content": 19
+    },
+    {
+        "action": "TALK",
+        "time_int": 74621,
+        "user": "【水晶】瞳孔",
+        "content": "厉害"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74622,
+        "user": "无可无不可",
+        "content": "鼓掌"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74635,
+        "user": "AUTHOR",
+        "content": "当然白20不会走角上去，得防一下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74655,
+        "user": "AUTHOR",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74659,
+        "user": "AUTHOR",
+        "content": "比如这样防防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74660,
+        "user": "亓亓",
+        "content": "l"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74673,
+        "user": "AUTHOR",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74674,
+        "user": "AUTHOR",
+        "content": "ZJ1c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74676,
+        "user": "AUTHOR",
+        "content": "ZJ0a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74677,
+        "user": "AUTHOR",
+        "content": "ZJ192"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74678,
+        "user": "AUTHOR",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74685,
+        "user": "AUTHOR",
+        "content": "这样下面有VCT"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74687,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74688,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74689,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74690,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74692,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74693,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74700,
+        "user": "AUTHOR",
+        "content": "ZJ1c4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74704,
+        "user": "AUTHOR",
+        "content": "防下面的话"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74707,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74708,
+        "user": "AUTHOR",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74710,
+        "user": "AUTHOR",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74711,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74712,
+        "user": "AUTHOR",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74714,
+        "user": "AUTHOR",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74715,
+        "user": "AUTHOR",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74719,
+        "user": "AUTHOR",
+        "content": "上面又有"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74726,
+        "user": "AUTHOR",
+        "content": 19
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74750,
+        "user": "AUTHOR",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74762,
+        "user": "AUTHOR",
+        "content": "这里是刚才2个杀的双防之一"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74764,
+        "user": "AUTHOR",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74765,
+        "user": "AUTHOR",
+        "content": "ZJ1c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74766,
+        "user": "AUTHOR",
+        "content": "ZJ0a3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74779,
+        "user": "AUTHOR",
+        "content": "这里因为有个冲，可以破解刚才的VCT"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74804,
+        "user": "AUTHOR",
+        "content": "在计算的时候要算仔细"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74806,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74807,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74807,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74816,
+        "user": "亓亓",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74845,
+        "user": "AUTHOR",
+        "content": "不过因为现在L线漏风了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74849,
+        "user": "AUTHOR",
+        "content": "又有了另一套杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74850,
+        "user": "AUTHOR",
+        "content": "ZJ0c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74862,
+        "user": "AUTHOR",
+        "content": "ZJ1d4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74863,
+        "user": "AUTHOR",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74866,
+        "user": "赢我不难",
+        "content": "原来是这样下的，非常感谢！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74869,
+        "user": "AUTHOR",
+        "content": "如果防下面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74871,
+        "user": "AUTHOR",
+        "content": "ZJ1c3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74876,
+        "user": "AUTHOR",
+        "content": "上面直接VCF了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74881,
+        "user": "AUTHOR",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74882,
+        "user": "AUTHOR",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74884,
+        "user": "AUTHOR",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74885,
+        "user": "AUTHOR",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74886,
+        "user": "AUTHOR",
+        "content": "ZJ0e7"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74890,
+        "user": "AUTHOR",
+        "content": 23
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74892,
+        "user": "AUTHOR",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74896,
+        "user": "AUTHOR",
+        "content": "只有防这里了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74903,
+        "user": "AUTHOR",
+        "content": "ZJ0e7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74907,
+        "user": "AUTHOR",
+        "content": "ZJ1d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74909,
+        "user": "AUTHOR",
+        "content": "ZJ0e6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74914,
+        "user": "AUTHOR",
+        "content": "还是有双杀"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74927,
+        "user": "AUTHOR",
+        "content": "ZJb3A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74929,
+        "user": "AUTHOR",
+        "content": "ZJd7B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74932,
+        "user": "AUTHOR",
+        "content": "ZJc8B"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74936,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74937,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74938,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74939,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74940,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74941,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74941,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74946,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74952,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74964,
+        "user": "AUTHOR",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74977,
+        "user": "AUTHOR",
+        "content": "这个20也是可以防住最前面说的上下两套杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74984,
+        "user": "AUTHOR",
+        "content": "ZJ0e6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74994,
+        "user": "AUTHOR",
+        "content": "不过21在这里有个简单的双杀点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75027,
+        "user": "AUTHOR",
+        "content": "ZJ1c4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75028,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75029,
+        "user": "AUTHOR",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75031,
+        "user": "AUTHOR",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75032,
+        "user": "AUTHOR",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75036,
+        "user": "AUTHOR",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75040,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75041,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75042,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75043,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75044,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75044,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75045,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75046,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75053,
+        "user": "清影",
+        "content": "21手漂亮"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75069,
+        "user": "AUTHOR",
+        "content": "其他的20就更弱了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75089,
+        "user": "空空",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75089,
+        "user": "空空",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75097,
+        "user": "过客776",
+        "content": "老师  厉害   佩服"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75097,
+        "user": "AUTHOR",
+        "content": "这里13开始是个比较经典的VCT"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75131,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75132,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75133,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75134,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75135,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75135,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75136,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75145,
+        "user": "AUTHOR",
+        "content": "其他12都很简单，黑简单VCT"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75146,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75148,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75148,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75150,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75169,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75184,
+        "user": "AUTHOR",
+        "content": "其他8都比较弱了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75186,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75197,
+        "user": "AUTHOR",
+        "content": "比如这样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75235,
+        "user": "AUTHOR",
+        "content": "不过这里也要想清楚进攻线路和顺序"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75242,
+        "user": "AUTHOR",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75244,
+        "user": "AUTHOR",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75246,
+        "user": "AUTHOR",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75253,
+        "user": "AUTHOR",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75261,
+        "user": "AUTHOR",
+        "content": "注意9和11的顺序，否则有反"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75274,
+        "user": "AUTHOR",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75281,
+        "user": "AUTHOR",
+        "content": "ZJ193"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75285,
+        "user": "AUTHOR",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75287,
+        "user": "AUTHOR",
+        "content": "ZJ1a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75289,
+        "user": "AUTHOR",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75293,
+        "user": "AUTHOR",
+        "content": "ZJ1d5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75296,
+        "user": "AUTHOR",
+        "content": "ZJ0c4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75316,
+        "user": "AUTHOR",
+        "content": "活3后两头VCF了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75324,
+        "user": "清影",
+        "content": "！！！！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75328,
+        "user": "AUTHOR",
+        "content": "VCT不复杂，不过要考虑清楚顺序"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75330,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75331,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75332,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75333,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75334,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75335,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75336,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75337,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75338,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75339,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75343,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75344,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75369,
+        "user": "AUTHOR",
+        "content": "这个6基本就这样，如果没问题的话换下一个6看看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75393,
+        "user": "AUTHOR",
+        "content": "中场休息2分钟"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75405,
+        "user": "【水晶】海天",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75407,
+        "user": "清影",
+        "content": "好，谢谢老师`~`"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75408,
+        "user": "yyyezi",
+        "content": "老师万岁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75419,
+        "user": "yyyezi",
+        "content": "YE"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75446,
+        "user": "无可无不可",
+        "content": "然后横扫水月！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75487,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75505,
+        "user": "过客773",
+        "content": "怎么看不到了啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75548,
+        "user": "AUTHOR",
+        "content": "好，我们继续"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75551,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75552,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75570,
+        "user": "『镇魂歌』叵叵",
+        "content": "好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75571,
+        "user": "过客775",
+        "content": "6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75572,
+        "user": "AUTHOR",
+        "content": "刚才我们看到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75580,
+        "user": "AUTHOR",
+        "content": "J6这个点非常强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75588,
+        "user": "AUTHOR",
+        "content": "黑占了以后就1子通3路了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75599,
+        "user": "AUTHOR",
+        "content": "那么白6直接占领J6如何呢"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75603,
+        "user": "AUTHOR",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75615,
+        "user": "无可无不可",
+        "content": "强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75627,
+        "user": "AUTHOR",
+        "content": "看上去不错"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75638,
+        "user": "AUTHOR",
+        "content": "这样黑就没有刚才那样一子通N路的做棋点了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75649,
+        "user": "AUTHOR",
+        "content": "看看黑现在的资源"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75655,
+        "user": "AUTHOR",
+        "content": "貌似就一个活2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75680,
+        "user": "AUTHOR",
+        "content": "而且连一子通2路的做棋点也只有一个，并且看上去不怎么样"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75682,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75704,
+        "user": "AUTHOR",
+        "content": "看上去比较猥琐，虽然黑还是很优"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75711,
+        "user": "亓亓",
+        "content": "/."
+    },
+    {
+        "action": "BACK",
+        "time_int": 75719,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75732,
+        "user": "昙花",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75734,
+        "user": "AUTHOR",
+        "content": "那么能不能奔放一点呢"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75745,
+        "user": "AUTHOR",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75755,
+        "user": "AUTHOR",
+        "content": "考虑一下先活这个3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75776,
+        "user": "AUTHOR",
+        "content": "不论白挡哪里，都不能形成反攻的资源"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75776,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75780,
+        "user": "AUTHOR",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75790,
+        "user": "AUTHOR",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75796,
+        "user": "AUTHOR",
+        "content": "现在黑这样做就非常舒服了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75810,
+        "user": "AUTHOR",
+        "content": "材料丰富"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75814,
+        "user": "AUTHOR",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75816,
+        "user": "AUTHOR",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75821,
+        "user": "AUTHOR",
+        "content": "简单VCT"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75823,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75824,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75829,
+        "user": "AUTHOR",
+        "content": "ZJ194"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75831,
+        "user": "AUTHOR",
+        "content": "ZJ074"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75833,
+        "user": "AUTHOR",
+        "content": "ZJ163"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75834,
+        "user": "AUTHOR",
+        "content": "ZJ075"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75840,
+        "user": "AUTHOR",
+        "content": "挡这边也不行"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75841,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75842,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75843,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75844,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75845,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75846,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75847,
+        "user": "AUTHOR",
+        "content": "ZJ174"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75860,
+        "user": "AUTHOR",
+        "content": "看来白8必须得跟过来防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75877,
+        "user": "AUTHOR",
+        "content": "现在，黑就有做棋的手段了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75879,
+        "user": "AUTHOR",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75886,
+        "user": "叛逆鈊鎖",
+        "content": "'"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75900,
+        "user": "AUTHOR",
+        "content": "活3后做棋，是非常重要的进攻手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75917,
+        "user": "AUTHOR",
+        "content": "直接做做不出好的点时，可以考虑先活一下3拓展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75960,
+        "user": "AUTHOR",
+        "content": "现在黑有2个活2和一个眠3了，并且都是可以连续进攻的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75964,
+        "user": "AUTHOR",
+        "content": "局面一下子打开了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75989,
+        "user": "AUTHOR",
+        "content": "鉴于黑下面有VCT"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75996,
+        "user": "AUTHOR",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75998,
+        "user": "AUTHOR",
+        "content": "ZJ093"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76000,
+        "user": "AUTHOR",
+        "content": "ZJ194"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76003,
+        "user": "AUTHOR",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76005,
+        "user": "AUTHOR",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76008,
+        "user": "AUTHOR",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76013,
+        "user": "AUTHOR",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76015,
+        "user": "AUTHOR",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76017,
+        "user": "AUTHOR",
+        "content": "ZJ1b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76020,
+        "user": "AUTHOR",
+        "content": "ZJ075"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76030,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76030,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76032,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76033,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76034,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76035,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76036,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76037,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76038,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76043,
+        "user": "AUTHOR",
+        "content": "看来这样的10是不行的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76044,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76045,
+        "user": "AUTHOR",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76051,
+        "user": "AUTHOR",
+        "content": "这样当然更不行了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76052,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76059,
+        "user": "AUTHOR",
+        "content": "得来防一下黑下面的活2"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76072,
+        "user": "AUTHOR",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76074,
+        "user": "AUTHOR",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76076,
+        "user": "AUTHOR",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76079,
+        "user": "AUTHOR",
+        "content": "ZJ0a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76083,
+        "user": "AUTHOR",
+        "content": "ZJ1b2"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76086,
+        "user": "AUTHOR",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76089,
+        "user": "AUTHOR",
+        "content": "双杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76092,
+        "user": "AUTHOR",
+        "content": "ZJ1b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76094,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76096,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76096,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 76097,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76099,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76100,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76103,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76106,
+        "user": "『镇魂歌』叵叵",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 76110,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76113,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76114,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76120,
+        "user": "AUTHOR",
+        "content": "ZJ175"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76125,
+        "user": "AUTHOR",
+        "content": "换这边"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76133,
+        "user": "AUTHOR",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76142,
+        "user": "AUTHOR",
+        "content": "注意到这个11非常合算"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76162,
+        "user": "AUTHOR",
+        "content": "因为8线VCF的缘故，白只能挡上面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76164,
+        "user": "AUTHOR",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76173,
+        "user": "AUTHOR",
+        "content": "而且挡完了8线的资源还在，太合算了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76180,
+        "user": "清影",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76206,
+        "user": "AUTHOR",
+        "content": "不过这里就不能像刚才那样J3活3了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76213,
+        "user": "AUTHOR",
+        "content": "看起来这个10稍微强点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76224,
+        "user": "AUTHOR",
+        "content": "碰到这样的情况"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76228,
+        "user": "AUTHOR",
+        "content": "通常先要考虑一下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76230,
+        "user": "AUTHOR",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76241,
+        "user": "AUTHOR",
+        "content": "朝反的方向活3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76246,
+        "user": "AUTHOR",
+        "content": "ZJ167"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76259,
+        "user": "AUTHOR",
+        "content": "如果14跟，那么杀法和刚才一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76269,
+        "user": "AUTHOR",
+        "content": "等于便宜了一下化解了反"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76271,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76272,
+        "user": "AUTHOR",
+        "content": "ZJ1a3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76280,
+        "user": "AUTHOR",
+        "content": "那么主要就是考虑14挡另一头"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76320,
+        "user": "AUTHOR",
+        "content": "这里的VCT还是需要仔细计算的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76322,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76345,
+        "user": "AUTHOR",
+        "content": "1和15这个活2得挡一下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76352,
+        "user": "AUTHOR",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76369,
+        "user": "AUTHOR",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76380,
+        "user": "AUTHOR",
+        "content": "否则利用这个活2马上简单胜了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76383,
+        "user": "AUTHOR",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76386,
+        "user": "AUTHOR",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76388,
+        "user": "AUTHOR",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76390,
+        "user": "AUTHOR",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76391,
+        "user": "AUTHOR",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76393,
+        "user": "AUTHOR",
+        "content": "ZJ067"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76397,
+        "user": "AUTHOR",
+        "content": 15
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76402,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76406,
+        "user": "【水晶】海天",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76407,
+        "user": "AUTHOR",
+        "content": "16反一下看看"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76409,
+        "user": "AUTHOR",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76415,
+        "user": "AUTHOR",
+        "content": "可惜17又反回去了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76439,
+        "user": "AUTHOR",
+        "content": "这样白没办法了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76444,
+        "user": "AUTHOR",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76447,
+        "user": "AUTHOR",
+        "content": "ZJ077"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76460,
+        "user": "AUTHOR",
+        "content": "上面3步V"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76462,
+        "user": "AUTHOR",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76472,
+        "user": "AUTHOR",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76474,
+        "user": "AUTHOR",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76478,
+        "user": "AUTHOR",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76480,
+        "user": "AUTHOR",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76482,
+        "user": "AUTHOR",
+        "content": "ZJ093"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76487,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76494,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76495,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76497,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76498,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76499,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76500,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76501,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76514,
+        "user": "AUTHOR",
+        "content": "其他18也是简单胜"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76515,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76516,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76518,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76522,
+        "user": "AUTHOR",
+        "content": "再来看看这个16"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76525,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76526,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76570,
+        "user": "AUTHOR",
+        "content": "这里似乎右边和左边都有不少优势"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76586,
+        "user": "AUTHOR",
+        "content": "但要连起来有点困难"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76594,
+        "user": "AUTHOR",
+        "content": "ZJ089"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76601,
+        "user": "AUTHOR",
+        "content": "17是很巧妙的手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76621,
+        "user": "AUTHOR",
+        "content": "同时加强两边的优势，白防哪头，在另一头就能杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76625,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76625,
+        "user": "AUTHOR",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76630,
+        "user": "AUTHOR",
+        "content": "如果防下面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76635,
+        "user": "木月",
+        "content": "17=J4？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76636,
+        "user": "AUTHOR",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76644,
+        "user": "AUTHOR",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76646,
+        "user": "AUTHOR",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76657,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76658,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76659,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76660,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76661,
+        "user": "AUTHOR",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76666,
+        "user": "AUTHOR",
+        "content": "如果防上面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76674,
+        "user": "AUTHOR",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76677,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76678,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76678,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76679,
+        "user": "AUTHOR",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76684,
+        "user": "AUTHOR",
+        "content": "直接也行"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76694,
+        "user": "AUTHOR",
+        "content": "就是做不出V了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76700,
+        "user": "AUTHOR",
+        "content": "算清楚的话也可以"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76704,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76719,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76723,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76724,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76725,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76726,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76727,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76728,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76751,
+        "user": "AUTHOR",
+        "content": "ZJ194"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76758,
+        "user": "AUTHOR",
+        "content": "那么只剩这个10了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76793,
+        "user": "亓亓",
+        "content": ".,"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76810,
+        "user": "清影",
+        "content": "K6？？？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76812,
+        "user": "AUTHOR",
+        "content": "现在黑怎么进攻呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76812,
+        "user": "小山谷",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76842,
+        "user": "【水晶】海天",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76847,
+        "user": "AUTHOR",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76864,
+        "user": "AUTHOR",
+        "content": "注意到K线有个冲头"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76870,
+        "user": "AUTHOR",
+        "content": "可以连续进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76872,
+        "user": "亓亓",
+        "content": "- -"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76877,
+        "user": "『镇魂歌』叵叵",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76883,
+        "user": "AUTHOR",
+        "content": "那么首先要考虑一下这个11了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76890,
+        "user": "AUTHOR",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76892,
+        "user": "AUTHOR",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76899,
+        "user": "AUTHOR",
+        "content": "12挡外面的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76919,
+        "user": "AUTHOR",
+        "content": "13做一下貌似马上没防了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76921,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76928,
+        "user": "亓亓",
+        "content": "0 0"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76940,
+        "user": "【水晶】海天",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76952,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76962,
+        "user": "AUTHOR",
+        "content": "这个大家可以回去拆解一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76966,
+        "user": "AUTHOR",
+        "content": "后面防点比较多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76972,
+        "user": "AUTHOR",
+        "content": "不过都不是很强"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76974,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76975,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76977,
+        "user": "AUTHOR",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76987,
+        "user": "亓亓",
+        "content": "怕"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76988,
+        "user": "亓亓",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76994,
+        "user": "亓亓",
+        "content": "- -"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77003,
+        "user": "『镇魂歌』傷傷",
+        "content": "嗯."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77012,
+        "user": "AUTHOR",
+        "content": "12挡进去的话"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77025,
+        "user": "AUTHOR",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77039,
+        "user": "AUTHOR",
+        "content": "再做这个就显然没刚才强了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77049,
+        "user": "AUTHOR",
+        "content": "少了个眠3资源"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77056,
+        "user": "AUTHOR",
+        "content": "而且白还有活3的手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77068,
+        "user": "AUTHOR",
+        "content": "看上去不是很强"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77070,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77077,
+        "user": "AUTHOR",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77105,
+        "user": "AUTHOR",
+        "content": "这个13看上去比较好，叫VCF的同时挡住白的活2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77129,
+        "user": "亓亓",
+        "content": "...."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77135,
+        "user": "亓亓",
+        "content": ",,,,"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77141,
+        "user": "AUTHOR",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77146,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77158,
+        "user": "AUTHOR",
+        "content": "14如果不挡眠3，显然是不行的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77161,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77162,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77163,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77163,
+        "user": "AUTHOR",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77166,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77166,
+        "user": "亓亓",
+        "content": "...."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77167,
+        "user": "AUTHOR",
+        "content": "只有挡这里了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77180,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77186,
+        "user": "AUTHOR",
+        "content": "这种形状的叫43"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77197,
+        "user": "AUTHOR",
+        "content": "能让白棋被迫挡眠3是很合算的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77204,
+        "user": "AUTHOR",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77205,
+        "user": "亓亓",
+        "content": "- -"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77210,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 77211,
+        "user": "AUTHOR",
+        "content": "ZJb7A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77213,
+        "user": "AUTHOR",
+        "content": "ZJb4B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77220,
+        "user": "AUTHOR",
+        "content": "一般14的强防是A，B这两个位置"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77225,
+        "user": "亓亓",
+        "content": "...."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77234,
+        "user": "AUTHOR",
+        "content": "对这种形状的43而言"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77236,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77237,
+        "user": "AUTHOR",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77238,
+        "user": "AUTHOR",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77259,
+        "user": "AUTHOR",
+        "content": "14被迫挡眠3，11和13的活2就可以继续利用了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77271,
+        "user": "AUTHOR",
+        "content": "ZJ0b3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77281,
+        "user": "AUTHOR",
+        "content": "15显然得跳一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77288,
+        "user": "『镇魂歌』傷傷",
+        "content": "- -"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77307,
+        "user": "AUTHOR",
+        "content": "15显然得跳一下，否则没有后续手段了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77309,
+        "user": "亓亓",
+        "content": "- - - -"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77312,
+        "user": "AUTHOR",
+        "content": "ZJ1b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77314,
+        "user": "AUTHOR",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77321,
+        "user": "AUTHOR",
+        "content": "17很顺"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77333,
+        "user": "AUTHOR",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77338,
+        "user": "AUTHOR",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77339,
+        "user": "AUTHOR",
+        "content": "ZJ1d4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77340,
+        "user": "AUTHOR",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77346,
+        "user": "AUTHOR",
+        "content": "18挡上面输得快"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77348,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77349,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77350,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77352,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77353,
+        "user": "AUTHOR",
+        "content": "ZJ1c2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77357,
+        "user": "AUTHOR",
+        "content": "只能挡下面了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77402,
+        "user": "AUTHOR",
+        "content": "黑现在看起来棋挺多的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77424,
+        "user": "亓亓",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77424,
+        "user": "AUTHOR",
+        "content": "有2个活21个眠3，而且活2都可以连续进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77428,
+        "user": "AUTHOR",
+        "content": "那怎么联系起来呢"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77493,
+        "user": "AUTHOR",
+        "content": "ZJ075"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77504,
+        "user": "AUTHOR",
+        "content": "G5是连接的要点"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77511,
+        "user": "AUTHOR",
+        "content": "ZJ86A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77513,
+        "user": "AUTHOR",
+        "content": "ZJ64B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77516,
+        "user": "AUTHOR",
+        "content": "ZJ82C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77522,
+        "user": "AUTHOR",
+        "content": "注意到这个线路"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77552,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77553,
+        "user": "AUTHOR",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77555,
+        "user": "AUTHOR",
+        "content": "ZJ93A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77560,
+        "user": "AUTHOR",
+        "content": "ZJ66B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77563,
+        "user": "AUTHOR",
+        "content": "ZJ56C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77567,
+        "user": "AUTHOR",
+        "content": "ZJ78D"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77569,
+        "user": "AUTHOR",
+        "content": "ZJ98E"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77573,
+        "user": "AUTHOR",
+        "content": "以及这个线路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77581,
+        "user": "『镇魂歌』叵叵",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77609,
+        "user": "【水晶】海天",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77637,
+        "user": "AUTHOR",
+        "content": "刚才去接了个电话"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77640,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77641,
+        "user": "AUTHOR",
+        "content": "ZJ075"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77678,
+        "user": "AUTHOR",
+        "content": "可以看到，19这个点是各条线路的交汇处"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77694,
+        "user": "【水晶】瞳孔",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77714,
+        "user": "小山谷",
+        "content": "??"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77725,
+        "user": "AUTHOR",
+        "content": "19占住这个点，白就没办法防了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77736,
+        "user": "AUTHOR",
+        "content": "不过19这样的话没做VCF，防点比较乱"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77738,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77751,
+        "user": "AUTHOR",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77754,
+        "user": "AUTHOR",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77756,
+        "user": "AUTHOR",
+        "content": "ZJ075"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77760,
+        "user": "AUTHOR",
+        "content": "19先交换一手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77764,
+        "user": "AUTHOR",
+        "content": "这样就有VCF了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77799,
+        "user": "AUTHOR",
+        "content": "这样可以少考虑些防点，容易计算清楚"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77801,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77803,
+        "user": "AUTHOR",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77805,
+        "user": "AUTHOR",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77815,
+        "user": "AUTHOR",
+        "content": "如果考虑到前面说的这个进攻线路"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77817,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77818,
+        "user": "AUTHOR",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77823,
+        "user": "AUTHOR",
+        "content": "21可以先把这个也活了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77824,
+        "user": "AUTHOR",
+        "content": "ZJ1d4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77828,
+        "user": "AUTHOR",
+        "content": "先便宜一下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77829,
+        "user": "AUTHOR",
+        "content": "ZJ075"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77831,
+        "user": "AUTHOR",
+        "content": "这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77837,
+        "user": "AUTHOR",
+        "content": "后面就简单了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77840,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77841,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77842,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77844,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77844,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77845,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77846,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77847,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77848,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77849,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77856,
+        "user": "AUTHOR",
+        "content": "我们看到，虽然12以后的VCT很长"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77869,
+        "user": "AUTHOR",
+        "content": "但按照常规思路，是可以发现VCT的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77871,
+        "user": "亓亓",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 77883,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77884,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77885,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77886,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77891,
+        "user": "AUTHOR",
+        "content": "其他10都很弱了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77896,
+        "user": "AUTHOR",
+        "content": "都有不长的VCT"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77900,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77902,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77903,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77908,
+        "user": "AUTHOR",
+        "content": "这个6的内容讲完了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77914,
+        "user": "AUTHOR",
+        "content": "今天时间差不多了，准备下课"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 77917,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77922,
+        "user": "",
+        "content": " 8283726, houyi, sky, yyyezi, 『镇魂歌』偶来了88, 『镇魂歌』叵叵, 【水晶】qfxy, 【水晶】海天, 【水晶】瞳孔, 【水晶】小雨, 裁决殿★002, 春风, 春天, 乐, 乐棋, 莲珠秀, 木月, 棋棋可儿, 清影, 无可无不可, 小山谷, 徐永伟, 寻, 意, 赢我不难, 韵, 朱天建, 亓亓, 绯雪, 昙花."
+    }
+]

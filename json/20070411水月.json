@@ -1,0 +1,6824 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72494,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72497,
+        "user": "【水晶】小雨",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72501,
+        "user": "乐棋",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72502,
+        "user": "李小羽",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72503,
+        "user": "乐",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72506,
+        "user": "幸福人生",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72515,
+        "user": "AUTHOR",
+        "content": "大家好，今天开始讲水月的课程"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72520,
+        "user": "路西法",
+        "content": "老师好！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72520,
+        "user": "AUTHOR",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72522,
+        "user": "AUTHOR",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72523,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72523,
+        "user": "【水晶】一阳",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72526,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72537,
+        "user": "伊人",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72550,
+        "user": "AUTHOR",
+        "content": "I4(水月)是黑必胜的开局"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72575,
+        "user": "AUTHOR",
+        "content": "在黑必胜开局中难度排名倒数第三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72578,
+        "user": "8283726",
+        "content": "我掉了，点名了吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72581,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72599,
+        "user": "【水晶】瞳孔",
+        "content": "除了花浦就是水吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72600,
+        "user": "洋洋",
+        "content": "系统点了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72614,
+        "user": "AUTHOR",
+        "content": "必胜的难度介于花浦月和云雨月之间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72630,
+        "user": "【水晶】瞳孔",
+        "content": "噢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72630,
+        "user": "【水晶】棋缘",
+        "content": "6大必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72631,
+        "user": "8283726",
+        "content": "55555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72640,
+        "user": "【水晶】海天",
+        "content": "11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72648,
+        "user": "【水晶】棋缘",
+        "content": "点到了的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72649,
+        "user": "AUTHOR",
+        "content": "是比较早被彻底解决的开局"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72653,
+        "user": "【水晶】棋缘",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72669,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72673,
+        "user": "【水晶】瞳孔",
+        "content": "被解决了？就是被干掉了吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72678,
+        "user": "AUTHOR",
+        "content": "不过其中很多变化还是有一定难度的，当时研究也花了不少时间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72689,
+        "user": "AUTHOR",
+        "content": "我们来看一下4手的选择"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72694,
+        "user": "AUTHOR",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72713,
+        "user": "AUTHOR",
+        "content": "A(I8)点是最强的4，通溪月"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72728,
+        "user": "AUTHOR",
+        "content": "ZJa8B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72744,
+        "user": "AUTHOR",
+        "content": "B(J8)点其次"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72750,
+        "user": "AUTHOR",
+        "content": "ZJ97C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72758,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72761,
+        "user": "AUTHOR",
+        "content": "C(I7)点通峡月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72770,
+        "user": "AUTHOR",
+        "content": "主要是这三个4比较强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72785,
+        "user": "李小羽",
+        "content": "我弄明白了，谢谢！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72799,
+        "user": "AUTHOR",
+        "content": "其他的需要考虑的4还有："
+    },
+    {
+        "action": "MARK",
+        "time_int": 72803,
+        "user": "AUTHOR",
+        "content": "ZJ87D"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72808,
+        "user": "AUTHOR",
+        "content": "ZJ96E"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72818,
+        "user": "AUTHOR",
+        "content": "ZJ89F"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72838,
+        "user": "AUTHOR",
+        "content": "ZJ78G"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72841,
+        "user": "AUTHOR",
+        "content": "ZJa9H"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72849,
+        "user": "AUTHOR",
+        "content": "D,E,F,G,H这些4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72873,
+        "user": "【水晶】瞳孔",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72875,
+        "user": "AUTHOR",
+        "content": "其他的4都很弱了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72897,
+        "user": "赢我不难",
+        "content": "H6呢?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72900,
+        "user": "AUTHOR",
+        "content": "ZJ186"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72900,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72903,
+        "user": "AUTHOR",
+        "content": "这个不是很强"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72908,
+        "user": "AUTHOR",
+        "content": "ZJ97A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72910,
+        "user": "AUTHOR",
+        "content": "ZJ96B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72930,
+        "user": "AUTHOR",
+        "content": "ZJ98C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72934,
+        "user": "AUTHOR",
+        "content": "ABC三点都可以胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72941,
+        "user": "【水晶】棋缘",
+        "content": "谢谢您！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72943,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 72947,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72957,
+        "user": "AUTHOR",
+        "content": "其他一些弱4我们大致看一下打点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72961,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72964,
+        "user": "AUTHOR",
+        "content": "ZJ97A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72967,
+        "user": "AUTHOR",
+        "content": "ZJ96B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72986,
+        "user": "AUTHOR",
+        "content": "这个4，5走A点通浦月的变化"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72989,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72989,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72989,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72990,
+        "user": "AUTHOR",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72992,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72993,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72993,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73002,
+        "user": "AUTHOR",
+        "content": "就是浦月这个5，大家应该比较熟悉了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73011,
+        "user": "【水晶】棋缘",
+        "content": "恩"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73013,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73013,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73014,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73015,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73015,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73017,
+        "user": "AUTHOR",
+        "content": "ZJ96B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73018,
+        "user": "【水晶】瞳孔",
+        "content": "小雨不知道"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73030,
+        "user": "AUTHOR",
+        "content": "二打这个点，通名岚的一打"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73031,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73032,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73033,
+        "user": "AUTHOR",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73034,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73034,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73037,
+        "user": "AUTHOR",
+        "content": "这个变化"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73052,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73052,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73053,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73054,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73077,
+        "user": "AUTHOR",
+        "content": "ZJ177"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73078,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73082,
+        "user": "AUTHOR",
+        "content": "这个4"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73085,
+        "user": "AUTHOR",
+        "content": "ZJ96A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73087,
+        "user": "AUTHOR",
+        "content": "ZJb8B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73097,
+        "user": "AUTHOR",
+        "content": "A,B两点都简单胜，可能还有其他能胜的点"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73119,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73120,
+        "user": "AUTHOR",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73122,
+        "user": "AUTHOR",
+        "content": "ZJa6A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73126,
+        "user": "AUTHOR",
+        "content": "ZJ97B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73136,
+        "user": "AUTHOR",
+        "content": "这个4，这2个5也比较容易胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73157,
+        "user": "moonself",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 73159,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73160,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73160,
+        "user": "AUTHOR",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73161,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73161,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73161,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73162,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73175,
+        "user": "moonself",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73176,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73176,
+        "user": "AUTHOR",
+        "content": "其他4更弱的4就不说了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73191,
+        "user": "AUTHOR",
+        "content": "大家对4的选点还有什么问题吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73202,
+        "user": "【水晶】瞳孔",
+        "content": "没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73204,
+        "user": "【水晶】空空",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73213,
+        "user": "【水晶】棋缘",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73219,
+        "user": "【水晶】空空",
+        "content": "好卡"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73219,
+        "user": "赢我不难",
+        "content": "没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73228,
+        "user": "AUTHOR",
+        "content": "好，那我们从弱到强一个个看过来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73230,
+        "user": "88591214",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73236,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73245,
+        "user": "AUTHOR",
+        "content": "先看G8这个"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73263,
+        "user": "AUTHOR",
+        "content": "ZJ96A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73264,
+        "user": "AUTHOR",
+        "content": "ZJ97B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73266,
+        "user": "AUTHOR",
+        "content": "ZJ89C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73276,
+        "user": "AUTHOR",
+        "content": "这个4，ABC三点都可以必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73292,
+        "user": "AUTHOR",
+        "content": "A点，通新岚的一打"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73299,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73300,
+        "user": "AUTHOR",
+        "content": "ZJ096"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73302,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73303,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73303,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73304,
+        "user": "AUTHOR",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73304,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73305,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73313,
+        "user": "【水晶】棋缘",
+        "content": "只会杀C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73314,
+        "user": "AUTHOR",
+        "content": "这个变化，大家应该也比较熟悉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73330,
+        "user": "【水晶】瞳孔",
+        "content": "1打"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73331,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73334,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73336,
+        "user": "AUTHOR",
+        "content": "应该放在新岚里讲，水月里我就不讲了hehe"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73339,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73340,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73340,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73341,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73341,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73342,
+        "user": "AUTHOR",
+        "content": "ZJ089"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73352,
+        "user": "【水晶】棋缘",
+        "content": "云"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73354,
+        "user": "AUTHOR",
+        "content": "这个通云月一打"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73358,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73359,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73359,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73359,
+        "user": "【水晶】瞳孔",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73360,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73361,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73362,
+        "user": "AUTHOR",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73379,
+        "user": "AUTHOR",
+        "content": "这个变化，传说失老师已经讲过了，我就不讲了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73398,
+        "user": "【水晶】棋缘",
+        "content": "是的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73405,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73406,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73406,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73407,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73407,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73408,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73417,
+        "user": "AUTHOR",
+        "content": "那么来看一下这个5"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73432,
+        "user": "AUTHOR",
+        "content": "ZJ79A"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73436,
+        "user": "AUTHOR",
+        "content": "ZJ177"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73437,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 73439,
+        "user": "AUTHOR",
+        "content": "ZJ77B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73464,
+        "user": "AUTHOR",
+        "content": "除了A,B点之外，其他6都很快败了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73466,
+        "user": "moonself",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73477,
+        "user": "冰凌",
+        "content": "这个A最强?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73482,
+        "user": "AUTHOR",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73495,
+        "user": "AUTHOR",
+        "content": "比如这样的6，谁愿意来试一下怎么杀？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73499,
+        "user": "【水晶】棋缘",
+        "content": "我"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73511,
+        "user": "【水晶】棋缘",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73517,
+        "user": "AUTHOR",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73525,
+        "user": "【水晶】棋缘",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73529,
+        "user": "AUTHOR",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73537,
+        "user": "【水晶】棋缘",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73549,
+        "user": "AUTHOR",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73561,
+        "user": "【水晶】棋缘",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73563,
+        "user": "AUTHOR",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73576,
+        "user": "【水晶】棋缘",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73577,
+        "user": "【水晶】棋缘",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73580,
+        "user": "【水晶】棋缘",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73587,
+        "user": "AUTHOR",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73594,
+        "user": "【水晶】棋缘",
+        "content": "ZJ066"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73598,
+        "user": "【水晶】棋缘",
+        "content": "ZJ65A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73601,
+        "user": "【水晶】棋缘",
+        "content": "ZJ64A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73605,
+        "user": "AUTHOR",
+        "content": "好的，谢谢"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73611,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73611,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73612,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73612,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73612,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73612,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73612,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73613,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73613,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73613,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73613,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73614,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73615,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73618,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73619,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73619,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73631,
+        "user": "AUTHOR",
+        "content": "ZJ1dd"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73633,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73639,
+        "user": "AUTHOR",
+        "content": "不好意思断线了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73641,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73642,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73669,
+        "user": "AUTHOR",
+        "content": "这里弱6的话，一般都是比较简单的vct"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73676,
+        "user": "AUTHOR",
+        "content": "我们来看一下强一些的6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73680,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73689,
+        "user": "AUTHOR",
+        "content": "这个变化大家熟悉不？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73699,
+        "user": "冰凌",
+        "content": "蒲月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73700,
+        "user": "【水晶】棋缘",
+        "content": "蒲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73702,
+        "user": "【水晶】小雨",
+        "content": "蒲月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73710,
+        "user": "AUTHOR",
+        "content": "恩，是浦月里面的一个变化"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73712,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73712,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73712,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73713,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73714,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73714,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73715,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73715,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73718,
+        "user": "AUTHOR",
+        "content": "这个"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73723,
+        "user": "AUTHOR",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73729,
+        "user": "AUTHOR",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73729,
+        "user": "AUTHOR",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73741,
+        "user": "AUTHOR",
+        "content": "后面大家可以看看浦月的谱，这里就不展开了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73752,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73752,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73753,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73753,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73753,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73754,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73754,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73755,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73755,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73756,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73757,
+        "user": "AUTHOR",
+        "content": "ZJ177"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73760,
+        "user": "AUTHOR",
+        "content": "看看这个6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73772,
+        "user": "AUTHOR",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73782,
+        "user": "AUTHOR",
+        "content": "用这个7比较省事，可以少记点变化"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73784,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73790,
+        "user": "AUTHOR",
+        "content": "8走这里就变回去了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73807,
+        "user": "AUTHOR",
+        "content": "8走这里就变回去了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73809,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73812,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73821,
+        "user": "AUTHOR",
+        "content": "其他8都不强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73840,
+        "user": "AUTHOR",
+        "content": "这个5就讲到这里，主要和浦月一打中的一个6同型"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73841,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73847,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73848,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73849,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73850,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 73851,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73856,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73863,
+        "user": "AUTHOR",
+        "content": "好，这个4还有问题吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73890,
+        "user": "AUTHOR",
+        "content": "没问题的话，我们看下一个4"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73898,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73903,
+        "user": "AUTHOR",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73938,
+        "user": "桃夭",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73938,
+        "user": "AUTHOR",
+        "content": "这个4不太常见，不过里面有个变化还是比较有名的"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73942,
+        "user": "AUTHOR",
+        "content": "ZJ89A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73943,
+        "user": "moonself",
+        "content": "..."
+    },
+    {
+        "action": "MARK",
+        "time_int": 73944,
+        "user": "AUTHOR",
+        "content": "ZJ97B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73954,
+        "user": "AUTHOR",
+        "content": "两打点是A和B"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73962,
+        "user": "AUTHOR",
+        "content": "ZJ089"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73977,
+        "user": "AUTHOR",
+        "content": "A点很简单，白马上就挂的局面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73983,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73984,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73984,
+        "user": "AUTHOR",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73985,
+        "user": "AUTHOR",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73996,
+        "user": "AUTHOR",
+        "content": "随便做做就可以赢了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73999,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73999,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73999,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73999,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74000,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74000,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74007,
+        "user": "AUTHOR",
+        "content": "主要来看一下B点的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74020,
+        "user": "无可无不可",
+        "content": "又回去了？"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74024,
+        "user": "AUTHOR",
+        "content": "ZJ87A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74025,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "MARK",
+        "time_int": 74026,
+        "user": "AUTHOR",
+        "content": "ZJ79B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74033,
+        "user": "AUTHOR",
+        "content": "这里也有2个6比较强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74038,
+        "user": "AUTHOR",
+        "content": "A点和B点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74045,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74059,
+        "user": "AUTHOR",
+        "content": "B点的话，又通到浦月的变化了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74077,
+        "user": "AUTHOR",
+        "content": "这个也是浦月一打中著名的6，大家应该都比较熟悉了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74081,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74081,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74081,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74082,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74082,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74083,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74083,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74084,
+        "user": "AUTHOR",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74085,
+        "user": "AUTHOR",
+        "content": "ZJ089"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74089,
+        "user": "AUTHOR",
+        "content": "就是这个变化"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74099,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74100,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74100,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74101,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74101,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74101,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74103,
+        "user": "AUTHOR",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74104,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74104,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74127,
+        "user": "AUTHOR",
+        "content": "来看一下这个6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74160,
+        "user": "AUTHOR",
+        "content": "大家看看7走哪里？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74163,
+        "user": "【水晶】九指",
+        "content": "rtyuio"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74190,
+        "user": "【水晶】棋缘",
+        "content": "I8可以吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74194,
+        "user": "无可无不可",
+        "content": "G6?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74196,
+        "user": "伊人",
+        "content": "J6?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74196,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74199,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74200,
+        "user": "AUTHOR",
+        "content": "ZJ076"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74208,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74212,
+        "user": "AUTHOR",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74213,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74233,
+        "user": "AUTHOR",
+        "content": "黑看上去有不少点可以选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74245,
+        "user": "【水晶】小雨",
+        "content": "K8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74245,
+        "user": "AUTHOR",
+        "content": "可能有多个点必胜，呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74246,
+        "user": "【水晶】一阳",
+        "content": "g9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74253,
+        "user": "AUTHOR",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74259,
+        "user": "AUTHOR",
+        "content": "K8好象挂了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74261,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74264,
+        "user": "AUTHOR",
+        "content": "ZJ079"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74270,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74278,
+        "user": "AUTHOR",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74284,
+        "user": "AUTHOR",
+        "content": "我做的是这个7的必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74301,
+        "user": "AUTHOR",
+        "content": "感觉这个7比较好，能与其他变化相通"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74305,
+        "user": "【水晶】一阳",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74305,
+        "user": "AUTHOR",
+        "content": "可以少背点谱，呵呵"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74322,
+        "user": "AUTHOR",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74331,
+        "user": "AUTHOR",
+        "content": "8挡下面挂得比较快"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74335,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74364,
+        "user": "李小羽",
+        "content": "?我掉了吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74367,
+        "user": "AUTHOR",
+        "content": "9以后白显然没地方防了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74380,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74380,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74381,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74389,
+        "user": "【水晶】一阳",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74389,
+        "user": "【水晶】一阳",
+        "content": ","
+    },
+    {
+        "action": "TALK",
+        "time_int": 74390,
+        "user": "AUTHOR",
+        "content": "8挡上面强些"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74392,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74404,
+        "user": "AUTHOR",
+        "content": "9很显然填进去"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74405,
+        "user": "AUTHOR",
+        "content": "ZJ089"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74416,
+        "user": "AUTHOR",
+        "content": "到这里大家觉得和哪个变化比较像？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74433,
+        "user": "8283726",
+        "content": "为什么我的总掉呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74437,
+        "user": "moonself",
+        "content": "花"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74445,
+        "user": "【水晶】一阳",
+        "content": "'"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74448,
+        "user": "AUTHOR",
+        "content": "我也总掉：（"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74448,
+        "user": "【水晶】海天",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74462,
+        "user": "8283726",
+        "content": "我都跑好多次了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74469,
+        "user": "AUTHOR",
+        "content": "大家能看出这个和哪个变化相通吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74490,
+        "user": "真魔圣域★薇",
+        "content": "雨月？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74495,
+        "user": "【水晶】小雨",
+        "content": "松月吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74498,
+        "user": "AUTHOR",
+        "content": "呵呵，我们来看一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74500,
+        "user": "moonself",
+        "content": "花月"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 74501,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74503,
+        "user": "AUTHOR",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74503,
+        "user": "AUTHOR",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74504,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74504,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74505,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74505,
+        "user": "AUTHOR",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74506,
+        "user": "AUTHOR",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74506,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74514,
+        "user": "AUTHOR",
+        "content": "浦月这个变化大家都知道吧？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74524,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74527,
+        "user": "AUTHOR",
+        "content": "老定式中9走哪里？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74532,
+        "user": "88591214",
+        "content": "知道"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74535,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74536,
+        "user": "AUTHOR",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74537,
+        "user": "【水晶】瞳孔",
+        "content": "I8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74538,
+        "user": "AUTHOR",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74540,
+        "user": "AUTHOR",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74540,
+        "user": "AUTHOR",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74542,
+        "user": "AUTHOR",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74544,
+        "user": "AUTHOR",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74545,
+        "user": "AUTHOR",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74547,
+        "user": "AUTHOR",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74550,
+        "user": "AUTHOR",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74551,
+        "user": "AUTHOR",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74551,
+        "user": "AUTHOR",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74552,
+        "user": "AUTHOR",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74554,
+        "user": "【水晶】瞳孔",
+        "content": "到15就胜了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74556,
+        "user": "AUTHOR",
+        "content": "ZJ1ad"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74558,
+        "user": "AUTHOR",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74559,
+        "user": "AUTHOR",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74561,
+        "user": "AUTHOR",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74562,
+        "user": "AUTHOR",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74565,
+        "user": "AUTHOR",
+        "content": "ZJ07e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74581,
+        "user": "AUTHOR",
+        "content": "这个变化，很早的日谱里就有，大多数人应该都见过"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74585,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74588,
+        "user": "AUTHOR",
+        "content": "前面还有些分支"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74593,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74593,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74593,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74594,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74594,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74595,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74595,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74595,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74596,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74596,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74596,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74596,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74596,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74597,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74597,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74597,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74597,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74597,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74597,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74598,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74598,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74598,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74599,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74600,
+        "user": "AUTHOR",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74601,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74615,
+        "user": "AUTHOR",
+        "content": "如果9走这里的话，就通我们刚才讲的变化了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74630,
+        "user": "【水晶】一阳",
+        "content": "'"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74630,
+        "user": "【水晶】一阳",
+        "content": ";"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74630,
+        "user": "【水晶】一阳",
+        "content": "'"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74644,
+        "user": "AUTHOR",
+        "content": "不好意思又掉了。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74645,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74654,
+        "user": "【水晶】一阳",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74659,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74659,
+        "user": "AUTHOR",
+        "content": "9走这里的话，就变回我们刚才讲的变化了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74662,
+        "user": "真魔圣域★薇",
+        "content": "你们怎么总掉呀，我怎么不掉呀：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74673,
+        "user": "【水晶】棋缘",
+        "content": "9494"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74675,
+        "user": "AUTHOR",
+        "content": "我比较推荐走这个9，这样可以少背个谱，呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74679,
+        "user": "【水晶】小雨",
+        "content": "不动我以为是我掉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74683,
+        "user": "AUTHOR",
+        "content": "两个9的难度差不多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74686,
+        "user": "无可无不可",
+        "content": "真有幸灾乐祸的？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74688,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74688,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74689,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74689,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74690,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74690,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74691,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74691,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74692,
+        "user": "AUTHOR",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74693,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74694,
+        "user": "AUTHOR",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74694,
+        "user": "AUTHOR",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74695,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74695,
+        "user": "AUTHOR",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74700,
+        "user": "【水晶】一阳",
+        "content": "'"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74708,
+        "user": "AUTHOR",
+        "content": "这个4里的2个强6，都可以用这个9杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74718,
+        "user": "AUTHOR",
+        "content": "这样比较省事"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74740,
+        "user": "AUTHOR",
+        "content": "包括浦月里的变化，都用一个谱杀，可以偷懒，推荐"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74760,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74765,
+        "user": "AUTHOR",
+        "content": "9以后，10的选择不多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74775,
+        "user": "88591214",
+        "content": "老师往下走"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74783,
+        "user": "AUTHOR",
+        "content": "ZJa5A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74785,
+        "user": "【水晶】空空",
+        "content": "."
+    },
+    {
+        "action": "MARK",
+        "time_int": 74785,
+        "user": "AUTHOR",
+        "content": "ZJ98B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74794,
+        "user": "AUTHOR",
+        "content": "就2个10比较强，其他都速败"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74803,
+        "user": "AUTHOR",
+        "content": "ZJ198"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74813,
+        "user": "AUTHOR",
+        "content": "这个10的话，在下面一顿乱做做死"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74815,
+        "user": "AUTHOR",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74820,
+        "user": "AUTHOR",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74822,
+        "user": "AUTHOR",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74825,
+        "user": "AUTHOR",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74826,
+        "user": "AUTHOR",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74831,
+        "user": "AUTHOR",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74833,
+        "user": "AUTHOR",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74833,
+        "user": "AUTHOR",
+        "content": "ZJ164"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74834,
+        "user": "AUTHOR",
+        "content": "ZJ056"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74843,
+        "user": "AUTHOR",
+        "content": "黑一大片"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74845,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74845,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74845,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74845,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74846,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74846,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74847,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74848,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74848,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74849,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74849,
+        "user": "AUTHOR",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74853,
+        "user": "AUTHOR",
+        "content": "这个10最强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74855,
+        "user": "【水晶】空空",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74863,
+        "user": "【水晶】空空",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74863,
+        "user": "【水晶】空空",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74878,
+        "user": "AUTHOR",
+        "content": "传说中当年很多人研究的时候没杀出来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74880,
+        "user": "【水晶】小雨",
+        "content": "哈哈一顿乱做老师好幽默"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74892,
+        "user": "AUTHOR",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74903,
+        "user": "AUTHOR",
+        "content": "11填进去是比较明显的手段"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74913,
+        "user": "AUTHOR",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74918,
+        "user": "AUTHOR",
+        "content": "12也是显然的唯一防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74920,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74936,
+        "user": "AUTHOR",
+        "content": "13的选择就比较多了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74945,
+        "user": "AUTHOR",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74951,
+        "user": "AUTHOR",
+        "content": "很多人第一感觉是这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74957,
+        "user": "AUTHOR",
+        "content": "这个13也很强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74972,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74988,
+        "user": "【水晶】空空",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74989,
+        "user": "AUTHOR",
+        "content": "不过传说中有强防杀不掉，不知道由来有人杀掉了没"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74990,
+        "user": "【水晶】空空",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74997,
+        "user": "【水晶】空空",
+        "content": "好卡"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74998,
+        "user": "AUTHOR",
+        "content": "不知道后来有人杀掉了没"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75012,
+        "user": "AUTHOR",
+        "content": "当年拆的时候没杀掉，不过年代太久远，已经忘记怎么防了，呵呵"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75020,
+        "user": "AUTHOR",
+        "content": "ZJ186"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75023,
+        "user": "AUTHOR",
+        "content": "依稀记得好象是这个14"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75050,
+        "user": "桃夭",
+        "content": "没点名吧，刚才停电了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75067,
+        "user": "【水晶】棋缘",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75071,
+        "user": "【水晶】小雨",
+        "content": "这声音好吓人"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75072,
+        "user": "AUTHOR",
+        "content": "没点，预告一下，大约9点点名，请大家做好准备:))"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75081,
+        "user": "无可无不可",
+        "content": "谢谢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75084,
+        "user": "【水晶】小雨",
+        "content": "老师真好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75088,
+        "user": "桃夭",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75095,
+        "user": "moonself",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75097,
+        "user": "AUTHOR",
+        "content": "这个14以后，进攻方法不少"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75107,
+        "user": "AUTHOR",
+        "content": "不过总找得到莫名其妙的唯一防，很罗嗦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75116,
+        "user": "8283726",
+        "content": "我老掉，可能都没分了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75124,
+        "user": "AUTHOR",
+        "content": "当年没做完，如果大家有兴趣可以看看怎么杀，说不定能杀掉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75134,
+        "user": "【水晶】小雨",
+        "content": "这不全是三三了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75140,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75141,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75160,
+        "user": "真魔圣域★薇",
+        "content": "棋形上看，应该不难杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75182,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75183,
+        "user": "AUTHOR",
+        "content": "恩，有2个13可以杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75191,
+        "user": "AUTHOR",
+        "content": "哦，应该说至少2个13"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75197,
+        "user": "AUTHOR",
+        "content": "不排除有其他可能杀的"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75215,
+        "user": "AUTHOR",
+        "content": "ZJ85A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75216,
+        "user": "AUTHOR",
+        "content": "ZJb8B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75226,
+        "user": "AUTHOR",
+        "content": "就是往2头活3，都可以杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75230,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75245,
+        "user": "AUTHOR",
+        "content": "其中往上活3属于没事找事的杀法，不推荐"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75258,
+        "user": "AUTHOR",
+        "content": "下面我们会看到为什么说B点罗嗦"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75265,
+        "user": "AUTHOR",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75270,
+        "user": "AUTHOR",
+        "content": "这个13好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75291,
+        "user": "AUTHOR",
+        "content": "14挡上面死得快"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75293,
+        "user": "AUTHOR",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75297,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75298,
+        "user": "AUTHOR",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75299,
+        "user": "AUTHOR",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75300,
+        "user": "AUTHOR",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75307,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75310,
+        "user": "AUTHOR",
+        "content": "随便走走就挂了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75311,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75311,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75312,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75312,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75313,
+        "user": "AUTHOR",
+        "content": "ZJ174"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75321,
+        "user": "AUTHOR",
+        "content": "挡下面显然"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75335,
+        "user": "AUTHOR",
+        "content": "后面有2个15可以杀"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75346,
+        "user": "AUTHOR",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75348,
+        "user": "AUTHOR",
+        "content": "ZJa8B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75352,
+        "user": "AUTHOR",
+        "content": "这两个都可以"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75372,
+        "user": "AUTHOR",
+        "content": "一个在左下杀，一个在右上杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75394,
+        "user": "【水晶】海天",
+        "content": "0"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75394,
+        "user": "【水晶】一阳",
+        "content": "'"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75394,
+        "user": "【水晶】一阳",
+        "content": "'"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75396,
+        "user": "【水晶】一阳",
+        "content": ";"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75399,
+        "user": "AUTHOR",
+        "content": "A点是VCT，比较不罗嗦，推荐"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75422,
+        "user": "AUTHOR",
+        "content": "B点作为作业，大家可以回去思考一下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75429,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75435,
+        "user": "88591214",
+        "content": "好的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75439,
+        "user": "【水晶】海天",
+        "content": "0"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75444,
+        "user": "AUTHOR",
+        "content": "我们来看一下A点的变化，这个是个很长的VCT"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75445,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75447,
+        "user": "【水晶】一阳",
+        "content": "'"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75459,
+        "user": "【水晶】一阳",
+        "content": ";"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75462,
+        "user": "【水晶】一阳",
+        "content": ";"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75466,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75473,
+        "user": "AUTHOR",
+        "content": "16挡这里必须"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75480,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75480,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75481,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75483,
+        "user": "AUTHOR",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75484,
+        "user": "AUTHOR",
+        "content": "ZJ194"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75484,
+        "user": "AUTHOR",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75485,
+        "user": "AUTHOR",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75495,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75501,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75505,
+        "user": "AUTHOR",
+        "content": "又掉了:("
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75507,
+        "user": "AUTHOR",
+        "content": "ZJ0fe"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75508,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75509,
+        "user": "桃夭",
+        "content": "老师又掉了：）0"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75510,
+        "user": "AUTHOR",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75518,
+        "user": "AUTHOR",
+        "content": "ZJ1ed"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75520,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75521,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75523,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75523,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75524,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75525,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75525,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75526,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75526,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75527,
+        "user": "AUTHOR",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75534,
+        "user": "AUTHOR",
+        "content": "ZJ078"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75536,
+        "user": "【水晶】一阳",
+        "content": ":("
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75537,
+        "user": "AUTHOR",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75537,
+        "user": "AUTHOR",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75538,
+        "user": "AUTHOR",
+        "content": "ZJ156"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75539,
+        "user": "AUTHOR",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75545,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75549,
+        "user": "AUTHOR",
+        "content": "两边有2套简单杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75563,
+        "user": "AUTHOR",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75568,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75570,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75574,
+        "user": "桃夭",
+        "content": "天啊，老师今天跑步锻炼"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75578,
+        "user": "【水晶】一阳",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75579,
+        "user": "江南新绿",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75582,
+        "user": "AUTHOR",
+        "content": "两边有2套简单杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75583,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75583,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75584,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75584,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75585,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75585,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75586,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75589,
+        "user": "【水晶】一阳",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75593,
+        "user": "AUTHOR",
+        "content": "所以16只能挡这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75599,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75602,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75607,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75619,
+        "user": "【水晶】一阳",
+        "content": "'"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75621,
+        "user": "AUTHOR",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75623,
+        "user": "AUTHOR",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75624,
+        "user": "AUTHOR",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75631,
+        "user": "AUTHOR",
+        "content": "然后往左边杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75634,
+        "user": "AUTHOR",
+        "content": "ZJ176"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75646,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75654,
+        "user": "AUTHOR",
+        "content": "这个20比较弱，谁愿意来试试？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75683,
+        "user": "【水晶】一阳",
+        "content": "老师。趁我们没掉点名吧。一会又掉了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75692,
+        "user": "【水晶】棋缘",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75699,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75703,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75709,
+        "user": "8283726",
+        "content": "9191"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75711,
+        "user": "AUTHOR",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75720,
+        "user": "moonself",
+        "content": "我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75722,
+        "user": "【水晶】小雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75725,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75725,
+        "user": "【水晶】小雨",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75731,
+        "user": "moonself",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75735,
+        "user": "AUTHOR",
+        "content": "ZJ156"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75737,
+        "user": "【水晶】一阳",
+        "content": "；"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75738,
+        "user": "moonself",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75739,
+        "user": "【水晶】一阳",
+        "content": "；"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75741,
+        "user": "AUTHOR",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75742,
+        "user": "moonself",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75747,
+        "user": "AUTHOR",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75750,
+        "user": "moonself",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75751,
+        "user": "【水晶】一阳",
+        "content": "、、、、"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75752,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75753,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75753,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75753,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75754,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75754,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75755,
+        "user": "AUTHOR",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75757,
+        "user": "moonself",
+        "content": "ZJ058"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75760,
+        "user": "【水晶】一阳",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75761,
+        "user": "AUTHOR",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75763,
+        "user": "moonself",
+        "content": "ZJ057"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75764,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75770,
+        "user": "AUTHOR",
+        "content": "ZJ159"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75773,
+        "user": "moonself",
+        "content": "ZJ047"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75773,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75775,
+        "user": "江南新绿",
+        "content": "恰好有防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75778,
+        "user": "江南新绿",
+        "content": "：）"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75779,
+        "user": "AUTHOR",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75784,
+        "user": "moonself",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75786,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75788,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75798,
+        "user": "【水晶】一阳",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75804,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75810,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75812,
+        "user": "AUTHOR",
+        "content": "ZJ136"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75813,
+        "user": "江南新绿",
+        "content": "不过au还是挡不住"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75815,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75819,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75820,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75820,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75820,
+        "user": "【水晶】空空",
+        "content": "卡"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75842,
+        "user": "桃夭",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75845,
+        "user": "【水晶】一阳",
+        "content": "天啊，怎么听课啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75847,
+        "user": "【水晶】棋缘",
+        "content": "25下27"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75852,
+        "user": "moonself",
+        "content": "ZJ048"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75858,
+        "user": "【水晶】棋缘",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75864,
+        "user": "幸福人生",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75865,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75866,
+        "user": "【水晶】海天",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75868,
+        "user": "AUTHOR",
+        "content": "ZJ145"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75879,
+        "user": "【水晶】一阳",
+        "content": "忙着点点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75883,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75884,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75886,
+        "user": "AUTHOR",
+        "content": "这样好象比较麻烦了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75888,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75891,
+        "user": "江南新绿",
+        "content": "加油"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75893,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75900,
+        "user": "黄瓜",
+        "content": "请保持安静，谢谢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75901,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75904,
+        "user": "【水晶】小雨",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75909,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75918,
+        "user": "【水晶】一阳",
+        "content": "‘、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75920,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75921,
+        "user": "moonself",
+        "content": "恩，汗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75926,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75926,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75927,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75927,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75927,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75927,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75928,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75928,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75929,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75930,
+        "user": "AUTHOR",
+        "content": "ZJ047"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75933,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75936,
+        "user": "AUTHOR",
+        "content": "这个25比较好些"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75958,
+        "user": "AUTHOR",
+        "content": "这样就没反了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75966,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75968,
+        "user": "AUTHOR",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75968,
+        "user": "AUTHOR",
+        "content": "ZJ057"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75971,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75972,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75974,
+        "user": "AUTHOR",
+        "content": "换一下顺序"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75976,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75976,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 75976,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75976,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75978,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75979,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75979,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75980,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75981,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75982,
+        "user": "【水晶】一阳",
+        "content": "‘‘"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75985,
+        "user": "AUTHOR",
+        "content": "ZJ158"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75991,
+        "user": "【水晶】一阳",
+        "content": "‘’"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75995,
+        "user": "AUTHOR",
+        "content": "这个20比较强些"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75999,
+        "user": "【水晶】棋缘",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76001,
+        "user": "【水晶】一阳",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76011,
+        "user": "【水晶】一阳",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76012,
+        "user": "AUTHOR",
+        "content": "后面貌似是唯一杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76031,
+        "user": "AUTHOR",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76032,
+        "user": "AUTHOR",
+        "content": "ZJ1a3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76033,
+        "user": "AUTHOR",
+        "content": "ZJ066"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76033,
+        "user": "AUTHOR",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76036,
+        "user": "AUTHOR",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76036,
+        "user": "AUTHOR",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76049,
+        "user": "AUTHOR",
+        "content": "ZJ045"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76062,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76066,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76067,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76068,
+        "user": "AUTHOR",
+        "content": "27手是关键，这手下对白就可以投了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76078,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76083,
+        "user": "AUTHOR",
+        "content": "其他27好象比较麻烦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76095,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76101,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76105,
+        "user": "【水晶】海天",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76108,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76110,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76110,
+        "user": "AUTHOR",
+        "content": "恩，又掉了。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76110,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76117,
+        "user": "【水晶】空空",
+        "content": "老师掉了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76117,
+        "user": "无可无不可",
+        "content": "连冲做杀？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76121,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76122,
+        "user": "AUTHOR",
+        "content": "大家都在不？准备点名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76128,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76128,
+        "user": "【水晶】小雨",
+        "content": "在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76129,
+        "user": "【水晶】棋缘",
+        "content": "在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76131,
+        "user": "【水晶】空空",
+        "content": "卡死了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76132,
+        "user": "【水晶】瞳孔",
+        "content": "在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76133,
+        "user": "8283726",
+        "content": "d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76133,
+        "user": "无可无不可",
+        "content": "在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76133,
+        "user": "桃夭",
+        "content": "在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76134,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76135,
+        "user": "伊人",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76136,
+        "user": "【水晶】空空",
+        "content": "可以不点名不"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76136,
+        "user": "AUTHOR",
+        "content": "那先点了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76136,
+        "user": "【水晶】海天",
+        "content": "在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76139,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76139,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76145,
+        "user": "江南新绿",
+        "content": "复杂的vcf哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76148,
+        "user": "【水晶】面具",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76154,
+        "user": "【水晶】棋缘",
+        "content": "点到了，哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76162,
+        "user": "8283726",
+        "content": "老师真好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76164,
+        "user": "桃夭",
+        "content": "第三名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76168,
+        "user": "【水晶】一阳",
+        "content": "终于点到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76169,
+        "user": "【水晶】小雨",
+        "content": "我最怕这声音了"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 76169,
+        "user": "",
+        "content": " 【水晶】寒星, 清逸, 桃夭, 伊人, 乐棋, 【水晶】棋缘, 裁决殿★002, 8283726, moonself, 小山谷, 无可无不可, 【水晶】海天, 【水晶】小雨, 幸福人生, 江南新绿, 冰凌, 【水晶】瞳孔, 风雅颂, 李小羽, gumuyuan, 乐, 绯雪, 裁决殿★006, 洋洋, 真魔圣域★薇, 【水晶】一阳, 敏敏, 被水淹死de鱼, 88591214, 【水晶】空空, 徐永伟."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76173,
+        "user": "moonself",
+        "content": "迟到了，还有没有学分啊？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76187,
+        "user": "【水晶】棋缘",
+        "content": "没"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76202,
+        "user": "moonself",
+        "content": "啊。。那我没分分咯。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76205,
+        "user": "AUTHOR",
+        "content": "27之后，有11个点可以防住叫的vcf"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76206,
+        "user": "【水晶】棋缘",
+        "content": "系统点名不在就没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76232,
+        "user": "AUTHOR",
+        "content": "不过后面都是比较简单的VCT，临场不难算出"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76237,
+        "user": "moonself",
+        "content": "老师看在我冒死回答问题的精神，给个分分吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76242,
+        "user": "江南新绿",
+        "content": "可以投了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76250,
+        "user": "AUTHOR",
+        "content": "呵呵，可以找伟鬼老师申请"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76251,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76290,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76292,
+        "user": "徐永伟",
+        "content": "老师有权利给上课积极的学生加分的，我今天没权利"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76292,
+        "user": "洋洋",
+        "content": "教师下课从让系统点次名就有了咯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76302,
+        "user": "moonself",
+        "content": "^_^"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76304,
+        "user": "AUTHOR",
+        "content": "这个变化还是比较经典的，推荐"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76307,
+        "user": "桃夭",
+        "content": "校长会建议你星期五努力：））"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76308,
+        "user": "【水晶】海天",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76315,
+        "user": "【水晶】一阳",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76322,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76324,
+        "user": "AUTHOR",
+        "content": "一路上需要记的强变化就这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76332,
+        "user": "赢我不难",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76332,
+        "user": "【水晶】棋缘",
+        "content": "那我积极回答问题可以加分吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76339,
+        "user": "AUTHOR",
+        "content": "可以解决这个5的两个6和浦月的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76360,
+        "user": "AUTHOR",
+        "content": "好，我们退到12"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76365,
+        "user": "AUTHOR",
+        "content": 12
+    },
+    {
+        "action": "TALK",
+        "time_int": 76372,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76376,
+        "user": "【水晶】一阳",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76378,
+        "user": "AUTHOR",
+        "content": "刚才讲到，B点也可以必胜"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76380,
+        "user": "AUTHOR",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76391,
+        "user": "AUTHOR",
+        "content": "不过属于没事找事型的，不推荐"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76393,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76397,
+        "user": "AUTHOR",
+        "content": "14防下面弱"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76399,
+        "user": "AUTHOR",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76400,
+        "user": "AUTHOR",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76405,
+        "user": "黄瓜",
+        "content": "老是掉。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76406,
+        "user": "AUTHOR",
+        "content": "这里简单VCT了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76411,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76411,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76417,
+        "user": "AUTHOR",
+        "content": "14如果防上面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76419,
+        "user": "AUTHOR",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76420,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76420,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76421,
+        "user": "AUTHOR",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76422,
+        "user": "AUTHOR",
+        "content": "ZJ195"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76422,
+        "user": "AUTHOR",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76422,
+        "user": "AUTHOR",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76423,
+        "user": "AUTHOR",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76431,
+        "user": "AUTHOR",
+        "content": "和刚才的变化是一样的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76433,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76434,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76434,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76434,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76434,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76434,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76435,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76435,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76435,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76436,
+        "user": "AUTHOR",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76437,
+        "user": "AUTHOR",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76438,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76439,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76453,
+        "user": "AUTHOR",
+        "content": "相当于刚才的变化里，K8没事冲个四"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76472,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76472,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76472,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76481,
+        "user": "【水晶】棋缘",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76482,
+        "user": "AUTHOR",
+        "content": "还是这个13看上去比较干净些，呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76520,
+        "user": "AUTHOR",
+        "content": "恩，好象讲得太快了.."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76533,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76535,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76538,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76540,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76544,
+        "user": "moonself",
+        "content": "挺好，反正录像可以反复看。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76551,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76551,
+        "user": "伊人",
+        "content": "42"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76552,
+        "user": "无可无不可",
+        "content": "那就再奉献点别的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76555,
+        "user": "被水淹死de鱼",
+        "content": "学到很多东西"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76558,
+        "user": "AUTHOR",
+        "content": "想想下面还有23分钟讲些啥.."
+    },
+    {
+        "action": "BACK",
+        "time_int": 76562,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76563,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76563,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76563,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76563,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76564,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76564,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76564,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76565,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76565,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76571,
+        "user": "AUTHOR",
+        "content": "再讲一个4大概来不及"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76579,
+        "user": "AUTHOR",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76581,
+        "user": "AUTHOR",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76591,
+        "user": "AUTHOR",
+        "content": "ZJ0df"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76591,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76593,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76597,
+        "user": "AUTHOR",
+        "content": "ZJ198"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76598,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76599,
+        "user": "黄瓜",
+        "content": "上课时间请保持安静，谢谢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76602,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76607,
+        "user": "AUTHOR",
+        "content": "怎么我标记不了了"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 76608,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76609,
+        "user": "AUTHOR",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76609,
+        "user": "AUTHOR",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76610,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76611,
+        "user": "AUTHOR",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76615,
+        "user": "AUTHOR",
+        "content": "ZJa8B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76618,
+        "user": "AUTHOR",
+        "content": "ZJ97C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76622,
+        "user": "AUTHOR",
+        "content": "ZJ89D"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76630,
+        "user": "AUTHOR",
+        "content": "ZJ87E"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76632,
+        "user": "AUTHOR",
+        "content": "ZJ96F"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76634,
+        "user": "【水晶】一阳",
+        "content": "’"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76644,
+        "user": "AUTHOR",
+        "content": "还剩这些"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76662,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76663,
+        "user": "moonself",
+        "content": "b点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76663,
+        "user": "AUTHOR",
+        "content": "这几个都比较长，今天来不及讲了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76668,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76669,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76675,
+        "user": "AUTHOR",
+        "content": "恩，B点的变化比较有趣"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76684,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76685,
+        "user": "AUTHOR",
+        "content": "我们今天先大致了解一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76699,
+        "user": "【水晶】海天",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76707,
+        "user": "AUTHOR",
+        "content": "这个是水月中次强的4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76708,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76726,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76728,
+        "user": "【水晶】棋缘",
+        "content": "可怜的一阳"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76730,
+        "user": "AUTHOR",
+        "content": "这个形状，和残月中的一个4一样，不过有盘端问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76730,
+        "user": "【水晶】小雨",
+        "content": "/"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76732,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76732,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76732,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76733,
+        "user": "AUTHOR",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76733,
+        "user": "AUTHOR",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76734,
+        "user": "AUTHOR",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76735,
+        "user": "【水晶】一阳",
+        "content": "5555555555555555555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76737,
+        "user": "AUTHOR",
+        "content": "就是这个4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76759,
+        "user": "AUTHOR",
+        "content": "由于盘端差了很远，两个4虽然形状一样，但杀法有很大区别"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76773,
+        "user": "AUTHOR",
+        "content": "主要是2打的变化里"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76775,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76777,
+        "user": "AUTHOR",
+        "content": "这个5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76790,
+        "user": "AUTHOR",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76791,
+        "user": "AUTHOR",
+        "content": "在残月中，最强6是这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76807,
+        "user": "AUTHOR",
+        "content": "这个6中很多变化要比水月中复杂得多"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76812,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76813,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76813,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76813,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76814,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76815,
+        "user": "AUTHOR",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76815,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76815,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76816,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76817,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76824,
+        "user": "AUTHOR",
+        "content": "水月中，这个6比较强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76842,
+        "user": "AUTHOR",
+        "content": "因为这里右下比较小了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76869,
+        "user": "AUTHOR",
+        "content": "要想办法绕左边去"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76871,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 76872,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76872,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76873,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76873,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76873,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76874,
+        "user": "AUTHOR",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76874,
+        "user": "AUTHOR",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76876,
+        "user": "AUTHOR",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76878,
+        "user": "AUTHOR",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76888,
+        "user": "AUTHOR",
+        "content": "ZJ1cf"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76891,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76898,
+        "user": "AUTHOR",
+        "content": "而在残月里"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76900,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76906,
+        "user": "AUTHOR",
+        "content": "这里左下的空间非常大"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76915,
+        "user": "AUTHOR",
+        "content": "这个非常好杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76926,
+        "user": "AUTHOR",
+        "content": "这个6在残月里是弱6了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76928,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76939,
+        "user": "AUTHOR",
+        "content": "不过，如果用水月中的变化去套的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76941,
+        "user": "AUTHOR",
+        "content": "反而难杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76943,
+        "user": "AUTHOR",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76944,
+        "user": "AUTHOR",
+        "content": "ZJ1cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76944,
+        "user": "AUTHOR",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76945,
+        "user": "AUTHOR",
+        "content": "ZJ176"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76951,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76958,
+        "user": "AUTHOR",
+        "content": "如果套水月中的这个变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76975,
+        "user": "AUTHOR",
+        "content": "最后右边地方小了，比水月中的复杂"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76984,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76985,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76985,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76986,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76986,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76988,
+        "user": "AUTHOR",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76991,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76991,
+        "user": "AUTHOR",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77000,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77002,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77013,
+        "user": "AUTHOR",
+        "content": "在残月里左下地方非常大，这样随便做做就赢了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77026,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77027,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77027,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77027,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77027,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77028,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77028,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77028,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77029,
+        "user": "【水晶】一阳",
+        "content": "'"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77029,
+        "user": "AUTHOR",
+        "content": "ZJ199"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77029,
+        "user": "【水晶】一阳",
+        "content": "\"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77030,
+        "user": "AUTHOR",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77030,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77033,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77034,
+        "user": "AUTHOR",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77040,
+        "user": "AUTHOR",
+        "content": "ZJ0ee"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77041,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77045,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77045,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77046,
+        "user": "AUTHOR",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77048,
+        "user": "AUTHOR",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77049,
+        "user": "AUTHOR",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77050,
+        "user": "AUTHOR",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77051,
+        "user": "AUTHOR",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77058,
+        "user": "AUTHOR",
+        "content": "水月中如果这样走的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77066,
+        "user": "AUTHOR",
+        "content": "可以看到，右下地方不够了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77088,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77099,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77103,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77103,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77104,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77105,
+        "user": "AUTHOR",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77106,
+        "user": "AUTHOR",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77107,
+        "user": "AUTHOR",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77115,
+        "user": "AUTHOR",
+        "content": "这里就要想办法转过来了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77124,
+        "user": "AUTHOR",
+        "content": "这个我们以后的课讲，今天就不展开了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77134,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77147,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 77148,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77149,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77150,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77150,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77152,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 77154,
+        "user": "AUTHOR",
+        "content": "ZJb7A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77156,
+        "user": "AUTHOR",
+        "content": "ZJ97B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77163,
+        "user": "AUTHOR",
+        "content": "这个4的两打点是A和B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77185,
+        "user": "AUTHOR",
+        "content": "这两个都有点复杂"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77188,
+        "user": "【水晶】一阳",
+        "content": "]"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77203,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77204,
+        "user": "AUTHOR",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77227,
+        "user": "AUTHOR",
+        "content": "以前江湖有传言说这个5也可以，不过没见过谱，不知道是不是真的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77236,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77257,
+        "user": "【水晶】棋缘",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77273,
+        "user": "AUTHOR",
+        "content": "好，今天讲的内容大家还有什么问题吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77287,
+        "user": "无可无不可",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77288,
+        "user": "moonself",
+        "content": "i6呢？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77292,
+        "user": "AUTHOR",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77298,
+        "user": "AUTHOR",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77309,
+        "user": "AUTHOR",
+        "content": "这个看上去不是很好的样子"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77322,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77329,
+        "user": "AUTHOR",
+        "content": "哦，6好象不是很好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77357,
+        "user": "AUTHOR",
+        "content": "没怎么研究过这个5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77373,
+        "user": "无可无不可",
+        "content": "奖两分"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77380,
+        "user": "moonself",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77397,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77400,
+        "user": "AUTHOR",
+        "content": "看上去不是很好，不过没研究过也不敢说赢不了:)"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77419,
+        "user": "moonself",
+        "content": "很暴露"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77426,
+        "user": "AUTHOR",
+        "content": "这年头很多莫名其妙的变化都必胜了呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77446,
+        "user": "黄瓜",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77446,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77450,
+        "user": "AUTHOR",
+        "content": "看上去很不像必胜的，不一定不能胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77454,
+        "user": "黄瓜",
+        "content": "有点缺乏乐趣的感觉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77471,
+        "user": "AUTHOR",
+        "content": "呵呵，还有更多没必胜的，有兴趣可以去看看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77483,
+        "user": "AUTHOR",
+        "content": "现在公认没必胜的黑优局有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77483,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77485,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77487,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77488,
+        "user": "【水晶】一阳",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77490,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77491,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77492,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77494,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77497,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77497,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77498,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77503,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77504,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77504,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77518,
+        "user": "【水晶】一阳",
+        "content": "哎"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77531,
+        "user": "【水晶】棋缘",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77539,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77547,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77572,
+        "user": "AUTHOR",
+        "content": "目前公认还没必胜的黑优局有，名月，山月，新月，丘斜月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77590,
+        "user": "AUTHOR",
+        "content": "还是有不少东西可以拆拆，呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77613,
+        "user": "AUTHOR",
+        "content": "其他江湖盛传的必胜局，也未必真杀干净了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77615,
+        "user": "【水晶】空空",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77630,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77642,
+        "user": "被水淹死de鱼",
+        "content": "、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77656,
+        "user": "【水晶】棋缘",
+        "content": "残月必胜吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77657,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77659,
+        "user": "【水晶】一阳",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77668,
+        "user": "AUTHOR",
+        "content": "残月现在江湖盛传必胜，呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77696,
+        "user": "8283726",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77697,
+        "user": "赢我不难",
+        "content": "老师,黑2下在H7叫什么?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77702,
+        "user": "AUTHOR",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77706,
+        "user": "AUTHOR",
+        "content": "银月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77715,
+        "user": "AUTHOR",
+        "content": "这个也是江湖盛传必胜的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77720,
+        "user": "AUTHOR",
+        "content": "应该差不多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77730,
+        "user": "【水晶】小雨",
+        "content": "黑2？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77731,
+        "user": "冰凌",
+        "content": "银月的二打好象也很麻烦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77746,
+        "user": "AUTHOR",
+        "content": "麻烦当然是很麻烦的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77778,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77780,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77786,
+        "user": "赢我不难",
+        "content": "五子棋的开局为什么都叫什么月呢?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77796,
+        "user": "AUTHOR",
+        "content": "又掉了.."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77799,
+        "user": "moonself",
+        "content": "呵呵，好问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77805,
+        "user": "AUTHOR",
+        "content": "刚才问题没听到。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77809,
+        "user": "【水晶】棋缘",
+        "content": "还有叫星的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77811,
+        "user": "AUTHOR",
+        "content": "能重复一下吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77821,
+        "user": "无可无不可",
+        "content": "<赢我不难> 五子棋的开局为什么都叫什么月呢?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77832,
+        "user": "风雅颂",
+        "content": "桂 间 连"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77837,
+        "user": "AUTHOR",
+        "content": "这个是日本人起的名字"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77840,
+        "user": "AUTHOR",
+        "content": "ZJ11f"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77841,
+        "user": "AUTHOR",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77846,
+        "user": "AUTHOR",
+        "content": "3和1的位置"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77859,
+        "user": "风雅颂",
+        "content": "间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77860,
+        "user": "洋洋",
+        "content": "间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77862,
+        "user": "AUTHOR",
+        "content": "如果当中空1格，直的或者斜的，就叫星"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77867,
+        "user": "AUTHOR",
+        "content": "其他的叫月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77901,
+        "user": "AUTHOR",
+        "content": "日本人为什么想出那么多诡异的名字，我就不知道了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77914,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77914,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77915,
+        "user": "AUTHOR",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77916,
+        "user": "AUTHOR",
+        "content": "ZJ077"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77928,
+        "user": "AUTHOR",
+        "content": "比如斜月，看上去很斜，还能理解。。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77935,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77936,
+        "user": "AUTHOR",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77937,
+        "user": "AUTHOR",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77937,
+        "user": "AUTHOR",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77943,
+        "user": "AUTHOR",
+        "content": "这个为什么不叫直月，就不知道了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77951,
+        "user": "桃夭",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77952,
+        "user": "moonself",
+        "content": "^_^"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77955,
+        "user": "【水晶】寒星",
+        "content": "因为松树很直"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77956,
+        "user": "伊人",
+        "content": "哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77960,
+        "user": "AUTHOR",
+        "content": "呵呵，有道理"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77961,
+        "user": "冰凌",
+        "content": "松月浪漫一点哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77973,
+        "user": "AUTHOR",
+        "content": "今天时间到了，先下课，大家辛苦了"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77976,
+        "user": "",
+        "content": " 8283726, gumuyuan, 【水晶】寒星, 【水晶】棋缘, 【水晶】小雨, 冰凌, 裁决殿★002, 裁决殿★006, 风雅颂, 乐, 乐棋, 李小羽, 清逸, 桃夭, 无可无不可, 小山谷, 幸福人生, 徐永伟, 洋洋, 伊人, 绯雪."
+    }
+]

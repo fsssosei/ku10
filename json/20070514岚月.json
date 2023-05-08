@@ -1,0 +1,2318 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72546,
+        "user": "",
+        "content": "ZJ0010010HH"
+    },
+    {
+        "action": "LOAD",
+        "time_int": 72546,
+        "user": "",
+        "content": "ZJ088"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72551,
+        "user": "Guest",
+        "content": "上课了啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72554,
+        "user": "乐",
+        "content": "老师好！"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 72556,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72558,
+        "user": "过客282",
+        "content": "老师好！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72559,
+        "user": "Guest",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72561,
+        "user": "Guest",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72561,
+        "user": "Guest",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72562,
+        "user": "Guest",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72574,
+        "user": "Guest",
+        "content": "今天说岚月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72611,
+        "user": "Guest",
+        "content": "还是废话一堆，岚月，黑优，主要是锻炼如何进攻的思路问题"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72615,
+        "user": "Guest",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72617,
+        "user": "Guest",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72618,
+        "user": "Guest",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72619,
+        "user": "Guest",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72620,
+        "user": "Guest",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72623,
+        "user": "Guest",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72625,
+        "user": "Guest",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72637,
+        "user": "Guest",
+        "content": "大概是五一之前说到这个11"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72642,
+        "user": "Guest",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72661,
+        "user": "Guest",
+        "content": "当时是这个12，白不行，过于消极，今天换个积极点的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72664,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72666,
+        "user": "Guest",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72704,
+        "user": "Guest",
+        "content": "这个白12，先看下，虽然感觉有些藐视黑棋，问题在于，黑下面优势没错，但是，至少要花一手棋才能攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72722,
+        "user": "Guest",
+        "content": "而且，黑在下面子力薄弱，能不能攻下来还是问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72747,
+        "user": "Guest",
+        "content": "反观白棋，12，和8遥相呼应，上面的味道远比黑下面的味道要好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72775,
+        "user": "Guest",
+        "content": "所以，这个12是个让黑很头疼的手法，大有争夺黑先手的感觉"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72783,
+        "user": "Guest",
+        "content": "ZJabA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72789,
+        "user": "Guest",
+        "content": "ZJ8bB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72805,
+        "user": "Guest",
+        "content": "黑的13有如下两个应法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72839,
+        "user": "Guest",
+        "content": "A点，目的是争夺黑右边的势力，要去增加黑在右边的攻击力度"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72855,
+        "user": "Guest",
+        "content": "思路是好的，但是，白在左边残留着相当多的味道"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72883,
+        "user": "Guest",
+        "content": "如果说，白在左边一气折腾到底，反而黑没有机会扩展右边模样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72892,
+        "user": "Guest",
+        "content": "届时，模样再好也没用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72908,
+        "user": "Guest",
+        "content": "故，在这里，黑下在B的位置，比较干净"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72910,
+        "user": "Guest",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72927,
+        "user": "Guest",
+        "content": "一次性解决白的味道，而且，保留先手"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72929,
+        "user": "Guest",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72940,
+        "user": "Guest",
+        "content": "白14必然"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72944,
+        "user": "Guest",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72948,
+        "user": "Guest",
+        "content": "ZJ5cB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72958,
+        "user": "Guest",
+        "content": "黑15依然是个选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72977,
+        "user": "Guest",
+        "content": "A点，加强右边，但是，相当赌徒的感觉"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72989,
+        "user": "Guest",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72990,
+        "user": "Guest",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73013,
+        "user": "Guest",
+        "content": "白这个16以后，黑下面优势距离胜利还相当遥远"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73017,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73017,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73035,
+        "user": "Guest",
+        "content": "而且，黑进攻一旦落空，可以说是马上崩溃"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73050,
+        "user": "Guest",
+        "content": "毕竟，白在左上还是有一定威胁"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73054,
+        "user": "Guest",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73066,
+        "user": "Guest",
+        "content": "个人比较崇尚这个15"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73097,
+        "user": "Guest",
+        "content": "下面，可以看到，黑13，9，3，11存在一个上下的联络"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73099,
+        "user": "Guest",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73107,
+        "user": "Guest",
+        "content": "16手切断联络"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73116,
+        "user": "Guest",
+        "content": "呃，还有一个选择"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73119,
+        "user": "Guest",
+        "content": "ZJb9A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73123,
+        "user": "Guest",
+        "content": "ZJc9B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73162,
+        "user": "Guest",
+        "content": "存在着直接冲了3，11的B"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73165,
+        "user": "Guest",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73166,
+        "user": "Guest",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73187,
+        "user": "Guest",
+        "content": "问题在于，这个17以后，黑反而找不到发力点"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73194,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73195,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73196,
+        "user": "Guest",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73210,
+        "user": "Guest",
+        "content": "相比之下，不如把难题交给白方"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73227,
+        "user": "Guest",
+        "content": "人呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73242,
+        "user": "Guest",
+        "content": "人人人人人人人人人人人"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73261,
+        "user": "让心情放飞",
+        "content": "老师，在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73270,
+        "user": "Guest",
+        "content": "YO"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73276,
+        "user": "Guest",
+        "content": "看来我魅力不行"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73307,
+        "user": "让心情放飞",
+        "content": "我们在认真听哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73318,
+        "user": "裁决殿★003",
+        "content": "魅力无限"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73327,
+        "user": "Guest",
+        "content": "黑全盘很结识，白没有有力地反击手段，17以后，白需要防守是可以肯定的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73330,
+        "user": "裁决殿★002",
+        "content": "嘻嘻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73333,
+        "user": "Guest",
+        "content": "下面，18下哪里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73340,
+        "user": "Guest",
+        "content": "诸位找"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73343,
+        "user": "Guest",
+        "content": "我倒茶"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73347,
+        "user": "裁决殿★003",
+        "content": "总掉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73396,
+        "user": "Guest",
+        "content": "181818181818181818"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73403,
+        "user": "Guest",
+        "content": "嘛想法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73409,
+        "user": "裁决殿★003",
+        "content": "guest 是谁啊？，弄不清就听不懂课"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73441,
+        "user": "Guest",
+        "content": "没人说话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73445,
+        "user": "Guest",
+        "content": "MOXIMOXI"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73462,
+        "user": "让心情放飞",
+        "content": "在想哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73487,
+        "user": "Guest",
+        "content": "白其实防守比较简单"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73494,
+        "user": "Guest",
+        "content": "下面主要是黑的攻击思路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73498,
+        "user": "让心情放飞",
+        "content": "J10、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73509,
+        "user": "Guest",
+        "content": "啊？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73509,
+        "user": "让心情放飞",
+        "content": "k10"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73519,
+        "user": "Guest",
+        "content": "ZJbaA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73529,
+        "user": "Guest",
+        "content": "还有没有？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73556,
+        "user": "Guest",
+        "content": "1818181818"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73560,
+        "user": "Guest",
+        "content": "人人人人人人"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73592,
+        "user": "让心情放飞",
+        "content": "老师，我们在认真的听"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73597,
+        "user": "Guest",
+        "content": "天下英雄出我辈，一入江湖岁月催。宏图霸业谈笑间，不及人生一场醉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73610,
+        "user": "Guest",
+        "content": "这个18不够一堂课说的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73615,
+        "user": "Guest",
+        "content": "继续找个18来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73648,
+        "user": "Guest",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73670,
+        "user": "Guest",
+        "content": "记得好像以前看过一本书，叫什么岚月团角思路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73684,
+        "user": "Guest",
+        "content": "对于这个18，简单说，就是团角团角再团角"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73698,
+        "user": "Guest",
+        "content": "江团糯米团"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73700,
+        "user": "Guest",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73715,
+        "user": "Guest",
+        "content": "确定一点，黑下方优势，19手团角"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73745,
+        "user": "Guest",
+        "content": "下面的20手，就是围绕在3，11，19这个团角上防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73753,
+        "user": "Guest",
+        "content": "提问提问提问"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73758,
+        "user": "Guest",
+        "content": "哪里哪里哪里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73790,
+        "user": "让心情放飞",
+        "content": "老师，他有三个活二，实战中往往不知道该如何防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73829,
+        "user": "Guest",
+        "content": "首先"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73833,
+        "user": "Guest",
+        "content": "团角，仨二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73843,
+        "user": "Guest",
+        "content": "其次，下面，空间够大"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73848,
+        "user": "Guest",
+        "content": "ZJb6A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73851,
+        "user": "Guest",
+        "content": "ZJ86A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73853,
+        "user": "Guest",
+        "content": "ZJa5A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73856,
+        "user": "Guest",
+        "content": "ZJb8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73857,
+        "user": "Guest",
+        "content": "ZJ85A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73863,
+        "user": "Guest",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73865,
+        "user": "Guest",
+        "content": "ZJcbA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73878,
+        "user": "Guest",
+        "content": "差不多就这些了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73881,
+        "user": "Guest",
+        "content": "ZJ198"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73887,
+        "user": "Guest",
+        "content": "这个，不予考虑"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73889,
+        "user": "Guest",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73900,
+        "user": "Guest",
+        "content": "怎么看都是给黑服务的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73919,
+        "user": "Guest",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73920,
+        "user": "Guest",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73926,
+        "user": "裁决殿★002",
+        "content": "是不是掉了,怎么看不到老师呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73943,
+        "user": "Guest",
+        "content": "到23手，黑右边局部杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73947,
+        "user": "Guest",
+        "content": "以下，略"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73950,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73950,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73951,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73952,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73953,
+        "user": "Guest",
+        "content": "ZJ1cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73956,
+        "user": "Guest",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73980,
+        "user": "让心情放飞",
+        "content": "还是在为黑做棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73981,
+        "user": "Guest",
+        "content": "20向上，想争夺先手，很开玩笑，如果没13的阻拦，还可能成立"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74001,
+        "user": "Guest",
+        "content": "也差不多，黑下面优势绝对"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74003,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74004,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74006,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74010,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "NEXT",
+        "time_int": 74014,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "NEXT",
+        "time_int": 74017,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74022,
+        "user": "Guest",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74037,
+        "user": "Guest",
+        "content": "这个20，算是防守了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74038,
+        "user": "让心情放飞",
+        "content": "为什么是这个点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74046,
+        "user": "Guest",
+        "content": "因为我顺手"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74066,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74072,
+        "user": "Guest",
+        "content": "你点20好了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74120,
+        "user": "让心情放飞",
+        "content": "我点？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74151,
+        "user": "Guest",
+        "content": "202020202020"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74158,
+        "user": "Guest",
+        "content": "嘛疑问，直接问"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74189,
+        "user": "Guest",
+        "content": "MOXIMOXI"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74201,
+        "user": "让心情放飞",
+        "content": "像这种黑棋优势很大的时候，怎么算最佳防点呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74224,
+        "user": "裁决殿★003",
+        "content": "不要说日语啊老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74229,
+        "user": "Guest",
+        "content": "大婶"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74237,
+        "user": "Guest",
+        "content": "我今天说的是黑攻击思路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74238,
+        "user": "裁决殿★003",
+        "content": "看不懂"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74246,
+        "user": "Guest",
+        "content": "不是白的防守思路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74276,
+        "user": "Guest",
+        "content": "白防守防来防去也就围绕那三个活二罢了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74284,
+        "user": "Guest",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74286,
+        "user": "Guest",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74295,
+        "user": "Guest",
+        "content": "没人问我继续摆"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74301,
+        "user": "Guest",
+        "content": "这个20以后，继续团角"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74308,
+        "user": "Guest",
+        "content": "不保证杀法唯一"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74315,
+        "user": "Guest",
+        "content": "反正黑下面太优"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74333,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74334,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74348,
+        "user": "Guest",
+        "content": "经过团角，黑局部必胜，怎么杀，略"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74350,
+        "user": "Guest",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74353,
+        "user": "Guest",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74369,
+        "user": "Guest",
+        "content": "这个20以后，黑的21需要拓展下下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74382,
+        "user": "Guest",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74391,
+        "user": "Guest",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74392,
+        "user": "Guest",
+        "content": "22下面，考验下黑"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74404,
+        "user": "Guest",
+        "content": "23,继续团角"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74414,
+        "user": "Guest",
+        "content": "感觉没什么说的了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74421,
+        "user": "Guest",
+        "content": "这个18团角团死了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74428,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74428,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74428,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74429,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74429,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74430,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74435,
+        "user": "Guest",
+        "content": "继续找18"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74441,
+        "user": "裁决殿★002",
+        "content": "K8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74446,
+        "user": "Guest",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74460,
+        "user": "Guest",
+        "content": "K8是个相当麻烦的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74476,
+        "user": "Guest",
+        "content": "刚刚一系列变化都靠着11，3的活二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74501,
+        "user": "Guest",
+        "content": "需要确立一个思路，黑优势，白没反击，于是，黑下面空间够大，开始做棋"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74504,
+        "user": "Guest",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74519,
+        "user": "Guest",
+        "content": "19手，肯定要往宽的地方做了啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74541,
+        "user": "Guest",
+        "content": "20手，提问"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74570,
+        "user": "Guest",
+        "content": "没人问？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74574,
+        "user": "Guest",
+        "content": "真没人问？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74593,
+        "user": "让心情放飞",
+        "content": "k4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74610,
+        "user": "过客284",
+        "content": "j6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74621,
+        "user": "Guest",
+        "content": "我要说，没人会防3，19那活二呢"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74624,
+        "user": "Guest",
+        "content": "ZJ1b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74626,
+        "user": "Guest",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74639,
+        "user": "Guest",
+        "content": "以下，略，黑必胜"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74642,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74642,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74646,
+        "user": "Guest",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74675,
+        "user": "Guest",
+        "content": "防住11，19那个活二比3，19更加迫切"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74677,
+        "user": "Guest",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74678,
+        "user": "Guest",
+        "content": "ZJ1c3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74679,
+        "user": "Guest",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74685,
+        "user": "Guest",
+        "content": "21，拓展，需要"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74696,
+        "user": "Guest",
+        "content": "23，开始调整棋子的形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74710,
+        "user": "Guest",
+        "content": "可以看成梅花阵什么的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74725,
+        "user": "Guest",
+        "content": "提问提问提问"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74733,
+        "user": "Guest",
+        "content": "没人问我当都会杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74788,
+        "user": "Guest",
+        "content": "我爱洗澡好多泡泡……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74795,
+        "user": "Guest",
+        "content": "人人人人人"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74849,
+        "user": "Guest",
+        "content": "没人？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74852,
+        "user": "Guest",
+        "content": "没问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74857,
+        "user": "Guest",
+        "content": "我当都会杀了啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74860,
+        "user": "Guest",
+        "content": "PASS"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74896,
+        "user": "Guest",
+        "content": 18
+    },
+    {
+        "action": "BACK",
+        "time_int": 74899,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74937,
+        "user": "Guest",
+        "content": "通过刚刚两个分析，不难发现，黑在下面的攻击，主要依靠的是11，3的拓展"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74945,
+        "user": "Guest",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74961,
+        "user": "Guest",
+        "content": "于是，这个18，限制黑拓展的手法也变得很严厉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74980,
+        "user": "Guest",
+        "content": "在这里，要注意的是，黑在局部，很难杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74999,
+        "user": "Guest",
+        "content": "下面，我们要做的是，利用棋盘上的所有子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75017,
+        "user": "Guest",
+        "content": "发挥想像力，把棋子全部联络在一起"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75028,
+        "user": "Guest",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75034,
+        "user": "Guest",
+        "content": "19手，拓展"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75040,
+        "user": "Guest",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75059,
+        "user": "Guest",
+        "content": "如果说白20走上面，和刚刚说的全局无关了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75061,
+        "user": "Guest",
+        "content": "ZJ075"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75070,
+        "user": "Guest",
+        "content": "黑21以后，下面是黑杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75072,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75073,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75074,
+        "user": "Guest",
+        "content": "ZJ174"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75100,
+        "user": "Guest",
+        "content": "问题是白走下面，黑白纠缠在一起，黑很难发挥"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75133,
+        "user": "Guest",
+        "content": "我们这个时候要看到黑的15，除了防守以外，似乎还可以利用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75174,
+        "user": "Guest",
+        "content": "下面，我们怎么样把黑在右下的进攻力度调集到左上，联络在一起"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75183,
+        "user": "Guest",
+        "content": "ZJ06d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75210,
+        "user": "Guest",
+        "content": "要看到，黑在左上，F13的位置上，存在一个比较好的攻击点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75223,
+        "user": "Guest",
+        "content": "但是，总是觉得缺少一定的配合"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75228,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75234,
+        "user": "Guest",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75256,
+        "user": "Guest",
+        "content": "在这个时候，黑21，四三叫杀，开始调子上去配合"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75265,
+        "user": "Guest",
+        "content": "注意21的斜线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75301,
+        "user": "Guest",
+        "content": "人……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75304,
+        "user": "Guest",
+        "content": "都不在……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75310,
+        "user": "Guest",
+        "content": "茕茕孑立"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75315,
+        "user": "Guest",
+        "content": "形影相吊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75328,
+        "user": "无可无不可",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75329,
+        "user": "裁决殿★002",
+        "content": "在呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75331,
+        "user": "Guest",
+        "content": "形单影只"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75344,
+        "user": "过客282",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75346,
+        "user": "裁决殿★003",
+        "content": "k8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75362,
+        "user": "Guest",
+        "content": "K8很没技术含量"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75362,
+        "user": "无可无不可",
+        "content": "主要是太深了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75364,
+        "user": "Guest",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75372,
+        "user": "Guest",
+        "content": "想K8以后黑怎么折腾"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75410,
+        "user": "裁决殿★003",
+        "content": "左上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75421,
+        "user": "Guest",
+        "content": "错"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75435,
+        "user": "裁决殿★003",
+        "content": "不会回折腾"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75438,
+        "user": "Guest",
+        "content": "左上是最终目标，需要迂回作战"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75448,
+        "user": "Guest",
+        "content": "ZJ06d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75451,
+        "user": "Guest",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75459,
+        "user": "Guest",
+        "content": "算了，左上就左上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75464,
+        "user": "Guest",
+        "content": "下面，黑怎么折腾"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75475,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75477,
+        "user": "Guest",
+        "content": "ZJ15e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75480,
+        "user": "Guest",
+        "content": "这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75536,
+        "user": "Guest",
+        "content": "先说之前的24好了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75538,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75539,
+        "user": "Guest",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75553,
+        "user": "Guest",
+        "content": "23，隔开眠三的配合"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75555,
+        "user": "无可无不可",
+        "content": "H13?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75559,
+        "user": "Guest",
+        "content": "ZJ08d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75572,
+        "user": "Guest",
+        "content": "25，已经和21有些联络了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75577,
+        "user": "Guest",
+        "content": "ZJ19d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75601,
+        "user": "Guest",
+        "content": "在26这个时候，注意，黑别晚上冲，空间不够，保留变化"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75603,
+        "user": "Guest",
+        "content": "ZJ04b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75630,
+        "user": "Guest",
+        "content": "ZJ17e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75644,
+        "user": "Guest",
+        "content": "白28，几乎是带着命令型的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75646,
+        "user": "Guest",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75665,
+        "user": "Guest",
+        "content": "到29，黑左上必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75676,
+        "user": "Guest",
+        "content": "提问，都会杀我说另外一个24"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75703,
+        "user": "裁决殿★002",
+        "content": "不会杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75712,
+        "user": "Guest",
+        "content": "不叫提问了啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75720,
+        "user": "Guest",
+        "content": "30下哪里？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75739,
+        "user": "无可无不可",
+        "content": "D10?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75759,
+        "user": "Guest",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75760,
+        "user": "Guest",
+        "content": "ZJ03c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75761,
+        "user": "Guest",
+        "content": "ZJ12d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75763,
+        "user": "Guest",
+        "content": "ZJ04c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75772,
+        "user": "Guest",
+        "content": "到33，双杀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75778,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75779,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75780,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75781,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75784,
+        "user": "Guest",
+        "content": "继续30"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75787,
+        "user": "Guest",
+        "content": "提问"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75817,
+        "user": "Guest",
+        "content": "没了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75820,
+        "user": "裁决殿★002",
+        "content": "E11"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75850,
+        "user": "Guest",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75851,
+        "user": "Guest",
+        "content": "ZJ03c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75852,
+        "user": "Guest",
+        "content": "ZJ12d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75852,
+        "user": "Guest",
+        "content": "ZJ04c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75854,
+        "user": "Guest",
+        "content": "ZJ12c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75855,
+        "user": "Guest",
+        "content": "ZJ04a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75861,
+        "user": "Guest",
+        "content": "35，双杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75882,
+        "user": "Guest",
+        "content": "继续提问"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75885,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75886,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75886,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75888,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75888,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75889,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75890,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75891,
+        "user": "裁决殿★002",
+        "content": "是不是到29就没防了呀"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75892,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75895,
+        "user": "Guest",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75897,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75899,
+        "user": "Guest",
+        "content": "ZJ17e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75900,
+        "user": "Guest",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75911,
+        "user": "Guest",
+        "content": "是没防，而且相当简单的杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75921,
+        "user": "Guest",
+        "content": "所以才说，没人问就PASS"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75936,
+        "user": "Guest",
+        "content": "3030303030"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75943,
+        "user": "Guest",
+        "content": "没问题我换24了啊"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75958,
+        "user": "Guest",
+        "content": 23
+    },
+    {
+        "action": "TALK",
+        "time_int": 75958,
+        "user": "裁决殿★002",
+        "content": "换吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75961,
+        "user": "Guest",
+        "content": "ZJ15e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76008,
+        "user": "Guest",
+        "content": "如果，模范刚刚的手法的话"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76010,
+        "user": "Guest",
+        "content": "ZJ08d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76014,
+        "user": "Guest",
+        "content": "ZJ17e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76027,
+        "user": "Guest",
+        "content": "这样一来，黑反而杀不动了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76030,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76031,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76033,
+        "user": "Guest",
+        "content": "ZJ04b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76033,
+        "user": "Guest",
+        "content": "ZJ13a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76066,
+        "user": "Guest",
+        "content": "或者25拓展也不行，因为E那竖线有个24，防守很严厉"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76068,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76069,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76070,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76072,
+        "user": "Guest",
+        "content": "ZJ15e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76096,
+        "user": "Guest",
+        "content": "这个时候，之前说的，21的次序是很重要的了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76101,
+        "user": "Guest",
+        "content": "思考怎么折腾吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76167,
+        "user": "Guest",
+        "content": "人人人人人人人人"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76192,
+        "user": "Guest",
+        "content": "好像满深的说……"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76195,
+        "user": "Guest",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76196,
+        "user": "Guest",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76198,
+        "user": "Guest",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76228,
+        "user": "Guest",
+        "content": "25，27，连续两手，黑在左边形成一个很容易进攻的形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76249,
+        "user": "Guest",
+        "content": "要注意，其中25，27始终和左上有着联络"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76260,
+        "user": "Guest",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76261,
+        "user": "无可无不可",
+        "content": "是这样想的，但看不到后续"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76277,
+        "user": "Guest",
+        "content": "28手，貌似断开了联络"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76280,
+        "user": "Guest",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76293,
+        "user": "Guest",
+        "content": "但是，29防守以后，还做出一个联络"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76322,
+        "user": "Guest",
+        "content": "这就是之前，我们需要在21叫杀的原因了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76336,
+        "user": "Guest",
+        "content": "没有右边的配合，黑是无法取胜的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76350,
+        "user": "Guest",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76355,
+        "user": "Guest",
+        "content": "ZJ08d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76355,
+        "user": "Guest",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76357,
+        "user": "Guest",
+        "content": "ZJ07d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76375,
+        "user": "Guest",
+        "content": "30手，防守，通过，21，29，黑左右联络"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76382,
+        "user": "Guest",
+        "content": "到33，黑胜定"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76432,
+        "user": "Guest",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76433,
+        "user": "Guest",
+        "content": "ZJ04c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76446,
+        "user": "Guest",
+        "content": "到35以后，有疑问不？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76456,
+        "user": "无可无不可",
+        "content": "无"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76484,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76485,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76485,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76485,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76487,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76488,
+        "user": "Guest",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76490,
+        "user": "Guest",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76521,
+        "user": "Guest",
+        "content": "30手，防住21，29的联络的话"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76523,
+        "user": "Guest",
+        "content": "ZJ0db"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76530,
+        "user": "Guest",
+        "content": "黑31，局部杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76547,
+        "user": "Guest",
+        "content": "在这里，强调两点。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76554,
+        "user": "Guest",
+        "content": "首先，团角进攻手法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76568,
+        "user": "Guest",
+        "content": "其次，要利用棋盘上所有棋子。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76577,
+        "user": "Guest",
+        "content": "还有，需要有想像力。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76589,
+        "user": "Guest",
+        "content": "以上，OVER"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 76593,
+        "user": "",
+        "content": " 裁决殿★002, 乐, 李小羽, 园园."
+    }
+]

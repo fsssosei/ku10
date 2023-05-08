@@ -1,0 +1,6170 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72294,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72304,
+        "user": "江南新绿",
+        "content": "欢迎来到浙江教室"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72311,
+        "user": "StarRain",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72318,
+        "user": "江南新绿",
+        "content": "今天继续寒星的课程"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72319,
+        "user": "yywanzi",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72320,
+        "user": "ny20",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72322,
+        "user": "江南新绿",
+        "content": "星雨好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72322,
+        "user": "清秋弈人",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72328,
+        "user": "江南新绿",
+        "content": "大家好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72331,
+        "user": "江南新绿",
+        "content": "ZJ088"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72331,
+        "user": "过客733",
+        "content": "＊＊好!"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72332,
+        "user": "江南新绿",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72332,
+        "user": "江南新绿",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72334,
+        "user": "江南新绿",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72337,
+        "user": "江南新绿",
+        "content": "ZJ97A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72341,
+        "user": "江南新绿",
+        "content": "ZJ99B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72363,
+        "user": "江南新绿",
+        "content": "这个是寒星的第一课"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72363,
+        "user": "yonghumm",
+        "content": "掉线？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72376,
+        "user": "水晶015",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72382,
+        "user": "江南新绿",
+        "content": "A点讲过的,B点好像没讲到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72386,
+        "user": "江南新绿",
+        "content": "不过容易的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72390,
+        "user": "江南新绿",
+        "content": "看看先"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72391,
+        "user": "冰宝宝",
+        "content": "111"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72392,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72393,
+        "user": "江南新绿",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72394,
+        "user": "江南新绿",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72397,
+        "user": "江南新绿",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72403,
+        "user": "江南新绿",
+        "content": "通常就这个6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72408,
+        "user": "江南新绿",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72424,
+        "user": "江南新绿",
+        "content": "黑棋7手对攻,"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72428,
+        "user": "江南新绿",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72428,
+        "user": "江南新绿",
+        "content": "ZJ077"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72437,
+        "user": "江南新绿",
+        "content": "这样白棋几乎没棋了"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72444,
+        "user": "江南新绿",
+        "content": "ZJ97A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72448,
+        "user": "江南新绿",
+        "content": "ZJ78B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72464,
+        "user": "江南新绿",
+        "content": "下面A点防守做棋,或者B点进攻都可以"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72472,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72472,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72473,
+        "user": "江南新绿",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72478,
+        "user": "江南新绿",
+        "content": "如果这个8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72483,
+        "user": "wei_qqq",
+        "content": "两种风格"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72493,
+        "user": "江南新绿",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72493,
+        "user": "江南新绿",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72494,
+        "user": "江南新绿",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72495,
+        "user": "江南新绿",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72495,
+        "user": "江南新绿",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72496,
+        "user": "江南新绿",
+        "content": "ZJ198"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72505,
+        "user": "江南新绿",
+        "content": "这样黑棋反先了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72507,
+        "user": "江南新绿",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72508,
+        "user": "江南新绿",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72509,
+        "user": "江南新绿",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72512,
+        "user": "江南新绿",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72522,
+        "user": "江南新绿",
+        "content": "这里大家算一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72528,
+        "user": "左宝巨",
+        "content": "燕尾阵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72537,
+        "user": "江南新绿",
+        "content": "是啊,很像"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72542,
+        "user": "江南新绿",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72543,
+        "user": "江南新绿",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72551,
+        "user": "江南新绿",
+        "content": "19,20必然吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72553,
+        "user": "江南新绿",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72558,
+        "user": "江南新绿",
+        "content": "ZJ1d8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72568,
+        "user": "江南新绿",
+        "content": "23哪里呢,"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72575,
+        "user": "Sky",
+        "content": "J7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72578,
+        "user": "江南新绿",
+        "content": "13,21向上还是向下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72588,
+        "user": "清秋弈人",
+        "content": "下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72592,
+        "user": "yywanzi",
+        "content": "下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72598,
+        "user": "yonghumm",
+        "content": "上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72598,
+        "user": "ny20",
+        "content": "M10吧？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72603,
+        "user": "江南新绿",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72608,
+        "user": "江南新绿",
+        "content": "正确"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72612,
+        "user": "江南新绿",
+        "content": "否则白棋反击"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72616,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72616,
+        "user": "江南新绿",
+        "content": "ZJ0da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72617,
+        "user": "江南新绿",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72620,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72621,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72621,
+        "user": "江南新绿",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72624,
+        "user": "江南新绿",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72625,
+        "user": "江南新绿",
+        "content": "ZJ0da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72626,
+        "user": "江南新绿",
+        "content": "ZJ1eb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72626,
+        "user": "江南新绿",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72627,
+        "user": "江南新绿",
+        "content": "ZJ1ea"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72628,
+        "user": "江南新绿",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72628,
+        "user": "江南新绿",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72630,
+        "user": "江南新绿",
+        "content": "ZJ0ad"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72630,
+        "user": "江南新绿",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72631,
+        "user": "江南新绿",
+        "content": "ZJ0bd"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72638,
+        "user": "江南新绿",
+        "content": "这样就行了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72640,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72640,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72640,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72641,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72641,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72641,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72642,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72642,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72642,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72642,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72643,
+        "user": "江南新绿",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72645,
+        "user": "江南新绿",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72645,
+        "user": "江南新绿",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72651,
+        "user": "江南新绿",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72662,
+        "user": "江南新绿",
+        "content": "这个27局部浩气"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72666,
+        "user": "江南新绿",
+        "content": "好棋"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72670,
+        "user": "江南新绿",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72671,
+        "user": "江南新绿",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72672,
+        "user": "江南新绿",
+        "content": "ZJ186"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72672,
+        "user": "水晶碎梦",
+        "content": "111"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72673,
+        "user": "江南新绿",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72679,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72679,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72680,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72680,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72681,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72684,
+        "user": "Sky",
+        "content": "I5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72686,
+        "user": "江南新绿",
+        "content": "over了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72699,
+        "user": "江南新绿",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72702,
+        "user": "水晶碎梦",
+        "content": "12312313"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72708,
+        "user": "江南新绿",
+        "content": "很自然的27"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 72712,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72713,
+        "user": "棋情",
+        "content": "HI"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72714,
+        "user": "江南新绿",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72716,
+        "user": "江南新绿",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72716,
+        "user": "江南新绿",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72718,
+        "user": "水晶绿茶",
+        "content": "hi"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72719,
+        "user": "江南新绿",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72721,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72722,
+        "user": "江南新绿",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72728,
+        "user": "江南新绿",
+        "content": "今天继续这个4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72730,
+        "user": "江南新绿",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72734,
+        "user": "江南新绿",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72734,
+        "user": "江南新绿",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72740,
+        "user": "江南新绿",
+        "content": "上次讲了这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72747,
+        "user": "江南新绿",
+        "content": "今天继续"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72748,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72749,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72750,
+        "user": "江南新绿",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72775,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72784,
+        "user": "江南新绿",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72785,
+        "user": "水晶015",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72793,
+        "user": "江南新绿",
+        "content": "这个7是正确的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72808,
+        "user": "yonghumm",
+        "content": "这个4象明星"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72819,
+        "user": "江南新绿",
+        "content": "8走上面看似强一些,不过连成一线的棋都不是真正的强"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72825,
+        "user": "江南新绿",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72826,
+        "user": "江南新绿",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72828,
+        "user": "江南新绿",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72828,
+        "user": "江南新绿",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72829,
+        "user": "江南新绿",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72829,
+        "user": "江南新绿",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72844,
+        "user": "江南新绿",
+        "content": "白棋如果这个8,黑棋局部优势会很明显"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 72854,
+        "user": "江南新绿",
+        "content": 8
+    },
+    {
+        "action": "BACK",
+        "time_int": 72855,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72856,
+        "user": "江南新绿",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72862,
+        "user": "江南新绿",
+        "content": "这个8强一些"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72866,
+        "user": "洋洋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72882,
+        "user": "左宝巨",
+        "content": "J8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72886,
+        "user": "江南新绿",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72895,
+        "user": "江南新绿",
+        "content": "当中似乎更强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72901,
+        "user": "420631350",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72905,
+        "user": "江南新绿",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72909,
+        "user": "江南新绿",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72909,
+        "user": "江南新绿",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72910,
+        "user": "江南新绿",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72911,
+        "user": "江南新绿",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72912,
+        "user": "江南新绿",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72913,
+        "user": "江南新绿",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72914,
+        "user": "江南新绿",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72938,
+        "user": "江南新绿",
+        "content": "白棋现在要解双杀"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72941,
+        "user": "江南新绿",
+        "content": "ZJa8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72945,
+        "user": "江南新绿",
+        "content": "ZJ87B"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72952,
+        "user": "江南新绿",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72953,
+        "user": "江南新绿",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72954,
+        "user": "江南新绿",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72955,
+        "user": "江南新绿",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72983,
+        "user": "江南新绿",
+        "content": "现在解是解掉了,不过 形势更差了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72988,
+        "user": "水晶015",
+        "content": ".."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72995,
+        "user": "江南新绿",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73001,
+        "user": "江南新绿",
+        "content": "比如这个22"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73022,
+        "user": "江南新绿",
+        "content": "ZJa8A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73040,
+        "user": "江南新绿",
+        "content": "由于A点以后黑棋有两手连冲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73041,
+        "user": "wei_qqq",
+        "content": "I5"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73048,
+        "user": "江南新绿",
+        "content": "ZJ65B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73051,
+        "user": "江南新绿",
+        "content": "ZJ75B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73056,
+        "user": "江南新绿",
+        "content": "ZJ75C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73072,
+        "user": "江南新绿",
+        "content": "下面,B,C也有连冲,所以黑棋速胜了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73081,
+        "user": "江南新绿",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73087,
+        "user": "江南新绿",
+        "content": "23胜定"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73121,
+        "user": "yywanzi",
+        "content": "双杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73123,
+        "user": "ny20",
+        "content": "这个点是怎么算出来的？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73148,
+        "user": "StarRain",
+        "content": "刚才不是讲了点位了吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73156,
+        "user": "江南新绿",
+        "content": "这路走法黑棋注意第7手,让白棋成一条直线是要点,以后占据中心即可"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 73163,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73164,
+        "user": "江南新绿",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73165,
+        "user": "江南新绿",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73165,
+        "user": "江南新绿",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73166,
+        "user": "江南新绿",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73167,
+        "user": "江南新绿",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73168,
+        "user": "江南新绿",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73174,
+        "user": "江南新绿",
+        "content": "来看最强的6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73190,
+        "user": "江南新绿",
+        "content": "这个6对攻的意味更浓"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73220,
+        "user": "江南新绿",
+        "content": "在对攻中造成黑棋失误是重要的思想"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73229,
+        "user": "江南新绿",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73231,
+        "user": "江南新绿",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73232,
+        "user": "江南新绿",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73241,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73243,
+        "user": "江南新绿",
+        "content": "这个7同样的好点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73271,
+        "user": "水晶017",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73280,
+        "user": "ny20",
+        "content": "OO"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73282,
+        "user": "江南新绿",
+        "content": "大家观察这个1,3,5,7,这样的形式可以说是非常棒的连续攻击的手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73314,
+        "user": "江南新绿",
+        "content": "虽然现在落了后手,但是潜力是巨大的"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73327,
+        "user": "江南新绿",
+        "content": "ZJ7aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73330,
+        "user": "江南新绿",
+        "content": "ZJaaB"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73335,
+        "user": "江南新绿",
+        "content": "ZJ78C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73338,
+        "user": "江南新绿",
+        "content": "ZJ98D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73354,
+        "user": "江南新绿",
+        "content": "这里白棋的防守策略是很多的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73385,
+        "user": "江南新绿",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73430,
+        "user": "水晶017",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73430,
+        "user": "420631350",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73435,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73435,
+        "user": "江南新绿",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73438,
+        "user": "水晶015",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73461,
+        "user": "江南新绿",
+        "content": "现在黑棋的策略依然不变,保持阵形"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73491,
+        "user": "StarRain",
+        "content": "燕阵？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73508,
+        "user": "420631350",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73527,
+        "user": "江南新绿",
+        "content": "保持阵形的是在此的目的很明确,虽然有可能是后手,但是白棋会像伞上的雨点被弹开"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73571,
+        "user": "洋洋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73572,
+        "user": "水晶015",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73576,
+        "user": "江南新绿",
+        "content": "从这样攻击后的形状我们可以得知,黑棋还是在斗争的中心"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73578,
+        "user": "江南新绿",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73579,
+        "user": "江南新绿",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73579,
+        "user": "江南新绿",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73583,
+        "user": "江南新绿",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73590,
+        "user": "wei_qqq",
+        "content": "白棋会像伞上的雨点被弹开。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73592,
+        "user": "江南新绿",
+        "content": "大家看,比如这样交换"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73624,
+        "user": "wei_qqq",
+        "content": "湿人啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73631,
+        "user": "zj17",
+        "content": "白棋没有连续手段，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73637,
+        "user": "江南新绿",
+        "content": "白棋依然没有反击,而要继续防守"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73644,
+        "user": "江南新绿",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73656,
+        "user": "江南新绿",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73681,
+        "user": "江南新绿",
+        "content": "白棋防守了三个方向,在最后终于败了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73690,
+        "user": "江南新绿",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73700,
+        "user": "江南新绿",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73701,
+        "user": "江南新绿",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73701,
+        "user": "江南新绿",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73721,
+        "user": "江南新绿",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73723,
+        "user": "江南新绿",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73726,
+        "user": "江南新绿",
+        "content": "ZJc9A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73731,
+        "user": "江南新绿",
+        "content": "ZJ9aB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73736,
+        "user": "江南新绿",
+        "content": "双杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73747,
+        "user": "zj17",
+        "content": "19？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73761,
+        "user": "zj17",
+        "content": "I7？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73769,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73770,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73770,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73770,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73771,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73772,
+        "user": "江南新绿",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73776,
+        "user": "江南新绿",
+        "content": "ZJ1cb"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73777,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73778,
+        "user": "江南新绿",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73779,
+        "user": "江南新绿",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73790,
+        "user": "江南新绿",
+        "content": "是说这个吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73792,
+        "user": "zj17",
+        "content": "是的。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73799,
+        "user": "zj17",
+        "content": "也要样能赢吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73811,
+        "user": "zj17",
+        "content": "黑的手段很多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73812,
+        "user": "yywanzi",
+        "content": "点都没变"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73816,
+        "user": "zj17",
+        "content": "防不住了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73843,
+        "user": "江南新绿",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73859,
+        "user": "江南新绿",
+        "content": "几乎一样哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73887,
+        "user": "zj17",
+        "content": "是的。一样。还是那两点双叫"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73916,
+        "user": "江南新绿",
+        "content": 10
+    },
+    {
+        "action": "BACK",
+        "time_int": 73918,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73919,
+        "user": "江南新绿",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73938,
+        "user": "江南新绿",
+        "content": "如果这个10呢,现在白棋占据了黑棋要占据的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73978,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73995,
+        "user": "小鸟",
+        "content": "=.="
+    },
+    {
+        "action": "TALK",
+        "time_int": 74000,
+        "user": "清秋弈人",
+        "content": "活3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74030,
+        "user": "水晶014",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74036,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74064,
+        "user": "水晶绿茶",
+        "content": "Z(^_^)z"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74067,
+        "user": "江南新绿",
+        "content": "以前的棋谱上是活三"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74072,
+        "user": "江南新绿",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74076,
+        "user": "江南新绿",
+        "content": "ZJb9B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74089,
+        "user": "江南新绿",
+        "content": "这个B点没提到,看起来也不错"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74097,
+        "user": "zj17",
+        "content": "好像可以做，白没有连续的进攻。黑能收回先手。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74110,
+        "user": "江南新绿",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74114,
+        "user": "江南新绿",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74115,
+        "user": "江南新绿",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74116,
+        "user": "江南新绿",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74125,
+        "user": "江南新绿",
+        "content": "这个是老谱"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74130,
+        "user": "江南新绿",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74155,
+        "user": "江南新绿",
+        "content": "15活三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74163,
+        "user": "zj17",
+        "content": "可以胜了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74173,
+        "user": "江南新绿",
+        "content": "是为了预先防守"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74176,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74176,
+        "user": "江南新绿",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74177,
+        "user": "江南新绿",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74178,
+        "user": "江南新绿",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74179,
+        "user": "zj17",
+        "content": "是的。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74179,
+        "user": "江南新绿",
+        "content": "ZJ179"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74186,
+        "user": "江南新绿",
+        "content": "这个是黑棋的计划"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74187,
+        "user": "zj17",
+        "content": "后下也一样。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74200,
+        "user": "江南新绿",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74207,
+        "user": "江南新绿",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74208,
+        "user": "江南新绿",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74223,
+        "user": "江南新绿",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74225,
+        "user": "过客736",
+        "content": "1"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74226,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74226,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74226,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74227,
+        "user": "江南新绿",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74258,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74265,
+        "user": "洋洋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74268,
+        "user": "江南新绿",
+        "content": "这样黑棋看起来上下都有攻击"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74270,
+        "user": "420631350",
+        "content": "^_^"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74271,
+        "user": "江南新绿",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74272,
+        "user": "江南新绿",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74274,
+        "user": "江南新绿",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74276,
+        "user": "江南新绿",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74290,
+        "user": "江南新绿",
+        "content": "但是白棋似乎有反击"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74316,
+        "user": "江南新绿",
+        "content": "所以预先防守看来是最好的策略"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74324,
+        "user": "江南新绿",
+        "content": 15
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74325,
+        "user": "江南新绿",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74326,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74326,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74327,
+        "user": "江南新绿",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74328,
+        "user": "江南新绿",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74336,
+        "user": "江南新绿",
+        "content": "这个16必然了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74354,
+        "user": "江南新绿",
+        "content": "这里黑棋的优势被转移到了上面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74359,
+        "user": "江南新绿",
+        "content": "但是下面也有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74373,
+        "user": "江南新绿",
+        "content": "这里黑棋思考的是应该如何过渡"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74385,
+        "user": "zj17",
+        "content": "是的。好棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74388,
+        "user": "江南新绿",
+        "content": "从右边绕几乎没有可能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74388,
+        "user": "zj17",
+        "content": "过渡"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74393,
+        "user": "左宝巨",
+        "content": "f10如何？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74395,
+        "user": "江南新绿",
+        "content": "左边应该可以"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74398,
+        "user": "江南新绿",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74406,
+        "user": "江南新绿",
+        "content": "这个17好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74410,
+        "user": "江南新绿",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74414,
+        "user": "江南新绿",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74414,
+        "user": "江南新绿",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74415,
+        "user": "江南新绿",
+        "content": "ZJ077"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74432,
+        "user": "江南新绿",
+        "content": "比如这样看起来不错,但是落后手"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74434,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74435,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74435,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74436,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74437,
+        "user": "江南新绿",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74438,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74439,
+        "user": "江南新绿",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74441,
+        "user": "江南新绿",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74442,
+        "user": "zj17",
+        "content": "好棋。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74472,
+        "user": "洋洋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74491,
+        "user": "江南新绿",
+        "content": "由于白棋这个眠三是无法动的,所以黑棋的计划成功了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74505,
+        "user": "江南新绿",
+        "content": "左边的优势开始扩大"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74512,
+        "user": "江南新绿",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74519,
+        "user": "江南新绿",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74519,
+        "user": "江南新绿",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74520,
+        "user": "江南新绿",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74549,
+        "user": "江南新绿",
+        "content": "ZJ18d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74556,
+        "user": "江南新绿",
+        "content": "24必然"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74561,
+        "user": "江南新绿",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74562,
+        "user": "江南新绿",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74562,
+        "user": "江南新绿",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74568,
+        "user": "江南新绿",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74569,
+        "user": "江南新绿",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74572,
+        "user": "江南新绿",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74578,
+        "user": "江南新绿",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74583,
+        "user": "江南新绿",
+        "content": "ZJ6dA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74586,
+        "user": "江南新绿",
+        "content": "ZJ6cA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74597,
+        "user": "江南新绿",
+        "content": "ZJ6c "
+    },
+    {
+        "action": "TALK",
+        "time_int": 74611,
+        "user": "江南新绿",
+        "content": "这样黑棋胜利"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74626,
+        "user": "江南新绿",
+        "content": 8
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74628,
+        "user": "江南新绿",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74629,
+        "user": "江南新绿",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74631,
+        "user": "江南新绿",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74641,
+        "user": "江南新绿",
+        "content": "这个10是白棋的先手"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74653,
+        "user": "江南新绿",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74654,
+        "user": "江南新绿",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74655,
+        "user": "江南新绿",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74673,
+        "user": "江南新绿",
+        "content": "比如这样白棋保住左边"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74685,
+        "user": "江南新绿",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74686,
+        "user": "江南新绿",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74694,
+        "user": "江南新绿",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74705,
+        "user": "江南新绿",
+        "content": "现在有双杀"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74709,
+        "user": "江南新绿",
+        "content": "ZJaaA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74713,
+        "user": "江南新绿",
+        "content": "ZJb7B"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74723,
+        "user": "江南新绿",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74731,
+        "user": "江南新绿",
+        "content": "这个18必然"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74742,
+        "user": "江南新绿",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74743,
+        "user": "江南新绿",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74743,
+        "user": "江南新绿",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74744,
+        "user": "江南新绿",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74745,
+        "user": "江南新绿",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74760,
+        "user": "江南新绿",
+        "content": "这里黑棋优势巨大"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74765,
+        "user": "江南新绿",
+        "content": "无法防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74812,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74822,
+        "user": "水晶015",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74828,
+        "user": "江南新绿",
+        "content": "不用看了吧"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74836,
+        "user": "江南新绿",
+        "content": 8
+    },
+    {
+        "action": "TALK",
+        "time_int": 74836,
+        "user": "StarRain",
+        "content": "嗯"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74838,
+        "user": "江南新绿",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74844,
+        "user": "江南新绿",
+        "content": "ZJ198"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74874,
+        "user": "江南新绿",
+        "content": "这个10黑棋有两种走法"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74878,
+        "user": "江南新绿",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74878,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74879,
+        "user": "江南新绿",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74881,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74881,
+        "user": "江南新绿",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74886,
+        "user": "江南新绿",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74897,
+        "user": "江南新绿",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74917,
+        "user": "江南新绿",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74917,
+        "user": "江南新绿",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74920,
+        "user": "江南新绿",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74942,
+        "user": "江南新绿",
+        "content": "这里3,13,11破坏了线路,黑棋速胜了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74946,
+        "user": "zj17",
+        "content": "胜了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74960,
+        "user": "江南新绿",
+        "content": "黑棋能走到i7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74974,
+        "user": "江南新绿",
+        "content": "可以说全面开花了"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74982,
+        "user": "江南新绿",
+        "content": "ZJ97A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74996,
+        "user": "江南新绿",
+        "content": "i7和第一手,i7和7的组合"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75002,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75005,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75005,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75008,
+        "user": "江南新绿",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75018,
+        "user": "江南新绿",
+        "content": "这个防守要强的多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75031,
+        "user": "ndh005",
+        "content": ".3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75034,
+        "user": "江南新绿",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75035,
+        "user": "江南新绿",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75040,
+        "user": "江南新绿",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75056,
+        "user": "江南新绿",
+        "content": "这里有点像云月马步那个变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75061,
+        "user": "yywanzi",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75072,
+        "user": "江南新绿",
+        "content": "虽然后手,但是优势"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75073,
+        "user": "水晶碎梦",
+        "content": "冲四防不合适吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75108,
+        "user": "江南新绿",
+        "content": "这里黑棋没有连续手段,2和10反击强烈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75125,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 75140,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75141,
+        "user": "江南新绿",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75142,
+        "user": "江南新绿",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75142,
+        "user": "江南新绿",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75143,
+        "user": "水晶碎梦",
+        "content": "0"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75143,
+        "user": "江南新绿",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75144,
+        "user": "江南新绿",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75144,
+        "user": "江南新绿",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75145,
+        "user": "江南新绿",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75146,
+        "user": "江南新绿",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75146,
+        "user": "江南新绿",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75147,
+        "user": "江南新绿",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75148,
+        "user": "江南新绿",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75148,
+        "user": "江南新绿",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75151,
+        "user": "江南新绿",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75151,
+        "user": "江南新绿",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75152,
+        "user": "江南新绿",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75175,
+        "user": "江南新绿",
+        "content": "和这个15有异曲同工之妙"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75181,
+        "user": "yywanzi",
+        "content": "G6跑到J8点上了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75243,
+        "user": "水晶017",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75248,
+        "user": "水晶绿茶",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75255,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75258,
+        "user": "77247068",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75264,
+        "user": "yywanzi",
+        "content": "少了一手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75266,
+        "user": "水晶015",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75279,
+        "user": "江南新绿",
+        "content": "这里的思路是相似的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75288,
+        "user": "StarRain",
+        "content": "必胜了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75305,
+        "user": "清秋弈人",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75305,
+        "user": "江南新绿",
+        "content": "黑棋利用防守,扩大了局部的优势"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75306,
+        "user": "过客736",
+        "content": "1111111111111"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 75316,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75317,
+        "user": "江南新绿",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75319,
+        "user": "江南新绿",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75319,
+        "user": "江南新绿",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75321,
+        "user": "江南新绿",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75322,
+        "user": "江南新绿",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75323,
+        "user": "江南新绿",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75324,
+        "user": "江南新绿",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75324,
+        "user": "江南新绿",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75325,
+        "user": "江南新绿",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75326,
+        "user": "江南新绿",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75327,
+        "user": "江南新绿",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75327,
+        "user": "江南新绿",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75328,
+        "user": "江南新绿",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75329,
+        "user": "江南新绿",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75330,
+        "user": "江南新绿",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75331,
+        "user": "江南新绿",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75331,
+        "user": "江南新绿",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75336,
+        "user": "江南新绿",
+        "content": "来看这个吧"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75343,
+        "user": "江南新绿",
+        "content": "ZJa6A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75346,
+        "user": "江南新绿",
+        "content": "ZJb7B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75350,
+        "user": "江南新绿",
+        "content": "ZJd9C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75357,
+        "user": "江南新绿",
+        "content": "有连冲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75389,
+        "user": "江南新绿",
+        "content": "这里白棋如何防呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75415,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75422,
+        "user": "ny05",
+        "content": "J6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75422,
+        "user": "洋洋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75423,
+        "user": "StarRain",
+        "content": "J6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75425,
+        "user": "小鸟",
+        "content": "=.="
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75446,
+        "user": "江南新绿",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75448,
+        "user": "StarRain",
+        "content": "J7，K7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75453,
+        "user": "江南新绿",
+        "content": "只有这个18"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75457,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75457,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75459,
+        "user": "江南新绿",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75460,
+        "user": "江南新绿",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75460,
+        "user": "ny20",
+        "content": "Jk"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75462,
+        "user": "江南新绿",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75463,
+        "user": "江南新绿",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75464,
+        "user": "江南新绿",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75466,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75467,
+        "user": "江南新绿",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75468,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75469,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75469,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75470,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75472,
+        "user": "江南新绿",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75474,
+        "user": "江南新绿",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75475,
+        "user": "江南新绿",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75481,
+        "user": "江南新绿",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75483,
+        "user": "江南新绿",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75485,
+        "user": "江南新绿",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75485,
+        "user": "江南新绿",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75486,
+        "user": "江南新绿",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75486,
+        "user": "江南新绿",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75487,
+        "user": "江南新绿",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75488,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75489,
+        "user": "江南新绿",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75490,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75490,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75490,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75491,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75491,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75491,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75492,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75492,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75493,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75494,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75494,
+        "user": "江南新绿",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75507,
+        "user": "StarRain",
+        "content": "防不住"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75512,
+        "user": "江南新绿",
+        "content": "黑棋的组合很明显了,18唯一"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75532,
+        "user": "江南新绿",
+        "content": "这个18可以说的很强的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75533,
+        "user": "xbzjhz",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75545,
+        "user": "xbzjhz",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75548,
+        "user": "江南新绿",
+        "content": "实战未必可以算的清楚黑棋怎么杀的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75595,
+        "user": "江南新绿",
+        "content": "这里黑棋右边和左边暂时没有线路可以联系"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75595,
+        "user": "水晶017",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75606,
+        "user": "水晶015",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75607,
+        "user": "冰宝宝",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75617,
+        "user": "洋洋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75628,
+        "user": "小鸟",
+        "content": "=.="
+    },
+    {
+        "action": "TALK",
+        "time_int": 75628,
+        "user": "江南新绿",
+        "content": "而且一旦后手将会很惨"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75644,
+        "user": "江南新绿",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75645,
+        "user": "江南新绿",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75646,
+        "user": "77247068",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75648,
+        "user": "江南新绿",
+        "content": "ZJ069"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75649,
+        "user": "77247068",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75655,
+        "user": "江南新绿",
+        "content": "这个21妙手"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75679,
+        "user": "江南新绿",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75680,
+        "user": "江南新绿",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75680,
+        "user": "江南新绿",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75695,
+        "user": "江南新绿",
+        "content": "下面该如何呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75701,
+        "user": "过客738",
+        "content": "h6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75705,
+        "user": "水晶017",
+        "content": "E6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75726,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75729,
+        "user": "ny05",
+        "content": "G7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75742,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75748,
+        "user": "江南新绿",
+        "content": "这个实战复杂"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75752,
+        "user": "江南新绿",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75753,
+        "user": "江南新绿",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75754,
+        "user": "江南新绿",
+        "content": "ZJ078"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75765,
+        "user": "江南新绿",
+        "content": "这个27又一妙手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75776,
+        "user": "江南新绿",
+        "content": "做杀,同时做棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75785,
+        "user": "342",
+        "content": "想不到的27手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75788,
+        "user": "江南新绿",
+        "content": "一举两得"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75794,
+        "user": "水晶绿茶",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75832,
+        "user": "江南新绿",
+        "content": "这个27的杀的线路是复杂的,可以说是利用到了全局"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75859,
+        "user": "水晶017",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75879,
+        "user": "水晶碎梦",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75880,
+        "user": "江南新绿",
+        "content": "用最少的棋子创造vcf也是一种思路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75883,
+        "user": "洋洋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75898,
+        "user": "小鸟",
+        "content": "=.="
+    },
+    {
+        "action": "TALK",
+        "time_int": 75908,
+        "user": "江南新绿",
+        "content": "vcf通常可以联系很多棋子,是全局的好点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75909,
+        "user": "zj17",
+        "content": "白E9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75914,
+        "user": "江南新绿",
+        "content": "ZJ159"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75947,
+        "user": "江南新绿",
+        "content": "这个28强吗,反击过后就杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75949,
+        "user": "yywanzi",
+        "content": "v"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75953,
+        "user": "StarRain",
+        "content": "V了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75958,
+        "user": "江南新绿",
+        "content": "ZJ058"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75959,
+        "user": "江南新绿",
+        "content": "ZJ147"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75959,
+        "user": "江南新绿",
+        "content": "ZJ048"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75960,
+        "user": "江南新绿",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75961,
+        "user": "江南新绿",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75964,
+        "user": "江南新绿",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75965,
+        "user": "江南新绿",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75965,
+        "user": "江南新绿",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75967,
+        "user": "江南新绿",
+        "content": "ZJ075"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75970,
+        "user": "江南新绿",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75972,
+        "user": "江南新绿",
+        "content": "ZJ097"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75977,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75978,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75978,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75978,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75978,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75979,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75979,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75979,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75980,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75980,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75980,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75981,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75982,
+        "user": "江南新绿",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75989,
+        "user": "江南新绿",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75990,
+        "user": "江南新绿",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75991,
+        "user": "江南新绿",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75991,
+        "user": "江南新绿",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75992,
+        "user": "江南新绿",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75999,
+        "user": "江南新绿",
+        "content": "这样也胜了"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76009,
+        "user": "江南新绿",
+        "content": 22
+    },
+    {
+        "action": "BACK",
+        "time_int": 76010,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76011,
+        "user": "江南新绿",
+        "content": "ZJ158"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76022,
+        "user": "江南新绿",
+        "content": "这个又一复杂题目"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76025,
+        "user": "江南新绿",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76026,
+        "user": "江南新绿",
+        "content": "ZJ16d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76026,
+        "user": "江南新绿",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76036,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76036,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76037,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76038,
+        "user": "江南新绿",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76041,
+        "user": "江南新绿",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76042,
+        "user": "江南新绿",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76042,
+        "user": "江南新绿",
+        "content": "ZJ16d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76043,
+        "user": "江南新绿",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76064,
+        "user": "Answer",
+        "content": "25在L7就赢了啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76091,
+        "user": "江南新绿",
+        "content": "这个25,27 的做棋手法让我想起了另一个云月局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76105,
+        "user": "江南新绿",
+        "content": "25走L7,白棋L6"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 76129,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76130,
+        "user": "江南新绿",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76132,
+        "user": "江南新绿",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76133,
+        "user": "江南新绿",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76135,
+        "user": "江南新绿",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76136,
+        "user": "江南新绿",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76141,
+        "user": "江南新绿",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76143,
+        "user": "江南新绿",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76147,
+        "user": "江南新绿",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76153,
+        "user": "江南新绿",
+        "content": "这个局面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76180,
+        "user": "江南新绿",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76181,
+        "user": "江南新绿",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76182,
+        "user": "江南新绿",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76182,
+        "user": "江南新绿",
+        "content": "ZJ156"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76190,
+        "user": "江南新绿",
+        "content": "9和11拓展"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76192,
+        "user": "江南新绿",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76193,
+        "user": "江南新绿",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76193,
+        "user": "江南新绿",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76211,
+        "user": "江南新绿",
+        "content": "这个13和15是那么的相似"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76252,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76271,
+        "user": "yywanzi",
+        "content": "天才"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76295,
+        "user": "江南新绿",
+        "content": "这个13,和15的局部组合,在防守的同时,改变了线路"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 76303,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76304,
+        "user": "江南新绿",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76307,
+        "user": "江南新绿",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76308,
+        "user": "江南新绿",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76308,
+        "user": "江南新绿",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76309,
+        "user": "江南新绿",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76309,
+        "user": "江南新绿",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76310,
+        "user": "江南新绿",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76311,
+        "user": "江南新绿",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76311,
+        "user": "江南新绿",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76312,
+        "user": "江南新绿",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76313,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76314,
+        "user": "江南新绿",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76315,
+        "user": "江南新绿",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76315,
+        "user": "江南新绿",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76316,
+        "user": "江南新绿",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76316,
+        "user": "江南新绿",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76317,
+        "user": "江南新绿",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76317,
+        "user": "江南新绿",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76318,
+        "user": "江南新绿",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76320,
+        "user": "江南新绿",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76320,
+        "user": "江南新绿",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76321,
+        "user": "江南新绿",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76322,
+        "user": "江南新绿",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76324,
+        "user": "江南新绿",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76325,
+        "user": "江南新绿",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76326,
+        "user": "江南新绿",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76327,
+        "user": "江南新绿",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76328,
+        "user": "江南新绿",
+        "content": "ZJ16d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76330,
+        "user": "江南新绿",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76379,
+        "user": "江南新绿",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76388,
+        "user": "江南新绿",
+        "content": "这个28必然"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76402,
+        "user": "江南新绿",
+        "content": "否则有左边的线路"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76406,
+        "user": "江南新绿",
+        "content": "ZJ5aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76410,
+        "user": "江南新绿",
+        "content": "ZJ87B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76415,
+        "user": "江南新绿",
+        "content": "ZJ77C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76434,
+        "user": "江南新绿",
+        "content": "ZJb7D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76446,
+        "user": "江南新绿",
+        "content": "黑棋A点后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76455,
+        "user": "江南新绿",
+        "content": "C,D冲,B点胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76464,
+        "user": "77247068",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 76465,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76466,
+        "user": "江南新绿",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76473,
+        "user": "江南新绿",
+        "content": "ZJ08d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76474,
+        "user": "江南新绿",
+        "content": "ZJ18e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76474,
+        "user": "江南新绿",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76475,
+        "user": "江南新绿",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76488,
+        "user": "江南新绿",
+        "content": "现在黑棋vcf了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76495,
+        "user": "zj17",
+        "content": "L11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76528,
+        "user": "zj17",
+        "content": "也可以VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76536,
+        "user": "zj17",
+        "content": "多走几个冲四。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76538,
+        "user": "江南新绿",
+        "content": "这个在18的时候几乎不可能从右边的进攻变成了现实"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76546,
+        "user": "水晶017",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76552,
+        "user": "冰宝宝",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76556,
+        "user": "水晶绿茶",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76568,
+        "user": "江南新绿",
+        "content": "zj17,也许是一样"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76573,
+        "user": "江南新绿",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76574,
+        "user": "江南新绿",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76575,
+        "user": "江南新绿",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76575,
+        "user": "江南新绿",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76576,
+        "user": "江南新绿",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76577,
+        "user": "江南新绿",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76586,
+        "user": "江南新绿",
+        "content": "下面谁来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76594,
+        "user": "江南新绿",
+        "content": "谁来走一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76605,
+        "user": "Sky",
+        "content": "``````"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76618,
+        "user": "Sky",
+        "content": "ZJ09e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76621,
+        "user": "江南新绿",
+        "content": "ZJ1af"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76622,
+        "user": "Sky",
+        "content": "ZJ0ad"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76623,
+        "user": "江南新绿",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76626,
+        "user": "Sky",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76627,
+        "user": "江南新绿",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76628,
+        "user": "Sky",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76631,
+        "user": "江南新绿",
+        "content": "ZJ1e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76631,
+        "user": "Sky",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76634,
+        "user": "江南新绿",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76638,
+        "user": "Sky",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76638,
+        "user": "zj17",
+        "content": "？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76639,
+        "user": "江南新绿",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76641,
+        "user": "Sky",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76643,
+        "user": "江南新绿",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76652,
+        "user": "冰宝宝",
+        "content": "厉害"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76666,
+        "user": "江南新绿",
+        "content": "厉害的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76671,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76672,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76672,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76673,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76673,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76673,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76673,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76674,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76674,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76674,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76674,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76675,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76675,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76675,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76676,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76677,
+        "user": "江南新绿",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76678,
+        "user": "江南新绿",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76679,
+        "user": "江南新绿",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76679,
+        "user": "zj17",
+        "content": "稍有点不同。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76680,
+        "user": "江南新绿",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76680,
+        "user": "江南新绿",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76681,
+        "user": "江南新绿",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76681,
+        "user": "江南新绿",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76681,
+        "user": "江南新绿",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76682,
+        "user": "江南新绿",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76684,
+        "user": "江南新绿",
+        "content": "ZJ0ad"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76684,
+        "user": "江南新绿",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76685,
+        "user": "江南新绿",
+        "content": "ZJ09e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76688,
+        "user": "zj17",
+        "content": "是的。和我一样了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76692,
+        "user": "江南新绿",
+        "content": "这样似乎也可以"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76719,
+        "user": "zj17",
+        "content": "为什么说似乎呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76719,
+        "user": "yywanzi",
+        "content": "点歌吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76747,
+        "user": "ny20",
+        "content": "点歌？这里还能点歌？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76748,
+        "user": "江南新绿",
+        "content": "白棋有一个冲,也许有些干扰"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76759,
+        "user": "yywanzi",
+        "content": "点名啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76769,
+        "user": "江南新绿",
+        "content": "连冲的威力似乎更大些"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76771,
+        "user": "Sky",
+        "content": "?/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76772,
+        "user": "zj17",
+        "content": "可是，这里黑是连冲四啊。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76779,
+        "user": "ny05",
+        "content": "L11呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76784,
+        "user": "ny05",
+        "content": "直接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76787,
+        "user": "ny20",
+        "content": "哦，第一次用不知道怎么点名"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 76799,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76800,
+        "user": "77247068",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76800,
+        "user": "江南新绿",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76801,
+        "user": "江南新绿",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76801,
+        "user": "77247068",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76801,
+        "user": "江南新绿",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76802,
+        "user": "江南新绿",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76804,
+        "user": "江南新绿",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76805,
+        "user": "江南新绿",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76807,
+        "user": "江南新绿",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76808,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76809,
+        "user": "江南新绿",
+        "content": "ZJ098"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76810,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76810,
+        "user": "江南新绿",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76811,
+        "user": "江南新绿",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76811,
+        "user": "江南新绿",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76812,
+        "user": "江南新绿",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76813,
+        "user": "江南新绿",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76818,
+        "user": "江南新绿",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76823,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76824,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76825,
+        "user": "江南新绿",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76833,
+        "user": "江南新绿",
+        "content": "这个11简单些"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76843,
+        "user": "江南新绿",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76844,
+        "user": "江南新绿",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76846,
+        "user": "江南新绿",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76847,
+        "user": "江南新绿",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76854,
+        "user": "江南新绿",
+        "content": "15妙手"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76859,
+        "user": "江南新绿",
+        "content": "ZJ97A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76865,
+        "user": "江南新绿",
+        "content": "黑棋占据a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76876,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76876,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76877,
+        "user": "江南新绿",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76905,
+        "user": "江南新绿",
+        "content": "这个14破坏这个计划"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76910,
+        "user": "江南新绿",
+        "content": "15哪里呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76916,
+        "user": "小鸟",
+        "content": "=.="
+    },
+    {
+        "action": "TALK",
+        "time_int": 76929,
+        "user": "江南新绿",
+        "content": "上次好象讲过这样的防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76930,
+        "user": "ny05",
+        "content": "H6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76934,
+        "user": "yywanzi",
+        "content": "H6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76936,
+        "user": "江南新绿",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76950,
+        "user": "江南新绿",
+        "content": "对,这个h6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76985,
+        "user": "江南新绿",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76989,
+        "user": "小鸟",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76989,
+        "user": "江南新绿",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77009,
+        "user": "江南新绿",
+        "content": "这里的反击是复杂和耐人寻味的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77020,
+        "user": "江南新绿",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77032,
+        "user": "江南新绿",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77046,
+        "user": "江南新绿",
+        "content": "这个19必胜了"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77050,
+        "user": "江南新绿",
+        "content": "ZJ97A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77055,
+        "user": "江南新绿",
+        "content": "ZJ75B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77059,
+        "user": "江南新绿",
+        "content": "ZJ76A"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77065,
+        "user": "江南新绿",
+        "content": "ZJ176"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77066,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 77070,
+        "user": "江南新绿",
+        "content": "ZJ76 "
+    },
+    {
+        "action": "MARK",
+        "time_int": 77074,
+        "user": "江南新绿",
+        "content": "ZJ66C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77095,
+        "user": "江南新绿",
+        "content": "A点以后必胜"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77099,
+        "user": "江南新绿",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77100,
+        "user": "江南新绿",
+        "content": "ZJ097"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77101,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77101,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "GOTO",
+        "time_int": 77118,
+        "user": "江南新绿",
+        "content": 10
+    },
+    {
+        "action": "BACK",
+        "time_int": 77119,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 77122,
+        "user": "江南新绿",
+        "content": "ZJ7aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77125,
+        "user": "江南新绿",
+        "content": "ZJaaB"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77129,
+        "user": "江南新绿",
+        "content": "ZJ78C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 77132,
+        "user": "江南新绿",
+        "content": "ZJ98D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77146,
+        "user": "江南新绿",
+        "content": "今天主要讲了这个形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77161,
+        "user": "江南新绿",
+        "content": "黑棋保持阵型即可胜利"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77170,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77171,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77172,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77172,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77173,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77173,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77175,
+        "user": "江南新绿",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77175,
+        "user": "江南新绿",
+        "content": "ZJ079"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77183,
+        "user": "江南新绿",
+        "content": "下次讲下这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77196,
+        "user": "江南新绿",
+        "content": "时间关系,差不多了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77196,
+        "user": "ny05",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77199,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77200,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77201,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77201,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77212,
+        "user": "ny20",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77216,
+        "user": "冰宝宝",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77217,
+        "user": "江南新绿",
+        "content": "讲过的课程有问题吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77218,
+        "user": "StarRain",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77221,
+        "user": "江南新绿",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77222,
+        "user": "水晶碎梦",
+        "content": "老师辛苦了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77222,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77223,
+        "user": "小鸟",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77224,
+        "user": "江南新绿",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77224,
+        "user": "ny05",
+        "content": "亲亲老师"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77224,
+        "user": "江南新绿",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77225,
+        "user": "江南新绿",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77225,
+        "user": "清秋弈人",
+        "content": "谢谢老师.老师辛苦了^_^"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77226,
+        "user": "江南新绿",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77226,
+        "user": "江南新绿",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77228,
+        "user": "江南新绿",
+        "content": "ZJ079"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77228,
+        "user": "StarRain",
+        "content": "没有"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77228,
+        "user": "江南新绿",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77229,
+        "user": "江南新绿",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77230,
+        "user": "江南新绿",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77231,
+        "user": "江南新绿",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77232,
+        "user": "江南新绿",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77233,
+        "user": "江南新绿",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77235,
+        "user": "江南新绿",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77236,
+        "user": "江南新绿",
+        "content": "ZJ058"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77236,
+        "user": "江南新绿",
+        "content": "ZJ148"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77239,
+        "user": "江南新绿",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77240,
+        "user": "江南新绿",
+        "content": "ZJ16d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77241,
+        "user": "江南新绿",
+        "content": "ZJ06c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77241,
+        "user": "江南新绿",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77242,
+        "user": "江南新绿",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77242,
+        "user": "江南新绿",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77245,
+        "user": "江南新绿",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77247,
+        "user": "江南新绿",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77249,
+        "user": "江南新绿",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77251,
+        "user": "江南新绿",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77251,
+        "user": "江南新绿",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77252,
+        "user": "江南新绿",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77254,
+        "user": "江南新绿",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77255,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77255,
+        "user": "江南新绿",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77256,
+        "user": "江南新绿",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77256,
+        "user": "江南新绿",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77257,
+        "user": "江南新绿",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77257,
+        "user": "江南新绿",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77259,
+        "user": "江南新绿",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77260,
+        "user": "江南新绿",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77260,
+        "user": "江南新绿",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77261,
+        "user": "江南新绿",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77262,
+        "user": "江南新绿",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77263,
+        "user": "江南新绿",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77266,
+        "user": "江南新绿",
+        "content": "ZJ1b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77267,
+        "user": "江南新绿",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77268,
+        "user": "江南新绿",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77268,
+        "user": "江南新绿",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77270,
+        "user": "江南新绿",
+        "content": "ZJ1cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77271,
+        "user": "江南新绿",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77273,
+        "user": "江南新绿",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77279,
+        "user": "江南新绿",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77279,
+        "user": "江南新绿",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77281,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77281,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77283,
+        "user": "冰宝宝",
+        "content": "太快了吧，老师"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77288,
+        "user": "江南新绿",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77289,
+        "user": "江南新绿",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77311,
+        "user": "江南新绿",
+        "content": "上次的内容"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77318,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77318,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77319,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77320,
+        "user": "江南新绿",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77327,
+        "user": "江南新绿",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77328,
+        "user": "江南新绿",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77329,
+        "user": "江南新绿",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77329,
+        "user": "江南新绿",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77330,
+        "user": "江南新绿",
+        "content": "ZJ0da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77330,
+        "user": "江南新绿",
+        "content": "ZJ1ea"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77331,
+        "user": "冰宝宝",
+        "content": "汗~上次没听到"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77335,
+        "user": "江南新绿",
+        "content": "ZJ0e8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77335,
+        "user": "江南新绿",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77336,
+        "user": "江南新绿",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77336,
+        "user": "江南新绿",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77337,
+        "user": "江南新绿",
+        "content": "ZJ0d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77338,
+        "user": "江南新绿",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77340,
+        "user": "江南新绿",
+        "content": "ZJ0e7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77341,
+        "user": "江南新绿",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77341,
+        "user": "江南新绿",
+        "content": "ZJ0e5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77353,
+        "user": "江南新绿",
+        "content": "这个46是杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77360,
+        "user": "江南新绿",
+        "content": "还有一个没讲完"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77362,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77362,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77363,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77363,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77363,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77363,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77364,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77364,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77364,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77365,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77365,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77365,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77365,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77366,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77366,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77366,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77367,
+        "user": "江南新绿",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77370,
+        "user": "江南新绿",
+        "content": "这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77401,
+        "user": "StarRain",
+        "content": "M11？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77463,
+        "user": "江南新绿",
+        "content": "是的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77466,
+        "user": "江南新绿",
+        "content": "ZJ0db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77466,
+        "user": "江南新绿",
+        "content": "ZJ1ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77468,
+        "user": "江南新绿",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77470,
+        "user": "江南新绿",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77471,
+        "user": "江南新绿",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77474,
+        "user": "江南新绿",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77483,
+        "user": "江南新绿",
+        "content": "现在杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77491,
+        "user": "江南新绿",
+        "content": "不过有些复杂"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77497,
+        "user": "江南新绿",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77498,
+        "user": "江南新绿",
+        "content": "ZJ1e8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77499,
+        "user": "江南新绿",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77499,
+        "user": "江南新绿",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77500,
+        "user": "江南新绿",
+        "content": "ZJ0e7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77501,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77502,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77505,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77506,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77508,
+        "user": "江南新绿",
+        "content": "ZJ1e8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77508,
+        "user": "江南新绿",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77513,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77514,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77514,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77521,
+        "user": "江南新绿",
+        "content": "ZJ0e7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77521,
+        "user": "江南新绿",
+        "content": "ZJ1f6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77529,
+        "user": "江南新绿",
+        "content": "ZJ0d6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77530,
+        "user": "江南新绿",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77531,
+        "user": "江南新绿",
+        "content": "ZJ0e5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77532,
+        "user": "江南新绿",
+        "content": "ZJ1f4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77533,
+        "user": "江南新绿",
+        "content": "ZJ0e8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77540,
+        "user": "江南新绿",
+        "content": "这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77545,
+        "user": "yywanzi",
+        "content": "55不对"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77551,
+        "user": "江南新绿",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77552,
+        "user": "zj17",
+        "content": "前面不能连三，他有VCF啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77555,
+        "user": "StarRain",
+        "content": "55L8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77556,
+        "user": "yywanzi",
+        "content": "白棋上面有V"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77556,
+        "user": "Answer",
+        "content": "56可以走K12"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77557,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77557,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77558,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77558,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77558,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77559,
+        "user": "zj17",
+        "content": "K12"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77570,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77578,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77578,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77579,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77580,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77581,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77582,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77582,
+        "user": "江南新绿",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77628,
+        "user": "水晶017",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77629,
+        "user": "江南新绿",
+        "content": "上次家的看的时候很简单,到这里怪了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77657,
+        "user": "xbzjhz",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77700,
+        "user": "StarRain",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77728,
+        "user": "水晶015",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77758,
+        "user": "洋洋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77800,
+        "user": "水晶017",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77802,
+        "user": "ny20",
+        "content": "我是不是掉了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77810,
+        "user": "77247068",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77815,
+        "user": "水晶015",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77817,
+        "user": "江南新绿",
+        "content": "下次看吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77824,
+        "user": "StarRain",
+        "content": "哦"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77824,
+        "user": "",
+        "content": " 1373, 342, 420631350, 5873627, 77247068, Answer, losedevil, ndh005, ny20, OLIVERFJC, Sky, StarRain, yywanzi, 冰宝宝, 亮亮, 清秋弈人, 水晶014, 水晶015, 水晶017, 水晶绿茶, 水晶碎梦, 小鸟, 徐永伟, 洋洋, 左宝巨."
+    }
+]

@@ -1,0 +1,5426 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72856,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72858,
+        "user": "8283726",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72868,
+        "user": "ndh003",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72876,
+        "user": "风雅颂",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72876,
+        "user": "【水晶】狐狸",
+        "content": "老师辛苦了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72876,
+        "user": "影子",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72878,
+        "user": "星云",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72878,
+        "user": "徐永伟",
+        "content": "欢迎光临浙江五子棋教室"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72880,
+        "user": "8283726",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72882,
+        "user": "xiaozhu",
+        "content": "老师晚安！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72890,
+        "user": "徐永伟",
+        "content": "今天我们继续看流星的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72890,
+        "user": "【水晶】狐狸",
+        "content": "老师开始讲课吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72891,
+        "user": "伊人",
+        "content": "老师好！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72893,
+        "user": "徐永伟",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72894,
+        "user": "徐永伟",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72895,
+        "user": "徐永伟",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72895,
+        "user": "【水晶】小雨",
+        "content": "在"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72895,
+        "user": "徐永伟",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72896,
+        "user": "徐永伟",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72896,
+        "user": "徐永伟",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72897,
+        "user": "徐永伟",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72897,
+        "user": "徐永伟",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72898,
+        "user": "徐永伟",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72898,
+        "user": "徐永伟",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72899,
+        "user": "徐永伟",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72899,
+        "user": "徐永伟",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72900,
+        "user": "徐永伟",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72900,
+        "user": "徐永伟",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72901,
+        "user": "徐永伟",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72902,
+        "user": "徐永伟",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72902,
+        "user": "徐永伟",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72903,
+        "user": "【水晶】瞳孔",
+        "content": "老师吉祥~！~"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72903,
+        "user": "徐永伟",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72903,
+        "user": "徐永伟",
+        "content": "ZJ0e7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72904,
+        "user": "徐永伟",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72905,
+        "user": "徐永伟",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72905,
+        "user": "徐永伟",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72907,
+        "user": "徐永伟",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72908,
+        "user": "徐永伟",
+        "content": "ZJ1fb"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72909,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72910,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72910,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72910,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72910,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72911,
+        "user": "徐永伟",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72912,
+        "user": "江南新绿",
+        "content": "吉祥"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72912,
+        "user": "徐永伟",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72913,
+        "user": "徐永伟",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72913,
+        "user": "徐永伟",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72914,
+        "user": "徐永伟",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72914,
+        "user": "徐永伟",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72916,
+        "user": "徐永伟",
+        "content": "ZJ1fb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72917,
+        "user": "徐永伟",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72918,
+        "user": "徐永伟",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72918,
+        "user": "徐永伟",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72919,
+        "user": "徐永伟",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72919,
+        "user": "徐永伟",
+        "content": "ZJ0ea"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72920,
+        "user": "【水晶】狐狸",
+        "content": "老师发财"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72920,
+        "user": "徐永伟",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72921,
+        "user": "徐永伟",
+        "content": "ZJ059"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72922,
+        "user": "【水晶】小雨",
+        "content": "太快了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72923,
+        "user": "徐永伟",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72923,
+        "user": "徐永伟",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72924,
+        "user": "徐永伟",
+        "content": "ZJ194"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72926,
+        "user": "徐永伟",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72931,
+        "user": "【水晶】小雨",
+        "content": "看不清"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72955,
+        "user": "徐永伟",
+        "content": "在上次的课程里，我们开始说这个37的局部变化"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72958,
+        "user": "徐永伟",
+        "content": "ZJ14b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72958,
+        "user": "徐永伟",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72959,
+        "user": "徐永伟",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72960,
+        "user": "徐永伟",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72961,
+        "user": "徐永伟",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72962,
+        "user": "徐永伟",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72962,
+        "user": "徐永伟",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72963,
+        "user": "徐永伟",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72964,
+        "user": "8283726",
+        "content": "点名了吗"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72964,
+        "user": "徐永伟",
+        "content": "ZJ1f9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72965,
+        "user": "徐永伟",
+        "content": "ZJ0e8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72965,
+        "user": "徐永伟",
+        "content": "ZJ1e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72966,
+        "user": "徐永伟",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72970,
+        "user": "徐永伟",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72971,
+        "user": "徐永伟",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72973,
+        "user": "徐永伟",
+        "content": "ZJ138"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72974,
+        "user": "【水晶】狐狸",
+        "content": "什么叫37个变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72976,
+        "user": "【水晶】蝶儿",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72993,
+        "user": "徐永伟",
+        "content": "说到了这个52以后的一些内容"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73008,
+        "user": "徐永伟",
+        "content": "ZJ048"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73038,
+        "user": "徐永伟",
+        "content": "我们首先看的是这个53来解禁的变化"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73041,
+        "user": "徐永伟",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73043,
+        "user": "徐永伟",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73054,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73070,
+        "user": "徐永伟",
+        "content": "对这个55的防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73081,
+        "user": "徐永伟",
+        "content": "我们上次的课程做了分析"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73086,
+        "user": "徐永伟",
+        "content": "应该没什么问题了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73088,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73089,
+        "user": "徐永伟",
+        "content": "ZJ06c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73099,
+        "user": "徐永伟",
+        "content": "今天我们先看这个55"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73116,
+        "user": "【水晶】狐狸",
+        "content": "什么分析"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73123,
+        "user": "徐永伟",
+        "content": "直接挡眠三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73134,
+        "user": "【水晶】蝶儿",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73140,
+        "user": "徐永伟",
+        "content": "这样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73162,
+        "user": "徐永伟",
+        "content": "白还有个活二和眠三可以利用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73163,
+        "user": "【水晶】狐狸",
+        "content": "怎么档"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73197,
+        "user": "徐永伟",
+        "content": "最好的连接自然还要考虑52"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73199,
+        "user": "【水晶】蝶儿",
+        "content": ".."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73199,
+        "user": "徐永伟",
+        "content": "ZJ13b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73217,
+        "user": "徐永伟",
+        "content": "这样的活三应该是最好的选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73223,
+        "user": "ぜ殘月銀星",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73236,
+        "user": "徐永伟",
+        "content": "和52，眠三的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73259,
+        "user": "徐永伟",
+        "content": "现在黑怎么防最强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73301,
+        "user": "徐永伟",
+        "content": "左还是右"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73308,
+        "user": "【水晶】小雨",
+        "content": "现在不是只能走B11吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73310,
+        "user": "325701",
+        "content": "B11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73318,
+        "user": "莲珠秀",
+        "content": "左"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73319,
+        "user": "ndh003",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73325,
+        "user": "小山谷",
+        "content": "B11"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73339,
+        "user": "徐永伟",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73342,
+        "user": "ndh003",
+        "content": "断了我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73348,
+        "user": "徐永伟",
+        "content": "这里也可以下吧"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73352,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73353,
+        "user": "徐永伟",
+        "content": "ZJ02b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73358,
+        "user": "徐永伟",
+        "content": "B11的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73369,
+        "user": "【水晶】蝶儿",
+        "content": "B11会不会长连啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73378,
+        "user": "徐永伟",
+        "content": "57-51-43刚好是长连线的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73400,
+        "user": "【水晶】蝶儿",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73401,
+        "user": "莲珠秀",
+        "content": "能抓到吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73404,
+        "user": "小山谷",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73405,
+        "user": "【水晶】萱旋",
+        "content": "晕，我来晚了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73413,
+        "user": "徐永伟",
+        "content": "但这里考虑的已经不是这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73447,
+        "user": "【水晶】蝶儿",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73454,
+        "user": "徐永伟",
+        "content": "由于白存在可能的连接进攻在于4-42-54延伸出来的眠三"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73465,
+        "user": "徐永伟",
+        "content": "ZJ13a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73466,
+        "user": "徐永伟",
+        "content": "ZJ039"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73467,
+        "user": "徐永伟",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73468,
+        "user": "徐永伟",
+        "content": "ZJ03d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73474,
+        "user": "徐永伟",
+        "content": "ZJ15c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73502,
+        "user": "【水晶】棋缘",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73511,
+        "user": "徐永伟",
+        "content": "这样白进攻后，黑怎么防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73531,
+        "user": "【水晶】棋缘",
+        "content": "都是死"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73535,
+        "user": "徐永伟",
+        "content": "ZJ06d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73545,
+        "user": "【水晶】嘎嘎",
+        "content": "。。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73551,
+        "user": "【水晶】棋缘",
+        "content": "ZJ14e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73553,
+        "user": "徐永伟",
+        "content": "你来表示"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73555,
+        "user": "【水晶】棋缘",
+        "content": "ZJ04d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73556,
+        "user": "【水晶】棋缘",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73557,
+        "user": "【水晶】棋缘",
+        "content": "ZJ06e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73565,
+        "user": "【水晶】棋缘",
+        "content": "ZJ118"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73565,
+        "user": "【水晶】棋缘",
+        "content": "ZJ029"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73566,
+        "user": "【水晶】棋缘",
+        "content": "ZJ119"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73577,
+        "user": "徐永伟",
+        "content": "想问下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73579,
+        "user": "【水晶】湘湘",
+        "content": "抓33能看到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73586,
+        "user": "【水晶】湘湘",
+        "content": "可是怎样抓长连呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73590,
+        "user": "徐永伟",
+        "content": "E13可以抓33吗"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73595,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73596,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73596,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73597,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73598,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73599,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73599,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73608,
+        "user": "【水晶】蝶儿",
+        "content": "不可以"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73609,
+        "user": "【水晶】嘎嘎",
+        "content": "不"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73612,
+        "user": "【水晶】蝶儿",
+        "content": "黑有解"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73614,
+        "user": "一个穷色狼",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73614,
+        "user": "徐永伟",
+        "content": "为什么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73618,
+        "user": "【水晶】湘湘",
+        "content": "不能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73620,
+        "user": "【水晶】蝶儿",
+        "content": "我来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73624,
+        "user": "徐永伟",
+        "content": "ZJ12a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73625,
+        "user": "【水晶】棋缘",
+        "content": "15-21-29"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73629,
+        "user": "【水晶】棋缘",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73630,
+        "user": "【水晶】棋缘",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73632,
+        "user": "【水晶】棋缘",
+        "content": "ZJ05d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73633,
+        "user": "【水晶】狐狸",
+        "content": "蝴蝶好厉害"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73638,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73639,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73639,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73640,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73644,
+        "user": "徐永伟",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73647,
+        "user": "【水晶】蝶儿",
+        "content": "我都没上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73648,
+        "user": "徐永伟",
+        "content": "谢谢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73650,
+        "user": "【水晶】蝶儿",
+        "content": "汗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73652,
+        "user": "【水晶】小雨",
+        "content": "哇"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73661,
+        "user": "【水晶】小雨",
+        "content": "在来一次"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73669,
+        "user": "【水晶】湘湘",
+        "content": "老师  怎样抓长连呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73673,
+        "user": "【水晶】小雨",
+        "content": "没看清"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73677,
+        "user": "徐永伟",
+        "content": "由于现在找不了E13的禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73680,
+        "user": "ndh003",
+        "content": "，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73690,
+        "user": "徐永伟",
+        "content": "而且黑还存在VCF的进攻"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73693,
+        "user": "徐永伟",
+        "content": "ZJ14e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73715,
+        "user": "徐永伟",
+        "content": "64手进攻中附带防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73727,
+        "user": "徐永伟",
+        "content": "这样"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73730,
+        "user": "徐永伟",
+        "content": "ZJ04d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73730,
+        "user": "徐永伟",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73734,
+        "user": "江南新绿",
+        "content": "64=a8不好吗"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73740,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73741,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73742,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73748,
+        "user": "徐永伟",
+        "content": "ZJ118"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73749,
+        "user": "徐永伟",
+        "content": "ZJ029"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73759,
+        "user": "徐永伟",
+        "content": "ZJ8aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73761,
+        "user": "徐永伟",
+        "content": "ZJ5dA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73768,
+        "user": "徐永伟",
+        "content": "黑有这样的V"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73774,
+        "user": "【水晶】嘎嘎",
+        "content": "。。。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73774,
+        "user": "徐永伟",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73775,
+        "user": "徐永伟",
+        "content": "ZJ019"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73776,
+        "user": "徐永伟",
+        "content": "ZJ149"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73778,
+        "user": "徐永伟",
+        "content": "ZJ06e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73789,
+        "user": "江南新绿",
+        "content": "哦，"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73793,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73793,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73794,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73794,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73795,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73796,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73798,
+        "user": "徐永伟",
+        "content": "ZJ14e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73802,
+        "user": "江南新绿",
+        "content": "看花眼了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73813,
+        "user": "徐永伟",
+        "content": "这样防守后"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73814,
+        "user": "徐永伟",
+        "content": "ZJ04d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73815,
+        "user": "徐永伟",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73823,
+        "user": "徐永伟",
+        "content": "白上面VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73829,
+        "user": "徐永伟",
+        "content": "下面可以抓33"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73833,
+        "user": "徐永伟",
+        "content": "ZJ2aA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73840,
+        "user": "【水晶】冰秋",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73841,
+        "user": "徐永伟",
+        "content": "A点的33禁"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73847,
+        "user": "徐永伟",
+        "content": "ZJ6eB"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73851,
+        "user": "徐永伟",
+        "content": "ZJ5eC"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73861,
+        "user": "徐永伟",
+        "content": "B、C连接的V线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73861,
+        "user": "ndh003",
+        "content": "强悍。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73872,
+        "user": "徐永伟",
+        "content": "黑无方"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73874,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73875,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73875,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73876,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73876,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 73876,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73877,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73877,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73878,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73880,
+        "user": "徐永伟",
+        "content": "ZJ039"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73883,
+        "user": "徐永伟",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73884,
+        "user": "徐永伟",
+        "content": "ZJ03d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73885,
+        "user": "徐永伟",
+        "content": "ZJ15c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73886,
+        "user": "徐永伟",
+        "content": "ZJ029"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73893,
+        "user": "徐永伟",
+        "content": "如果防这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73900,
+        "user": "【水晶】棋缘",
+        "content": "直接抓"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73906,
+        "user": "徐永伟",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73908,
+        "user": "徐永伟",
+        "content": "ZJ019"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73908,
+        "user": "徐永伟",
+        "content": "ZJ149"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73909,
+        "user": "徐永伟",
+        "content": "ZJ06e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73912,
+        "user": "徐永伟",
+        "content": "ZJ16d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73913,
+        "user": "徐永伟",
+        "content": "ZJ07e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73914,
+        "user": "徐永伟",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73915,
+        "user": "徐永伟",
+        "content": "ZJ04d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73916,
+        "user": "徐永伟",
+        "content": "ZJ15f"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73924,
+        "user": "徐永伟",
+        "content": "还是被抓33禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73945,
+        "user": "徐永伟",
+        "content": "这样这个57就基本完了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73976,
+        "user": "徐永伟",
+        "content": "这里没问题的话，我们看57反方向的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73988,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73996,
+        "user": "【水晶】狐狸",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74008,
+        "user": "徐永伟",
+        "content": "还有问题吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74021,
+        "user": "【水晶】蝶儿",
+        "content": "没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74022,
+        "user": "【水晶】狐狸",
+        "content": "慢点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74026,
+        "user": "【水晶】狐狸",
+        "content": "放棋子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74060,
+        "user": "徐永伟",
+        "content": "你可以下载录象进行分析，这里我过了先"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74062,
+        "user": "过客600",
+        "content": "70为什么不走71"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74065,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74066,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74067,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74068,
+        "user": "徐永伟",
+        "content": "ZJ14d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74069,
+        "user": "徐永伟",
+        "content": "ZJ04a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74072,
+        "user": "徐永伟",
+        "content": "ZJ15e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74072,
+        "user": "徐永伟",
+        "content": "ZJ05f"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74074,
+        "user": "徐永伟",
+        "content": "ZJ14f"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74080,
+        "user": "过客600",
+        "content": "一定要抓吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74084,
+        "user": "徐永伟",
+        "content": "这个也一样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74104,
+        "user": "徐永伟",
+        "content": "但禁手的存在，抓禁是中享受吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74106,
+        "user": "【水晶】湘湘",
+        "content": "抓好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74125,
+        "user": "徐永伟",
+        "content": "五子棋因为有禁才有意义啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74141,
+        "user": "徐永伟",
+        "content": "包括一般的比赛"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74148,
+        "user": "ndh003",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74162,
+        "user": "【水晶】湘湘",
+        "content": "换方向也能抓吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74162,
+        "user": "徐永伟",
+        "content": "棋手往往也会选择抓禁"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74167,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74168,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74169,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74169,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74170,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74176,
+        "user": "徐永伟",
+        "content": 56
+    },
+    {
+        "action": "TALK",
+        "time_int": 74176,
+        "user": "过客600",
+        "content": "实战中你也要抓?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74179,
+        "user": "徐永伟",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74210,
+        "user": "徐永伟",
+        "content": "就算网战，也大多选择抓的吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74213,
+        "user": "xiaozhu",
+        "content": "呼，终于有点点懂了，57可以破一个禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74220,
+        "user": "【水晶】湘湘",
+        "content": "这样白应该是杀吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74228,
+        "user": "xiaozhu",
+        "content": "F11比B11强点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74229,
+        "user": "徐永伟",
+        "content": "怎么杀？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74230,
+        "user": "【水晶】湘湘",
+        "content": "直接杀了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74253,
+        "user": "徐永伟",
+        "content": "你来表示下吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74255,
+        "user": "【水晶】湘湘",
+        "content": "ZJ13a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74257,
+        "user": "徐永伟",
+        "content": "ZJ039"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74263,
+        "user": "【水晶】湘湘",
+        "content": "ZJ129"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74291,
+        "user": "徐永伟",
+        "content": "ZJ06d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74321,
+        "user": "玩童",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74332,
+        "user": "桃夭",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74341,
+        "user": "【水晶】狐狸",
+        "content": "抓呢"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74356,
+        "user": "【水晶】湘湘",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74374,
+        "user": "徐永伟",
+        "content": "ZJ03d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74393,
+        "user": "莲珠秀",
+        "content": "黑还有V呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74422,
+        "user": "【水晶】湘湘",
+        "content": "怎么会这样的呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74423,
+        "user": "一个穷色狼",
+        "content": "A8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74436,
+        "user": "【水晶】湘湘",
+        "content": "ZJ118"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74439,
+        "user": "徐永伟",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74451,
+        "user": "【水晶】湘湘",
+        "content": "ZJ16e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74457,
+        "user": "一个穷色狼",
+        "content": ".."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74458,
+        "user": "徐永伟",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74459,
+        "user": "xiaozhu",
+        "content": "？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74460,
+        "user": "徐永伟",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74461,
+        "user": "徐永伟",
+        "content": "ZJ05d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74468,
+        "user": "【水晶】湘湘",
+        "content": "不行"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74469,
+        "user": "徐永伟",
+        "content": "这样黑V"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74475,
+        "user": "【水晶】湘湘",
+        "content": "还是原来的样子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74477,
+        "user": "一个穷色狼",
+        "content": "C14不行？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74480,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74481,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74482,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74483,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74485,
+        "user": "徐永伟",
+        "content": "ZJ14e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74490,
+        "user": "徐永伟",
+        "content": "这样吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74494,
+        "user": "一个穷色狼",
+        "content": "是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74500,
+        "user": "ぜ殘月銀星",
+        "content": "我想想"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74501,
+        "user": "徐永伟",
+        "content": "ZJ06e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74502,
+        "user": "徐永伟",
+        "content": "ZJ16f"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74502,
+        "user": "徐永伟",
+        "content": "ZJ07d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74503,
+        "user": "徐永伟",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74503,
+        "user": "【水晶】湘湘",
+        "content": "也不行"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74504,
+        "user": "徐永伟",
+        "content": "ZJ04d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74504,
+        "user": "徐永伟",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74505,
+        "user": "徐永伟",
+        "content": "ZJ03e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74507,
+        "user": "【水晶】湘湘",
+        "content": "一样的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74509,
+        "user": "一个穷色狼",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74511,
+        "user": "徐永伟",
+        "content": "黑还是VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74524,
+        "user": "ぜ殘月銀星",
+        "content": "D13"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74527,
+        "user": "【水晶】棋缘",
+        "content": "我来试试？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74528,
+        "user": "【水晶】湘湘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74528,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74529,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74529,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74530,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74531,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74531,
+        "user": "【水晶】湘湘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74531,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74532,
+        "user": "【水晶】湘湘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74533,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74534,
+        "user": "【水晶】湘湘",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74534,
+        "user": "【水晶】湘湘",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74540,
+        "user": "ぜ殘月銀星",
+        "content": "63手，D13"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74545,
+        "user": "徐永伟",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74546,
+        "user": "徐永伟",
+        "content": "ZJ03d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74551,
+        "user": "徐永伟",
+        "content": "ZJ14d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74561,
+        "user": "ぜ殘月銀星",
+        "content": "64手，D13"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74566,
+        "user": "ぜ殘月銀星",
+        "content": "说错了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74575,
+        "user": "徐永伟",
+        "content": "这样吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74575,
+        "user": "ぜ殘月銀星",
+        "content": "64手，D13"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74579,
+        "user": "ぜ殘月銀星",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74592,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74594,
+        "user": "ぜ殘月銀星",
+        "content": "对吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74596,
+        "user": "xiaozhu",
+        "content": "星，加油"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74604,
+        "user": "徐永伟",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74608,
+        "user": "【水晶】狐狸",
+        "content": "小鬼吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74613,
+        "user": "ぜ殘月銀星",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74614,
+        "user": "【水晶】湘湘",
+        "content": "这样防了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74614,
+        "user": "徐永伟",
+        "content": "这样可以胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74616,
+        "user": "ぜ殘月銀星",
+        "content": "哈"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74632,
+        "user": "【水晶】湘湘",
+        "content": "ZJ16e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74635,
+        "user": "徐永伟",
+        "content": "但基本会还原到另外的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74637,
+        "user": "【水晶】蝶儿",
+        "content": "真的啊，厉害"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74640,
+        "user": "【水晶】湘湘",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74641,
+        "user": "ぜ殘月銀星",
+        "content": "终于被我算出"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74642,
+        "user": "徐永伟",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74643,
+        "user": "徐永伟",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74644,
+        "user": "徐永伟",
+        "content": "ZJ04e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74644,
+        "user": "ぜ殘月銀星",
+        "content": "累"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74644,
+        "user": "徐永伟",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74646,
+        "user": "徐永伟",
+        "content": "ZJ06e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74646,
+        "user": "徐永伟",
+        "content": "ZJ16f"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74648,
+        "user": "徐永伟",
+        "content": "ZJ02a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74650,
+        "user": "徐永伟",
+        "content": "ZJ15c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74650,
+        "user": "徐永伟",
+        "content": "ZJ018"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74651,
+        "user": "徐永伟",
+        "content": "ZJ15e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74652,
+        "user": "徐永伟",
+        "content": "ZJ05f"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74653,
+        "user": "【水晶】嘎嘎",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74653,
+        "user": "徐永伟",
+        "content": "ZJ12b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74658,
+        "user": "【水晶】湘湘",
+        "content": "没杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74659,
+        "user": "xiaozhu",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74659,
+        "user": "徐永伟",
+        "content": "这样可以抓"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74666,
+        "user": "xiaozhu",
+        "content": "白68为什么不冲D9？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74670,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74671,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74671,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74673,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74674,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74675,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74675,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74676,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74687,
+        "user": "xiaozhu",
+        "content": "……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74687,
+        "user": "徐永伟",
+        "content": "68有选择吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74692,
+        "user": "徐永伟",
+        "content": "黑5啊"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74698,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74699,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74700,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74700,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74700,
+        "user": "xiaozhu",
+        "content": "眼花嘿嘿，对不起"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74701,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74702,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74703,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74703,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74704,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74705,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74706,
+        "user": "【水晶】狐狸",
+        "content": "低级错误"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74706,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74709,
+        "user": "徐永伟",
+        "content": "ZJ13a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74710,
+        "user": "徐永伟",
+        "content": "ZJ039"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74711,
+        "user": "徐永伟",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74711,
+        "user": "徐永伟",
+        "content": "ZJ03d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74712,
+        "user": "徐永伟",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74730,
+        "user": "徐永伟",
+        "content": "由于我们刚才看到的这样的进攻黑有反存在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74731,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74741,
+        "user": "徐永伟",
+        "content": "所以，在这样的对局情况下"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74742,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74742,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74743,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74744,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74744,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74754,
+        "user": "【水晶】棋缘",
+        "content": "B10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74763,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74772,
+        "user": "【水晶】嘎嘎",
+        "content": "算力惊人。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74772,
+        "user": "徐永伟",
+        "content": "如果无法全部全部计算清楚后面的变化的话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74781,
+        "user": "徐永伟",
+        "content": "我们选择做棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74792,
+        "user": "徐永伟",
+        "content": "通过刚才的演变"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74793,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74794,
+        "user": "徐永伟",
+        "content": "ZJ129"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74798,
+        "user": "ぜ殘月銀星",
+        "content": "我算算"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74803,
+        "user": "影子",
+        "content": "我试试？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74815,
+        "user": "徐永伟",
+        "content": "B9点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74821,
+        "user": "徐永伟",
+        "content": "是不是可以"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74823,
+        "user": "【水晶】狐狸",
+        "content": "怎么算棋呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74831,
+        "user": "徐永伟",
+        "content": "一方面是连接"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74834,
+        "user": "徐永伟",
+        "content": "ZJ3aA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74843,
+        "user": "徐永伟",
+        "content": "有A点的33进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74845,
+        "user": "xiaozhu",
+        "content": "狐狸，想问啥写纸上，下课偶教你"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74847,
+        "user": "ぜ殘月銀星",
+        "content": "等等，我算算"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74848,
+        "user": "徐永伟",
+        "content": "ZJ2aB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74860,
+        "user": "徐永伟",
+        "content": "还有通过B点的双VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74860,
+        "user": "影子",
+        "content": "老师，我试试其他点可以吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74860,
+        "user": "【水晶】湘湘",
+        "content": "仍然下F13"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74865,
+        "user": "【水晶】湘湘",
+        "content": "防呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74871,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74874,
+        "user": "徐永伟",
+        "content": "ZJ06d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74875,
+        "user": "徐永伟",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74875,
+        "user": "徐永伟",
+        "content": "ZJ03d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74876,
+        "user": "徐永伟",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74883,
+        "user": "ぜ殘月銀星",
+        "content": "58手，因该是D12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74892,
+        "user": "徐永伟",
+        "content": "这样基本是类似的了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74893,
+        "user": "ぜ殘月銀星",
+        "content": "58手，因该是D12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74905,
+        "user": "【水晶】嘎嘎",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74914,
+        "user": "徐永伟",
+        "content": "和刚才的64D13"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74932,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74935,
+        "user": "徐永伟",
+        "content": "但总的来说"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74944,
+        "user": "ぜ殘月銀星",
+        "content": "算的累死，晕倒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74951,
+        "user": "徐永伟",
+        "content": "能够发现E13的黑V"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74954,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74974,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74975,
+        "user": "徐永伟",
+        "content": "已经不错了的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74984,
+        "user": "ぜ殘月銀星",
+        "content": "算的累死，晕倒"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75007,
+        "user": "徐永伟",
+        "content": "ZJ06e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75007,
+        "user": "徐永伟",
+        "content": "ZJ16f"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75008,
+        "user": "徐永伟",
+        "content": "ZJ02a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75009,
+        "user": "徐永伟",
+        "content": "ZJ14d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75029,
+        "user": "徐永伟",
+        "content": "这样和刚才的64的变化一样了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75039,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75040,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75041,
+        "user": "徐永伟",
+        "content": "ZJ02b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75042,
+        "user": "徐永伟",
+        "content": "ZJ139"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75044,
+        "user": "徐永伟",
+        "content": "ZJ03a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75045,
+        "user": "徐永伟",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75050,
+        "user": "徐永伟",
+        "content": "ZJ04d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75051,
+        "user": "徐永伟",
+        "content": "ZJ128"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75052,
+        "user": "徐永伟",
+        "content": "ZJ017"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75054,
+        "user": "徐永伟",
+        "content": "ZJ146"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75057,
+        "user": "徐永伟",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75058,
+        "user": "徐永伟",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75058,
+        "user": "【水晶】湘湘",
+        "content": "抓了长连"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75059,
+        "user": "徐永伟",
+        "content": "ZJ037"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75060,
+        "user": "徐永伟",
+        "content": "ZJ126"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75070,
+        "user": "徐永伟",
+        "content": "这样抓长连"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75071,
+        "user": "【水晶】湘湘",
+        "content": "原来是这样抓的啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75077,
+        "user": "ぜ殘月銀星",
+        "content": "对的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75084,
+        "user": "【水晶】狐狸",
+        "content": "怎么抓的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75085,
+        "user": "徐永伟",
+        "content": "ZJ027"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75085,
+        "user": "徐永伟",
+        "content": "ZJ156"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75092,
+        "user": "徐永伟",
+        "content": "ZJ047"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75093,
+        "user": "徐永伟",
+        "content": "ZJ135"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75112,
+        "user": "【水晶】狐狸",
+        "content": "哦"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75116,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75118,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75119,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75120,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75121,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75121,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75122,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75123,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75123,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75124,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75124,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75125,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75126,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75126,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75127,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75127,
+        "user": "【水晶】湘湘",
+        "content": "那能抓住那个斜着的长连吗"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75128,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75130,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75133,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75135,
+        "user": "徐永伟",
+        "content": "ZJ06e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75135,
+        "user": "徐永伟",
+        "content": "ZJ16f"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75136,
+        "user": "徐永伟",
+        "content": "ZJ039"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75137,
+        "user": "徐永伟",
+        "content": "ZJ13a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75138,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75138,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75140,
+        "user": "徐永伟",
+        "content": "ZJ02b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75140,
+        "user": "徐永伟",
+        "content": "ZJ139"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75142,
+        "user": "徐永伟",
+        "content": "ZJ03a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75147,
+        "user": "徐永伟",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75147,
+        "user": "徐永伟",
+        "content": "ZJ049"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75148,
+        "user": "徐永伟",
+        "content": "ZJ147"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75148,
+        "user": "【水晶】湘湘",
+        "content": "51    43的那个"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75152,
+        "user": "徐永伟",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75153,
+        "user": "徐永伟",
+        "content": "ZJ136"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75162,
+        "user": "【水晶】湘湘",
+        "content": "恩 一样了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75167,
+        "user": "徐永伟",
+        "content": "防里面可以抓"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75178,
+        "user": "【水晶】湘湘",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75183,
+        "user": "【水晶】狐狸",
+        "content": "那里有长连"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75195,
+        "user": "ぜ殘月銀星",
+        "content": "。。。。。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75205,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75215,
+        "user": "徐永伟",
+        "content": "这样这个55就完成了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75228,
+        "user": "徐永伟",
+        "content": "我们看个更强的55的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75239,
+        "user": "【水晶】狐狸",
+        "content": "什么叫55"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75240,
+        "user": "徐永伟",
+        "content": 54
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75243,
+        "user": "徐永伟",
+        "content": "ZJ03a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75252,
+        "user": "xiaozhu",
+        "content": "就是第55手。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75256,
+        "user": "徐永伟",
+        "content": "这个55手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75257,
+        "user": "【水晶】瞳孔",
+        "content": "............."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75266,
+        "user": "徐永伟",
+        "content": "应该算强防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75267,
+        "user": "【水晶】狐狸",
+        "content": "我还以为 说长连呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75272,
+        "user": "【水晶】狐狸",
+        "content": "接着讲吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75275,
+        "user": "【水晶】湘湘",
+        "content": "能防住吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75279,
+        "user": "ぜ殘月銀星",
+        "content": "我算算"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75291,
+        "user": "徐永伟",
+        "content": "这里有许多变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75312,
+        "user": "yyyezy",
+        "content": "5555555555我有事迟到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75314,
+        "user": "徐永伟",
+        "content": "可以做为中盘的典型思考范例"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75323,
+        "user": "【水晶】湘湘",
+        "content": "小鬼 你能算多少步啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75333,
+        "user": "【水晶】狐狸",
+        "content": "5步"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75342,
+        "user": "【水晶】湘湘",
+        "content": "不是问你呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75351,
+        "user": "【水晶】湘湘",
+        "content": "问的小鬼啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75354,
+        "user": "ぜ殘月銀星",
+        "content": "N步"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75383,
+        "user": "徐永伟",
+        "content": "现在怎么下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75384,
+        "user": "【水晶】湘湘",
+        "content": "你师傅在这里不可以吹牛的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75399,
+        "user": "ぜ殘月銀星",
+        "content": "师傅，我算算"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75422,
+        "user": "【水晶】湘湘",
+        "content": "得做棋吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75446,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75453,
+        "user": "徐永伟",
+        "content": "现在的情况做的话空间小了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75458,
+        "user": "ぜ殘月銀星",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75472,
+        "user": "【水晶】湘湘",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75473,
+        "user": "徐永伟",
+        "content": "因为边线的限制"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75484,
+        "user": "ぜ殘月銀星",
+        "content": "有点难"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75489,
+        "user": "ndh003",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75497,
+        "user": "徐永伟",
+        "content": "白能够利用的资源有限"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75518,
+        "user": "ぜ殘月銀星",
+        "content": "我认为是D10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75528,
+        "user": "ぜ殘月銀星",
+        "content": "不知道对不对"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75540,
+        "user": "【水晶】棋缘",
+        "content": "能杀吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75541,
+        "user": "【水晶】小雨",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75551,
+        "user": "ぜ殘月銀星",
+        "content": "我认为是D10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75564,
+        "user": "yyyezy",
+        "content": "D9就解了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75573,
+        "user": "ぜ殘月銀星",
+        "content": "我认为是D10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75576,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75577,
+        "user": "徐永伟",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75578,
+        "user": "徐永伟",
+        "content": "ZJ049"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75578,
+        "user": "徐永伟",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75581,
+        "user": "徐永伟",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75581,
+        "user": "徐永伟",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75582,
+        "user": "徐永伟",
+        "content": "ZJ06c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75596,
+        "user": "徐永伟",
+        "content": "这样后比较难了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75605,
+        "user": "ぜ殘月銀星",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75613,
+        "user": "徐永伟",
+        "content": "白被分割掉了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75617,
+        "user": "ぜ殘月銀星",
+        "content": "55"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75620,
+        "user": "【水晶】狐狸",
+        "content": "伟鬼老师 我想说  是太难了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75634,
+        "user": "徐永伟",
+        "content": "是有点难"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75642,
+        "user": "影子",
+        "content": "我试试？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75648,
+        "user": "ぜ殘月銀星",
+        "content": "我再想想"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75648,
+        "user": "徐永伟",
+        "content": "要不怎么会是中盘的典范呢"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75658,
+        "user": "影子",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75659,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75659,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75659,
+        "user": "【水晶】狐狸",
+        "content": "典范就那么难了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75660,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75660,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75661,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75664,
+        "user": "影子",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75667,
+        "user": "徐永伟",
+        "content": "ZJ03d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75670,
+        "user": "影子",
+        "content": "ZJ13b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75693,
+        "user": "徐永伟",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75702,
+        "user": "影子",
+        "content": "ZJ14d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75703,
+        "user": "【水晶】狐狸",
+        "content": "总结一下 用黑棋最可怜了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75714,
+        "user": "徐永伟",
+        "content": "ZJ049"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75715,
+        "user": "徐永伟",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75716,
+        "user": "徐永伟",
+        "content": "ZJ04e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75726,
+        "user": "影子",
+        "content": "ZJ147"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75745,
+        "user": "徐永伟",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75747,
+        "user": "影子",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75773,
+        "user": "徐永伟",
+        "content": "ZJ036"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75776,
+        "user": "影子",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75780,
+        "user": "徐永伟",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75782,
+        "user": "影子",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75785,
+        "user": "【水晶】棋缘",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75804,
+        "user": "徐永伟",
+        "content": "这样是最简单的吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75814,
+        "user": "ぜ殘月銀星",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75832,
+        "user": "徐永伟",
+        "content": "谢谢你"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75837,
+        "user": "影子",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75845,
+        "user": "徐永伟",
+        "content": "我原来的比这个复杂多了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75877,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75878,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75878,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75878,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75879,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75879,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75879,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75879,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75879,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75880,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75880,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75880,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75881,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75881,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75882,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75883,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75885,
+        "user": "徐永伟",
+        "content": "ZJ03a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75886,
+        "user": "徐永伟",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75886,
+        "user": "徐永伟",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75887,
+        "user": "徐永伟",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75890,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75895,
+        "user": "徐永伟",
+        "content": "我是直接进攻的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75905,
+        "user": "徐永伟",
+        "content": "虽然也可以胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75920,
+        "user": "徐永伟",
+        "content": "但却少了个点可以利用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75929,
+        "user": "徐永伟",
+        "content": "C11的点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75944,
+        "user": "不乖",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75952,
+        "user": "徐永伟",
+        "content": "一直到后面需要借26-46的活二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75963,
+        "user": "徐永伟",
+        "content": "以及48"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75969,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75975,
+        "user": "徐永伟",
+        "content": "到K12点做棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75991,
+        "user": "徐永伟",
+        "content": "而且中间许多唯一"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76012,
+        "user": "徐永伟",
+        "content": "想对刚才的就简单很多"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76016,
+        "user": "徐永伟",
+        "content": "ZJ049"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76016,
+        "user": "徐永伟",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76018,
+        "user": "徐永伟",
+        "content": "ZJ039"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76020,
+        "user": "徐永伟",
+        "content": "ZJ147"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76022,
+        "user": "徐永伟",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76033,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76035,
+        "user": "徐永伟",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76037,
+        "user": "徐永伟",
+        "content": "ZJ157"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76039,
+        "user": "徐永伟",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76041,
+        "user": "徐永伟",
+        "content": "ZJ1f8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76042,
+        "user": "徐永伟",
+        "content": "ZJ0fa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76043,
+        "user": "徐永伟",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76049,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76049,
+        "user": "徐永伟",
+        "content": "ZJ16d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76054,
+        "user": "徐永伟",
+        "content": "或者这样"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76056,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76061,
+        "user": "ぜ殘月銀星",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76070,
+        "user": "徐永伟",
+        "content": "太过复杂了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76073,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76073,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76074,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76074,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76075,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76076,
+        "user": "徐永伟",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76078,
+        "user": "徐永伟",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76078,
+        "user": "徐永伟",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76081,
+        "user": "徐永伟",
+        "content": "ZJ1f8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76082,
+        "user": "徐永伟",
+        "content": "ZJ0f7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76083,
+        "user": "徐永伟",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76104,
+        "user": "徐永伟",
+        "content": "这样的话就更多了一手白棋"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76115,
+        "user": "徐永伟",
+        "content": 55
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76118,
+        "user": "徐永伟",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76119,
+        "user": "徐永伟",
+        "content": "ZJ03d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76120,
+        "user": "徐永伟",
+        "content": "ZJ13b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76140,
+        "user": "徐永伟",
+        "content": "这个多了C11点的利用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76154,
+        "user": "徐永伟",
+        "content": "局面就打开了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76160,
+        "user": "江海寄余生",
+        "content": "56不冲不行吗"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76166,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76167,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76167,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76193,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76193,
+        "user": "徐永伟",
+        "content": "也一样吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76206,
+        "user": "徐永伟",
+        "content": "到后面还是要用到"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76208,
+        "user": "徐永伟",
+        "content": "ZJ13b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76214,
+        "user": "江海寄余生",
+        "content": "恩，我是想，是不是必要的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76251,
+        "user": "徐永伟",
+        "content": "连接的话是必须的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76275,
+        "user": "徐永伟",
+        "content": "至少他通了几路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76289,
+        "user": "徐永伟",
+        "content": "多了和38的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76292,
+        "user": "江海寄余生",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76317,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76319,
+        "user": "徐永伟",
+        "content": "那么这个53就基本这样了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76319,
+        "user": "【水晶】狐狸",
+        "content": "老师什么时候点名叫我声"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76331,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76332,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76333,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76333,
+        "user": "【水晶】狐狸",
+        "content": "行的~~~"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76333,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76334,
+        "user": "徐永伟",
+        "content": "ZJ057"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76338,
+        "user": "星云",
+        "content": "这么早就点名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76356,
+        "user": "徐永伟",
+        "content": "这个53是用进攻来解禁的方法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76367,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76371,
+        "user": "徐永伟",
+        "content": "但依然给白了机会"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76374,
+        "user": "【水晶】小雨",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76381,
+        "user": "徐永伟",
+        "content": "白防守以后"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76384,
+        "user": "ぜ殘月銀星",
+        "content": "还要算吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76386,
+        "user": "ぜ殘月銀星",
+        "content": "汗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76391,
+        "user": "徐永伟",
+        "content": "多了和32的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76404,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76407,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76407,
+        "user": "【水晶】狐狸",
+        "content": "今天的课是讲 怎么解禁吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76411,
+        "user": "徐永伟",
+        "content": "之后利用到D7点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76429,
+        "user": "【水晶】蝶儿",
+        "content": "不是，是讲白如何胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76430,
+        "user": "徐永伟",
+        "content": "和白52连接到B9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76436,
+        "user": "ぜ殘月銀星",
+        "content": "狐狸，今天是流星"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76452,
+        "user": "徐永伟",
+        "content": "和白38又形成进攻线"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76455,
+        "user": "徐永伟",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76455,
+        "user": "徐永伟",
+        "content": "ZJ048"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76456,
+        "user": "徐永伟",
+        "content": "ZJ147"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76457,
+        "user": "徐永伟",
+        "content": "ZJ036"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76458,
+        "user": "徐永伟",
+        "content": "ZJ129"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76458,
+        "user": "【水晶】狐狸",
+        "content": "哦 继续 ~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76482,
+        "user": "【水晶】嘎嘎",
+        "content": "123"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76487,
+        "user": "【水晶】湘湘",
+        "content": "没了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76489,
+        "user": "徐永伟",
+        "content": "黑无法自己做V"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76491,
+        "user": "徐永伟",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76493,
+        "user": "徐永伟",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76494,
+        "user": "徐永伟",
+        "content": "ZJ06c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76494,
+        "user": "徐永伟",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76495,
+        "user": "徐永伟",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76496,
+        "user": "徐永伟",
+        "content": "ZJ15c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76509,
+        "user": "徐永伟",
+        "content": "这样白有V线进攻"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76511,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76511,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76512,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76513,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76513,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76514,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76521,
+        "user": "【水晶】狐狸",
+        "content": "什么叫V线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76525,
+        "user": "徐永伟",
+        "content": "就没了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76544,
+        "user": "【水晶】瞳孔",
+        "content": "就是危险！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76547,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76548,
+        "user": "徐永伟",
+        "content": "这个你去看下最基础的吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76561,
+        "user": "徐永伟",
+        "content": "或者查下什么是VCT和VCF"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76566,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76570,
+        "user": "ぜ殘月銀星",
+        "content": "59，H10"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76574,
+        "user": "【水晶】湘湘",
+        "content": "ZJ0b4"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76590,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76596,
+        "user": "【水晶】棋缘",
+        "content": "汗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76616,
+        "user": "xiaozhu",
+        "content": "到！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76617,
+        "user": "【水晶】雨水",
+        "content": "dao"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76619,
+        "user": "裁决08",
+        "content": "dao"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76619,
+        "user": "xiaozhu",
+        "content": "到！！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76619,
+        "user": "【水晶】小雨",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76622,
+        "user": "xiaozhu",
+        "content": "到到到！！！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76622,
+        "user": "【水晶】雨水",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76624,
+        "user": "星云",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76626,
+        "user": "虞旭鹏",
+        "content": "哈哈,我好快"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76631,
+        "user": "xiaozhu",
+        "content": "倒到倒！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76635,
+        "user": "xiaozhu",
+        "content": "倒倒4倒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76637,
+        "user": "xiaozhu",
+        "content": "倒垃圾倒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76637,
+        "user": "【水晶】湘湘",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76641,
+        "user": "【水晶】棋缘",
+        "content": "这个53好象更容易"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 76641,
+        "user": "",
+        "content": " 虞旭鹏, 乐, 【水晶】意, ぜ殘月銀星, 不乖, 【水晶】棋缘, 春天, 乐棋, ndh003, 桃夭, 玩童, 一个穷色狼, 江海寄余生, wei_qqq, yyyezy, 【水晶】嘎嘎, 【水晶】狐狸, 【水晶】萱旋, 【水晶】肘子, 影子, 风雅颂, 莲珠秀, 【水晶】蝶儿, 【水晶】冰秋, 路西法, xiaozhu, 风清, 小山谷, 冰冰的泪, 伊人."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76641,
+        "user": "【水晶】狐狸",
+        "content": "倒倒倒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76643,
+        "user": "【水晶】雨水",
+        "content": "到！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76646,
+        "user": "xiaozhu",
+        "content": "555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76648,
+        "user": "【水晶】狐狸",
+        "content": "没有我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76649,
+        "user": "【水晶】小雨",
+        "content": "我差一点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76664,
+        "user": "【水晶】雨水",
+        "content": "晕"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76677,
+        "user": "ぜ殘月銀星",
+        "content": "59是H10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76679,
+        "user": "桃夭",
+        "content": "老师搞突袭：））"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76683,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76683,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76683,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76684,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76684,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76686,
+        "user": "徐永伟",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76690,
+        "user": "【水晶】小雨",
+        "content": "我有说到啊为什么没有我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76701,
+        "user": "江海寄余生",
+        "content": "好象19秒吧，，没敢看清，赶紧按下去了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76704,
+        "user": "徐永伟",
+        "content": "ZJ049"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76705,
+        "user": "徐永伟",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76705,
+        "user": "徐永伟",
+        "content": "ZJ048"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76706,
+        "user": "徐永伟",
+        "content": "ZJ147"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76707,
+        "user": "徐永伟",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76708,
+        "user": "徐永伟",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76708,
+        "user": "徐永伟",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76709,
+        "user": "徐永伟",
+        "content": "ZJ129"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76715,
+        "user": "徐永伟",
+        "content": "这个也一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76753,
+        "user": "ぜ殘月銀星",
+        "content": "。。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76783,
+        "user": "徐永伟",
+        "content": "另外，说下点名的问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76788,
+        "user": "ぜ殘月銀星",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76804,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76808,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76820,
+        "user": "徐永伟",
+        "content": "点名不是打字"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76838,
+        "user": "徐永伟",
+        "content": "打的到是无效的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76842,
+        "user": "【水晶】狐狸",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76844,
+        "user": "【水晶】湘湘",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76848,
+        "user": "ぜ殘月銀星",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76855,
+        "user": "【水晶】小雨",
+        "content": "那在点一次行不555555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76862,
+        "user": "精心",
+        "content": "我在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76864,
+        "user": "江海寄余生",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76873,
+        "user": "徐永伟",
+        "content": "在点名的时候"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76876,
+        "user": "精心",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76889,
+        "user": "徐永伟",
+        "content": "棋盘中间会出来个框"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76900,
+        "user": "精心",
+        "content": "我也不知道要打字"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76903,
+        "user": "徐永伟",
+        "content": "显示点名剩余的时间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76911,
+        "user": "精心",
+        "content": "我不懂"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76914,
+        "user": "徐永伟",
+        "content": "只要在那里点下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76915,
+        "user": "精心",
+        "content": "我刚来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76930,
+        "user": "徐永伟",
+        "content": "就算答到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76936,
+        "user": "wei_qqq",
+        "content": "上一次点名或者掉线5分钟都没有分，30天没学分会被开除。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76939,
+        "user": "精心",
+        "content": "第一次也没有要这样呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76947,
+        "user": "【水晶】狐狸",
+        "content": "老师 什么时候能加个语音功能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76956,
+        "user": "徐永伟",
+        "content": "系统会自动记录积分情况"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76972,
+        "user": "江海寄余生",
+        "content": "那每次点几次名呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76973,
+        "user": "虞旭鹏",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76980,
+        "user": "徐永伟",
+        "content": "语音我们不提倡"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76993,
+        "user": "【水晶】狐狸",
+        "content": "就打字吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76997,
+        "user": "徐永伟",
+        "content": "教室的服务器是我们自己的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76999,
+        "user": "ぜ殘月銀星",
+        "content": "59，我算算"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77005,
+        "user": "【水晶】狐狸",
+        "content": "幸好我打字快"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77016,
+        "user": "wei_qqq",
+        "content": "语音的不好录象保存"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77016,
+        "user": "徐永伟",
+        "content": "要装语音的话很简单的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77030,
+        "user": "徐永伟",
+        "content": "但不利于录象的保存"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77036,
+        "user": "【水晶】棋缘",
+        "content": "打字很好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77042,
+        "user": "【水晶】冰秋",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77044,
+        "user": "【水晶】狐狸",
+        "content": "还是要录像吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77051,
+        "user": "【水晶】瞳孔",
+        "content": "......我刚好8在.汗...."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77053,
+        "user": "徐永伟",
+        "content": "事后的分析无法继续"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77068,
+        "user": "徐永伟",
+        "content": "不利于学习的作用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77088,
+        "user": "【水晶】狐狸",
+        "content": "要是能分开就好了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77091,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77095,
+        "user": "ぜ殘月銀星",
+        "content": "59手，我算算"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77096,
+        "user": "【水晶】狐狸",
+        "content": "接着讲课吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77102,
+        "user": "徐永伟",
+        "content": "五子棋有个比较好的习惯培养方法，也是我们在做青少年培训中经常用到的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77113,
+        "user": "徐永伟",
+        "content": "那就是复盘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77121,
+        "user": "【水晶】狐狸",
+        "content": "什么叫复盘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77124,
+        "user": "【水晶】冰秋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77135,
+        "user": "ndh003",
+        "content": "回顾自己下的棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77136,
+        "user": "徐永伟",
+        "content": "也是我们生活中的反思一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77155,
+        "user": "【水晶】狐狸",
+        "content": "怎么回顾自己下的棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77160,
+        "user": "【水晶】狐狸",
+        "content": "记不住的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77166,
+        "user": "【水晶】冰秋",
+        "content": "....."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77168,
+        "user": "【水晶】湘湘",
+        "content": "把刚才下的再下一次就可以了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77181,
+        "user": "徐永伟",
+        "content": "那你就要学会记住"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77183,
+        "user": "【水晶】狐狸",
+        "content": "谁能记住那么多步呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77200,
+        "user": "徐永伟",
+        "content": "你问下小猪或者大鱼"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77212,
+        "user": "徐永伟",
+        "content": "题目年前比赛的谱还记得不"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77212,
+        "user": "莲珠秀",
+        "content": "只要你用心下棋就能记住了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77214,
+        "user": "【水晶】小雨",
+        "content": "能记多少就记多少"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77226,
+        "user": "徐永伟",
+        "content": "他们2年前的谱应该都记得"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77239,
+        "user": "徐永伟",
+        "content": "其实记忆分环境的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77242,
+        "user": "【水晶】狐狸",
+        "content": "谁是大雨"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77245,
+        "user": "【水晶】狐狸",
+        "content": "大鱼"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77259,
+        "user": "徐永伟",
+        "content": "有时候，你赢的很漂亮"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77260,
+        "user": "ndh003",
+        "content": "蓝鲸"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77261,
+        "user": "xiaozhu",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77267,
+        "user": "xiaozhu",
+        "content": "谁是小猪？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77269,
+        "user": "【水晶】意",
+        "content": "大鱼就是吴镝"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77274,
+        "user": "徐永伟",
+        "content": "就会很得意的记住"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77288,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77296,
+        "user": "【水晶】冰秋",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77302,
+        "user": "徐永伟",
+        "content": "同样，输给一个你不想输的人，记住的也快"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77302,
+        "user": "【水晶】湘湘",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77310,
+        "user": "xiaozhu",
+        "content": "谁是小猪？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77312,
+        "user": "【水晶】意",
+        "content": "小猪是朱建锋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77322,
+        "user": "【水晶】狐狸",
+        "content": "猪剑锋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77325,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77327,
+        "user": "xiaozhu",
+        "content": "汗。。。偶改名字去！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77334,
+        "user": "【水晶】意",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77335,
+        "user": "【水晶】棋缘",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77347,
+        "user": "【水晶】狐狸",
+        "content": "小鬼你想好棋了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77351,
+        "user": "xiaozhu",
+        "content": "5555朱老师偶84故意跟你起1样名字滴！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77372,
+        "user": "徐永伟",
+        "content": "今天的时间不多了，应该无法完成下个内容了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77375,
+        "user": "ぜ殘月銀星",
+        "content": "老师，我用一下棋盘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77384,
+        "user": "徐永伟",
+        "content": "而且也差不多了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77385,
+        "user": "【水晶】蝶儿",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77391,
+        "user": "徐永伟",
+        "content": "下课了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77397,
+        "user": "ぜ殘月銀星",
+        "content": "等等"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77401,
+        "user": "【水晶】棋缘",
+        "content": "好的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77406,
+        "user": "ぜ殘月銀星",
+        "content": "我用一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77410,
+        "user": "【水晶】棋缘",
+        "content": "谢谢您！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77410,
+        "user": "莲珠秀",
+        "content": "让他把这个杀了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77418,
+        "user": "ぜ殘月銀星",
+        "content": "给我下下"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77437,
+        "user": "",
+        "content": " ndh003, wei_qqq, xiaozhu, 【水晶】冰秋, 【水晶】蝶儿, 【水晶】狐狸, 【水晶】棋缘, 【水晶】意, 【水晶】肘子, 不乖, 春天, 风清, 风雅颂, 江海寄余生, 乐, 乐棋, 莲珠秀, 路西法, 桃夭, 玩童, 小山谷, 一个穷色狼, 伊人, 影子, 虞旭鹏."
+    }
+]
