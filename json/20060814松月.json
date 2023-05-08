@@ -1,0 +1,2966 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72500,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72507,
+        "user": "Seraphim",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72508,
+        "user": "Seraphim",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72509,
+        "user": "Seraphim",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72520,
+        "user": "Seraphim",
+        "content": "这个就是松月……感觉很废话"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72531,
+        "user": "Seraphim",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72536,
+        "user": "Seraphim",
+        "content": "ZJ99B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72538,
+        "user": "爱我所爱",
+        "content": "哈哈"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72542,
+        "user": "Seraphim",
+        "content": "ZJ97C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72548,
+        "user": "【魔棋】居士",
+        "content": "点名了没"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72556,
+        "user": "Seraphim",
+        "content": "才点……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72565,
+        "user": "Seraphim",
+        "content": "B点还原成银"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72577,
+        "user": "Seraphim",
+        "content": "A，C可以看成云的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72595,
+        "user": "Seraphim",
+        "content": "而银和云都是黑优的，所以都是下下面那手"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72597,
+        "user": "Seraphim",
+        "content": "ZJ186"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72609,
+        "user": "Seraphim",
+        "content": "这个也叫天地指……名头问题"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72615,
+        "user": "Seraphim",
+        "content": "ZJ098"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72617,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72617,
+        "user": "Sky",
+        "content": "松月就这个天地止吧"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72630,
+        "user": "Seraphim",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72640,
+        "user": "Seraphim",
+        "content": "这个是一打"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72645,
+        "user": "Seraphim",
+        "content": "ZJ9aB"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72648,
+        "user": "Seraphim",
+        "content": "ZJ99C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72655,
+        "user": "Seraphim",
+        "content": "ZJa8D"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72670,
+        "user": "Seraphim",
+        "content": "C，D两点是比较流行的二打……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72693,
+        "user": "Seraphim",
+        "content": "B点，记得九几点的时候，是个俄罗斯人下的，很古怪"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72698,
+        "user": "Seraphim",
+        "content": "年……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72706,
+        "user": "Seraphim",
+        "content": "先看下A点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72708,
+        "user": "Seraphim",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72709,
+        "user": "Seraphim",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72710,
+        "user": "Seraphim",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72738,
+        "user": "Seraphim",
+        "content": "这个7以后，黑胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72756,
+        "user": "Seraphim",
+        "content": "主要看下，白没有活二，给7阻拦住了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72767,
+        "user": "Seraphim",
+        "content": "黑整体形状比较舒展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72785,
+        "user": "Sky",
+        "content": "7下I10能不能的？"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72787,
+        "user": "Seraphim",
+        "content": "ZJ76A"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72803,
+        "user": "Seraphim",
+        "content": "能的，没这个简洁"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72811,
+        "user": "Seraphim",
+        "content": "ZJ77B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72814,
+        "user": "Seraphim",
+        "content": "ZJ97C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72830,
+        "user": "Seraphim",
+        "content": "这三点基本上是经常下的三点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72840,
+        "user": "Seraphim",
+        "content": "ZJ176"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72847,
+        "user": "Seraphim",
+        "content": "先看下A点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72861,
+        "user": "Seraphim",
+        "content": "阻住了一个活二"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72866,
+        "user": "Seraphim",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72867,
+        "user": "Seraphim",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72868,
+        "user": "Seraphim",
+        "content": "ZJ066"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72873,
+        "user": "过客946",
+        "content": "开始了吗?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72880,
+        "user": "Seraphim",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72887,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72887,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 72893,
+        "user": "Seraphim",
+        "content": "ZJ66A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72897,
+        "user": "Seraphim",
+        "content": "ZJa8B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72921,
+        "user": "Seraphim",
+        "content": "注意下，有的人可能会下出这个B点，不过，是白赢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72926,
+        "user": "过客949",
+        "content": "老师很幽默呀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72937,
+        "user": "Seraphim",
+        "content": "ZJ166"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72940,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72940,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72942,
+        "user": "Seraphim",
+        "content": "ZJ166"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72946,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72950,
+        "user": "Seraphim",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72952,
+        "user": "Seraphim",
+        "content": "ZJ066"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72980,
+        "user": "Seraphim",
+        "content": "在这里，很明显就可以发现，黑在左边异常强大"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72999,
+        "user": "Seraphim",
+        "content": "而在F8一下，整个形状就相当完美了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73005,
+        "user": "Seraphim",
+        "content": "ZJ155"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73029,
+        "user": "Seraphim",
+        "content": "所以，这个12肯定是下在下面，破坏黑左边的优势"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73046,
+        "user": "Seraphim",
+        "content": "下面的13手，是这个局面的关键"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73057,
+        "user": "Seraphim",
+        "content": "把自己黑拓展开来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73067,
+        "user": "Seraphim",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73093,
+        "user": "Seraphim",
+        "content": "要注意的是，白12以后，黑在左边想要硬杀白，已经是不可能的了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73108,
+        "user": "Seraphim",
+        "content": "于是，黑把目光转到了右边"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73110,
+        "user": "Seraphim",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73117,
+        "user": "Seraphim",
+        "content": "ZJa8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73120,
+        "user": "Seraphim",
+        "content": "ZJa9C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73124,
+        "user": "Seraphim",
+        "content": "ZJbaC"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73136,
+        "user": "Seraphim",
+        "content": "黑15，有这三个选择"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73156,
+        "user": "Seraphim",
+        "content": "下也都是可以下的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73170,
+        "user": "Seraphim",
+        "content": "但是，这个局面下，最好的，是L10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73179,
+        "user": "Seraphim",
+        "content": "K10 ……"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73182,
+        "user": "Seraphim",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73230,
+        "user": "Seraphim",
+        "content": "这个明显，有个眠三，下一步，肯定是要利用这个三，成角啊，或者是做其它什么棋的"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73237,
+        "user": "Seraphim",
+        "content": "ZJ9aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73241,
+        "user": "Seraphim",
+        "content": "ZJa9B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73260,
+        "user": "Seraphim",
+        "content": "白的A，是防住二，B是防住三"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73264,
+        "user": "Seraphim",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73272,
+        "user": "Seraphim",
+        "content": "先看防这个2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73289,
+        "user": "Seraphim",
+        "content": "就好象我刚才说的，要去做角一样"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73290,
+        "user": "Seraphim",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73298,
+        "user": "Seraphim",
+        "content": "黑17团角"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73347,
+        "user": "Seraphim",
+        "content": "这样一来，黑出现了两个活二，成角，还出现一个眠三，且，形状舒展，胜定"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73377,
+        "user": "Seraphim",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73397,
+        "user": "Seraphim",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73399,
+        "user": "Seraphim",
+        "content": "ZJ1cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73399,
+        "user": "Seraphim",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73409,
+        "user": "Seraphim",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73424,
+        "user": "Seraphim",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73426,
+        "user": "Seraphim",
+        "content": "ZJ1d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73429,
+        "user": "Seraphim",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73431,
+        "user": "Seraphim",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73434,
+        "user": "Seraphim",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73445,
+        "user": "Seraphim",
+        "content": "到27手，黑胜定"
+    },
+    {
+        "action": "FIRST",
+        "time_int": 73473,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "LAST",
+        "time_int": 73475,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73480,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73480,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73481,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73481,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73481,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73482,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73482,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73483,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73483,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73483,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73484,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73485,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73497,
+        "user": "Seraphim",
+        "content": "看下白16换B点的防守"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73499,
+        "user": "Seraphim",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73508,
+        "user": "Seraphim",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73518,
+        "user": "Seraphim",
+        "content": "还是之前所说的，成角"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73541,
+        "user": "Seraphim",
+        "content": "ZJ9aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73547,
+        "user": "Seraphim",
+        "content": "ZJ9bB"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73552,
+        "user": "Seraphim",
+        "content": "ZJbbC"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73558,
+        "user": "Seraphim",
+        "content": "ZJcaD"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73564,
+        "user": "Seraphim",
+        "content": "ZJa8E"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73571,
+        "user": "Seraphim",
+        "content": "ZJb8F"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73577,
+        "user": "Seraphim",
+        "content": "ZJc8G"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73608,
+        "user": "Seraphim",
+        "content": "A到G是白比较有力的防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73633,
+        "user": "Seraphim",
+        "content": "我们挑选一个C来讲解下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73643,
+        "user": "Seraphim",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73665,
+        "user": "Seraphim",
+        "content": "这个时候，关键是要考虑到全局，而不是右边的局部"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73685,
+        "user": "Seraphim",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73686,
+        "user": "Seraphim",
+        "content": "ZJ1d7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73702,
+        "user": "Seraphim",
+        "content": "20以后，黑单要在右边杀，已经不可能了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73712,
+        "user": "Seraphim",
+        "content": "需要与左边配合起来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73727,
+        "user": "Seraphim",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73728,
+        "user": "Seraphim",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73729,
+        "user": "Seraphim",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73730,
+        "user": "Seraphim",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73731,
+        "user": "Seraphim",
+        "content": "ZJ057"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73732,
+        "user": "Seraphim",
+        "content": "ZJ147"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73732,
+        "user": "Seraphim",
+        "content": "ZJ068"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73756,
+        "user": "水晶011",
+        "content": "漂亮"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73760,
+        "user": "Seraphim",
+        "content": "通过21和23，把黑的右边与左边衔接起来，这样就杀了"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73790,
+        "user": "Seraphim",
+        "content": 7
+    },
+    {
+        "action": "TALK",
+        "time_int": 73800,
+        "user": "Seraphim",
+        "content": "我们看下B点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73805,
+        "user": "Seraphim",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73805,
+        "user": "Seraphim",
+        "content": "ZJ076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73818,
+        "user": "Seraphim",
+        "content": "这个8手而言，9手是肯定的"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73831,
+        "user": "Seraphim",
+        "content": "ZJ65A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73836,
+        "user": "Seraphim",
+        "content": "ZJa9B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73853,
+        "user": "Seraphim",
+        "content": "10手的上下，都是败，看下下面的A点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73859,
+        "user": "Seraphim",
+        "content": "ZJ165"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73894,
+        "user": "Seraphim",
+        "content": "这个时候，黑要组形"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73902,
+        "user": "Seraphim",
+        "content": "做出一个胜形"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73903,
+        "user": "朵兰米",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73918,
+        "user": "Seraphim",
+        "content": "同时要注意，白只有一个斜的活二"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73932,
+        "user": "Seraphim",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73958,
+        "user": "Seraphim",
+        "content": "这个形状，很多时候都是不错的，在这里，是胜的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73975,
+        "user": "Seraphim",
+        "content": "下面问题在于，13怎么下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73986,
+        "user": "Seraphim",
+        "content": "13下不好，这个11就浪费了"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73989,
+        "user": "Seraphim",
+        "content": "ZJ97A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73994,
+        "user": "Seraphim",
+        "content": "ZJa6B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74031,
+        "user": "Seraphim",
+        "content": "这两点，尤其是A点，就是人们的第一感觉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74049,
+        "user": "过客930",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74051,
+        "user": "Seraphim",
+        "content": "可是，第一感觉并不好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74052,
+        "user": "Seraphim",
+        "content": "ZJ197"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74057,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74060,
+        "user": "Seraphim",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74065,
+        "user": "Seraphim",
+        "content": "………………"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74067,
+        "user": "Seraphim",
+        "content": "这里……"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74071,
+        "user": "Seraphim",
+        "content": "ZJ97A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74075,
+        "user": "Seraphim",
+        "content": "ZJa6B"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74083,
+        "user": "Seraphim",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74086,
+        "user": "Seraphim",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74087,
+        "user": "Seraphim",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74088,
+        "user": "Seraphim",
+        "content": "ZJ179"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74089,
+        "user": "Seraphim",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74098,
+        "user": "Seraphim",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74105,
+        "user": "Seraphim",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74106,
+        "user": "Seraphim",
+        "content": "ZJ194"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74111,
+        "user": "Seraphim",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74112,
+        "user": "Seraphim",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74119,
+        "user": "Seraphim",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74122,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74124,
+        "user": "Seraphim",
+        "content": "ZJ0c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74126,
+        "user": "Seraphim",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74126,
+        "user": "Seraphim",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74127,
+        "user": "Seraphim",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74151,
+        "user": "过客952",
+        "content": "??"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74171,
+        "user": "Seraphim",
+        "content": "大家可以看到，白24通过做一个长连以后，争取到一个先手，26封住那个斜二，到此，黑已经没有杀了"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74194,
+        "user": "Seraphim",
+        "content": 12
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74196,
+        "user": "Seraphim",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74225,
+        "user": "Seraphim",
+        "content": "这个13，看上去是有个三三……可是，抓不到的禁手，不是禁手……（个人观点）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74268,
+        "user": "Seraphim",
+        "content": "要注意的是，黑下一手I4以后，就可以解禁了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74286,
+        "user": "过客952",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74286,
+        "user": "Seraphim",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74288,
+        "user": "Seraphim",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74310,
+        "user": "Seraphim",
+        "content": "这个15手，还是应用7，9，把子力朝右边移动"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74316,
+        "user": "Seraphim",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74317,
+        "user": "Seraphim",
+        "content": "ZJ084"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74319,
+        "user": "Seraphim",
+        "content": "ZJ173"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74324,
+        "user": "Seraphim",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74325,
+        "user": "Seraphim",
+        "content": "ZJ1b4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74325,
+        "user": "Seraphim",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74330,
+        "user": "Seraphim",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74332,
+        "user": "Seraphim",
+        "content": "ZJ093"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74356,
+        "user": "Seraphim",
+        "content": "利用15手，还有17手的配合，做出一个角，然后，简单杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74392,
+        "user": "Seraphim",
+        "content": "这里，主要注意的是11手的搭，13手的做，还有15手把左边和右边联络在一起的思路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74427,
+        "user": "过客952",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74428,
+        "user": "Seraphim",
+        "content": "下面，正式进入九州流……"
+    },
+    {
+        "action": "FIRST",
+        "time_int": 74434,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74436,
+        "user": "Seraphim",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74437,
+        "user": "Seraphim",
+        "content": "ZJ089"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 74441,
+        "user": "",
+        "content": " Sky, 玩童, 水晶011, 裁决殿★明月, 5873627, 飘雪的夏天, 『纵横』蓝剑, 茜茜, 人生如梦, 朵兰米, 逸舟, 乐, zizhu, 江南新绿."
+    },
+    {
+        "action": "BACK",
+        "time_int": 74441,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74442,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74444,
+        "user": "Seraphim",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74445,
+        "user": "Seraphim",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74446,
+        "user": "Seraphim",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74446,
+        "user": "Seraphim",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74447,
+        "user": "Seraphim",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74448,
+        "user": "Seraphim",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74449,
+        "user": "Seraphim",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74462,
+        "user": "Seraphim",
+        "content": "这个白8是最强的一手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74483,
+        "user": "Seraphim",
+        "content": "要说明的是，黑这里属于优势，不一定非要走九州流"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74490,
+        "user": "Seraphim",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74491,
+        "user": "Seraphim",
+        "content": "ZJ165"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74494,
+        "user": "Seraphim",
+        "content": "ZJa8A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74499,
+        "user": "Seraphim",
+        "content": "ZJaaB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74508,
+        "user": "Seraphim",
+        "content": "A点属于做九州流"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74514,
+        "user": "小小",
+        "content": "??"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74517,
+        "user": "Seraphim",
+        "content": "B点是比较流行的一手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74519,
+        "user": "小小",
+        "content": "??"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74531,
+        "user": "过客952",
+        "content": "？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74539,
+        "user": "Seraphim",
+        "content": "黑在局部占优势……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74542,
+        "user": "Seraphim",
+        "content": "…………………………"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74546,
+        "user": "Seraphim",
+        "content": "都还在不？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74550,
+        "user": "过客952",
+        "content": "在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74552,
+        "user": "Seraphim",
+        "content": "断了吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74556,
+        "user": "玩童",
+        "content": "zai"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74572,
+        "user": "Seraphim",
+        "content": "………………主要担心又断了……"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74575,
+        "user": "Seraphim",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74577,
+        "user": "人生如梦",
+        "content": "大家好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74578,
+        "user": "zizhu",
+        "content": "在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74583,
+        "user": "过客948",
+        "content": "大家好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74588,
+        "user": "Sky",
+        "content": "``"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74601,
+        "user": "过客952",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74602,
+        "user": "Seraphim",
+        "content": "这里，黑已经必胜了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74610,
+        "user": "Seraphim",
+        "content": "但是，不代表白没有手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74620,
+        "user": "Seraphim",
+        "content": "因为……这里胜得很复杂"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74625,
+        "user": "过客952",
+        "content": "。。。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74625,
+        "user": "Seraphim",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74629,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 74632,
+        "user": "Seraphim",
+        "content": "ZJa9A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74637,
+        "user": "Seraphim",
+        "content": "ZJbaB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74656,
+        "user": "Seraphim",
+        "content": "这两点是相对来说，最复杂的两个防点……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74668,
+        "user": "Seraphim",
+        "content": "我就经常拿这个A坑人……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74673,
+        "user": "Seraphim",
+        "content": "B点……"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74674,
+        "user": "Seraphim",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74682,
+        "user": "Seraphim",
+        "content": "ZJ99A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 74686,
+        "user": "Seraphim",
+        "content": "ZJaaB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74715,
+        "user": "Sky",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74730,
+        "user": "Seraphim",
+        "content": "黑的A，B两点杀都是可以……"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74737,
+        "user": "Seraphim",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74756,
+        "user": "Seraphim",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74764,
+        "user": "Seraphim",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74767,
+        "user": "Seraphim",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74773,
+        "user": "Seraphim",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74775,
+        "user": "Seraphim",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74778,
+        "user": "Seraphim",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74779,
+        "user": "Seraphim",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74782,
+        "user": "Seraphim",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74783,
+        "user": "Seraphim",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74804,
+        "user": "Seraphim",
+        "content": "16手防上面的话，白速败，比较简单"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74826,
+        "user": "Seraphim",
+        "content": "这里，黑17，19做出一个团角的形状"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74834,
+        "user": "Seraphim",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74834,
+        "user": "Seraphim",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74837,
+        "user": "Seraphim",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74838,
+        "user": "Seraphim",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74842,
+        "user": "Seraphim",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74843,
+        "user": "Seraphim",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74846,
+        "user": "Seraphim",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74847,
+        "user": "Seraphim",
+        "content": "ZJ1bd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74851,
+        "user": "Seraphim",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74852,
+        "user": "Seraphim",
+        "content": "ZJ1d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74856,
+        "user": "Seraphim",
+        "content": "ZJ0db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74857,
+        "user": "Seraphim",
+        "content": "ZJ1cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74857,
+        "user": "Seraphim",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74872,
+        "user": "Seraphim",
+        "content": "绕了一圈以后，黑胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74884,
+        "user": "过客952",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74890,
+        "user": "过客948",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74890,
+        "user": "过客952",
+        "content": "晓得了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74893,
+        "user": "过客952",
+        "content": "呵呵"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74899,
+        "user": "Seraphim",
+        "content": 12
+    },
+    {
+        "action": "TALK",
+        "time_int": 74900,
+        "user": "水晶011",
+        "content": "我都看晕了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74901,
+        "user": "Seraphim",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74913,
+        "user": "Seraphim",
+        "content": "相对来说，这个13比较好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74931,
+        "user": "Seraphim",
+        "content": "ZJ199"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74943,
+        "user": "Seraphim",
+        "content": "其实，这个14相当好杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74950,
+        "user": "Seraphim",
+        "content": "还是之前的那个思路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74958,
+        "user": "Seraphim",
+        "content": "把黑连贯起来看"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74963,
+        "user": "Seraphim",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74964,
+        "user": "Seraphim",
+        "content": "ZJ194"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74965,
+        "user": "Seraphim",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74965,
+        "user": "Seraphim",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74966,
+        "user": "Seraphim",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74967,
+        "user": "Seraphim",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74968,
+        "user": "Seraphim",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74982,
+        "user": "Seraphim",
+        "content": "15和17的顺序别下错就可以了"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74991,
+        "user": "Seraphim",
+        "content": 14
+    },
+    {
+        "action": "BACK",
+        "time_int": 74994,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75083,
+        "user": "Seraphim",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75099,
+        "user": "Seraphim",
+        "content": "ZJ058"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75100,
+        "user": "Seraphim",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75107,
+        "user": "Seraphim",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75108,
+        "user": "Seraphim",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75116,
+        "user": "Seraphim",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75117,
+        "user": "Seraphim",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75120,
+        "user": "Seraphim",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75121,
+        "user": "Seraphim",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75124,
+        "user": "Seraphim",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75126,
+        "user": "Seraphim",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75131,
+        "user": "Seraphim",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75132,
+        "user": "Seraphim",
+        "content": "ZJ17d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75134,
+        "user": "Seraphim",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75135,
+        "user": "Seraphim",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75141,
+        "user": "Seraphim",
+        "content": "ZJ0cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75142,
+        "user": "Seraphim",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75142,
+        "user": "Seraphim",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75143,
+        "user": "Seraphim",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75144,
+        "user": "Seraphim",
+        "content": "ZJ0ae"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75144,
+        "user": "Seraphim",
+        "content": "ZJ1ad"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75145,
+        "user": "Seraphim",
+        "content": "ZJ09d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75149,
+        "user": "过客952",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75160,
+        "user": "朵兰米",
+        "content": "!!!"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75161,
+        "user": "水晶011",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75165,
+        "user": "过客948",
+        "content": "好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75170,
+        "user": "Seraphim",
+        "content": "在这里，需要在意的是，黑15的冲三必不可少"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75177,
+        "user": "水晶011",
+        "content": "保存"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75190,
+        "user": "Seraphim",
+        "content": "可以说，是逼迫白18手防在下面的手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75214,
+        "user": "Seraphim",
+        "content": "也就是因为白18防在下面，才有了后面的进攻"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75237,
+        "user": "Seraphim",
+        "content": 11
+    },
+    {
+        "action": "TALK",
+        "time_int": 75247,
+        "user": "Seraphim",
+        "content": "看下另外一个难点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75249,
+        "user": "Seraphim",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75253,
+        "user": "Seraphim",
+        "content": "ZJ099"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75272,
+        "user": "Seraphim",
+        "content": "黑的13手，唯一"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75286,
+        "user": "Seraphim",
+        "content": "ZJ177"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75295,
+        "user": "Seraphim",
+        "content": "这个14最强……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75304,
+        "user": "Seraphim",
+        "content": "现在，黑局面相当困难"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75333,
+        "user": "Seraphim",
+        "content": "15手下错的话，就对黑不利"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75336,
+        "user": "过客948",
+        "content": "好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75338,
+        "user": "Seraphim",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75357,
+        "user": "Seraphim",
+        "content": "15手，明显是在动右边的主意"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75359,
+        "user": "Seraphim",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75377,
+        "user": "Seraphim",
+        "content": "白16以后，局面不好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75388,
+        "user": "Seraphim",
+        "content": "17手最为关键"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75392,
+        "user": "Seraphim",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75418,
+        "user": "Seraphim",
+        "content": "大家注意，17以后，黑的棋路已经全年并不打开，相当舒展"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75438,
+        "user": "Seraphim",
+        "content": "下其它地方，也是可以下的，但没这个好……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75459,
+        "user": "Seraphim",
+        "content": "17以后，黑杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75472,
+        "user": "Seraphim",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75474,
+        "user": "Seraphim",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75492,
+        "user": "◆品棋◆",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75497,
+        "user": "Seraphim",
+        "content": "18手，破坏I线的四，意图分割黑棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75513,
+        "user": "Seraphim",
+        "content": "19手必然"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75515,
+        "user": "Seraphim",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75518,
+        "user": "Seraphim",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75518,
+        "user": "Seraphim",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75520,
+        "user": "Seraphim",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75528,
+        "user": "Seraphim",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75531,
+        "user": "Seraphim",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75531,
+        "user": "Seraphim",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75532,
+        "user": "Seraphim",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75538,
+        "user": "Seraphim",
+        "content": "ZJ1d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75539,
+        "user": "Seraphim",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75542,
+        "user": "Seraphim",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75543,
+        "user": "Seraphim",
+        "content": "ZJ094"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75547,
+        "user": "Seraphim",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75554,
+        "user": "过客952",
+        "content": "？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75556,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75557,
+        "user": "Seraphim",
+        "content": "ZJ185"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75561,
+        "user": "Seraphim",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75563,
+        "user": "Seraphim",
+        "content": "ZJ183"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75564,
+        "user": "Seraphim",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75565,
+        "user": "Seraphim",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75567,
+        "user": "Seraphim",
+        "content": "ZJ0c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75568,
+        "user": "Seraphim",
+        "content": "ZJ1d4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75598,
+        "user": "Seraphim",
+        "content": "ZJ0ad"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75599,
+        "user": "Seraphim",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75602,
+        "user": "Seraphim",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75602,
+        "user": "Seraphim",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75605,
+        "user": "Seraphim",
+        "content": "ZJ0da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75606,
+        "user": "Seraphim",
+        "content": "ZJ1eb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75610,
+        "user": "Seraphim",
+        "content": "ZJ0bc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75626,
+        "user": "水晶011",
+        "content": "V"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75660,
+        "user": "Seraphim",
+        "content": 13
+    },
+    {
+        "action": "FIRST",
+        "time_int": 75672,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75684,
+        "user": "Seraphim",
+        "content": "一手九州流到这"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75693,
+        "user": "Seraphim",
+        "content": "说下一个二打"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75700,
+        "user": "Seraphim",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75701,
+        "user": "Seraphim",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75701,
+        "user": "Seraphim",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75711,
+        "user": "Seraphim",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75722,
+        "user": "Seraphim",
+        "content": "注意的是，这个2打不是唯一"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75735,
+        "user": "Seraphim",
+        "content": "之前说过，下I9也是可以的"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75740,
+        "user": "Seraphim",
+        "content": "ZJ98A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75745,
+        "user": "Seraphim",
+        "content": "ZJ78B"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75754,
+        "user": "Seraphim",
+        "content": "ZJ77C"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75765,
+        "user": "Seraphim",
+        "content": "这三点是白经常下的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75780,
+        "user": "Seraphim",
+        "content": "B，C两点是可以下的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75792,
+        "user": "Seraphim",
+        "content": "今天要讲的是，A为什么不可以下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75803,
+        "user": "Seraphim",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75804,
+        "user": "Seraphim",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75808,
+        "user": "Seraphim",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75837,
+        "user": "Seraphim",
+        "content": "到这里，我们可以发现，黑的5，7已经形成一个类似云月的形状"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75841,
+        "user": "Seraphim",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75865,
+        "user": "Seraphim",
+        "content": "9手做棋，已经开始形成必胜"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75868,
+        "user": "Seraphim",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75869,
+        "user": "Seraphim",
+        "content": "ZJ099"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75892,
+        "user": "Seraphim",
+        "content": "ZJ96A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 75896,
+        "user": "Seraphim",
+        "content": "ZJb7B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75907,
+        "user": "Seraphim",
+        "content": "在这里，要说明的是A，B两点都可以杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75918,
+        "user": "Seraphim",
+        "content": "…………白这个6实在很糟糕"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75932,
+        "user": "Seraphim",
+        "content": "ZJ196"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75939,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75940,
+        "user": "Seraphim",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75942,
+        "user": "Seraphim",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75952,
+        "user": "Seraphim",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75953,
+        "user": "Seraphim",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75955,
+        "user": "Seraphim",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75960,
+        "user": "Seraphim",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75962,
+        "user": "Seraphim",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75967,
+        "user": "Seraphim",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75967,
+        "user": "Seraphim",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75969,
+        "user": "Seraphim",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75970,
+        "user": "Seraphim",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75973,
+        "user": "Seraphim",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75989,
+        "user": "Seraphim",
+        "content": "要注意的是这个17手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76006,
+        "user": "Seraphim",
+        "content": "正好把下面与上面联系在了一起"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76017,
+        "user": "Seraphim",
+        "content": 13
+    },
+    {
+        "action": "BACK",
+        "time_int": 76019,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76021,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76022,
+        "user": "Seraphim",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76025,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76027,
+        "user": "Seraphim",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76028,
+        "user": "Seraphim",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76037,
+        "user": "Seraphim",
+        "content": "看下这个13"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76041,
+        "user": "Seraphim",
+        "content": "ZJ1c6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76042,
+        "user": "Seraphim",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76052,
+        "user": "Seraphim",
+        "content": "15这手做，和9手类似"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76057,
+        "user": "Seraphim",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76058,
+        "user": "Seraphim",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76058,
+        "user": "Seraphim",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76059,
+        "user": "Seraphim",
+        "content": "ZJ095"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76059,
+        "user": "Seraphim",
+        "content": "ZJ184"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76062,
+        "user": "Seraphim",
+        "content": "ZJ0b5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76063,
+        "user": "Seraphim",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76067,
+        "user": "Seraphim",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76070,
+        "user": "Seraphim",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76071,
+        "user": "Seraphim",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76086,
+        "user": "水晶011",
+        "content": "双杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76099,
+        "user": "Seraphim",
+        "content": "对，在这里就双杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76126,
+        "user": "Seraphim",
+        "content": "我们再换个12看看"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76130,
+        "user": "Seraphim",
+        "content": 12
+    },
+    {
+        "action": "BACK",
+        "time_int": 76132,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76134,
+        "user": "Seraphim",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76139,
+        "user": "Seraphim",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76152,
+        "user": "Seraphim",
+        "content": "现在，我们就把目标转到了上面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76159,
+        "user": "Seraphim",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76159,
+        "user": "过客952",
+        "content": "。。。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76160,
+        "user": "Seraphim",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76160,
+        "user": "Seraphim",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76164,
+        "user": "Seraphim",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76183,
+        "user": "Seraphim",
+        "content": "注意这个17，目的不是杀，而是组形……"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76186,
+        "user": "Seraphim",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76187,
+        "user": "Seraphim",
+        "content": "ZJ0da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76188,
+        "user": "Seraphim",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76191,
+        "user": "Seraphim",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76191,
+        "user": "Seraphim",
+        "content": "ZJ1ea"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76209,
+        "user": "Seraphim",
+        "content": "通过17手，把19手带过去，然后与上面联络在一起"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76214,
+        "user": "Seraphim",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76215,
+        "user": "Seraphim",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76216,
+        "user": "Seraphim",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76225,
+        "user": "Seraphim",
+        "content": "到25，双杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76232,
+        "user": "水晶011",
+        "content": "！！！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76240,
+        "user": "过客952",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76255,
+        "user": "过客952",
+        "content": "~~~"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76258,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76258,
+        "user": "Seraphim",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76264,
+        "user": "◆品棋◆",
+        "content": "/"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76265,
+        "user": "Seraphim",
+        "content": 5
+    },
+    {
+        "action": "TALK",
+        "time_int": 76293,
+        "user": "Seraphim",
+        "content": "所以，这个A点是不能下的。以后，遇到这个5手，还是下B和C吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76302,
+        "user": "Seraphim",
+        "content": "讲课到此为止"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76305,
+        "user": "Seraphim",
+        "content": "下课"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 76306,
+        "user": "",
+        "content": " 5873627, Sky, zizhu, 『纵横』蓝剑, 裁决殿★明月, 朵兰米, 乐, 飘雪的夏天, 人生如梦, 水晶011, 逸舟."
+    }
+]

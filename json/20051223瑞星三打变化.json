@@ -1,0 +1,4580 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72312,
+        "user": "",
+        "content": "ZJ0150150HH1HG0HI1HJ0GH1IH0GF1IJ0GG1GI0FF1II0IK1JH0KG"
+    },
+    {
+        "action": "LOAD",
+        "time_int": 72312,
+        "user": "",
+        "content": "ZJ08818708918a07819807619a07717906619909b1a80b7"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 72317,
+        "user": "kydzhu",
+        "content": 1
+    },
+    {
+        "action": "TALK",
+        "time_int": 72322,
+        "user": "kydzhu",
+        "content": "大家好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72331,
+        "user": "岁月",
+        "content": "你好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72333,
+        "user": "娅娅",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72337,
+        "user": "xp",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72341,
+        "user": "yonghumm",
+        "content": "。。好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72346,
+        "user": "龙的传人",
+        "content": "晕"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72346,
+        "user": "晴子",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72350,
+        "user": "左宝巨",
+        "content": "点名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72354,
+        "user": "kydzhu",
+        "content": "今天我们继续讲瑞星变化"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72377,
+        "user": "kydzhu",
+        "content": "ZJ189"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72378,
+        "user": "左宝巨",
+        "content": "哈哈还是晚了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72378,
+        "user": "kydzhu",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72379,
+        "user": "kydzhu",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72381,
+        "user": "kydzhu",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72382,
+        "user": "kydzhu",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72383,
+        "user": "kydzhu",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72384,
+        "user": "kydzhu",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72385,
+        "user": "kydzhu",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 72386,
+        "user": "",
+        "content": " XiaoFR, 逸飞飞, 风清, heqing, hanxiao, 龙的传人, 亮亮, 娅娅, 云连棋丐, 失落缘, 洋洋, 小夢, 逍遥游, Sky, ndh002, 清逸, 飘雪的夏天, 菜农, 酷杀一片, 月亮的影子, yuelee00, Answer, 虞旭鹏, 涵婷, wnqq111, 梦依, 岁月, 徐永伟, 妖妖, 5873627, Yumen, 清秋弈人, 寒冰, 342, 天使心, yonghumm, 晴子, 蓝雪人, StarRain, 飞飞, 溪歌, 迈克, AUTHOR, ndh005, 左宝巨, 禅影夜裟, 菜女, 蝶恋花, 小鸟, 妩媚, 水晶如风, 锋, ndh003, 朝, 1373, 水晶雨, xp, 宁静致远, OLIVERFJC, 狮子何必吼."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72386,
+        "user": "kydzhu",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72391,
+        "user": "OLIVERFJC",
+        "content": "还好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72402,
+        "user": "狮子何必吼",
+        "content": "天哪"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72409,
+        "user": "左宝巨",
+        "content": "点棵烟就晚了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72409,
+        "user": "kydzhu",
+        "content": "上次我们把11活h10的变化讲完了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72409,
+        "user": "Sky",
+        "content": "还瑞三？？//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72411,
+        "user": "狮子何必吼",
+        "content": "迟一妙就。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72432,
+        "user": "kydzhu",
+        "content": "今天我们来看下11其他的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72460,
+        "user": "hanxiao",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72464,
+        "user": "迈克",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72470,
+        "user": "kydzhu",
+        "content": "大家有些什么建议么。假如你们现在面对这个局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72488,
+        "user": "xp",
+        "content": "e9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72516,
+        "user": "过客437",
+        "content": "I11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72519,
+        "user": "yonghumm",
+        "content": "G10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72524,
+        "user": "水晶雨",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72529,
+        "user": "过客437",
+        "content": "让他跳伞"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72542,
+        "user": "kydzhu",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72551,
+        "user": "kydzhu",
+        "content": "我们先来看看这个点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72553,
+        "user": "kydzhu",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72583,
+        "user": "宁静致远",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72587,
+        "user": "kydzhu",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72588,
+        "user": "kydzhu",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72600,
+        "user": "kydzhu",
+        "content": "黑f12唯一"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72605,
+        "user": "kydzhu",
+        "content": "ZJ06c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72608,
+        "user": "kydzhu",
+        "content": "ZJ159"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72617,
+        "user": "kydzhu",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72623,
+        "user": "kydzhu",
+        "content": "如果防这里。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72625,
+        "user": "kydzhu",
+        "content": "ZJ157"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72640,
+        "user": "kydzhu",
+        "content": "白做e6四三，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72658,
+        "user": "hanxiao",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72686,
+        "user": "xp",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72696,
+        "user": "kydzhu",
+        "content": "防哪里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72706,
+        "user": "迈克",
+        "content": "e6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72707,
+        "user": "过客429",
+        "content": "f7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72716,
+        "user": "过客431",
+        "content": "E6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72721,
+        "user": "xp",
+        "content": "e6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72729,
+        "user": "hanxiao",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72730,
+        "user": "OLIVERFJC",
+        "content": "E6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72749,
+        "user": "kydzhu",
+        "content": "ZJ056"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72783,
+        "user": "逸飞飞",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72792,
+        "user": "XiaoFR",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72807,
+        "user": "龙的传人",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72807,
+        "user": "kydzhu",
+        "content": "ZJ148"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72810,
+        "user": "kydzhu",
+        "content": "ZJ037"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72823,
+        "user": "kydzhu",
+        "content": "ZJ166"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72866,
+        "user": "420631350",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72869,
+        "user": "宁静致远",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72872,
+        "user": "1373",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72875,
+        "user": "kydzhu",
+        "content": "白棋现在继续活三保持先手。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72880,
+        "user": "kydzhu",
+        "content": "考验黑棋应手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72922,
+        "user": "左宝巨",
+        "content": "15手做J8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72932,
+        "user": "yuelee00",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72935,
+        "user": "kydzhu",
+        "content": "15？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72940,
+        "user": "左宝巨",
+        "content": "EN"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72944,
+        "user": "左宝巨",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72948,
+        "user": "kydzhu",
+        "content": "15是黑棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72952,
+        "user": "迈克",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72957,
+        "user": "左宝巨",
+        "content": "就是呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72962,
+        "user": "迈克",
+        "content": "那不是速败"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72974,
+        "user": "蝶恋花",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72981,
+        "user": "左宝巨",
+        "content": "是吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72987,
+        "user": "晴子",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72993,
+        "user": "左宝巨",
+        "content": "白的怎样杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73004,
+        "user": "左宝巨",
+        "content": "我笨"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73007,
+        "user": "xp",
+        "content": "先看现在"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73007,
+        "user": "kydzhu",
+        "content": "14白棋在活三。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73021,
+        "user": "过客429",
+        "content": "能讲快点吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73022,
+        "user": "Sky",
+        "content": "挡上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73036,
+        "user": "yonghumm",
+        "content": "C9防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73042,
+        "user": "涵婷",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73051,
+        "user": "heqing",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73068,
+        "user": "XiaoFR",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73075,
+        "user": "Sky",
+        "content": "//"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73087,
+        "user": "420631350",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73095,
+        "user": "kydzhu",
+        "content": "ZJ039"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73100,
+        "user": "kydzhu",
+        "content": "恩。现在c9也是唯一了。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73141,
+        "user": "kydzhu",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73149,
+        "user": "kydzhu",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73152,
+        "user": "kydzhu",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73193,
+        "user": "kydzhu",
+        "content": "白棋做杀。抓黑三三禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73222,
+        "user": "过客437",
+        "content": "高"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73246,
+        "user": "yonghumm",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73265,
+        "user": "1373",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73275,
+        "user": "过客429",
+        "content": "过呀，讲快点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73276,
+        "user": "晨薇玫瑰",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73283,
+        "user": "逍遥游",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73292,
+        "user": "迈克",
+        "content": "打字能有你看的快？"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73293,
+        "user": "kydzhu",
+        "content": 10
+    },
+    {
+        "action": "TALK",
+        "time_int": 73294,
+        "user": "过客437",
+        "content": "L8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73300,
+        "user": "kydzhu",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73301,
+        "user": "迈克",
+        "content": "急什么啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73309,
+        "user": "kydzhu",
+        "content": "看看这个防点吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73318,
+        "user": "kydzhu",
+        "content": "这个防点应该还是比较强的。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73334,
+        "user": "kydzhu",
+        "content": "黑棋保留自己的二。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73334,
+        "user": "小夢",
+        "content": "。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73345,
+        "user": "小夢",
+        "content": "回去让偶存一下行不老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73376,
+        "user": "龙的传人",
+        "content": "老师刚才可以抓？黑还没有下吧？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73387,
+        "user": "kydzhu",
+        "content": "先看看这里吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73392,
+        "user": "龙的传人",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73394,
+        "user": "Answer",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73399,
+        "user": "yonghumm",
+        "content": "恩。好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73400,
+        "user": "迈克",
+        "content": "G11？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73405,
+        "user": "过客444",
+        "content": "是啊我一转眼又到另一局了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73416,
+        "user": "yuelee00",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73421,
+        "user": "heqing",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73423,
+        "user": "kydzhu",
+        "content": "我们上次课讲过的一些进攻思路和方向"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73437,
+        "user": "kydzhu",
+        "content": "现在黑棋只是单纯的防守，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73448,
+        "user": "kydzhu",
+        "content": "而白棋现在也没有直接的功杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73450,
+        "user": "kydzhu",
+        "content": "ZJ159"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73487,
+        "user": "hanxiao",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73487,
+        "user": "冰宝宝",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73496,
+        "user": "XiaoFR",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73506,
+        "user": "小夢",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73508,
+        "user": "kydzhu",
+        "content": "e9防了黑棋对于白棋上面进攻的牵制。并且通过这个二联系白棋两边优势"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73586,
+        "user": "迈克",
+        "content": "偶觉得G11。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73588,
+        "user": "kydzhu",
+        "content": "现在左边白棋通过这个二有了杀棋"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73595,
+        "user": "kydzhu",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73599,
+        "user": "kydzhu",
+        "content": "自己做三三禁"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73603,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73606,
+        "user": "迈克",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73612,
+        "user": "迈克",
+        "content": "偶是说12=G11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73626,
+        "user": "徐永伟",
+        "content": "那是另外的方法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73632,
+        "user": "迈克",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73646,
+        "user": "徐永伟",
+        "content": "不过这个应该比那个更好点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73665,
+        "user": "kydzhu",
+        "content": "那样交换恐怕难杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73669,
+        "user": "kydzhu",
+        "content": "你自己可以拆一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73704,
+        "user": "kydzhu",
+        "content": "现在白棋通过这个二左右两边都杀棋，那么黑现在要怎么防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73717,
+        "user": "水晶014",
+        "content": "e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73724,
+        "user": "yonghumm",
+        "content": "E7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73727,
+        "user": "水晶雨",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73732,
+        "user": "水晶014",
+        "content": "e7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73750,
+        "user": "纯溪",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73761,
+        "user": "宁静致远",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73770,
+        "user": "蓝雪人",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73771,
+        "user": "xp",
+        "content": "e7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73779,
+        "user": "wnqq111",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73792,
+        "user": "kydzhu",
+        "content": "ZJ057"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73805,
+        "user": "kydzhu",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73824,
+        "user": "kydzhu",
+        "content": "黑在下面并没杀，13只是交换而已，白通过14加强自己在上面优势"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73886,
+        "user": "飞飞",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73891,
+        "user": "蝶恋花",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73895,
+        "user": "kydzhu",
+        "content": "现在呢，白上面有33胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73929,
+        "user": "xp",
+        "content": "堵住"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73945,
+        "user": "kydzhu",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73948,
+        "user": "kydzhu",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73982,
+        "user": "kydzhu",
+        "content": "这里其实就是考验黑白的控制能力了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73993,
+        "user": "kydzhu",
+        "content": "黑白的进攻互相牵制着"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74021,
+        "user": "kydzhu",
+        "content": "通过14，15的交换，白16做j9把优势转移到右边来进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74022,
+        "user": "云连棋丐",
+        "content": "17H10？？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74030,
+        "user": "云连棋丐",
+        "content": "H11"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74032,
+        "user": "yonghumm",
+        "content": "有点象叫什么星的开局。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74048,
+        "user": "kydzhu",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74049,
+        "user": "kydzhu",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74051,
+        "user": "kydzhu",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74052,
+        "user": "kydzhu",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74055,
+        "user": "云连棋丐",
+        "content": "！！！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74061,
+        "user": "龙的传人",
+        "content": "55"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74063,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74063,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74065,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74065,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74096,
+        "user": "xp",
+        "content": "i11"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74103,
+        "user": "kydzhu",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74105,
+        "user": "kydzhu",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74124,
+        "user": "xp",
+        "content": "冲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74126,
+        "user": "云连棋丐",
+        "content": "黑冲"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74136,
+        "user": "kydzhu",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74138,
+        "user": "kydzhu",
+        "content": "ZJ17d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74160,
+        "user": "过客417",
+        "content": "k9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74174,
+        "user": "kydzhu",
+        "content": "经过交换，现在黑只能单防了。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74174,
+        "user": "kydzhu",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74175,
+        "user": "hanxiao",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74195,
+        "user": "heqing",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74197,
+        "user": "kydzhu",
+        "content": "黑虽然做了两个二"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74204,
+        "user": "XiaoFR",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74210,
+        "user": "kydzhu",
+        "content": "但是其实并没有什么实质的进攻性"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74211,
+        "user": "kydzhu",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74225,
+        "user": "kydzhu",
+        "content": "上面的二没有什么作用。黑棋的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74242,
+        "user": "云连棋丐",
+        "content": "黑F6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74248,
+        "user": "kydzhu",
+        "content": "白做双二，同时8和22这个活二联系两边进攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74257,
+        "user": "过客417",
+        "content": "j8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74261,
+        "user": "yonghumm",
+        "content": "I6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74265,
+        "user": "kydzhu",
+        "content": "ZJ066"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74271,
+        "user": "kydzhu",
+        "content": "这个点是假vcf"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74274,
+        "user": "hanxiao",
+        "content": "i8?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74274,
+        "user": "kydzhu",
+        "content": "假杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74279,
+        "user": "kydzhu",
+        "content": "白活三后四三 简单胜"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74281,
+        "user": "kydzhu",
+        "content": "ZJ198"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74282,
+        "user": "云连棋丐",
+        "content": "嗯"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74283,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74283,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74287,
+        "user": "kydzhu",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74299,
+        "user": "xp",
+        "content": "这样被抓"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74304,
+        "user": "kydzhu",
+        "content": "ZJ198"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74310,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74312,
+        "user": "kydzhu",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74313,
+        "user": "kydzhu",
+        "content": "ZJ08d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74314,
+        "user": "kydzhu",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74314,
+        "user": "kydzhu",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74315,
+        "user": "kydzhu",
+        "content": "ZJ198"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74323,
+        "user": "kydzhu",
+        "content": "三三禁"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74327,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74328,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74329,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74329,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74330,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74330,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74331,
+        "user": "kydzhu",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74333,
+        "user": "yonghumm",
+        "content": "恩。没注意上面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74341,
+        "user": "kydzhu",
+        "content": "ZJ196"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74366,
+        "user": "kydzhu",
+        "content": "哪边？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74374,
+        "user": "xp",
+        "content": "下面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74380,
+        "user": "迈克",
+        "content": "没用了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74382,
+        "user": "Answer",
+        "content": "要被V了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74383,
+        "user": "kydzhu",
+        "content": "ZJ0a5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74385,
+        "user": "yonghumm",
+        "content": "都防不住了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74386,
+        "user": "云连棋丐",
+        "content": "好象哪边都输"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74388,
+        "user": "kydzhu",
+        "content": "假如防这边"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74390,
+        "user": "kydzhu",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74391,
+        "user": "kydzhu",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74393,
+        "user": "kydzhu",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74405,
+        "user": "kydzhu",
+        "content": "现在e13是唯一防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74456,
+        "user": "wnqq111",
+        "content": "，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74459,
+        "user": "yonghumm",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74469,
+        "user": "涵婷",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74480,
+        "user": "Answer",
+        "content": "E13防不了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74484,
+        "user": "Sky",
+        "content": "E12吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74508,
+        "user": "龙的传人",
+        "content": "，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74515,
+        "user": "yuelee00",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74527,
+        "user": "heqing",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74529,
+        "user": "月亮的影子",
+        "content": "……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74543,
+        "user": "1373",
+        "content": "１１１"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74545,
+        "user": "kydzhu",
+        "content": "恩。呵呵。看歪了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74548,
+        "user": "Answer",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74556,
+        "user": "xp",
+        "content": "e12要被抓"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74581,
+        "user": "XiaoFR",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74593,
+        "user": "水晶如风",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74595,
+        "user": "Answer",
+        "content": "E12有抓??"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74600,
+        "user": "yonghumm",
+        "content": "K8能利用到吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74601,
+        "user": "hanxiao",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74601,
+        "user": "过客437",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74603,
+        "user": "Answer",
+        "content": "没吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74608,
+        "user": "宁静致远",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74612,
+        "user": "宁静致远",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74617,
+        "user": "xp",
+        "content": "我看错了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74617,
+        "user": "锋",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 74635,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74635,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74637,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74643,
+        "user": "kydzhu",
+        "content": "是我看错了。呵呵。。不好意思哈"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74652,
+        "user": "kydzhu",
+        "content": "ZJ1ca"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74659,
+        "user": "kydzhu",
+        "content": "还是通过这个三三禁吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74660,
+        "user": "龙的传人",
+        "content": "没什么，老师辛苦了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74672,
+        "user": "云连棋丐",
+        "content": "28还想抓？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74677,
+        "user": "洋洋",
+        "content": "老师点名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74680,
+        "user": "kydzhu",
+        "content": "通过k10的三三禁。继续做棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74712,
+        "user": "kydzhu",
+        "content": "同时这里还有h13的禁手点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74713,
+        "user": "妩媚",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74730,
+        "user": "kydzhu",
+        "content": "和l8的44禁点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74737,
+        "user": "酷杀一片",
+        "content": "2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74739,
+        "user": "娅娅",
+        "content": "不是吧，点名怎么叫的这么极积呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74766,
+        "user": "虞旭鹏",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74767,
+        "user": "洋洋",
+        "content": "你在怕什么？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74767,
+        "user": "kydzhu",
+        "content": "大家有没有注意到这些禁点？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74768,
+        "user": "wnqq111",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74769,
+        "user": "yonghumm",
+        "content": "老师先别摆，先看一眼"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74775,
+        "user": "Sky",
+        "content": "```"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74787,
+        "user": "xp",
+        "content": "看到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74790,
+        "user": "小夢",
+        "content": "你不说就没有看到-_-!!"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74804,
+        "user": "蝶恋花",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74805,
+        "user": "过客431",
+        "content": "没有看到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74810,
+        "user": "晴子",
+        "content": "2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74814,
+        "user": "云连棋丐",
+        "content": "H13一样有33吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74816,
+        "user": "过客423",
+        "content": "没看到44"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74818,
+        "user": "水晶014",
+        "content": "是双禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74820,
+        "user": "冰宝宝",
+        "content": "44没看到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74823,
+        "user": "xp",
+        "content": "好像没有防了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74826,
+        "user": "酷杀一片",
+        "content": "本丫丫！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74831,
+        "user": "过客424",
+        "content": "L8　44"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74836,
+        "user": "洋洋",
+        "content": "我一个都看不到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74843,
+        "user": "娅娅",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74846,
+        "user": "yonghumm",
+        "content": "哦。可以了。看清楚了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74847,
+        "user": "小夢",
+        "content": "冲H12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74848,
+        "user": "kydzhu",
+        "content": "大家多注意下我说的三个禁手点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74869,
+        "user": "kydzhu",
+        "content": "都看到了么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74871,
+        "user": "过客423",
+        "content": "哦。谢谢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74874,
+        "user": "过客431",
+        "content": "示范一下 好吗？老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74877,
+        "user": "娅娅",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74877,
+        "user": "酷杀一片",
+        "content": "看样子是最近没找到。。。哼哼有点本拉。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74877,
+        "user": "云连棋丐",
+        "content": "嗯，都看到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74881,
+        "user": "水晶014",
+        "content": "看到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74889,
+        "user": "过客423",
+        "content": "看到俩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74891,
+        "user": "迈克",
+        "content": "S了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74894,
+        "user": "过客431",
+        "content": "就我笨啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74905,
+        "user": "过客417",
+        "content": "看到了33和44"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74908,
+        "user": "Sky",
+        "content": "死了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74922,
+        "user": "XiaoFR",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74933,
+        "user": "kydzhu",
+        "content": "都觉得没防了吧？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74935,
+        "user": "过客431",
+        "content": "我哭了 我没看到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74937,
+        "user": "过客423",
+        "content": "看到仨了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74945,
+        "user": "kydzhu",
+        "content": "那你觉得现在能防哪？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74955,
+        "user": "xp",
+        "content": "没防了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74962,
+        "user": "过客444",
+        "content": "有44啊？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74979,
+        "user": "过客423",
+        "content": "L8啊。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74980,
+        "user": "yonghumm",
+        "content": "没防了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74981,
+        "user": "过客417",
+        "content": "看到了，就只好哭了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74986,
+        "user": "kydzhu",
+        "content": "觉得还有些防点不知道怎么杀的话就说出来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74995,
+        "user": "kydzhu",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75001,
+        "user": "冰宝宝",
+        "content": "走一下44禁"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75006,
+        "user": "kydzhu",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75007,
+        "user": "kydzhu",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75008,
+        "user": "kydzhu",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75009,
+        "user": "kydzhu",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75010,
+        "user": "kydzhu",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75011,
+        "user": "过客423",
+        "content": "没用。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75013,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75013,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75014,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75014,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75015,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75016,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75017,
+        "user": "kydzhu",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75018,
+        "user": "kydzhu",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75019,
+        "user": "kydzhu",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75020,
+        "user": "kydzhu",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75031,
+        "user": "kydzhu",
+        "content": "如果j10来解三三禁就变四四"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75034,
+        "user": "过客444",
+        "content": "哦。好多啊"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75042,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75043,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75044,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75044,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75045,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75046,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75050,
+        "user": "冰宝宝",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75050,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75051,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75062,
+        "user": "kydzhu",
+        "content": "这里23还有没有其他点？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75108,
+        "user": "kydzhu",
+        "content": "单防是肯定都简单胜了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75111,
+        "user": "wnqq111",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75114,
+        "user": "kydzhu",
+        "content": "我们来看下活三的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75117,
+        "user": "kydzhu",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75125,
+        "user": "kydzhu",
+        "content": "要进攻肯定是i7了。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75127,
+        "user": "kydzhu",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75143,
+        "user": "龙的传人",
+        "content": "L8？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75149,
+        "user": "kydzhu",
+        "content": "然后黑好象还是动不了了。。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75187,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75187,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75188,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75189,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75197,
+        "user": "kydzhu",
+        "content": "21呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75204,
+        "user": "kydzhu",
+        "content": "有建议么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75242,
+        "user": "龙的传人",
+        "content": "L9？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75242,
+        "user": "飞飞",
+        "content": "i8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75251,
+        "user": "heqing",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75258,
+        "user": "xp",
+        "content": "L9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75259,
+        "user": "kydzhu",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75260,
+        "user": "kydzhu",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75269,
+        "user": "kydzhu",
+        "content": "i8的话j8一做就必胜了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75275,
+        "user": "kydzhu",
+        "content": "这个形状没的防了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75278,
+        "user": "kydzhu",
+        "content": "大家自己拆下吧"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75279,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75280,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75280,
+        "user": "kydzhu",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75297,
+        "user": "kydzhu",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75311,
+        "user": "蝶恋花",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75319,
+        "user": "XiaoFR",
+        "content": "‘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75333,
+        "user": "虞旭鹏",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75337,
+        "user": "宁静致远",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75361,
+        "user": "龙的传人",
+        "content": "K8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75376,
+        "user": "kydzhu",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75383,
+        "user": "wnqq111",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75389,
+        "user": "wnqq111",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75398,
+        "user": "过客417",
+        "content": "白还好吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75431,
+        "user": "风清",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75431,
+        "user": "kydzhu",
+        "content": "ZJ18d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75433,
+        "user": "kydzhu",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75434,
+        "user": "kydzhu",
+        "content": "ZJ16d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75457,
+        "user": "kydzhu",
+        "content": "借用上面的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75472,
+        "user": "水晶雨",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75483,
+        "user": "kydzhu",
+        "content": "现在如果防h13，那么f12后白就胜了。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75484,
+        "user": "kydzhu",
+        "content": "ZJ09d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75485,
+        "user": "kydzhu",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75493,
+        "user": "蝶恋花",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75495,
+        "user": "kydzhu",
+        "content": "现在f9唯一。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75511,
+        "user": "kydzhu",
+        "content": "由于下面有借用h7点。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75520,
+        "user": "kydzhu",
+        "content": "之后e10，e11胜"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75523,
+        "user": "kydzhu",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75529,
+        "user": "kydzhu",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75547,
+        "user": "yonghumm",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75549,
+        "user": "kydzhu",
+        "content": "继续活三后左右都简单胜了。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75551,
+        "user": "kydzhu",
+        "content": "ZJ04a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75553,
+        "user": "kydzhu",
+        "content": "ZJ15d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75554,
+        "user": "kydzhu",
+        "content": "ZJ04d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75554,
+        "user": "kydzhu",
+        "content": "ZJ15c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75555,
+        "user": "kydzhu",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75556,
+        "user": "kydzhu",
+        "content": "ZJ15e"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75557,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75557,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75557,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75557,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75558,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75558,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75559,
+        "user": "kydzhu",
+        "content": "ZJ08e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75595,
+        "user": "kydzhu",
+        "content": "这样也简单胜"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75596,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75596,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75596,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75597,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75597,
+        "user": "涵婷",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 75598,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75599,
+        "user": "kydzhu",
+        "content": "ZJ05d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75615,
+        "user": "蝶恋花",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75617,
+        "user": "逍遥游",
+        "content": "00"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75626,
+        "user": "XiaoFR",
+        "content": "’"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75644,
+        "user": "蝶恋花",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75657,
+        "user": "酷杀一片",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75676,
+        "user": "kydzhu",
+        "content": "所以27左边唯一"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75677,
+        "user": "过客417",
+        "content": "白是胜了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75680,
+        "user": "1373",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75713,
+        "user": "锋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75720,
+        "user": "洋洋",
+        "content": "0"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75725,
+        "user": "ndh002",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75730,
+        "user": "yonghumm",
+        "content": "抓了吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75739,
+        "user": "冰宝宝",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75750,
+        "user": "宁静致远",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75773,
+        "user": "娅娅",
+        "content": "就怕点名，开水都不敢去倒了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75778,
+        "user": "水晶如风",
+        "content": "呵呵"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 75780,
+        "user": "",
+        "content": " 逸飞飞, XiaoFR, 风清, Answer, 妖妖, 晴子, 狮子何必吼, 清秋弈人, 酷杀一片, 5873627, ndh002, 云连棋丐, 逍遥游, 月亮的影子, 洋洋, 蓝雪人, 清逸, 1373, 徐永伟, ndh005, 冰宝宝, 龙的传人, 飞飞, 锋, yonghumm, AUTHOR, 迈克, 飘雪的夏天, 亮亮, 小鸟, 清月孤影, 寒冰, Sky, 水晶如风, 菜女, 宁静致远, 420631350, xp, 失落缘, 娅娅, 小夢, 纯溪, 水晶014, 342, 涵婷, 天使心, hanxiao, 蝶恋花, 虞旭鹏, 梦依, 禅影夜裟, heqing, ndh003, 左宝巨, 妩媚, 婉晴, 邱予, 朝, 岁月, StarRain, ouyang, yuelee00, wnqq111, 水晶雨."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75781,
+        "user": "冰宝宝",
+        "content": "怕怕"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75784,
+        "user": "小鸟",
+        "content": "=.="
+    },
+    {
+        "action": "TALK",
+        "time_int": 75785,
+        "user": "酷杀一片",
+        "content": "又跑本飞抢先了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75809,
+        "user": "月亮的影子",
+        "content": "我一溜号就点名，555，吓得心都跳出来了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75826,
+        "user": "kydzhu",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75829,
+        "user": "过客417",
+        "content": "F12E11E10H7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75833,
+        "user": "kydzhu",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75834,
+        "user": "酷杀一片",
+        "content": "好像你没点上拉。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75844,
+        "user": "OLIVERFJC",
+        "content": "5555555555"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75848,
+        "user": "kydzhu",
+        "content": "417，现在由于27的防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75856,
+        "user": "kydzhu",
+        "content": "e10并不是活三了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75857,
+        "user": "迈克",
+        "content": "E10不是活3吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75862,
+        "user": "kydzhu",
+        "content": "所以通过h7不能胜"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75867,
+        "user": "kydzhu",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75884,
+        "user": "左宝巨",
+        "content": "点到名的有什么好处？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75894,
+        "user": "kydzhu",
+        "content": "不过通过上面的一个眠三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75895,
+        "user": "过客417",
+        "content": "看错，不好意思"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75905,
+        "user": "左宝巨",
+        "content": "给QQ币吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75919,
+        "user": "逍遥游",
+        "content": ".........."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75920,
+        "user": "kydzhu",
+        "content": "现在右边的优势更强了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75937,
+        "user": "过客448",
+        "content": "左宝巨给你一巴掌"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75939,
+        "user": "kydzhu",
+        "content": "现在k11做vcf，并且还有k12，l11，j13的杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75948,
+        "user": "风清",
+        "content": "每次给10个QB"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75948,
+        "user": "kydzhu",
+        "content": "所以现在只能防上面的眠三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75961,
+        "user": "左宝巨",
+        "content": "哈哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75974,
+        "user": "云连棋丐",
+        "content": "L10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75979,
+        "user": "左宝巨",
+        "content": "那下次不答到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75986,
+        "user": "水晶014",
+        "content": "j13"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75994,
+        "user": "飞飞",
+        "content": "J10?"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76013,
+        "user": "kydzhu",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76014,
+        "user": "kydzhu",
+        "content": "ZJ18e"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76027,
+        "user": "龙的传人",
+        "content": "晕"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76028,
+        "user": "kydzhu",
+        "content": "上面还有个活三。所以不行"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76030,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76031,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76036,
+        "user": "kydzhu",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76047,
+        "user": "kydzhu",
+        "content": "ZJ198"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76054,
+        "user": "kydzhu",
+        "content": "通过下面有个三三禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76058,
+        "user": "kydzhu",
+        "content": "i6点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76061,
+        "user": "kydzhu",
+        "content": "所以黑h7唯一"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76062,
+        "user": "kydzhu",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76063,
+        "user": "kydzhu",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76073,
+        "user": "kydzhu",
+        "content": "然后上面活三后胜"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76074,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76075,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76075,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76076,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76083,
+        "user": "kydzhu",
+        "content": "ZJ0ad"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76097,
+        "user": "kydzhu",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76101,
+        "user": "kydzhu",
+        "content": "ZJ0bd"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76109,
+        "user": "kydzhu",
+        "content": "无论防哪都一样"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76125,
+        "user": "kydzhu",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76126,
+        "user": "kydzhu",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76128,
+        "user": "kydzhu",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76128,
+        "user": "kydzhu",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76129,
+        "user": "kydzhu",
+        "content": "ZJ1cc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76130,
+        "user": "kydzhu",
+        "content": "ZJ0dd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76130,
+        "user": "kydzhu",
+        "content": "ZJ1dc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76131,
+        "user": "kydzhu",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76132,
+        "user": "kydzhu",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76143,
+        "user": "kydzhu",
+        "content": "防j13或i13都是一样的胜法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76155,
+        "user": "酷杀一片",
+        "content": "痛苦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76167,
+        "user": "虞旭鹏",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76182,
+        "user": "Sky",
+        "content": "29-F9呢"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76192,
+        "user": "kydzhu",
+        "content": 28
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76199,
+        "user": "kydzhu",
+        "content": "ZJ069"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76208,
+        "user": "kydzhu",
+        "content": "这个和右边的杀并没有关系"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76216,
+        "user": "kydzhu",
+        "content": "右边还是可以那样的功杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76225,
+        "user": "kydzhu",
+        "content": "而且这里给白多一个眠三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76236,
+        "user": "kydzhu",
+        "content": "右边胜更简单了。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76240,
+        "user": "kydzhu",
+        "content": "ZJ18e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76242,
+        "user": "kydzhu",
+        "content": "ZJ05b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76244,
+        "user": "kydzhu",
+        "content": "ZJ19e"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76253,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76254,
+        "user": "kydzhu",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76260,
+        "user": "kydzhu",
+        "content": "ZJ087"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76268,
+        "user": "水晶014",
+        "content": "防上"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76271,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76272,
+        "user": "kydzhu",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76273,
+        "user": "kydzhu",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76273,
+        "user": "kydzhu",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76275,
+        "user": "kydzhu",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76281,
+        "user": "晴子",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76296,
+        "user": "kydzhu",
+        "content": "这里始终有这个三三禁的存在。所以i8时h7是必跟的"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76297,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76298,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76298,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76298,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76302,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76303,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76305,
+        "user": "kydzhu",
+        "content": "ZJ098"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76306,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76307,
+        "user": "kydzhu",
+        "content": "ZJ05b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76308,
+        "user": "kydzhu",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76309,
+        "user": "kydzhu",
+        "content": "ZJ087"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76318,
+        "user": "kydzhu",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76320,
+        "user": "Sky",
+        "content": "那不是可以挡D6先冲呢"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76334,
+        "user": "kydzhu",
+        "content": "还是这样就可以了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76346,
+        "user": "飞飞",
+        "content": "怎样知道白必然能抓/胜，其中有没有什么道理"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76348,
+        "user": "kydzhu",
+        "content": "先冲了d6那里还是三三禁"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76353,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76354,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76356,
+        "user": "kydzhu",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76357,
+        "user": "kydzhu",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76358,
+        "user": "kydzhu",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76358,
+        "user": "kydzhu",
+        "content": "ZJ197"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76359,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76359,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76360,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76360,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76361,
+        "user": "kydzhu",
+        "content": "ZJ046"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76361,
+        "user": "kydzhu",
+        "content": "ZJ136"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76363,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76364,
+        "user": "kydzhu",
+        "content": "ZJ135"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76364,
+        "user": "kydzhu",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76365,
+        "user": "kydzhu",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76366,
+        "user": "kydzhu",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76367,
+        "user": "kydzhu",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76373,
+        "user": "Sky",
+        "content": "没用"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76376,
+        "user": "Sky",
+        "content": "唉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76376,
+        "user": "kydzhu",
+        "content": "虽然多了个d6但是那里还是禁"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76383,
+        "user": "kydzhu",
+        "content": 20
+    },
+    {
+        "action": "TALK",
+        "time_int": 76393,
+        "user": "飞飞",
+        "content": "老师，怎样知道白必然能抓/胜，其中有没有什么道理"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76423,
+        "user": "蓝雪人",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76429,
+        "user": "Answer",
+        "content": "练眼力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76429,
+        "user": "kydzhu",
+        "content": "没的防了就必然了啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76433,
+        "user": "飞飞",
+        "content": "还是只能靠计算？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76436,
+        "user": "kydzhu",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76440,
+        "user": "xp",
+        "content": "道理就是计算所有可能的防点啦。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76459,
+        "user": "飞飞",
+        "content": "里面有没有规律"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76464,
+        "user": "kydzhu",
+        "content": "21应该也没有其他点了吧"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76465,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76465,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76466,
+        "user": "kydzhu",
+        "content": "ZJ0b8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76475,
+        "user": "kydzhu",
+        "content": "19在这里的简单摆一下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76477,
+        "user": "kydzhu",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76478,
+        "user": "kydzhu",
+        "content": "ZJ06d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76482,
+        "user": "kydzhu",
+        "content": "ZJ18d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76483,
+        "user": "kydzhu",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76484,
+        "user": "kydzhu",
+        "content": "ZJ15a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76486,
+        "user": "kydzhu",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76487,
+        "user": "kydzhu",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76489,
+        "user": "kydzhu",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76489,
+        "user": "kydzhu",
+        "content": "ZJ198"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76490,
+        "user": "kydzhu",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76492,
+        "user": "kydzhu",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76503,
+        "user": "左宝巨",
+        "content": "嗨我眼前还看不过来呢，我近视的厉害"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76523,
+        "user": "kydzhu",
+        "content": "通过上面的优势借用到h7后活i8然后抓k9点三三禁"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76532,
+        "user": "过客412",
+        "content": "考虑得太远了呀!"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76548,
+        "user": "kydzhu",
+        "content": "黑中间无论哪个点换其他点都是一样胜"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76552,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76553,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76553,
+        "user": "水晶如风",
+        "content": "-_-！"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76554,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76554,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76555,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76556,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76556,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76557,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76557,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76558,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76558,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76559,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76560,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76561,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76569,
+        "user": "kydzhu",
+        "content": "17还有没有什么单防的建议"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76596,
+        "user": "Answer",
+        "content": "K9?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76647,
+        "user": "yonghumm",
+        "content": "。"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76648,
+        "user": "kydzhu",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76649,
+        "user": "kydzhu",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76651,
+        "user": "左宝巨",
+        "content": "该点名了吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76654,
+        "user": "kydzhu",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76654,
+        "user": "kydzhu",
+        "content": "ZJ17d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76657,
+        "user": "龙的传人",
+        "content": "晕]"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76659,
+        "user": "OLIVERFJC",
+        "content": "不"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76662,
+        "user": "娅娅",
+        "content": "才点名的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76662,
+        "user": "kydzhu",
+        "content": "19必须冲。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76681,
+        "user": "左宝巨",
+        "content": "晕没看到呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76681,
+        "user": "kydzhu",
+        "content": "这样接下来的一些防点基本会变回去"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76703,
+        "user": "左宝巨",
+        "content": "刚方便一下？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76717,
+        "user": "kydzhu",
+        "content": "现在白i11，h12胜防哪"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76719,
+        "user": "逍遥游",
+        "content": "。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76724,
+        "user": "娅娅",
+        "content": "。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76725,
+        "user": "1373",
+        "content": "。。。。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76749,
+        "user": "wnqq111",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76757,
+        "user": "xp",
+        "content": "k10"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76766,
+        "user": "酷杀一片",
+        "content": "小丫丫哪个妩媚是谁拉？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76774,
+        "user": "娅娅",
+        "content": "不知道"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76779,
+        "user": "Sky",
+        "content": "J10。K10"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76780,
+        "user": "kydzhu",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76787,
+        "user": "过客432",
+        "content": "怎么保存不上啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76801,
+        "user": "过客432",
+        "content": "谁可以告诉我"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76810,
+        "user": "kydzhu",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76817,
+        "user": "娅娅",
+        "content": "你点保存就可以呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76826,
+        "user": "过客432",
+        "content": "我点保存了，打开什么也没有"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76828,
+        "user": "kydzhu",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76831,
+        "user": "kydzhu",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76845,
+        "user": "kydzhu",
+        "content": "23i8是最强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76848,
+        "user": "过客412",
+        "content": "保存了打不开"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76849,
+        "user": "kydzhu",
+        "content": "i6的话上面vcf"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76865,
+        "user": "zj01",
+        "content": "22手怎么不抓呢,"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76868,
+        "user": "过客432",
+        "content": "打开什么也没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76877,
+        "user": "kydzhu",
+        "content": "现在白l7四三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76883,
+        "user": "kydzhu",
+        "content": "还有通过f7的冲四"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76897,
+        "user": "Sky",
+        "content": "L7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76899,
+        "user": "kydzhu",
+        "content": "往右边连续冲之后的j8点vcf胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76910,
+        "user": "过客432",
+        "content": "黑糊糊的，什么也没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76913,
+        "user": "过客412",
+        "content": "最好的办法是用剪切之后再另存为"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76921,
+        "user": "过客432",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76933,
+        "user": "过客417",
+        "content": "H7？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76936,
+        "user": "过客432",
+        "content": "存到那"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76948,
+        "user": "涵婷",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76949,
+        "user": "kydzhu",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76954,
+        "user": "342",
+        "content": "QQ表情存好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76957,
+        "user": "左宝巨",
+        "content": "存电脑上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76962,
+        "user": "kydzhu",
+        "content": "这个点应该是唯一防住白棋vcf的点了。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76973,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76974,
+        "user": "kydzhu",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76975,
+        "user": "kydzhu",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76977,
+        "user": "kydzhu",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76977,
+        "user": "kydzhu",
+        "content": "ZJ196"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76988,
+        "user": "过客412",
+        "content": "你自己新建一个文件夹呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76992,
+        "user": "kydzhu",
+        "content": "通过i6后h7四三胜"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76993,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76993,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76994,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76994,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76995,
+        "user": "kydzhu",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77009,
+        "user": "过客432",
+        "content": "是啊"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77011,
+        "user": "kydzhu",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77026,
+        "user": "过客432",
+        "content": "打开黑糊糊的什么也没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77033,
+        "user": "过客412",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77036,
+        "user": "kydzhu",
+        "content": "由于直接冲了之后黑棋会多出个反杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77043,
+        "user": "洋洋",
+        "content": "从起文件名呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77045,
+        "user": "kydzhu",
+        "content": "所以单做个杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77049,
+        "user": "左宝巨",
+        "content": "油墨太多了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77060,
+        "user": "kydzhu",
+        "content": "然后利用f9活三后抓h13禁手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77062,
+        "user": "过客431",
+        "content": "几点下课 谁告诉我啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77085,
+        "user": "左宝巨",
+        "content": "马上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77086,
+        "user": "OLIVERFJC",
+        "content": "9：30"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77105,
+        "user": "洋洋",
+        "content": "快了，还有7分钟"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77115,
+        "user": "kydzhu",
+        "content": "现在黑没防"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77120,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77120,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77121,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77122,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77123,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77124,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77127,
+        "user": "过客431",
+        "content": "明白了 谢谢你"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77146,
+        "user": "kydzhu",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77153,
+        "user": "kydzhu",
+        "content": "如果防这里那么就变回去了。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77154,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77155,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77157,
+        "user": "kydzhu",
+        "content": "ZJ17d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77186,
+        "user": "kydzhu",
+        "content": "其他大家还觉得有防点么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77221,
+        "user": "飞飞",
+        "content": ","
+    },
+    {
+        "action": "BACK",
+        "time_int": 77228,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77229,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77230,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77231,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77241,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77242,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77244,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77246,
+        "user": "kydzhu",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77250,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77251,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77265,
+        "user": "kydzhu",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77271,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77290,
+        "user": "kydzhu",
+        "content": "刚才那里的变化大家都考虑过了吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77298,
+        "user": "水晶如风",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77315,
+        "user": "水晶雨",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77331,
+        "user": "wnqq111",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77348,
+        "user": "锋",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77348,
+        "user": "XiaoFR",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77349,
+        "user": "蓝雪人",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77363,
+        "user": "逸飞飞",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77363,
+        "user": "Sky",
+        "content": "`"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77364,
+        "user": "hanxiao",
+        "content": "."
+    },
+    {
+        "action": "BACK",
+        "time_int": 77383,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77384,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77390,
+        "user": "kydzhu",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77405,
+        "user": "kydzhu",
+        "content": "我们看下这个防点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77416,
+        "user": "kydzhu",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77434,
+        "user": "kydzhu",
+        "content": "i8唯一，防i12的话g10后i8胜"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77435,
+        "user": "kydzhu",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77436,
+        "user": "kydzhu",
+        "content": "ZJ19d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77437,
+        "user": "kydzhu",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77439,
+        "user": "kydzhu",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77443,
+        "user": "282801610",
+        "content": "我来晚了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77482,
+        "user": "kydzhu",
+        "content": "通过k10的禁点，做v保持先手同时做了个双三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77494,
+        "user": "kydzhu",
+        "content": "然后白胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77506,
+        "user": "heqing",
+        "content": "。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77514,
+        "user": "hanxiao",
+        "content": ","
+    },
+    {
+        "action": "TALK",
+        "time_int": 77517,
+        "user": "kydzhu",
+        "content": "大家要学习这样的进攻思路，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77525,
+        "user": "kydzhu",
+        "content": "这里如果换了次序那么就没胜了。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77529,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77531,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77531,
+        "user": "kydzhu",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77537,
+        "user": "过客431",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77541,
+        "user": "岁月",
+        "content": "*.*"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77549,
+        "user": "kydzhu",
+        "content": "今天有点晕。不好意思哈大家。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77554,
+        "user": "kydzhu",
+        "content": "今天的课就到这里。谢谢大家"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77555,
+        "user": "kydzhu",
+        "content": "拜拜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77564,
+        "user": "竹林闲士",
+        "content": "dao !!"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77565,
+        "user": "过客431",
+        "content": "老师辛苦了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77566,
+        "user": "xp",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77571,
+        "user": "水晶如风",
+        "content": "老师辛苦了；"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77573,
+        "user": "XiaoFR",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77575,
+        "user": "zj01",
+        "content": "到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77583,
+        "user": "过客431",
+        "content": "我到不了 我就哭"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77583,
+        "user": "亮亮",
+        "content": "谢谢老师"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 77586,
+        "user": "",
+        "content": " 逸飞飞, 飘雪的夏天, 风清, XiaoFR, 亮亮, 娅娅, ndh002, 清逸, hanxiao, ndh003, 妖妖, 龙的传人, 酷杀一片, 洋洋, 清秋弈人, 云连棋丐, 水晶绿茶, 涵婷, Answer, 婉晴, 5873627, 徐永伟, 1373, 潇洒, 寒冰, Sky, 晴子, heqing, 冰宝宝, 蓝雪人, StarRain, 420631350, AUTHOR, wnqq111, 禅影夜裟, 水晶如风, yonghumm, 妩媚, xp, ndh005, 虞旭鹏, 竹林闲士, 梦依, 月亮的影子, 宁静致远, 失落缘, 飞飞, 朝, yuelee00, 纯溪, 342, 左宝巨, 蝶恋花, 小夢, 迈克, 水晶014, 282801610, 小鸟, 天使心, 水晶雨, 菜女, 狮子何必吼, 锋, 菜农."
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77587,
+        "user": "",
+        "content": " 1373, 342, 5873627, Answer, AUTHOR, hanxiao, heqing, ndh002, ndh003, ndh005, Sky, StarRain, wnqq111, XiaoFR, xp, yonghumm, yuelee00, 菜女, 朝, 蝶恋花, 飞飞, 锋, 风清, 涵婷, 寒冰, 酷杀一片, 蓝雪人, 亮亮, 龙的传人, 迈克, 梦依, 宁静致远, 飘雪的夏天, 清秋弈人, 清逸, 晴子, 失落缘, 水晶如风, 水晶雨, 天使心, 小夢, 小鸟, 徐永伟, 洋洋, 妖妖, 逸飞飞, 虞旭鹏, 月亮的影子, 云连棋丐, 左宝巨, 妩媚, 娅娅, 禅影夜裟."
+    }
+]

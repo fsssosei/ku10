@@ -1,0 +1,3356 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 71961,
+        "user": "",
+        "content": "ZJ0290290HH1II0GG1HI0GI1IG0IJ1GJ0FH1IH0JG1HJ0JH1EJ0FK1HK0FI1FJ0DJ1EI0DH1EH0EK1FF0EG1DG0IE1JE0GF"
+    },
+    {
+        "action": "LOAD",
+        "time_int": 71961,
+        "user": "",
+        "content": "ZJ08819907718907919709a17a0681980a718a0a815a06b18b06916a04a15904815805b1660571470951a5076"
+    },
+    {
+        "action": "TALK",
+        "time_int": 71969,
+        "user": "失落缘",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 71982,
+        "user": "qiudeming",
+        "content": "有没有人知道下手白在那里？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 71996,
+        "user": "五子棋痴",
+        "content": "G4？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72020,
+        "user": "qiudeming",
+        "content": "还有其他的答案吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72050,
+        "user": "失落缘",
+        "content": "A1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72063,
+        "user": "五子棋痴",
+        "content": "晕"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72081,
+        "user": "qiudeming",
+        "content": "好吧看看G4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72083,
+        "user": "qiudeming",
+        "content": "ZJ074"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72086,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72086,
+        "user": "过客852",
+        "content": "对,A1最好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72088,
+        "user": "qiudeming",
+        "content": "ZJ174"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72097,
+        "user": "wpalhm",
+        "content": "f4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72119,
+        "user": "qiudeming",
+        "content": "<wpalhm>你能说说你F4的思路吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72148,
+        "user": "wpalhm",
+        "content": "不知道"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72154,
+        "user": "qiudeming",
+        "content": "没人说我就直接讲了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72173,
+        "user": "qiudeming",
+        "content": "G4是唯一，但是大家知道为什么G4是唯一吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72197,
+        "user": "五子棋痴",
+        "content": "其他的点都黑胜是吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72202,
+        "user": "过客850",
+        "content": "不知道"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72203,
+        "user": "qiudeming",
+        "content": "是黑胜"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72206,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72207,
+        "user": "qiudeming",
+        "content": "ZJ175"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72212,
+        "user": "棋乐",
+        "content": "怎么胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72213,
+        "user": "qiudeming",
+        "content": "我们先来看看G5的变化"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72225,
+        "user": "qiudeming",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72236,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72237,
+        "user": "qiudeming",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72241,
+        "user": "qiudeming",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72242,
+        "user": "qiudeming",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72252,
+        "user": "qiudeming",
+        "content": "这个变化是黑胜的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72282,
+        "user": "五子棋痴",
+        "content": "这里31和33顺序不可以错？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72296,
+        "user": "qiudeming",
+        "content": "不能有很大的区别"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72300,
+        "user": "五子棋痴",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72322,
+        "user": "qiudeming",
+        "content": "先看看这个"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72337,
+        "user": "qiudeming",
+        "content": "这里防那好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72348,
+        "user": "qiudeming",
+        "content": "这里白防那里最好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72359,
+        "user": "过客852",
+        "content": "L9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72387,
+        "user": "123",
+        "content": "j6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72389,
+        "user": "过客850",
+        "content": "j9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72389,
+        "user": "五子棋痴",
+        "content": "J9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72409,
+        "user": "qiudeming",
+        "content": "852能说说原因吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72430,
+        "user": "过客848",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72452,
+        "user": "zmsy001",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72465,
+        "user": "qiudeming",
+        "content": "防L9的原因"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72475,
+        "user": "qiudeming",
+        "content": "是什么想到让你防L9的？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72488,
+        "user": "过客852",
+        "content": "限制"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72496,
+        "user": "qiudeming",
+        "content": "怎样的限制？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72518,
+        "user": "过客852",
+        "content": "上与下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72532,
+        "user": "qiudeming",
+        "content": "你的意思是不是说如果被黑占到这个点，那么1子2通，并且黑上面的形状也很好，是不是？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72533,
+        "user": "过客852",
+        "content": "主要在空间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72549,
+        "user": "qiudeming",
+        "content": "是这个意思吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72561,
+        "user": "过客852",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72564,
+        "user": "qiudeming",
+        "content": "好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72577,
+        "user": "qiudeming",
+        "content": "我们现在抛开这个是黑必胜的想法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72590,
+        "user": "qiudeming",
+        "content": "单看这个局面L9的确是局部的强防"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72618,
+        "user": "qiudeming",
+        "content": "ZJ1c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72624,
+        "user": "qiudeming",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72625,
+        "user": "qiudeming",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72626,
+        "user": "qiudeming",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72627,
+        "user": "qiudeming",
+        "content": "ZJ1a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72628,
+        "user": "qiudeming",
+        "content": "ZJ096"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72630,
+        "user": "qiudeming",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72631,
+        "user": "qiudeming",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72646,
+        "user": "qiudeming",
+        "content": "这样黑就杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72661,
+        "user": "qiudeming",
+        "content": "但是请大家仔细的回忆刚才我所说的30唯一在那里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72672,
+        "user": "烟雨",
+        "content": "G4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72676,
+        "user": "qiudeming",
+        "content": "是的G4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72689,
+        "user": "qiudeming",
+        "content": "请看下如果30=G4这个杀法还成不成立？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72697,
+        "user": "robin",
+        "content": "黑还是V了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72714,
+        "user": "qiudeming",
+        "content": "我的意思是30=G4的时候这个杀法成立不成立"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72753,
+        "user": "qiudeming",
+        "content": "成立吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72787,
+        "user": "过客852",
+        "content": "应不成立"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72792,
+        "user": "qiudeming",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72799,
+        "user": "qiudeming",
+        "content": "好我们在反过来看"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72800,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 72833,
+        "user": "qiudeming",
+        "content": "这个局面40 38 36 有问题没有？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72857,
+        "user": "qiudeming",
+        "content": "这3手棋白有没有问题？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72869,
+        "user": "过客852",
+        "content": "没有吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72876,
+        "user": "qiudeming",
+        "content": "那好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72883,
+        "user": "qiudeming",
+        "content": "40 38 36都没有任何问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72888,
+        "user": "robin",
+        "content": "必然的棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72888,
+        "user": "过客850",
+        "content": "没"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72896,
+        "user": "qiudeming",
+        "content": "34控制黑棋外围属于强防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72902,
+        "user": "qiudeming",
+        "content": "但是白却死了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72909,
+        "user": "qiudeming",
+        "content": "这个局面的问题到底出在那里呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72919,
+        "user": "过客852",
+        "content": "30"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72927,
+        "user": "qiudeming",
+        "content": "是的很显然出在30上面"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72928,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72929,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72929,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72930,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72930,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72931,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72931,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72932,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72933,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72933,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72934,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72936,
+        "user": "qiudeming",
+        "content": "ZJ174"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72939,
+        "user": "qiudeming",
+        "content": "ZJ08c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72940,
+        "user": "qiudeming",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72941,
+        "user": "qiudeming",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72945,
+        "user": "qiudeming",
+        "content": "换个30"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72947,
+        "user": "qiudeming",
+        "content": "大家再看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72981,
+        "user": "qiudeming",
+        "content": "这样白限制了刚才那个活3 并且把黑在下方的进攻连接缩小，所以这个30强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73009,
+        "user": "qiudeming",
+        "content": "通常我们都说进攻时要注意子力的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73024,
+        "user": "qiudeming",
+        "content": "防守时要注意对方的连接点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73040,
+        "user": "qiudeming",
+        "content": "其实说的都是一个意思 就是要注意要点的掌握"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73078,
+        "user": "qiudeming",
+        "content": "这个局面就是这个样子白30强占到黑白行棋的要点"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73093,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73095,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73102,
+        "user": "qiudeming",
+        "content": "我们再倒回来看31"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73114,
+        "user": "qiudeming",
+        "content": "31是中村第1次下出的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73140,
+        "user": "qiudeming",
+        "content": "我们一直都在用 都说31强，但是有人知道他到底强在那里吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73173,
+        "user": "qiudeming",
+        "content": "请大家踊跃的回答问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73185,
+        "user": "过客852",
+        "content": "一是镇,二是连吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73187,
+        "user": "qiudeming",
+        "content": "没有关系说错了不要紧的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73189,
+        "user": "笨蛋020",
+        "content": "左右连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73201,
+        "user": "qiudeming",
+        "content": "好你们都说到了一个字连"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73203,
+        "user": "qiudeming",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73205,
+        "user": "qiudeming",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73210,
+        "user": "qiudeming",
+        "content": "请看33手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73222,
+        "user": "qiudeming",
+        "content": "是不是将上下都连起来的样子？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73223,
+        "user": "wpalhm",
+        "content": "为什么33一定要走L8？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73238,
+        "user": "qiudeming",
+        "content": "没有的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73245,
+        "user": "qiudeming",
+        "content": "33还有很多选择都很强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73253,
+        "user": "qiudeming",
+        "content": "比如L9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73253,
+        "user": "wpalhm",
+        "content": "哦"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73256,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73256,
+        "user": "qiudeming",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73261,
+        "user": "qiudeming",
+        "content": "这样也是可以的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73266,
+        "user": "519753687",
+        "content": "扩大地盘"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73278,
+        "user": "wpalhm",
+        "content": "K9可以不？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73281,
+        "user": "棋乐",
+        "content": "这个好想点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73315,
+        "user": "qiudeming",
+        "content": "先面我要摆的一个变化是2001年日本国内比赛的一盘棋，黑的进攻思路相当的巧妙"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73317,
+        "user": "qiudeming",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73319,
+        "user": "qiudeming",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73337,
+        "user": "qiudeming",
+        "content": "35强，往上面寻求连接"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73352,
+        "user": "qiudeming",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73359,
+        "user": "qiudeming",
+        "content": "36是局部最强了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73361,
+        "user": "qiudeming",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73423,
+        "user": "qiudeming",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73430,
+        "user": "qiudeming",
+        "content": "ZJ0bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73439,
+        "user": "qiudeming",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73447,
+        "user": "qiudeming",
+        "content": "40是白的败招"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73477,
+        "user": "Sky",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73477,
+        "user": "qiudeming",
+        "content": "请看下面黑是怎样利用31这个连接做杀的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73480,
+        "user": "qiudeming",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73482,
+        "user": "qiudeming",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73489,
+        "user": "qiudeming",
+        "content": "ZJ0ad"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73505,
+        "user": "qiudeming",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73506,
+        "user": "qiudeming",
+        "content": "ZJ09d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73511,
+        "user": "qiudeming",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73512,
+        "user": "qiudeming",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73539,
+        "user": "qiudeming",
+        "content": "到47白投了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73551,
+        "user": "qiudeming",
+        "content": "31是赢棋的关键"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73569,
+        "user": "qiudeming",
+        "content": "黑在上面双杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73583,
+        "user": "qiudeming",
+        "content": "所以我们可以看出31是局部的关键点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73588,
+        "user": "qiudeming",
+        "content": "也就是我们所说的要点"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73623,
+        "user": "qiudeming",
+        "content": 12
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73625,
+        "user": "qiudeming",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73641,
+        "user": "qiudeming",
+        "content": "现在我出一到题目请大家来看看要点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73662,
+        "user": "qiudeming",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73663,
+        "user": "qiudeming",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73663,
+        "user": "qiudeming",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73664,
+        "user": "qiudeming",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73665,
+        "user": "qiudeming",
+        "content": "ZJ186"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73666,
+        "user": "qiudeming",
+        "content": "ZJ04a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73666,
+        "user": "qiudeming",
+        "content": "ZJ13b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73669,
+        "user": "qiudeming",
+        "content": "ZJ049"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73672,
+        "user": "qiudeming",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73673,
+        "user": "qiudeming",
+        "content": "ZJ05c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73677,
+        "user": "qiudeming",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73678,
+        "user": "qiudeming",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73680,
+        "user": "qiudeming",
+        "content": "ZJ139"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73683,
+        "user": "qiudeming",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73704,
+        "user": "qiudeming",
+        "content": "现在轮到白棋防守"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73708,
+        "user": "qiudeming",
+        "content": "可走的点很多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73724,
+        "user": "qiudeming",
+        "content": "请问大家觉得那里最好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73758,
+        "user": "123",
+        "content": "d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73764,
+        "user": "qiudeming",
+        "content": "ZJ148"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73768,
+        "user": "519753687",
+        "content": "E8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73783,
+        "user": "过客852",
+        "content": "D8我也想"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73804,
+        "user": "水晶014",
+        "content": "28G5可以吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73808,
+        "user": "qiudeming",
+        "content": "请大家记住"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73822,
+        "user": "qiudeming",
+        "content": "在相同的防守下局面尽量的开阔一些"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73837,
+        "user": "qiudeming",
+        "content": "尽量让棋看起来有韧性"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73845,
+        "user": "qiudeming",
+        "content": "也不是一味的死防"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73850,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 73858,
+        "user": "qiudeming",
+        "content": "刚才有人说的了G5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73870,
+        "user": "qiudeming",
+        "content": "能说说为什么会想到G5吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73891,
+        "user": "水晶014",
+        "content": "利用先手呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73895,
+        "user": "qiudeming",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73899,
+        "user": "qiudeming",
+        "content": "这里白有个先手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73905,
+        "user": "qiudeming",
+        "content": "可以先手进行交换"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73910,
+        "user": "qiudeming",
+        "content": "ZJ175"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73918,
+        "user": "qiudeming",
+        "content": "实战也正是这样走的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73937,
+        "user": "qiudeming",
+        "content": "白方是奈良"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73947,
+        "user": "qiudeming",
+        "content": "我想解释一下28的好处"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73953,
+        "user": "qiudeming",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73971,
+        "user": "qiudeming",
+        "content": "这里白交换掉一手先不用说好坏"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73992,
+        "user": "qiudeming",
+        "content": "因为交换不一定是好棋的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74006,
+        "user": "qiudeming",
+        "content": "请看下面白的防守"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74020,
+        "user": "qiudeming",
+        "content": "ZJ13a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74029,
+        "user": "qiudeming",
+        "content": "ZJ038"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74031,
+        "user": "qiudeming",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74034,
+        "user": "qiudeming",
+        "content": "32叫杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74048,
+        "user": "qiudeming",
+        "content": "ZJ04c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74049,
+        "user": "qiudeming",
+        "content": "ZJ14b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74051,
+        "user": "qiudeming",
+        "content": "ZJ02b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74055,
+        "user": "qiudeming",
+        "content": "ZJ146"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74065,
+        "user": "qiudeming",
+        "content": "36一手黑什么都没了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74078,
+        "user": "qiudeming",
+        "content": "大家看一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74088,
+        "user": "qiudeming",
+        "content": "这里的28 36 2手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74093,
+        "user": "qiudeming",
+        "content": "白相当的开阔"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74103,
+        "user": "qiudeming",
+        "content": "没有一味的死防"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74111,
+        "user": "qiudeming",
+        "content": "我打个比方"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74136,
+        "user": "qiudeming",
+        "content": "防要点就像一个笼子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74149,
+        "user": "qiudeming",
+        "content": "对方就像笼子里面的野兽"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74174,
+        "user": "qiudeming",
+        "content": "占要点的意思就是占据外围"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74183,
+        "user": "qiudeming",
+        "content": "这样把对手困在里面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74218,
+        "user": "qiudeming",
+        "content": "此局白的防守是相当精确的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74249,
+        "user": "qiudeming",
+        "content": "希望大家在以后行棋的过程中一定要记住，要点的重要性"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74258,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74259,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74259,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74277,
+        "user": "棋乐",
+        "content": "明白了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74292,
+        "user": "烟雨",
+        "content": "那这棋黑能胜吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74297,
+        "user": "qiudeming",
+        "content": "不能的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74308,
+        "user": "qiudeming",
+        "content": "下面我要讲解的是进攻的要点"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74310,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74311,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74311,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74311,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74314,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74315,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74315,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74315,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74316,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74316,
+        "user": "笨蛋020",
+        "content": "这里要很大的计算"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74317,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74318,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74318,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74319,
+        "user": "wei_qqq",
+        "content": "18败吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74332,
+        "user": "qiudeming",
+        "content": "是的现在的研究表明18是必败"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74342,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74343,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74344,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74359,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74360,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74361,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74361,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74362,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74362,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74363,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74365,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74365,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74366,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74366,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74367,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74368,
+        "user": "qiudeming",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74377,
+        "user": "qiudeming",
+        "content": "这个7是老定试"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74383,
+        "user": "qiudeming",
+        "content": "有没有不熟悉的？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74415,
+        "user": "莲珠秀",
+        "content": "我不会啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74417,
+        "user": "笨蛋020",
+        "content": "我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74428,
+        "user": "qiudeming",
+        "content": "慢慢来先听我讲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74430,
+        "user": "蓉儿",
+        "content": "我"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74434,
+        "user": "过客850",
+        "content": "i"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74435,
+        "user": "qiudeming",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74436,
+        "user": "wpalhm",
+        "content": "还有我！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74439,
+        "user": "新世纪",
+        "content": "没记过定式"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74448,
+        "user": "qiudeming",
+        "content": "8防双禁是白唯一"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74450,
+        "user": "过客850",
+        "content": "i7 i10 哪点更强"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74462,
+        "user": "qiudeming",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74464,
+        "user": "qiudeming",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74465,
+        "user": "qiudeming",
+        "content": "ZJ056"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74465,
+        "user": "qiudeming",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74466,
+        "user": "qiudeming",
+        "content": "ZJ065"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74476,
+        "user": "qiudeming",
+        "content": "这里黑有2路应法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74485,
+        "user": "qiudeming",
+        "content": "G4和H7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74489,
+        "user": "qiudeming",
+        "content": "我们先看H7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74520,
+        "user": "qiudeming",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74531,
+        "user": "qiudeming",
+        "content": "15你们觉得走那里好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74539,
+        "user": "qiudeming",
+        "content": "我给点提示"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74546,
+        "user": "qiudeming",
+        "content": "这里黑强攻是不行的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74560,
+        "user": "qiudeming",
+        "content": "请注意黑11 13的这个2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74562,
+        "user": "过客852",
+        "content": "F9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74565,
+        "user": "robin",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74584,
+        "user": "qiudeming",
+        "content": "还有其他的吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74607,
+        "user": "蓉儿",
+        "content": "I6？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74627,
+        "user": "qiudeming",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74652,
+        "user": "笨蛋020",
+        "content": "这个15挂了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74652,
+        "user": "qiudeming",
+        "content": "I6这个点好像白杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74667,
+        "user": "水晶014",
+        "content": "？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74676,
+        "user": "qiudeming",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74677,
+        "user": "qiudeming",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74677,
+        "user": "qiudeming",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74678,
+        "user": "qiudeming",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74679,
+        "user": "qiudeming",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74679,
+        "user": "qiudeming",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74684,
+        "user": "qiudeming",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74684,
+        "user": "水晶014",
+        "content": "15是I6？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74688,
+        "user": "robin",
+        "content": "0"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74692,
+        "user": "qiudeming",
+        "content": "容儿看见了吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74709,
+        "user": "qiudeming",
+        "content": "好我们就先说这个必败的15"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74709,
+        "user": "蓉儿",
+        "content": "这个是I5"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74728,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74729,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74729,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74730,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74730,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74731,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74731,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74732,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74733,
+        "user": "qiudeming",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74735,
+        "user": "过客848",
+        "content": "抓了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74738,
+        "user": "qiudeming",
+        "content": "好看I6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74751,
+        "user": "qiudeming",
+        "content": "容儿先说下你的看法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74784,
+        "user": "蓉儿",
+        "content": "防守和连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74799,
+        "user": "qiudeming",
+        "content": "防掉白的2和11 13连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74811,
+        "user": "蓉儿",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74819,
+        "user": "qiudeming",
+        "content": "很有道理"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74833,
+        "user": "qiudeming",
+        "content": "但是请问你考虑过这里谁的子力强这个问题没有？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74891,
+        "user": "过客852",
+        "content": "听不懂,是人还是棋?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74899,
+        "user": "qiudeming",
+        "content": "棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74907,
+        "user": "过客852",
+        "content": "黑"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74926,
+        "user": "qiudeming",
+        "content": "但是我觉得这个局部的子力白强"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74928,
+        "user": "qiudeming",
+        "content": "ZJ1b7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74938,
+        "user": "qiudeming",
+        "content": "16是牵制"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74961,
+        "user": "qiudeming",
+        "content": "这样一走黑的进攻线路就被切断了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74972,
+        "user": "qiudeming",
+        "content": "而且还被白棋控制在下面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74993,
+        "user": "qiudeming",
+        "content": "有问题吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75009,
+        "user": "qiudeming",
+        "content": "请大家看看这里对不对？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75050,
+        "user": "过客852",
+        "content": "感觉黑难受,呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75071,
+        "user": "qiudeming",
+        "content": "所以这个15看似很强但是却没有什么好的后续手段"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75093,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75093,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75094,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75095,
+        "user": "qiudeming",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75096,
+        "user": "qiudeming",
+        "content": "ZJ069"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75107,
+        "user": "qiudeming",
+        "content": "我们来看另外一个刚才说的15"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75122,
+        "user": "qiudeming",
+        "content": "这个和刚才的思路差不多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75138,
+        "user": "qiudeming",
+        "content": "只是这里黑的进攻比较开阔"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75170,
+        "user": "qiudeming",
+        "content": "16大家觉得防那里好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75183,
+        "user": "烟雨",
+        "content": "D7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75194,
+        "user": "过客850",
+        "content": "d8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75202,
+        "user": "wpalhm",
+        "content": "D8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75204,
+        "user": "qiudeming",
+        "content": "D8 D7的思路很明确"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75214,
+        "user": "qiudeming",
+        "content": "限制黑在外围的发展"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75238,
+        "user": "qiudeming",
+        "content": "ZJ147"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75243,
+        "user": "qiudeming",
+        "content": "我们先看下D7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75262,
+        "user": "qiudeming",
+        "content": "这个时候白刚才的杀已经不成立了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75267,
+        "user": "robin",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75274,
+        "user": "qiudeming",
+        "content": "黑可以做棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75280,
+        "user": "robin",
+        "content": "0"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75281,
+        "user": "qiudeming",
+        "content": "但是做那里最好呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75307,
+        "user": "qiudeming",
+        "content": "有人愿意试试吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75351,
+        "user": "qiudeming",
+        "content": "没说我就我说了啊"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75362,
+        "user": "qiudeming",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75371,
+        "user": "qiudeming",
+        "content": "I5是黑下面的要点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75390,
+        "user": "qiudeming",
+        "content": "我又想重复一下要点的解释"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75448,
+        "user": "qiudeming",
+        "content": "假设一下如果17被白占到会是什么结果？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75489,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75490,
+        "user": "qiudeming",
+        "content": "ZJ085"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75491,
+        "user": "qiudeming",
+        "content": "ZJ195"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75494,
+        "user": "qiudeming",
+        "content": "比如这样？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75505,
+        "user": "qiudeming",
+        "content": "你们有什么感觉？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75523,
+        "user": "qiudeming",
+        "content": "是不是感觉头被人按住了，出不去的感觉？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75528,
+        "user": "robin",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75529,
+        "user": "yywanzi",
+        "content": "窒息"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75533,
+        "user": "qiudeming",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75538,
+        "user": "123",
+        "content": "黑就没戏了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75539,
+        "user": "qiudeming",
+        "content": "所以这里17是要点"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75541,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75542,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75542,
+        "user": "qiudeming",
+        "content": "ZJ095"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75615,
+        "user": "qiudeming",
+        "content": "大家觉得这个18走那里好？"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75626,
+        "user": "qiudeming",
+        "content": "ZJ1d5"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75627,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75665,
+        "user": "qiudeming",
+        "content": "18走那里最好？大家想一下？"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 75667,
+        "user": "",
+        "content": " 乐, 棋乐, 123, 519753687, 五子棋痴, 莲珠秀, 笨蛋020, 烟雨, 水晶009, 新世纪, 水晶011, 含笑, 蓉儿, yywanzi, 徐永伟, zmsy001, wpalhm, 天鹰, 我想飞, 虞旭鹏, wei_qqq, Sharon, K.小雪, 小艾, 水晶014, 春天."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75705,
+        "user": "123",
+        "content": "j5可以吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75714,
+        "user": "过客851",
+        "content": "h4?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75718,
+        "user": "Sky",
+        "content": "完了，卡住米点到:(("
+    },
+    {
+        "action": "TALK",
+        "time_int": 75722,
+        "user": "qiudeming",
+        "content": "请说明理由"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75764,
+        "user": "123",
+        "content": "防13和17,以及眠三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75792,
+        "user": "qiudeming",
+        "content": "18J5是好点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75871,
+        "user": "qiudeming",
+        "content": "这样是黑白纠缠的局面了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75912,
+        "user": "qiudeming",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75913,
+        "user": "qiudeming",
+        "content": "ZJ0a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75914,
+        "user": "qiudeming",
+        "content": "ZJ1b3"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75914,
+        "user": "qiudeming",
+        "content": "ZJ094"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75945,
+        "user": "qiudeming",
+        "content": "这里白怎么走？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75973,
+        "user": "过客851",
+        "content": "i2?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75980,
+        "user": "过客850",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75992,
+        "user": "123",
+        "content": "H4可以吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75999,
+        "user": "过客852",
+        "content": "H3?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76005,
+        "user": "qiudeming",
+        "content": "I2好像过于追求形状了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76014,
+        "user": "qiudeming",
+        "content": "H3同理"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76025,
+        "user": "519753687",
+        "content": "G4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76046,
+        "user": "qiudeming",
+        "content": "大家不要想太多啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76055,
+        "user": "qiudeming",
+        "content": "我发现你们都去考虑要点了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76073,
+        "user": "qiudeming",
+        "content": "你们得分析下这里黑的进攻套路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76092,
+        "user": "过客850",
+        "content": "h"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76105,
+        "user": "过客850",
+        "content": "5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76145,
+        "user": "qiudeming",
+        "content": "其实你们说的走法都是可行的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76157,
+        "user": "Sharon",
+        "content": "冲I6挡H4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76173,
+        "user": "乐",
+        "content": "K4?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76186,
+        "user": "qiudeming",
+        "content": "你们需要明白的是黑21的目的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76214,
+        "user": "Sharon",
+        "content": "要是被黑走I6做杀就不好玩了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76224,
+        "user": "qiudeming",
+        "content": "21黑到底是想在局部做杀还是和白进行纠缠进行攻防转换？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76243,
+        "user": "qiudeming",
+        "content": "好刚才有人说到了I6做杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76250,
+        "user": "qiudeming",
+        "content": "ZJ1f1"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76251,
+        "user": "qiudeming",
+        "content": "ZJ096"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76261,
+        "user": "qiudeming",
+        "content": "我们看下黑I6做杀是什么局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76279,
+        "user": "qiudeming",
+        "content": "这里白似乎走H4是唯一了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76280,
+        "user": "qiudeming",
+        "content": "ZJ184"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76301,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76301,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76302,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76303,
+        "user": "qiudeming",
+        "content": "ZJ184"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76311,
+        "user": "qiudeming",
+        "content": "反过来想要是22先走这里呢？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76346,
+        "user": "qiudeming",
+        "content": "请注意看下22 18 20的形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76361,
+        "user": "qiudeming",
+        "content": "这里黑只有一个2了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76364,
+        "user": "qiudeming",
+        "content": "ZJ093"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76364,
+        "user": "qiudeming",
+        "content": "ZJ192"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76370,
+        "user": "过客850",
+        "content": "八卦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76377,
+        "user": "过客852",
+        "content": "8字阵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76379,
+        "user": "qiudeming",
+        "content": "直活的结果就是被白挂"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76380,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76381,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76381,
+        "user": "qiudeming",
+        "content": "ZJ092"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76401,
+        "user": "qiudeming",
+        "content": "跳活会被反3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76415,
+        "user": "qiudeming",
+        "content": "所以这里22H4最强"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76416,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76447,
+        "user": "qiudeming",
+        "content": "这里能够想明白吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76474,
+        "user": "过客852",
+        "content": "能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76484,
+        "user": "qiudeming",
+        "content": "到这里好像黑没有东西了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76491,
+        "user": "qiudeming",
+        "content": "被白全部防死了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76551,
+        "user": "蓉儿",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76590,
+        "user": "qiudeming",
+        "content": "请问大家发现什么黑好的手段了吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76661,
+        "user": "Sharon",
+        "content": "没有了。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76692,
+        "user": "qiudeming",
+        "content": "有觉得有的吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76696,
+        "user": "Sharon",
+        "content": "是不是19出问题了？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76721,
+        "user": "qiudeming",
+        "content": "其实不是"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76733,
+        "user": "过客850",
+        "content": "那是？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76742,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76743,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76743,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76744,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76745,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76748,
+        "user": "qiudeming",
+        "content": "这个的问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76758,
+        "user": "蓉儿",
+        "content": "17不对吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76762,
+        "user": "qiudeming",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76774,
+        "user": "qiudeming",
+        "content": "这里我要解释一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76789,
+        "user": "过客852",
+        "content": "晕,你刚才说17是好点是关键的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76789,
+        "user": "qiudeming",
+        "content": "17虽然是要点，但是要注意选择的时机"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76799,
+        "user": "qiudeming",
+        "content": "请听我解释"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76820,
+        "user": "qiudeming",
+        "content": "希望大家在以后行棋的过程中牢记"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76838,
+        "user": "qiudeming",
+        "content": "要点虽好，但是一定要注意时机"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76850,
+        "user": "qiudeming",
+        "content": "时机错了要点也就没用可"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76874,
+        "user": "过客852",
+        "content": "是次序的问题吗?"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76882,
+        "user": "qiudeming",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76884,
+        "user": "过客850",
+        "content": "那怎么判断 是不是时机"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76906,
+        "user": "笨蛋020",
+        "content": "17一下下面都死掉了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76913,
+        "user": "qiudeming",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76926,
+        "user": "qiudeming",
+        "content": "就好像双方在打仗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76943,
+        "user": "qiudeming",
+        "content": "其中一方过早的将自己的目标暴露给对方一个道理"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76949,
+        "user": "qiudeming",
+        "content": "明白吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76964,
+        "user": "wpalhm",
+        "content": "好难理解"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76970,
+        "user": "qiudeming",
+        "content": "17是黑的要点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76975,
+        "user": "笨蛋020",
+        "content": "17是黑石下法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76991,
+        "user": "过客850",
+        "content": "恩 关键是 我怎么判断 什么时候 是时机到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77003,
+        "user": "qiudeming",
+        "content": "子力的连接，强弱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77033,
+        "user": "519753687",
+        "content": "晕了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77063,
+        "user": "蓉儿",
+        "content": "好难"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77066,
+        "user": "过客850",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77080,
+        "user": "qiudeming",
+        "content": "好我慢慢说"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77090,
+        "user": "烟雨",
+        "content": "下个棋咋就这么难捏"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77101,
+        "user": "qiudeming",
+        "content": "你们觉得黑棋单靠下面能不能形成绝杀？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77111,
+        "user": "Sharon",
+        "content": "17走E4可以么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77128,
+        "user": "蓉儿",
+        "content": "好象就是那里哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77155,
+        "user": "qiudeming",
+        "content": "你们觉得黑靠下面的子力能不能够杀掉白棋？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77165,
+        "user": "Sharon",
+        "content": "现在还不能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77169,
+        "user": "过客850",
+        "content": "bu能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77173,
+        "user": "过客852",
+        "content": "有攻无杀吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77177,
+        "user": "qiudeming",
+        "content": "很明显这个是不可能的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77187,
+        "user": "qiudeming",
+        "content": "所以就需要接应"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77191,
+        "user": "qiudeming",
+        "content": "这个能理解不？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77205,
+        "user": "Sharon",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77206,
+        "user": "qiudeming",
+        "content": "需要其他地方的子力接应"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77209,
+        "user": "过客852",
+        "content": "所以有个次序在里面,呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77213,
+        "user": "qiudeming",
+        "content": "这个明白吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77224,
+        "user": "过客852",
+        "content": "是的,"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77226,
+        "user": "过客850",
+        "content": "能"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77228,
+        "user": "qiudeming",
+        "content": "所以请大家记住"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77241,
+        "user": "qiudeming",
+        "content": "在局部有攻无杀的情况下，切忌强攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77251,
+        "user": "qiudeming",
+        "content": "一定要寻求子力的连接"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77276,
+        "user": "过客852",
+        "content": "是的,记住了老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77280,
+        "user": "过客848",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77283,
+        "user": "519753687",
+        "content": "要扩大地盘 安全联络点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77291,
+        "user": "莲珠秀",
+        "content": "要好强的计算力哦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77297,
+        "user": "123",
+        "content": "是有道理,但是实际比较难以判断"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77299,
+        "user": "qiudeming",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77310,
+        "user": "qiudeming",
+        "content": "这个需要你对盘面的认识"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77337,
+        "user": "qiudeming",
+        "content": "如果抛开黑下面的攻来看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77338,
+        "user": "过客852",
+        "content": "感觉杀不出来,就要想到去连络做棋吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77349,
+        "user": "qiudeming",
+        "content": "你们觉得这个局面应该是白好还是黑好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77350,
+        "user": "123",
+        "content": "17下E4"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77376,
+        "user": "过客852",
+        "content": "黑优"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77379,
+        "user": "蓉儿",
+        "content": "黑好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77380,
+        "user": "qiudeming",
+        "content": "不要考虑黑下面有强攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77396,
+        "user": "qiudeming",
+        "content": "只分析外围的局部"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77399,
+        "user": "笨蛋020",
+        "content": "白"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77405,
+        "user": "qiudeming",
+        "content": "我来分析一下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77412,
+        "user": "蓝雪人",
+        "content": "都不怎么样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77433,
+        "user": "笨蛋020",
+        "content": "白好控制"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77443,
+        "user": "qiudeming",
+        "content": "白有很多好点可以连接L7 E8 G11=="
+    },
+    {
+        "action": "TALK",
+        "time_int": 77450,
+        "user": "qiudeming",
+        "content": "黑却在上面一个都没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77457,
+        "user": "qiudeming",
+        "content": "所以我认为这个是个白好的局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77478,
+        "user": "qiudeming",
+        "content": "黑在这里要想取得优势就必须先防守，冷静的等待"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77480,
+        "user": "笨蛋020",
+        "content": "黑的优势不好连接起来"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77515,
+        "user": "qiudeming",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77520,
+        "user": "qiudeming",
+        "content": "还是刚才的道理"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77523,
+        "user": "qiudeming",
+        "content": "笼子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77534,
+        "user": "qiudeming",
+        "content": "你越往里面钻就越紧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77542,
+        "user": "qiudeming",
+        "content": "最后就死在里面了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77562,
+        "user": "qiudeming",
+        "content": "所以大家必须注意要点选择的时机"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77605,
+        "user": "123",
+        "content": "老师可以演示一下吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77616,
+        "user": "qiudeming",
+        "content": "不管是进攻还是防守要点都是非常重要的，但是如果选择的时机不对反而会适得其反"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77703,
+        "user": "qiudeming",
+        "content": "个人认为这个局面我会下J10"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77705,
+        "user": "qiudeming",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77706,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77706,
+        "user": "qiudeming",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77707,
+        "user": "qiudeming",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77710,
+        "user": "qiudeming",
+        "content": "这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77740,
+        "user": "过客852",
+        "content": "理由"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77761,
+        "user": "徐永伟",
+        "content": "理由下次课程说吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77762,
+        "user": "qiudeming",
+        "content": "很简单这里白两边都有强攻右边的攻强于左边"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77769,
+        "user": "徐永伟",
+        "content": "今天时间到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77770,
+        "user": "qiudeming",
+        "content": "今天就到这里吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77773,
+        "user": "Sky",
+        "content": "老师再点次名可以不"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77776,
+        "user": "qiudeming",
+        "content": "OK"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77778,
+        "user": "Sharon",
+        "content": "。。。。。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77790,
+        "user": "Sky",
+        "content": "刚才卡了米点到,谢谢老师"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77792,
+        "user": "Sharon",
+        "content": "晕。。。还有主动要求点名的啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77795,
+        "user": "qiudeming",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77797,
+        "user": "qiudeming",
+        "content": "没什么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77800,
+        "user": "过客852",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77801,
+        "user": "qiudeming",
+        "content": "谢谢大家"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77801,
+        "user": "虞旭鹏",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77805,
+        "user": "123",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77806,
+        "user": "棋乐",
+        "content": "这样讲课好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77806,
+        "user": "yywanzi",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77807,
+        "user": "蓉儿",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 77807,
+        "user": "",
+        "content": " 蓝雪人, 笨蛋020, 五子棋痴, 莲珠秀, wpalhm, 失落缘, 乐, 徐永伟, 蓉儿, yywanzi, 烟雨, 水晶009, 含笑, 棋乐, 123, 虞旭鹏, Sharon, Sky, K.小雪, 水晶014, 春天, 天鹰, wei_qqq, 小艾, 我想飞, 洋洋."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77809,
+        "user": "乐",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77811,
+        "user": "",
+        "content": " 123, Sharon, wei_qqq, wpalhm, yywanzi, 笨蛋020, 含笑, 棋乐, 蓉儿, 水晶009, 水晶014, 天鹰, 五子棋痴, 小艾, 烟雨, 虞旭鹏."
+    }
+]

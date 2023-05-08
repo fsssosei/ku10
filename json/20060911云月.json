@@ -1,0 +1,3278 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 72567,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 72567,
+        "user": "菜女",
+        "content": ""
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 72567,
+        "user": "菜女",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72579,
+        "user": "Astaroth",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72580,
+        "user": "Astaroth",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72581,
+        "user": "Astaroth",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72587,
+        "user": "Astaroth",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72588,
+        "user": "Astaroth",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72588,
+        "user": "【魔棋】居士",
+        "content": "到！"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72589,
+        "user": "Astaroth",
+        "content": "ZJ169"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72591,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72596,
+        "user": "Astaroth",
+        "content": "ZJ069"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 72603,
+        "user": "",
+        "content": " 裁决殿如梦, 5873627, 悠悠, 菜女, Sky, 乐, 水晶011, 人生如梦, qinazt."
+    },
+    {
+        "action": "TALK",
+        "time_int": 72611,
+        "user": "Astaroth",
+        "content": "今天的讲课是针对云月这个4的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72628,
+        "user": "Astaroth",
+        "content": "5，6两手是这个4的一打和二打"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72641,
+        "user": "Astaroth",
+        "content": "我假定大家一打都了解了……"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72643,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 72645,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72648,
+        "user": "Astaroth",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72666,
+        "user": "Astaroth",
+        "content": "ZJ87A"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72673,
+        "user": "Astaroth",
+        "content": "ZJ98B"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72675,
+        "user": "Astaroth",
+        "content": "ZJ079"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72677,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 72684,
+        "user": "Astaroth",
+        "content": "ZJ79C"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72691,
+        "user": "Astaroth",
+        "content": "ZJ7aD"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72693,
+        "user": "Astaroth",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72695,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 72701,
+        "user": "Astaroth",
+        "content": "ZJ6aE"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72708,
+        "user": "Astaroth",
+        "content": "ZJ5aF"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72714,
+        "user": "Astaroth",
+        "content": "ZJ68F"
+    },
+    {
+        "action": "MARK",
+        "time_int": 72722,
+        "user": "Astaroth",
+        "content": "ZJ58G"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72727,
+        "user": "Astaroth",
+        "content": "一片……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72735,
+        "user": "Astaroth",
+        "content": "白的6选择很多"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72756,
+        "user": "Astaroth",
+        "content": "不过，由于黑是云月开局，所以，黑优势很大"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72761,
+        "user": "Astaroth",
+        "content": "ZJ087"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72764,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72771,
+        "user": "Astaroth",
+        "content": "ZJ087"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72773,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72775,
+        "user": "Astaroth",
+        "content": "ZJ187"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72794,
+        "user": "Astaroth",
+        "content": "这个6应该是所有这堆6之中最强硬的了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72813,
+        "user": "Astaroth",
+        "content": "大家可以把这个形状当成是斜月的一个变化"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72815,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "FIRST",
+        "time_int": 72818,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72821,
+        "user": "Astaroth",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72821,
+        "user": "Astaroth",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72822,
+        "user": "Astaroth",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72823,
+        "user": "Astaroth",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72826,
+        "user": "Astaroth",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72826,
+        "user": "Astaroth",
+        "content": "ZJ098"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72849,
+        "user": "Astaroth",
+        "content": "也就是这个形状，大体上也是按照这个继续下去的"
+    },
+    {
+        "action": "FIRST",
+        "time_int": 72856,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72859,
+        "user": "Astaroth",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72861,
+        "user": "Astaroth",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72861,
+        "user": "Astaroth",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72863,
+        "user": "Astaroth",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72864,
+        "user": "Astaroth",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72865,
+        "user": "Astaroth",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72869,
+        "user": "Astaroth",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72869,
+        "user": "Astaroth",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72870,
+        "user": "Astaroth",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72871,
+        "user": "Astaroth",
+        "content": "ZJ04a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72904,
+        "user": "Astaroth",
+        "content": "到11手，就局面而言，黑比较占优势，但是，要杀，也不怎么容易"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72918,
+        "user": "Astaroth",
+        "content": "当然，这里11手未必要下这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72925,
+        "user": "Astaroth",
+        "content": "这里比较强就是了"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72927,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72930,
+        "user": "Astaroth",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72949,
+        "user": "Astaroth",
+        "content": "之前看过有人走这个，也很厉害，大家看看就可以了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 72970,
+        "user": "Astaroth",
+        "content": "主要看大家中盘以后，怎么把黑的优势转化成胜势"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72972,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "FIRST",
+        "time_int": 72974,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72975,
+        "user": "Astaroth",
+        "content": "ZJ177"
+    },
+    {
+        "action": "BACK",
+        "time_int": 72980,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72981,
+        "user": "Astaroth",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72982,
+        "user": "Astaroth",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72983,
+        "user": "Astaroth",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72984,
+        "user": "Astaroth",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72992,
+        "user": "Astaroth",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 72996,
+        "user": "Astaroth",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73011,
+        "user": "Astaroth",
+        "content": "ZJ5bA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73015,
+        "user": "Astaroth",
+        "content": "ZJ97B"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73030,
+        "user": "Astaroth",
+        "content": "这里，白可以选择上面，或者下面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73044,
+        "user": "Astaroth",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73047,
+        "user": "Astaroth",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73048,
+        "user": "Astaroth",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73049,
+        "user": "Astaroth",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73050,
+        "user": "Astaroth",
+        "content": "ZJ159"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73076,
+        "user": "Astaroth",
+        "content": "这个是走下面的一个变化，大家不妨看看，黑下面怎么走杀得比较漂亮"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73135,
+        "user": "Astaroth",
+        "content": "貌似人都不在……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73141,
+        "user": "悠悠",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73144,
+        "user": "Sky",
+        "content": "，，"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73146,
+        "user": "Astaroth",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73148,
+        "user": "水晶011",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73148,
+        "user": "Astaroth",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73152,
+        "user": "Astaroth",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73168,
+        "user": "悠悠",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73176,
+        "user": "Astaroth",
+        "content": "简单说来，这个13把黑的子带到了上面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73200,
+        "user": "Astaroth",
+        "content": "然后，15防住了活三，同时……也已经杀了"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73212,
+        "user": "Astaroth",
+        "content": "ZJ5aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73219,
+        "user": "Astaroth",
+        "content": "ZJ7aB"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73224,
+        "user": "Astaroth",
+        "content": "ZJaaC"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73234,
+        "user": "Astaroth",
+        "content": "一个一个看"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73235,
+        "user": "Astaroth",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73236,
+        "user": "Astaroth",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73259,
+        "user": "Astaroth",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73261,
+        "user": "Astaroth",
+        "content": "ZJ05b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73262,
+        "user": "Astaroth",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73263,
+        "user": "Astaroth",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73269,
+        "user": "Astaroth",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73271,
+        "user": "Astaroth",
+        "content": "ZJ06d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73272,
+        "user": "Astaroth",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73298,
+        "user": "Astaroth",
+        "content": "当然，18手也可以挡在什么"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73305,
+        "user": "Astaroth",
+        "content": 17
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73307,
+        "user": "Astaroth",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73309,
+        "user": "Astaroth",
+        "content": "ZJ05b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73310,
+        "user": "Astaroth",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73311,
+        "user": "Astaroth",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73320,
+        "user": "Astaroth",
+        "content": "大体上杀法差不多"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73326,
+        "user": "Astaroth",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73327,
+        "user": "Astaroth",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73338,
+        "user": "Astaroth",
+        "content": "到23，双杀"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73351,
+        "user": "Astaroth",
+        "content": 15
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73363,
+        "user": "Astaroth",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73369,
+        "user": "Astaroth",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73381,
+        "user": "Astaroth",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73383,
+        "user": "Astaroth",
+        "content": "ZJ05b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73384,
+        "user": "Astaroth",
+        "content": "ZJ14c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73385,
+        "user": "Astaroth",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73405,
+        "user": "Astaroth",
+        "content": "16换了个地方，可是，没多少效果，到这里，黑还是杀了"
+    },
+    {
+        "action": "FIRST",
+        "time_int": 73426,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73431,
+        "user": "Astaroth",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73432,
+        "user": "Astaroth",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73433,
+        "user": "Astaroth",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73434,
+        "user": "Astaroth",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73434,
+        "user": "Astaroth",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73449,
+        "user": "Astaroth",
+        "content": "这个6有些藐视黑的意味在里面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73471,
+        "user": "Astaroth",
+        "content": "白不顾黑，自己也顺势做了个二"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73478,
+        "user": "Astaroth",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73480,
+        "user": "Astaroth",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73481,
+        "user": "Astaroth",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73487,
+        "user": "Astaroth",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73489,
+        "user": "Astaroth",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73493,
+        "user": "Astaroth",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73494,
+        "user": "Astaroth",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73494,
+        "user": "Astaroth",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73495,
+        "user": "Astaroth",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73500,
+        "user": "Astaroth",
+        "content": "ZJ148"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73501,
+        "user": "Astaroth",
+        "content": "ZJ069"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73601,
+        "user": "Astaroth",
+        "content": "当然，7也可以下在其它地方，保持黑优势"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73608,
+        "user": "Astaroth",
+        "content": "但是，这个7最好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73641,
+        "user": "Astaroth",
+        "content": "我们把10换个地方看下"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73652,
+        "user": "Astaroth",
+        "content": 9
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73654,
+        "user": "Astaroth",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73654,
+        "user": "Astaroth",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73655,
+        "user": "Astaroth",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73656,
+        "user": "Astaroth",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73688,
+        "user": "Astaroth",
+        "content": "11手主要目的是防住2，6，这样一来，13手的活三就可以毫无顾忌"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73701,
+        "user": "Astaroth",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73704,
+        "user": "Astaroth",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73709,
+        "user": "Astaroth",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73710,
+        "user": "Astaroth",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73715,
+        "user": "Astaroth",
+        "content": "ZJ175"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73716,
+        "user": "Astaroth",
+        "content": "ZJ056"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73761,
+        "user": "水晶011",
+        "content": "！！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73778,
+        "user": "Astaroth",
+        "content": "大家可以看到，黑通过11手和7手，当然还有之前的13，5，9的配合，已经杀了"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73790,
+        "user": "Astaroth",
+        "content": 13
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73802,
+        "user": "Astaroth",
+        "content": "ZJ177"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73811,
+        "user": "Astaroth",
+        "content": "走下面的话，死更快"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73817,
+        "user": "Astaroth",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73818,
+        "user": "Astaroth",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73820,
+        "user": "Astaroth",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73820,
+        "user": "Astaroth",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73821,
+        "user": "Astaroth",
+        "content": "ZJ05b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73821,
+        "user": "Astaroth",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73832,
+        "user": "Astaroth",
+        "content": "比刚刚的杀快多了"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 73858,
+        "user": "Astaroth",
+        "content": 5
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73884,
+        "user": "Astaroth",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73886,
+        "user": "Astaroth",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73893,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MARK",
+        "time_int": 73901,
+        "user": "Astaroth",
+        "content": "ZJ6aA"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73902,
+        "user": "Astaroth",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73905,
+        "user": "Astaroth",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73908,
+        "user": "Astaroth",
+        "content": "ZJ069"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73946,
+        "user": "Astaroth",
+        "content": "这里的7手拉还有9的团角都是最强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73967,
+        "user": "Astaroth",
+        "content": "黑已经建立了比较明显的优势"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73971,
+        "user": "Astaroth",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73983,
+        "user": "Astaroth",
+        "content": "这个10是一手相当讨厌的一手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74000,
+        "user": "Astaroth",
+        "content": "就黑左边的局部而言，已经没杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74022,
+        "user": "Astaroth",
+        "content": "下面，就是要考虑怎么把黑左右两边联络起来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74033,
+        "user": "Astaroth",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74048,
+        "user": "Astaroth",
+        "content": "11手相当关键，下不出来黑要杀相当难"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74092,
+        "user": "Astaroth",
+        "content": "大家可以观察下这个形状，它显然存在着一个与1，5，7手这个眠三连接的手段"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74096,
+        "user": "Astaroth",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74099,
+        "user": "Astaroth",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74101,
+        "user": "Astaroth",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74101,
+        "user": "Astaroth",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74135,
+        "user": "Astaroth",
+        "content": "12手，防住了连接点，下面，我们发现，到了15手以后，黑的进攻已经改变了方向"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74163,
+        "user": "Astaroth",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74165,
+        "user": "Astaroth",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74167,
+        "user": "Astaroth",
+        "content": "ZJ149"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74168,
+        "user": "Astaroth",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74171,
+        "user": "Astaroth",
+        "content": "ZJ148"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74175,
+        "user": "Astaroth",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74179,
+        "user": "Astaroth",
+        "content": "ZJ1db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74183,
+        "user": "Astaroth",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74184,
+        "user": "Astaroth",
+        "content": "ZJ19d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74186,
+        "user": "Astaroth",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74188,
+        "user": "Astaroth",
+        "content": "ZJ1cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74189,
+        "user": "Astaroth",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74190,
+        "user": "Astaroth",
+        "content": "ZJ1e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74204,
+        "user": "Astaroth",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74208,
+        "user": "Astaroth",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74214,
+        "user": "Astaroth",
+        "content": "ZJ0bd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74216,
+        "user": "Astaroth",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74217,
+        "user": "Astaroth",
+        "content": "ZJ0bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74219,
+        "user": "Astaroth",
+        "content": "ZJ1e8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74219,
+        "user": "Astaroth",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74220,
+        "user": "Astaroth",
+        "content": "ZJ18b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74221,
+        "user": "Astaroth",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74246,
+        "user": "悠悠",
+        "content": "强"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74249,
+        "user": "Astaroth",
+        "content": "大家可以看到，黑在23手的时候，做了一个相当明显的四三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74263,
+        "user": "Astaroth",
+        "content": "其目的自然不是等着白昏头"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74280,
+        "user": "Astaroth",
+        "content": "而是利用那点做出的形状进行攻击"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74300,
+        "user": "Astaroth",
+        "content": "在日常对局之中，也是个值得借鉴不错的手段"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74364,
+        "user": "Astaroth",
+        "content": 9
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74371,
+        "user": "Astaroth",
+        "content": "ZJ159"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74372,
+        "user": "Astaroth",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74389,
+        "user": "Astaroth",
+        "content": "这里也存在上面下面的问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74393,
+        "user": "Astaroth",
+        "content": "上面太简单了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74400,
+        "user": "Astaroth",
+        "content": "ZJ16c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74400,
+        "user": "Astaroth",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74404,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74407,
+        "user": "Astaroth",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74409,
+        "user": "Astaroth",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74411,
+        "user": "Astaroth",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74427,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74428,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74428,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74430,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74430,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74431,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74434,
+        "user": "Astaroth",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74438,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74441,
+        "user": "Astaroth",
+        "content": "ZJ159"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74443,
+        "user": "Astaroth",
+        "content": "ZJ06b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74444,
+        "user": "Astaroth",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74453,
+        "user": "Astaroth",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74454,
+        "user": "Astaroth",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74456,
+        "user": "Astaroth",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74464,
+        "user": "Astaroth",
+        "content": "还是和刚刚类似"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74482,
+        "user": "Astaroth",
+        "content": "通过13的活三，把形状拖出来"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74487,
+        "user": "Astaroth",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74492,
+        "user": "Astaroth",
+        "content": "ZJ05a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74493,
+        "user": "Astaroth",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74499,
+        "user": "Astaroth",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74539,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74540,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74541,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74541,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74541,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74541,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74541,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74541,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74541,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74543,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74543,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74543,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74548,
+        "user": "Astaroth",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74549,
+        "user": "Astaroth",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74550,
+        "user": "Astaroth",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74554,
+        "user": "Astaroth",
+        "content": "ZJ067"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74556,
+        "user": "Astaroth",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74558,
+        "user": "Astaroth",
+        "content": "ZJ058"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74559,
+        "user": "Astaroth",
+        "content": "ZJ149"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74607,
+        "user": "Astaroth",
+        "content": "还是那话，黑现在满受到考验的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74616,
+        "user": "Astaroth",
+        "content": "杀也能杀，94困难了点"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74617,
+        "user": "Astaroth",
+        "content": "ZJ047"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74617,
+        "user": "Astaroth",
+        "content": "ZJ136"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74619,
+        "user": "Astaroth",
+        "content": "ZJ085"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74648,
+        "user": "Astaroth",
+        "content": "这里的17手很考验实力的，当然，也是很欺负白的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74651,
+        "user": "过客329",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74660,
+        "user": "Astaroth",
+        "content": "要注意，白防守得相当严密"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74671,
+        "user": "Astaroth",
+        "content": "同时，自己的子也相当分散"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74690,
+        "user": "Astaroth",
+        "content": "大家可以看到，白盘面上一个活二都没有"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74700,
+        "user": "Astaroth",
+        "content": "因此，黑可以随意做棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74719,
+        "user": "Astaroth",
+        "content": "这也给我们一个启示……防别太死……"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74787,
+        "user": "Astaroth",
+        "content": 5
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74803,
+        "user": "Astaroth",
+        "content": "ZJ168"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74818,
+        "user": "Astaroth",
+        "content": "这个6很明显是个八卦的防守"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74857,
+        "user": "Astaroth",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74859,
+        "user": "Astaroth",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74860,
+        "user": "Astaroth",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74873,
+        "user": "Astaroth",
+        "content": "7手不着急着去破坏八卦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74913,
+        "user": "Astaroth",
+        "content": "拉一手，子力舒展开了，再去破坏，效果会更好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74919,
+        "user": "Astaroth",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74921,
+        "user": "Astaroth",
+        "content": "ZJ07b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74922,
+        "user": "Astaroth",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74924,
+        "user": "Astaroth",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74932,
+        "user": "Astaroth",
+        "content": "ZJ148"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74933,
+        "user": "Astaroth",
+        "content": "ZJ09b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74938,
+        "user": "Astaroth",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74939,
+        "user": "Astaroth",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74952,
+        "user": "Astaroth",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74953,
+        "user": "Astaroth",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74957,
+        "user": "Astaroth",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74958,
+        "user": "Astaroth",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74959,
+        "user": "Astaroth",
+        "content": "ZJ1ad"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74960,
+        "user": "Astaroth",
+        "content": "ZJ09d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74961,
+        "user": "Astaroth",
+        "content": "ZJ19e"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74965,
+        "user": "Astaroth",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74966,
+        "user": "Astaroth",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74967,
+        "user": "Astaroth",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74968,
+        "user": "Astaroth",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74970,
+        "user": "Astaroth",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74971,
+        "user": "Astaroth",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74972,
+        "user": "Astaroth",
+        "content": "ZJ097"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74977,
+        "user": "wpalhm",
+        "content": "miao"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74985,
+        "user": "悠悠",
+        "content": "喵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75015,
+        "user": "悠悠",
+        "content": "吓死我了"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time_int": 75034,
+        "user": "",
+        "content": " Sky, qinazt, 水晶011, 悠悠, 5873627, 乐, 人生如梦, 123, wpalhm."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75050,
+        "user": "茜茜",
+        "content": "晕"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75056,
+        "user": "茜茜",
+        "content": "米点到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75064,
+        "user": "悠悠",
+        "content": "正常"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75072,
+        "user": "Astaroth",
+        "content": "在这个过程中，要大家一下算这么多可能不怎么好，主要是要学习的是15手，做出形状，而不是在那里抢16那点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75091,
+        "user": "茜茜",
+        "content": "去倒杯水，老师就点名"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75099,
+        "user": "Astaroth",
+        "content": "如果，我们下了16那点的冲四以后，再下15，效果马上就不一样"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75102,
+        "user": "wpalhm",
+        "content": "我还没答到"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75108,
+        "user": "Astaroth",
+        "content": "算你倒霉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75116,
+        "user": "wpalhm",
+        "content": "哭"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75116,
+        "user": "裁决殿★明月",
+        "content": "请专心听讲"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75143,
+        "user": "Astaroth",
+        "content": "当然，还存在一个比较技术性的18手"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75148,
+        "user": "Astaroth",
+        "content": 17
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75153,
+        "user": "Astaroth",
+        "content": "ZJ19a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75170,
+        "user": "Astaroth",
+        "content": "这个18相当技术，黑的17是一个四三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75181,
+        "user": "茜茜",
+        "content": "老猫才倒霉！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75195,
+        "user": "Astaroth",
+        "content": "白这个18不但防住了四三，还做出两个活二"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75211,
+        "user": "Astaroth",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75213,
+        "user": "Astaroth",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75217,
+        "user": "Astaroth",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75219,
+        "user": "Astaroth",
+        "content": "ZJ177"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75235,
+        "user": "Astaroth",
+        "content": "由于黑有21的冲四，所以，局势不算坏"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75239,
+        "user": "Astaroth",
+        "content": "ZJ0ad"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75241,
+        "user": "Astaroth",
+        "content": "ZJ19c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75249,
+        "user": "Astaroth",
+        "content": "ZJ0bd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75250,
+        "user": "Astaroth",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75280,
+        "user": "Astaroth",
+        "content": "很明显的，黑把目光集中在了角上，角那么小，空间够吗？正好……"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75285,
+        "user": "Astaroth",
+        "content": "ZJ0cd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75286,
+        "user": "Astaroth",
+        "content": "ZJ19d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75291,
+        "user": "Astaroth",
+        "content": "ZJ0cb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75293,
+        "user": "Astaroth",
+        "content": "ZJ1ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75297,
+        "user": "Astaroth",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75303,
+        "user": "Astaroth",
+        "content": "ZJ1dc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75307,
+        "user": "Astaroth",
+        "content": "ZJ0be"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75309,
+        "user": "Astaroth",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75316,
+        "user": "Astaroth",
+        "content": "ZJ0ce"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75317,
+        "user": "Astaroth",
+        "content": "ZJ1df"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75319,
+        "user": "Astaroth",
+        "content": "ZJ0ae"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75328,
+        "user": "水晶011",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75335,
+        "user": "Astaroth",
+        "content": "这样黑就可以杀了"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75360,
+        "user": "Astaroth",
+        "content": 6
+    },
+    {
+        "action": "TALK",
+        "time_int": 75370,
+        "user": "水晶011",
+        "content": "精彩"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75388,
+        "user": "Astaroth",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75402,
+        "user": "Astaroth",
+        "content": "当然了，这个7也是满不错的选择"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75406,
+        "user": "Astaroth",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75407,
+        "user": "Astaroth",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75408,
+        "user": "Astaroth",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75413,
+        "user": "Astaroth",
+        "content": "ZJ0b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75415,
+        "user": "Astaroth",
+        "content": "ZJ1c5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75424,
+        "user": "wpalhm",
+        "content": "有点好看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75433,
+        "user": "wpalhm",
+        "content": "好对称"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75452,
+        "user": "Astaroth",
+        "content": "是好看，黑在八卦里"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75454,
+        "user": "Astaroth",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75465,
+        "user": "Astaroth",
+        "content": "这个 13手是理所当然的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75479,
+        "user": "Astaroth",
+        "content": "这个时候再不踩八卦点，那真是迟了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75481,
+        "user": "Astaroth",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75492,
+        "user": "Astaroth",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75531,
+        "user": "Astaroth",
+        "content": "到15手，白很是分散，黑子力集中，还是先手，下是可以下，但是，白是八卦分布，要杀，不容易啊"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75557,
+        "user": "Astaroth",
+        "content": 5
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75561,
+        "user": "Astaroth",
+        "content": "ZJ16a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75570,
+        "user": "Astaroth",
+        "content": "这个6是严防死守"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75574,
+        "user": "Astaroth",
+        "content": "ZJ0a7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75591,
+        "user": "Astaroth",
+        "content": "这个7，相当诡异，也是相当好的一手"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75596,
+        "user": "Astaroth",
+        "content": "ZJ1b6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75597,
+        "user": "Astaroth",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75601,
+        "user": "Astaroth",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75602,
+        "user": "Astaroth",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75613,
+        "user": "Astaroth",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75614,
+        "user": "Astaroth",
+        "content": "ZJ076"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75616,
+        "user": "Astaroth",
+        "content": "ZJ177"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75617,
+        "user": "Astaroth",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75618,
+        "user": "Astaroth",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75619,
+        "user": "Astaroth",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75626,
+        "user": "Astaroth",
+        "content": "说句实话"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75636,
+        "user": "Astaroth",
+        "content": "13手的目的大概算是恐吓"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75649,
+        "user": "Astaroth",
+        "content": "白18手只能上面，要么就杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75657,
+        "user": "Astaroth",
+        "content": "只能下面……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75659,
+        "user": "Astaroth",
+        "content": "晕死"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75661,
+        "user": "Astaroth",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75665,
+        "user": "Astaroth",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75666,
+        "user": "Astaroth",
+        "content": "ZJ16b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75667,
+        "user": "Astaroth",
+        "content": "ZJ0ab"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75677,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75677,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75677,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75677,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75681,
+        "user": "Astaroth",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75684,
+        "user": "Astaroth",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75702,
+        "user": "Astaroth",
+        "content": "走上面，19双杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75708,
+        "user": "Astaroth",
+        "content": "ZJ196"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75709,
+        "user": "Astaroth",
+        "content": "ZJ0a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75711,
+        "user": "Astaroth",
+        "content": "ZJ1a5"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75712,
+        "user": "Astaroth",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75713,
+        "user": "Astaroth",
+        "content": "ZJ1b5"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75716,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75717,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75717,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75717,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75717,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75718,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75719,
+        "user": "Astaroth",
+        "content": "ZJ086"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75721,
+        "user": "Astaroth",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75734,
+        "user": "Astaroth",
+        "content": "这个20是能挡住刚刚的四三"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75736,
+        "user": "Astaroth",
+        "content": "ZJ056"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75747,
+        "user": "Astaroth",
+        "content": "但是，要看明白，这里还有个四三"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75773,
+        "user": "Astaroth",
+        "content": 9
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75776,
+        "user": "Astaroth",
+        "content": "ZJ1a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75781,
+        "user": "Astaroth",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75782,
+        "user": "Astaroth",
+        "content": "ZJ158"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75782,
+        "user": "Astaroth",
+        "content": "ZJ08a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75787,
+        "user": "Astaroth",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75788,
+        "user": "Astaroth",
+        "content": "ZJ067"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75801,
+        "user": "Astaroth",
+        "content": "15手是做棋的好手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75813,
+        "user": "Astaroth",
+        "content": "14手不让黑往上面发展"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75818,
+        "user": "Astaroth",
+        "content": "ZJ156"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75819,
+        "user": "Astaroth",
+        "content": "ZJ057"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75819,
+        "user": "Astaroth",
+        "content": "ZJ146"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75820,
+        "user": "Astaroth",
+        "content": "ZJ066"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75829,
+        "user": "Astaroth",
+        "content": "ZJ165"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75835,
+        "user": "Astaroth",
+        "content": "ZJ077"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75836,
+        "user": "Astaroth",
+        "content": "ZJ176"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75840,
+        "user": "Astaroth",
+        "content": "ZJ039"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75842,
+        "user": "Astaroth",
+        "content": "ZJ148"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75843,
+        "user": "Astaroth",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75844,
+        "user": "Astaroth",
+        "content": "ZJ14a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75848,
+        "user": "Astaroth",
+        "content": "ZJ049"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75849,
+        "user": "Astaroth",
+        "content": "ZJ169"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75857,
+        "user": "Astaroth",
+        "content": "ZJ07a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75858,
+        "user": "Astaroth",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75864,
+        "user": "Astaroth",
+        "content": "ZJ038"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75874,
+        "user": "水晶011",
+        "content": "!!!"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75880,
+        "user": "Astaroth",
+        "content": "双杀……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75883,
+        "user": "过客332",
+        "content": "漂亮"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75913,
+        "user": "Astaroth",
+        "content": "在这里，请大家一定要记住这个漂亮的15手"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75945,
+        "user": "Astaroth",
+        "content": "20手还有其它的两个防点，都很简单，大家自己解决咯"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75976,
+        "user": "Astaroth",
+        "content": 7
+    },
+    {
+        "action": "TALK",
+        "time_int": 76004,
+        "user": "Astaroth",
+        "content": "我们再看最后一个6手的变化"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76007,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76009,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76011,
+        "user": "Astaroth",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76020,
+        "user": "Astaroth",
+        "content": "也是八卦……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76034,
+        "user": "Astaroth",
+        "content": "很多人初学的时候都很喜欢八卦"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76041,
+        "user": "Astaroth",
+        "content": "我们看下这个八卦效果怎么样"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76064,
+        "user": "Astaroth",
+        "content": "ZJ6aA"
+    },
+    {
+        "action": "MARK",
+        "time_int": 76073,
+        "user": "Astaroth",
+        "content": "ZJ97B"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76089,
+        "user": "Astaroth",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76091,
+        "user": "Astaroth",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76098,
+        "user": "Astaroth",
+        "content": "ZJ068"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76111,
+        "user": "Astaroth",
+        "content": "7手应该还是在八卦里挣扎"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76120,
+        "user": "Astaroth",
+        "content": "9手踩八卦点了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76154,
+        "user": "Astaroth",
+        "content": "如果对手走八卦，在开局阶段，走几步，棋舒展开了，再踩点，效果比较好"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76160,
+        "user": "Astaroth",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76161,
+        "user": "Astaroth",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76162,
+        "user": "Astaroth",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76163,
+        "user": "Astaroth",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76167,
+        "user": "Astaroth",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76168,
+        "user": "Astaroth",
+        "content": "ZJ057"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76171,
+        "user": "Astaroth",
+        "content": "ZJ146"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76173,
+        "user": "Astaroth",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76174,
+        "user": "Astaroth",
+        "content": "ZJ149"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76176,
+        "user": "Astaroth",
+        "content": "ZJ048"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76178,
+        "user": "Astaroth",
+        "content": "ZJ17b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76183,
+        "user": "Astaroth",
+        "content": "ZJ039"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76184,
+        "user": "Astaroth",
+        "content": "ZJ166"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76185,
+        "user": "Astaroth",
+        "content": "ZJ038"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76211,
+        "user": "过客332",
+        "content": "漂亮"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76223,
+        "user": "Astaroth",
+        "content": "看另外一个7"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76230,
+        "user": "Astaroth",
+        "content": 6
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76233,
+        "user": "Astaroth",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76242,
+        "user": "Astaroth",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76270,
+        "user": "Astaroth",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76273,
+        "user": "Astaroth",
+        "content": "下面一个9说简单满简单的，说难也满难的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76278,
+        "user": "Astaroth",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76279,
+        "user": "Astaroth",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76279,
+        "user": "Astaroth",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76288,
+        "user": "Astaroth",
+        "content": "如果白10继续八卦到底"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76292,
+        "user": "Astaroth",
+        "content": "ZJ057"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76293,
+        "user": "Astaroth",
+        "content": "ZJ146"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76298,
+        "user": "Astaroth",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76299,
+        "user": "Astaroth",
+        "content": "ZJ167"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76300,
+        "user": "Astaroth",
+        "content": "ZJ059"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76301,
+        "user": "Astaroth",
+        "content": "ZJ149"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76313,
+        "user": "Astaroth",
+        "content": "走出一个和刚刚类似的形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76332,
+        "user": "Astaroth",
+        "content": "只是这次杀得更简单了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76335,
+        "user": "Astaroth",
+        "content": "ZJ086"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76343,
+        "user": "水晶011",
+        "content": "！"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 76354,
+        "user": "Astaroth",
+        "content": 9
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76362,
+        "user": "Astaroth",
+        "content": "ZJ178"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76369,
+        "user": "过客332",
+        "content": "刚才13=15不可以吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76371,
+        "user": "Astaroth",
+        "content": "如果，10手不再八卦"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76372,
+        "user": "Astaroth",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76378,
+        "user": "过客332",
+        "content": "少走几步吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76398,
+        "user": "Astaroth",
+        "content": "我看下……"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76428,
+        "user": "过客332",
+        "content": "少活一个3  应该可以的吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76441,
+        "user": "过客332",
+        "content": "省一子弹"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76453,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76454,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76455,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 76455,
+        "user": "悠悠",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76457,
+        "user": "过客332",
+        "content": "我是那么看的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76460,
+        "user": "Astaroth",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76461,
+        "user": "Astaroth",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76462,
+        "user": "Astaroth",
+        "content": "ZJ068"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76463,
+        "user": "Astaroth",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76466,
+        "user": "Astaroth",
+        "content": "ZJ069"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76474,
+        "user": "Astaroth",
+        "content": "ZJ167"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76490,
+        "user": "过客332",
+        "content": "哦  好象反"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76505,
+        "user": "Astaroth",
+        "content": "有个反"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76508,
+        "user": "过客332",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76512,
+        "user": "Astaroth",
+        "content": "15手那点迟早还是要下"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76518,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76519,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76520,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76520,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 76521,
+        "user": "Astaroth",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76523,
+        "user": "Astaroth",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76532,
+        "user": "Astaroth",
+        "content": "ZJ0a9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76540,
+        "user": "Astaroth",
+        "content": "11手，弯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76556,
+        "user": "Astaroth",
+        "content": "弯是围棋术语，我借用下"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76561,
+        "user": "Astaroth",
+        "content": "ZJ1aa"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76562,
+        "user": "Astaroth",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76578,
+        "user": "过客332",
+        "content": "：）））））））））"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76613,
+        "user": "Astaroth",
+        "content": "到这里，黑局面上是优势"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76631,
+        "user": "Astaroth",
+        "content": "但是，白也可以下，下面的问题就是，黑怎么把握优势了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76658,
+        "user": "Astaroth",
+        "content": "今天课到这里"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76664,
+        "user": "Astaroth",
+        "content": "下课"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76666,
+        "user": "悠悠",
+        "content": "谢谢老师的精彩讲解！"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 76667,
+        "user": "",
+        "content": " 5873627, qinazt, Sky, 乐, 人生如梦, 水晶011, 悠悠."
+    }
+]

@@ -1,0 +1,2738 @@
+[
+    {
+        "action": "RESET",
+        "time_int": 73056,
+        "user": "",
+        "content": "ZJ000000"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73065,
+        "user": "过客130",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73068,
+        "user": "fiona",
+        "content": "对不起大家我来晚拉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73070,
+        "user": "乐",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73079,
+        "user": "蓉儿",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73085,
+        "user": "梦依",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73086,
+        "user": "水晶绿茶",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73087,
+        "user": "过客130",
+        "content": "您好！很高兴见到您！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73090,
+        "user": "fiona",
+        "content": "今天讲上次没讲玩的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73092,
+        "user": "过客139",
+        "content": "您好！很高兴见到您！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73098,
+        "user": "水晶020",
+        "content": "老师好！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73108,
+        "user": "fiona",
+        "content": "第7届日本名人战谱"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73113,
+        "user": "fiona",
+        "content": "第5局"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73175,
+        "user": "fiona",
+        "content": "前面我们说到第07届"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73185,
+        "user": "fiona",
+        "content": "是   西村敏雄 和 矶部泰山"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73191,
+        "user": "fiona",
+        "content": "前面4局是2：2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73207,
+        "user": "fiona",
+        "content": "这是第5局 谁赢 谁就是名人"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73213,
+        "user": "fiona",
+        "content": "在这样的情况下"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73225,
+        "user": "fiona",
+        "content": "西村敏雄 开出疏星"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73231,
+        "user": "fiona",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73231,
+        "user": "fiona",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73232,
+        "user": "fiona",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73235,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73238,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73238,
+        "user": "fiona",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73239,
+        "user": "fiona",
+        "content": "ZJ0aa"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73258,
+        "user": "fiona",
+        "content": "西村敏雄 想的是最平淡的就是最好的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73273,
+        "user": "fiona",
+        "content": "作为日本最高规格的比赛"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73285,
+        "user": "fiona",
+        "content": "在1969年的还是1970"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73287,
+        "user": "fiona",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73288,
+        "user": "fiona",
+        "content": "ZJ079"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73289,
+        "user": "fiona",
+        "content": "ZJ197"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73296,
+        "user": "fiona",
+        "content": "这个是正常的变化"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73299,
+        "user": "fiona",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73300,
+        "user": "fiona",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73300,
+        "user": "fiona",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73306,
+        "user": "fiona",
+        "content": "当时还没有这个变化"
+    },
+    {
+        "action": "MARK",
+        "time_int": 73309,
+        "user": "fiona",
+        "content": "ZJ9bA"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73318,
+        "user": "fiona",
+        "content": "白10走A点是早川流"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73328,
+        "user": "fiona",
+        "content": "都是后来世界杯出现的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73336,
+        "user": "fiona",
+        "content": "当时选择了一个很普通的变化"
+    },
+    {
+        "action": "BACK",
+        "time_int": 73337,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73338,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 73339,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73339,
+        "user": "fiona",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73341,
+        "user": "fiona",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73342,
+        "user": "fiona",
+        "content": "ZJ09a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73363,
+        "user": "fiona",
+        "content": "黑棋选择的是最稳健的走法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73374,
+        "user": "fiona",
+        "content": "在现在看起来是比较吃亏的走法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73398,
+        "user": "fiona",
+        "content": "是第1界王座战1980年后发现的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73399,
+        "user": "fiona",
+        "content": "ZJ18a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73402,
+        "user": "fiona",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73403,
+        "user": "fiona",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73405,
+        "user": "fiona",
+        "content": "ZJ0b9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73428,
+        "user": "fiona",
+        "content": "黑13希望局部利用最大的力量获得强大的优势"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73450,
+        "user": "fiona",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73455,
+        "user": "fiona",
+        "content": "14防守外面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73473,
+        "user": "fiona",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73491,
+        "user": "fiona",
+        "content": "黑15诱敌深入"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73505,
+        "user": "fiona",
+        "content": "在局部展开了强攻的形状"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73527,
+        "user": "fiona",
+        "content": "表面上我们看起来黑就是准备在局部强攻"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73553,
+        "user": "fiona",
+        "content": "而"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73569,
+        "user": "fiona",
+        "content": "黑的思路其实是在外面空旷的地方"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73606,
+        "user": "fiona",
+        "content": "局部强攻只不过是一种比赛绝战的心态"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73606,
+        "user": "水晶雨",
+        "content": "小白，你掉了啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73670,
+        "user": "fiona",
+        "content": "首先在这个时候表现出来强烈的求胜欲望。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73678,
+        "user": "fiona",
+        "content": "给对手以强大的压力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73684,
+        "user": "纯溪",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73693,
+        "user": "fiona",
+        "content": "ZJ1ba"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73702,
+        "user": "fiona",
+        "content": "16穿进去"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73706,
+        "user": "fiona",
+        "content": "ZJ09c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73707,
+        "user": "fiona",
+        "content": "ZJ19b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73709,
+        "user": "fiona",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73722,
+        "user": "fiona",
+        "content": "这样黑成功的走到外面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73735,
+        "user": "fiona",
+        "content": "我们来看看白现在有什么好的走法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73772,
+        "user": "水晶014",
+        "content": "??"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73782,
+        "user": "fiona",
+        "content": "黑的思路是在外面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73796,
+        "user": "fiona",
+        "content": "怎么说。右上角是一个局部。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73805,
+        "user": "fiona",
+        "content": "而黑是很有想法的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73825,
+        "user": "fiona",
+        "content": "所谓的是局部就只是一个局部的东西。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73839,
+        "user": "fiona",
+        "content": "黑看重的是外面的海阔天空"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73870,
+        "user": "虞旭鹏",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 73882,
+        "user": "fiona",
+        "content": "那么白当然希望把黑封在右上局部"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 73886,
+        "user": "fiona",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73891,
+        "user": "fiona",
+        "content": "20是理所当然的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73900,
+        "user": "fiona",
+        "content": "说你要杀就只能在局部"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73907,
+        "user": "路西法",
+        "content": "老师 你躲在哪讲呀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73918,
+        "user": "wei_qqq",
+        "content": "9494"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73919,
+        "user": "我想飞",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73922,
+        "user": "fiona",
+        "content": "右上局部形成黑局部多子，白局部少棋子"
+    },
+    {
+        "action": "TALK",
+        "time_int": 73972,
+        "user": "fiona",
+        "content": "正入墨攻里面的。墨者带领梁4000兵对抗赵国10W兵马"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74003,
+        "user": "fiona",
+        "content": "所有人看起来都是以卵击石"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74026,
+        "user": "纯溪",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74040,
+        "user": "fiona",
+        "content": "但往往真理掌握在少数人手上"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74045,
+        "user": "fiona",
+        "content": "局部黑就是没杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74047,
+        "user": "fiona",
+        "content": "ZJ0cc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74053,
+        "user": "fiona",
+        "content": "黑的漂"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74058,
+        "user": "过客130",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74062,
+        "user": "过客130",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74073,
+        "user": "fiona",
+        "content": "白还是有强防"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74075,
+        "user": "fiona",
+        "content": "ZJ1ac"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74079,
+        "user": "fiona",
+        "content": "黑无杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74097,
+        "user": "fiona",
+        "content": "实战矶部泰山"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74112,
+        "user": "fiona",
+        "content": "现在的矶部恭三"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74119,
+        "user": "fiona",
+        "content": "不敢走这个20"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74153,
+        "user": "fiona",
+        "content": "这样局部以少防多的著名战役"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74157,
+        "user": "fiona",
+        "content": "没有出现"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74163,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74164,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74165,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 74165,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74167,
+        "user": "fiona",
+        "content": "ZJ08b"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74170,
+        "user": "fiona",
+        "content": "ZJ1ad"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74225,
+        "user": "fiona",
+        "content": "实战白选择了一个很稳健的走法"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74227,
+        "user": "fiona",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74236,
+        "user": "fiona",
+        "content": "黑舒服的走到21"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74258,
+        "user": "fiona",
+        "content": "现在是外面海阔天空任鸟飞"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74272,
+        "user": "fiona",
+        "content": "这个时候白又后悔了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74288,
+        "user": "fiona",
+        "content": "早知道黑走这个21 不如刚才20直接走G12"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74304,
+        "user": "fiona",
+        "content": "白现在又想把黑封在上面"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74306,
+        "user": "fiona",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74315,
+        "user": "fiona",
+        "content": "22的思路有2点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74328,
+        "user": "fiona",
+        "content": "第1个是限制黑左边的攻击"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74353,
+        "user": "fiona",
+        "content": "同时希望黑在左下攻击的时候22所在的E线能有一定的反击"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74363,
+        "user": "fiona",
+        "content": "22将来能发挥效率"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74372,
+        "user": "fiona",
+        "content": "以为有了20 ，22"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74387,
+        "user": "fiona",
+        "content": "黑9 19 17 21不能发挥效率"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74398,
+        "user": "fiona",
+        "content": "被封在中上中间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74409,
+        "user": "fiona",
+        "content": "标准的关门打狗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74421,
+        "user": "fiona",
+        "content": "那么黑现在怎么办？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74465,
+        "user": "fiona",
+        "content": "A计划 作为一只有觉悟的狗，当然不能在里面被别人打，走左下，继续保持攻击"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74468,
+        "user": "fiona",
+        "content": "ZJ059"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74480,
+        "user": "fiona",
+        "content": "例如这个22"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74480,
+        "user": "fiona",
+        "content": "23"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74494,
+        "user": "fiona",
+        "content": "这样把战火延伸出去"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74502,
+        "user": "fiona",
+        "content": "继续刚才的思路"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74505,
+        "user": "fiona",
+        "content": "海阔天空"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74532,
+        "user": "fiona",
+        "content": "第2个思路就是你要关门打狗，那我就要咬死你"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74549,
+        "user": "fiona",
+        "content": "矶部泰山在这里就是关门打狗，反被狗咬"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74580,
+        "user": "fiona",
+        "content": "矶部泰山作为一只有觉悟的小狗，当然不是小白这样没计算力的家伙，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74592,
+        "user": "fiona",
+        "content": "黑23开始展开了强大的vct"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74594,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 74626,
+        "user": "fiona",
+        "content": "谁来试试？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74738,
+        "user": "纯溪",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74744,
+        "user": "wei_qqq",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 74745,
+        "user": "水晶琳珂",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74750,
+        "user": "水晶012",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74761,
+        "user": "Sky",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74768,
+        "user": "fiona",
+        "content": "我随便选1个人来走？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74769,
+        "user": "水晶011",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74796,
+        "user": "fiona",
+        "content": "我选小白。算了"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74797,
+        "user": "fiona",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74798,
+        "user": "fiona",
+        "content": "ZJ16d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74799,
+        "user": "fiona",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74807,
+        "user": "wei_qqq",
+        "content": "haha"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74813,
+        "user": "fiona",
+        "content": "25准备走J13H12杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74818,
+        "user": "fiona",
+        "content": "所以26唯一在中间"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74821,
+        "user": "fiona",
+        "content": "ZJ18c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74822,
+        "user": "fiona",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74829,
+        "user": "fiona",
+        "content": "27后黑简单杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74839,
+        "user": "fiona",
+        "content": "我们继续看看实战吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74841,
+        "user": "fiona",
+        "content": "ZJ19d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74841,
+        "user": "fiona",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74843,
+        "user": "fiona",
+        "content": "ZJ1e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74844,
+        "user": "fiona",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74844,
+        "user": "fiona",
+        "content": "ZJ18d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74845,
+        "user": "fiona",
+        "content": "ZJ07d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74846,
+        "user": "fiona",
+        "content": "ZJ1bd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74847,
+        "user": "fiona",
+        "content": "ZJ0cd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74848,
+        "user": "fiona",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74848,
+        "user": "fiona",
+        "content": "ZJ0b7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74849,
+        "user": "fiona",
+        "content": "ZJ1a6"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74854,
+        "user": "fiona",
+        "content": "实战到这里黑杀"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74856,
+        "user": "fiona",
+        "content": "ZJ0d7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74857,
+        "user": "fiona",
+        "content": "ZJ1e6"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74858,
+        "user": "fiona",
+        "content": "ZJ0db"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74861,
+        "user": "fiona",
+        "content": "ZJ1ec"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74861,
+        "user": "fiona",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74862,
+        "user": "fiona",
+        "content": "ZJ1da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74863,
+        "user": "fiona",
+        "content": "ZJ0e8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 74864,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74865,
+        "user": "fiona",
+        "content": "ZJ0e8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74867,
+        "user": "fiona",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 74867,
+        "user": "fiona",
+        "content": "ZJ0d5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74871,
+        "user": "fiona",
+        "content": "黑杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74878,
+        "user": "新世纪",
+        "content": "cool"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 74880,
+        "user": "fiona",
+        "content": 27
+    },
+    {
+        "action": "TALK",
+        "time_int": 74890,
+        "user": "fiona",
+        "content": "我们来看看白犯的错误"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74919,
+        "user": "fiona",
+        "content": "白没注意到黑11的斜线可以作为攻击的手段"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74941,
+        "user": "fiona",
+        "content": "13 27这些白都是看到了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 74981,
+        "user": "fiona",
+        "content": "很直线 和很清楚的展现在双方面前的东西。是不会看不到的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75028,
+        "user": "fiona",
+        "content": "而人往往忽略到一些自己没注意到的东西"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75032,
+        "user": "fiona",
+        "content": "ZJ19d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75037,
+        "user": "fiona",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75037,
+        "user": "fiona",
+        "content": "ZJ1e9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75039,
+        "user": "fiona",
+        "content": "ZJ0c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75041,
+        "user": "fiona",
+        "content": "ZJ18d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75042,
+        "user": "fiona",
+        "content": "ZJ07d"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75044,
+        "user": "fiona",
+        "content": "ZJ1bd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75049,
+        "user": "fiona",
+        "content": "ZJ0cd"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75049,
+        "user": "fiona",
+        "content": "ZJ0c7"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75050,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75050,
+        "user": "fiona",
+        "content": "ZJ1c7"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75070,
+        "user": "fiona",
+        "content": "在这里是11 K7 L6 M5"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75085,
+        "user": "fiona",
+        "content": "和L6 M7 N8的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75099,
+        "user": "fiona",
+        "content": "2条斜线的交汇"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75113,
+        "user": "fiona",
+        "content": "注意自己身边的一切东西。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75138,
+        "user": "fiona",
+        "content": "往往最关心你的人最爱你的人就是在你的身边，在默默支持着你的。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75142,
+        "user": "fiona",
+        "content": "而你感受不到。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75185,
+        "user": "fiona",
+        "content": "这盘棋我们要学习的东西就是注意潜在攻击的斜线"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75196,
+        "user": "fiona",
+        "content": "和模糊攻击的方向"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75204,
+        "user": "fiona",
+        "content": "斜线我已经说了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75216,
+        "user": "fiona",
+        "content": "在这里模糊攻击的方向。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75224,
+        "user": "fiona",
+        "content": "其实黑一直是想在局部攻击的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75245,
+        "user": "fiona",
+        "content": "但是缺一个25的点"
+    },
+    {
+        "action": "GOTO",
+        "time_int": 75256,
+        "user": "fiona",
+        "content": 21
+    },
+    {
+        "action": "TALK",
+        "time_int": 75282,
+        "user": "fiona",
+        "content": "要是这里没黑21"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75286,
+        "user": "fiona",
+        "content": "我们来看看"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75318,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75333,
+        "user": "fiona",
+        "content": "ZJ07c"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75359,
+        "user": "fiona",
+        "content": "ZJ16d"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75385,
+        "user": "水晶琳珂",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75388,
+        "user": "水晶琳珂",
+        "content": "/"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75402,
+        "user": "fiona",
+        "content": "ZJ0ac"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75410,
+        "user": "fiona",
+        "content": "ZJ1bc"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75416,
+        "user": "fiona",
+        "content": "白有这个强防"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75418,
+        "user": "fiona",
+        "content": "ZJ0d9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75419,
+        "user": "fiona",
+        "content": "ZJ1bb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75422,
+        "user": "江南新绿",
+        "content": "是小白不？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75425,
+        "user": "fiona",
+        "content": "这样刚好杀不掉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75426,
+        "user": "fiona",
+        "content": "是我"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75441,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75443,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 75449,
+        "user": "蓝雪人",
+        "content": "1"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75458,
+        "user": "fiona",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75468,
+        "user": "fiona",
+        "content": "如果黑这个时候在走这个25"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75483,
+        "user": "fiona",
+        "content": "白多了24和22的斜2"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75492,
+        "user": "fiona",
+        "content": "攻击就不够隐蔽了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75504,
+        "user": "江南新绿",
+        "content": "小白是个计算能力不错的家伙。"
+    },
+    {
+        "action": "BACK",
+        "time_int": 75509,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75511,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75511,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75513,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 75513,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75515,
+        "user": "fiona",
+        "content": "ZJ06a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75547,
+        "user": "fiona",
+        "content": "向西村敏雄这么有境界的男人"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75556,
+        "user": "fiona",
+        "content": "当然把刚才算到的东西保留"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75590,
+        "user": "fiona",
+        "content": "潜在的东西是别人容易忽视的"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 75596,
+        "user": "fiona",
+        "content": "ZJ17c"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75618,
+        "user": "fiona",
+        "content": "如果22真的防里面黑再继续在外面耐心的攻击"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75638,
+        "user": "fiona",
+        "content": "记住，比赛不是比谁走的好 走的强。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75645,
+        "user": "fiona",
+        "content": "而是比错误"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75652,
+        "user": "过客127",
+        "content": "....."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75665,
+        "user": "fiona",
+        "content": "很多人喜欢说。我当时一个随手，然后漏杀了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75679,
+        "user": "fiona",
+        "content": "漏防了。之类的话。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75688,
+        "user": "fiona",
+        "content": "这些都是没有意义的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75690,
+        "user": "fiona",
+        "content": "比错误。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75702,
+        "user": "过客134",
+        "content": "所以下棋不悔是好习惯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75703,
+        "user": "fiona",
+        "content": "是比谁犯最后一个错误"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75718,
+        "user": "fiona",
+        "content": "而你的对手抓住了你的错误。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75735,
+        "user": "fiona",
+        "content": "那你就是犯的最后一个错误。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75746,
+        "user": "fiona",
+        "content": "要是你对手没抓到。那也没关系。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75763,
+        "user": "fiona",
+        "content": "错误也就不是错误。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75763,
+        "user": "fiona",
+        "content": "只不过是弱手而已"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75782,
+        "user": "新世纪",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time_int": 75806,
+        "user": "Sky",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75818,
+        "user": "fiona",
+        "content": "而所谓的高手，不过就是抓机会能力强一点，犯的错误少一点，知道的谱多一点，心态好一点，计算能力强一点，选点好一点，速度快一点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75848,
+        "user": "水晶014",
+        "content": "长的帅一点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75854,
+        "user": "过客127",
+        "content": "钱多一点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75865,
+        "user": "fiona",
+        "content": "赛前准备，比赛对战的状态，迷惑人的战术高一点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75871,
+        "user": "蓉儿",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75876,
+        "user": "过客134",
+        "content": "这就够棒了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75904,
+        "user": "wei_qqq",
+        "content": "一共8点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75911,
+        "user": "fiona",
+        "content": "那八点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75930,
+        "user": "fiona",
+        "content": "没有明显的弱点，你才可能是高手。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75961,
+        "user": "fiona",
+        "content": "要想成为超1流的高手，就需要有明显的强项"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75985,
+        "user": "fiona",
+        "content": "都说曹冬喜欢开松月。是弱点。但这也是他的强项"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75988,
+        "user": "fiona",
+        "content": "因为他熟悉"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75992,
+        "user": "江南新绿",
+        "content": "哇"
+    },
+    {
+        "action": "TALK",
+        "time_int": 75995,
+        "user": "过客127",
+        "content": "为什么"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76003,
+        "user": "过客127",
+        "content": "为什么是强项，又是弱点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76024,
+        "user": "fiona",
+        "content": "是习惯强大还是计算力强大好？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76039,
+        "user": "fiona",
+        "content": "强的是他松月变化熟悉，弱的是大家比较有针对性"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76065,
+        "user": "fiona",
+        "content": "是习惯强大还是计算力强大好？"
+    },
+    {
+        "action": "BACK",
+        "time_int": 76070,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 76074,
+        "user": "fiona",
+        "content": "ZJ15b"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76090,
+        "user": "过客127",
+        "content": "同样重要"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76099,
+        "user": "fiona",
+        "content": "对"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76099,
+        "user": "过客127",
+        "content": "缺一不可"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76108,
+        "user": "fiona",
+        "content": "这盘我们来看"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76119,
+        "user": "江南新绿",
+        "content": "22是实战吗？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76129,
+        "user": "fiona",
+        "content": "反过来看，22就是人的习惯，习惯这样这样去防眠3"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76134,
+        "user": "江南新绿",
+        "content": "倒"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76134,
+        "user": "fiona",
+        "content": "对是实战"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76163,
+        "user": "fiona",
+        "content": "黑恰恰利用了白的习惯，利用了人性的弱点。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76220,
+        "user": "fiona",
+        "content": "A 利用了人习惯去防眠3。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76269,
+        "user": "过客127",
+        "content": "那不是心理战？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76271,
+        "user": "新世纪",
+        "content": "无形的蜘蛛网"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76273,
+        "user": "fiona",
+        "content": "朱建锋有个习惯"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76289,
+        "user": "fiona",
+        "content": "希望大家去学习"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76296,
+        "user": "fiona",
+        "content": "就是看到棋盘就自觉的去计算"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76327,
+        "user": "fiona",
+        "content": "去思考对局者的心态，同时做为一个旁观者去冷静的分析的局面"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76337,
+        "user": "过客127",
+        "content": "这个很难啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76348,
+        "user": "fiona",
+        "content": "曹冬虽然说死开松月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76356,
+        "user": "fiona",
+        "content": "他也有心理暗示。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76370,
+        "user": "江南新绿",
+        "content": "算到最后，一看棋盘原来黑棋比白棋多了一个，还在算黑棋怎么杀"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76381,
+        "user": "江南新绿",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76390,
+        "user": "江南新绿",
+        "content": "玩笑"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76410,
+        "user": "fiona",
+        "content": "暗示别人可以去准备松月，希望可以一棒子打死他，一但在比赛中他的对手攻击失误后，就是平衡的局面的时候"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76457,
+        "user": "fiona",
+        "content": "对手原以为的所谓的准备好的强变化，优变化失去效果的时候，他的意志力和信心也受到了打击"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76458,
+        "user": "飞天",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time_int": 76482,
+        "user": "fiona",
+        "content": "当然冬瓜还有个绝招，就是拍表"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76500,
+        "user": "fiona",
+        "content": "自己往往很少时间去对抗别人很多时间"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76503,
+        "user": "水晶009",
+        "content": "什么是拍表？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76516,
+        "user": "江南新绿",
+        "content": "最后几秒走棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76524,
+        "user": "fiona",
+        "content": "对手可能希望不让冬瓜思考。而走的很快"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76528,
+        "user": "过客127",
+        "content": "计时器"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76532,
+        "user": "fiona",
+        "content": "然后出错。被冬瓜抓到机会"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76543,
+        "user": "fiona",
+        "content": "这些综合起来就是比赛"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76558,
+        "user": "fiona",
+        "content": "比赛比的是状态 比的是心理。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76558,
+        "user": "蓝雪人",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76567,
+        "user": "fiona",
+        "content": "更多的时候比的是意志力"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76568,
+        "user": "过客127",
+        "content": "没比赛过所以不懂"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76584,
+        "user": "fiona",
+        "content": "谁不放弃比赛，那么比赛也不会放弃你"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76618,
+        "user": "五子棋痴",
+        "content": "老师的意志力就很强大保持不败"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76629,
+        "user": "fiona",
+        "content": "当你放弃你手中的棋子，那棋子也同时放弃了你。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76640,
+        "user": "过客127",
+        "content": "好深"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76676,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76683,
+        "user": "fiona",
+        "content": "你可以问下自己为什么下五子棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76694,
+        "user": "fiona",
+        "content": "是习惯还是什么？多少人习惯开电脑就进QQ的？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76698,
+        "user": "过客127",
+        "content": "我可能只是兴趣"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76715,
+        "user": "fiona",
+        "content": "我知道失落缘老师和我一样，开电脑习惯开谱库+石头 拆棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76718,
+        "user": "过客127",
+        "content": "我一开电脑必开QQ"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76731,
+        "user": "过客127",
+        "content": "什么石头"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76734,
+        "user": "fiona",
+        "content": "当兴趣变成了习惯，就是最可怕的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76738,
+        "user": "fiona",
+        "content": "黑石"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76753,
+        "user": "过客127",
+        "content": "我想问黑石怎么个用来拆局啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76761,
+        "user": "过客127",
+        "content": "好像只可以对局啊"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76779,
+        "user": "fiona",
+        "content": "习惯去思考对局，习惯去记忆对局，习惯去思考对局者的心态，去揣摩对手的想法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76791,
+        "user": "fiona",
+        "content": "对局是死的，人是活的，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76817,
+        "user": "fiona",
+        "content": "每个人对五子棋都有自己的理解，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76818,
+        "user": "江南新绿",
+        "content": "反过来才对吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76826,
+        "user": "fiona",
+        "content": "看你最求的是什么？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76836,
+        "user": "fiona",
+        "content": "给自己定一个短期目标"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76854,
+        "user": "fiona",
+        "content": "很多人喜欢去学花月 云月 浦月"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76862,
+        "user": "fiona",
+        "content": "其实学什么不重要"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76871,
+        "user": "fiona",
+        "content": "关键是你能坚持多久？"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76891,
+        "user": "fiona",
+        "content": "我自己学云月花了3年。现在一样有我不知道的变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76892,
+        "user": "过客127",
+        "content": "一个小时"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76899,
+        "user": "过客127",
+        "content": "~O~"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76919,
+        "user": "fiona",
+        "content": "对于五子棋"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76936,
+        "user": "fiona",
+        "content": "无论你是爱好者也好，还是想作为职业也好"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76976,
+        "user": "fiona",
+        "content": "想提高水平 我给以下几条建议"
+    },
+    {
+        "action": "TALK",
+        "time_int": 76985,
+        "user": "过客127",
+        "content": "洗耳恭听"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77036,
+        "user": "fiona",
+        "content": "1，在平时下棋的时候多走无理棋。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77047,
+        "user": "fiona",
+        "content": "2，八面受敌读谱法。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77052,
+        "user": "水晶雨",
+        "content": "/"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77058,
+        "user": "fiona",
+        "content": "3，不随手，不下废棋，不贪小便宜。做到这个，你大概就是网上2d以上了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77066,
+        "user": "fiona",
+        "content": "4，用骗着，但别信骗着。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77073,
+        "user": "fiona",
+        "content": "骗着不是正着，应付不好它很具杀伤力，但应付好了它就是坏棋，下的人反而要吃亏的。不过在骗与被骗的过程中你对棋型的理解会有很大的提高，所以偶尔用用也是十分有趣的。但把它当宝贝的话你就会停滞不前了。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77086,
+        "user": "fiona",
+        "content": "5，学习定式和布局的方法"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77096,
+        "user": "fiona",
+        "content": "6对手，网络，现实。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77102,
+        "user": "fiona",
+        "content": "这6点"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77118,
+        "user": "fiona",
+        "content": "有兴趣的去看看，没兴趣的当我没说"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 77119,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77122,
+        "user": "fiona",
+        "content": "ZJ088"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77127,
+        "user": "新世纪",
+        "content": "强！"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77127,
+        "user": "fiona",
+        "content": "给大家一个局面吧"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77132,
+        "user": "fiona",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77132,
+        "user": "fiona",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77133,
+        "user": "fiona",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77134,
+        "user": "fiona",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77135,
+        "user": "fiona",
+        "content": "ZJ178"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77136,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77139,
+        "user": "fiona",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77144,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77144,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77145,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77145,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77145,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77146,
+        "user": "fiona",
+        "content": "ZJ189"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77147,
+        "user": "fiona",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77147,
+        "user": "fiona",
+        "content": "ZJ197"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77148,
+        "user": "fiona",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77148,
+        "user": "过客127",
+        "content": "==我要把你的话复制"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77149,
+        "user": "fiona",
+        "content": "ZJ1b8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77152,
+        "user": "fiona",
+        "content": "ZJ099"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77155,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77155,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77155,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77155,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77155,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77156,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77157,
+        "user": "fiona",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77157,
+        "user": "fiona",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77158,
+        "user": "fiona",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77159,
+        "user": "fiona",
+        "content": "ZJ078"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77160,
+        "user": "fiona",
+        "content": "ZJ168"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77161,
+        "user": "fiona",
+        "content": "ZJ089"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77162,
+        "user": "fiona",
+        "content": "ZJ17a"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77171,
+        "user": "五子棋痴",
+        "content": "、、"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77171,
+        "user": "fiona",
+        "content": "这个局面是黑必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77187,
+        "user": "fiona",
+        "content": "大家可能知道或者不知道"
+    },
+    {
+        "action": "CLEAR",
+        "time_int": 77193,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77194,
+        "user": "fiona",
+        "content": "ZJ088"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77195,
+        "user": "fiona",
+        "content": "ZJ199"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77196,
+        "user": "fiona",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77198,
+        "user": "fiona",
+        "content": "ZJ187"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77199,
+        "user": "fiona",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77201,
+        "user": "fiona",
+        "content": "ZJ178"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77202,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 77204,
+        "user": "过客127",
+        "content": "多给一秒，，，，，，"
+    },
+    {
+        "action": "BACK",
+        "time_int": 77204,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77205,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time_int": 77206,
+        "user": "fiona",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77207,
+        "user": "fiona",
+        "content": "ZJ0a8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77208,
+        "user": "fiona",
+        "content": "ZJ1a7"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77209,
+        "user": "fiona",
+        "content": "ZJ098"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77210,
+        "user": "fiona",
+        "content": "ZJ178"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77211,
+        "user": "fiona",
+        "content": "ZJ097"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77213,
+        "user": "fiona",
+        "content": "ZJ186"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77227,
+        "user": "fiona",
+        "content": "而这个变化就不是黑必胜"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77231,
+        "user": "过客127",
+        "content": "好了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77250,
+        "user": "江南新绿",
+        "content": "这个连雨月都不是，还差一格"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77252,
+        "user": "fiona",
+        "content": "这2者的区别在于后面一个变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77269,
+        "user": "fiona",
+        "content": "盘端往右边移动了一格"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77297,
+        "user": "fiona",
+        "content": "具体在一个分支杀出现了盘端问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77306,
+        "user": "fiona",
+        "content": "有兴趣的可以去拆拆"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77321,
+        "user": "虞旭鹏",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time_int": 77350,
+        "user": "fiona",
+        "content": "借此变化，小白我作为一个臭石头，来抛砖引玉吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77370,
+        "user": "fiona",
+        "content": "希望热爱五子棋的人越来越多。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77401,
+        "user": "Sky",
+        "content": "老师能把这个拆不出的摆一下吗"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77436,
+        "user": "fiona",
+        "content": "所谓的星星之火可以燎原，希望五子棋的火焰可以在市场的发展下，成长"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77437,
+        "user": "fiona",
+        "content": "ZJ0ca"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77438,
+        "user": "fiona",
+        "content": "ZJ1b9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77439,
+        "user": "fiona",
+        "content": "ZJ0ba"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77440,
+        "user": "fiona",
+        "content": "ZJ1a9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77441,
+        "user": "fiona",
+        "content": "ZJ0c9"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77441,
+        "user": "fiona",
+        "content": "ZJ1c8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77443,
+        "user": "fiona",
+        "content": "ZJ0d8"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77443,
+        "user": "fiona",
+        "content": "ZJ1ab"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77444,
+        "user": "fiona",
+        "content": "ZJ0da"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77445,
+        "user": "fiona",
+        "content": "ZJ1ea"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 77445,
+        "user": "fiona",
+        "content": "ZJ0eb"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77452,
+        "user": "fiona",
+        "content": "这个19不是活3了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77463,
+        "user": "fiona",
+        "content": "我只知道在这个分支有问题"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77471,
+        "user": "fiona",
+        "content": "其他分支我不太清楚"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77478,
+        "user": "fiona",
+        "content": "应该还有吧"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77515,
+        "user": "fiona",
+        "content": "五子棋比的是计算力，和谁不犯任何小错误，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77518,
+        "user": "Sky",
+        "content": "15能不能冲了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77533,
+        "user": "fiona",
+        "content": "围棋比的是最后一个错误是致命的"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77551,
+        "user": "fiona",
+        "content": "大家去拆吧。变化本身是没有意义的。"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77560,
+        "user": "fiona",
+        "content": "只不过希望大家去拆棋，"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77568,
+        "user": "fiona",
+        "content": "了解更多变化"
+    },
+    {
+        "action": "TALK",
+        "time_int": 77589,
+        "user": "fiona",
+        "content": "每个人都有自己独特的开局，那样才是比较厉害的"
+    },
+    {
+        "action": "CREDIT",
+        "time_int": 77596,
+        "user": "",
+        "content": " 123, Sky, wei_qqq, 菜女, 春天, 纯溪, 飞天, 哈利, 蓝雪人, 乐, 冷月花魂, 梦依, 敏敏, 平凡最浪漫, 清秋弈人, 清逸, 蓉儿, 水晶005, 水晶006, 水晶007, 水晶011, 水晶012, 水晶014, 水晶015, 水晶016, 水晶017, 水晶寒星, 水晶魂, 水晶琳珂, 水晶绿茶, 水晶雨, 水晶折枝客, 天鹰, 我想飞, 五子棋痴, 新世纪, 徐永伟, 妖妖, 逸舟, 虞旭鹏."
+    }
+]
