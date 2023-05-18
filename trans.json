@@ -3848,30 +3848,26 @@
         "show_name": "20190314银月的基本下法",
         "data": "20190314.json",
         "source_file_name": "20190314.txt",
-        "origin": true
-    },
-    {
-        "show_name": "初级习题",
-        "data": "20190104.json",
-        "source_file_name": "20190104.txt",
-        "origin": true
     },
     {
         "show_name": "基础课：先手必胜(3)",
         "data": "20190308.json",
         "source_file_name": "20190308.txt",
-        "origin": true
     },
     {
         "show_name": "基础课：先手必胜(2)",
         "data": "20190302.json",
         "source_file_name": "20190302.txt",
-        "origin": true
     },
     {
         "show_name": "基础课：先手必胜(1)",
         "data": "20190202.json",
         "source_file_name": "20190202.txt",
+    },
+    {
+        "show_name": "初级习题",
+        "data": "20190104.json",
+        "source_file_name": "20190104.txt",
         "origin": true
     },
     {
