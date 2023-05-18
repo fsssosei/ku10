@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8"><meta name="keywords" content="连珠,五子棋,Renjuclass,浙江连珠教室,安度教室,五子棋先手必胜" />
+    <meta charset="utf-8"><meta name="keywords" content="连珠,五子棋,Renjuclass,安度教室,浙江连珠教室,五子棋先手必胜" />
     <meta name="description" content="本站收集了RenjuClass和浙江教室的连珠课程，适合有一定基础的五子棋爱好者自学。" />
     <meta name="viewport" content="width=800, initial-scale=1">
-    <title>RenjuClass连珠（有禁五子棋）课程在线学习</title>
+    <title>RenjuClass与浙江教室连珠（有禁五子棋）课程在线学习</title>
     <link rel="stylesheet" href="layui/css/layui.css"  media="all">
     <style>
         body
@@ -771,7 +771,7 @@
                     });
                 }
             };
-            $.getJSON('trans.json?d=20190314',{},function(_data){
+            $.getJSON('trans.json?d=20190104',{},function(_data){
                 for (let i in _data)
                 {
                     let _tmp = _data[i];
@@ -782,7 +782,7 @@
                         .attr("id",'play_link_' + i)
                         .html(_tmp['show_name']);
                     _link.click(function(){
-                        $("title").text($(this).text() + " @ RenjuClass课程在线学习");
+                        $("title").text($(this).text() + " @ RenjuClass与浙江教室连珠课程在线学习");
                         record_player.sysMsg("Loading......");
                         load_game($(this).attr('data-source'),function(){
                             record_player.sysMsg("开始播放" + $("title").text());
