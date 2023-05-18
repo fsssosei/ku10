@@ -1508,25 +1508,7 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "题外话，大家有好的内容想以这种形式分享的，请联系我。",
-        "time_int": 862
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "来都来了，帮我扫个支付宝红包吧！",
-        "time_int": 867
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "<img src=\"\/images\/alipay_qrcode.jpg\" width=\"240\" height=\"361\" \/>",
-        "time_int": 872
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "谢谢观看，现在你可以从<strong>021219花月<\/strong>开始你的正式学习了。",
+        "content": "谢谢观看。",
         "time_int": 877
     }
 ]
