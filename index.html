@@ -440,7 +440,7 @@
                 //按钮
                 $(document.createElement("button")).addClass('button').text("分析")    .click(function(){
                     record_player.pause();
-                    window.open('/board.html#' + _obj.currgame , 'analyze', 'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0',true);
+                    window.open('board.html#' + _obj.currgame , 'analyze', 'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0',true);
                 }).appendTo(controlbar);
                 $(document.createElement("button")).addClass('button show').text("隐藏数字").click(function(){
                     let _btn = $(this);
@@ -741,7 +741,7 @@
                 });
             });
             let load_game = function(source,callback){
-                $.getJSON("/json/" + source,{},function(_data){
+                $.getJSON("json/" + source,{},function(_data){
                     //play data
                     //console.log(source);
                     record_player.load(_data);
@@ -771,7 +771,7 @@
                     });
                 }
             };
-            $.getJSON('/trans.json?d=20190314',{},function(_data){
+            $.getJSON('trans.json?d=20190314',{},function(_data){
                 for (let i in _data)
                 {
                     let _tmp = _data[i];
