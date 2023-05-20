@@ -1,2606 +1,2606 @@
 [
     {
         "action": "RESET",
+        "time_int": 43802,
         "user": "",
-        "content": "000000",
-        "time_int": 0
+        "content": "000000"
     },
     {
         "action": "MOVE",
+        "time_int": 43804,
         "user": "GrandMaster",
-        "content": "88",
-        "time_int": 5
+        "content": "88"
     },
     {
         "action": "TALK",
+        "time_int": 43811,
         "user": "GrandMaster",
-        "content": "大家好",
-        "time_int": 8
+        "content": "大家好"
     },
     {
         "action": "EMOTE",
+        "time_int": 43821,
         "user": "fivestar27",
-        "content": " says hi to GM",
-        "time_int": 13
+        "content": " says hi to GM"
     },
     {
         "action": "TALK",
+        "time_int": 43821,
         "user": "fivestar11",
-        "content": "老师好",
-        "time_int": 16
+        "content": "老师好"
     },
     {
         "action": "TALK",
+        "time_int": 43822,
         "user": "GrandMaster",
-        "content": "很高兴来听课",
-        "time_int": 21
+        "content": "很高兴来听课"
     },
     {
         "action": "TALK",
+        "time_int": 43824,
         "user": "GrandMaster",
-        "content": "CC",
-        "time_int": 26
+        "content": "CC"
     },
     {
         "action": "TALK",
+        "time_int": 43824,
         "user": "fivestar20",
-        "content": "好哈",
-        "time_int": 31
+        "content": "好哈"
     },
     {
         "action": "TALK",
+        "time_int": 43826,
         "user": "fivestar02",
-        "content": "好",
-        "time_int": 36
+        "content": "好"
     },
     {
         "action": "TALK",
+        "time_int": 43834,
         "user": "GrandMaster",
-        "content": "今天呢，特别点",
-        "time_int": 41
+        "content": "今天呢，特别点"
     },
     {
         "action": "TALK",
+        "time_int": 43848,
         "user": "GrandMaster",
-        "content": "不讲实战比赛了",
-        "time_int": 46
+        "content": "不讲实战比赛了"
     },
     {
         "action": "TALK",
+        "time_int": 43865,
         "user": "GrandMaster",
-        "content": "讲一盘别人的",
-        "time_int": 51
+        "content": "讲一盘别人的"
     },
     {
         "action": "TALK",
+        "time_int": 43874,
         "user": "fivestar27",
-        "content": "好啊",
-        "time_int": 56
+        "content": "好啊"
     },
     {
         "action": "MOVE",
+        "time_int": 43877,
         "user": "GrandMaster",
-        "content": "89",
-        "time_int": 61
+        "content": "89"
     },
     {
         "action": "MOVE",
+        "time_int": 43878,
         "user": "GrandMaster",
-        "content": "96",
-        "time_int": 64
+        "content": "96"
     },
     {
         "action": "TALK",
+        "time_int": 43881,
         "user": "fivestar17",
-        "content": "那不还是实战？！",
-        "time_int": 67
+        "content": "那不还是实战？！"
     },
     {
         "action": "TALK",
+        "time_int": 43890,
         "user": "GrandMaster",
-        "content": "嘿嘿",
-        "time_int": 72
+        "content": "嘿嘿"
     },
     {
         "action": "TALK",
+        "time_int": 43892,
         "user": "GrandMaster",
-        "content": "是",
-        "time_int": 77
+        "content": "是"
     },
     {
         "action": "TALK",
+        "time_int": 43899,
         "user": "GrandMaster",
-        "content": "我说不讲我的了",
-        "time_int": 82
+        "content": "我说不讲我的了"
     },
     {
         "action": "TALK",
+        "time_int": 43902,
         "user": "GrandMaster",
-        "content": "哈哈哈",
-        "time_int": 87
+        "content": "哈哈哈"
     },
     {
         "action": "TALK",
+        "time_int": 43906,
         "user": "fivestar11",
-        "content": "新月对吗",
-        "time_int": 92
+        "content": "新月对吗"
     },
     {
         "action": "TALK",
+        "time_int": 43908,
         "user": "GrandMaster",
-        "content": "山月开局",
-        "time_int": 97
+        "content": "山月开局"
     },
     {
         "action": "MOVE",
+        "time_int": 43920,
         "user": "GrandMaster",
-        "content": "78",
-        "time_int": 102
+        "content": "78"
     },
     {
         "action": "TALK",
+        "time_int": 43920,
         "user": "Txiaohua",
-        "content": "老师那是谁的对局",
-        "time_int": 105
+        "content": "老师那是谁的对局"
     },
     {
         "action": "MOVE",
+        "time_int": 43922,
         "user": "GrandMaster",
-        "content": "9a",
-        "time_int": 110
+        "content": "9a"
     },
     {
         "action": "MOVE",
+        "time_int": 43927,
         "user": "GrandMaster",
-        "content": "79",
-        "time_int": 113
+        "content": "79"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{GrandMaster}",
-        "time_int": 116
+        "time_int": 43929,
+        "user": "GrandMaster",
+        "content": ""
     },
     {
         "action": "MOVE",
+        "time_int": 43932,
         "user": "GrandMaster",
-        "content": "77",
-        "time_int": 117
+        "content": "77"
     },
     {
         "action": "TALK",
+        "time_int": 43938,
         "user": "GrandMaster",
-        "content": "嘿，保密",
-        "time_int": 120
+        "content": "嘿，保密"
     },
     {
         "action": "MOVE",
+        "time_int": 43953,
         "user": "GrandMaster",
-        "content": "79",
-        "time_int": 125
+        "content": "79"
     },
     {
         "action": "MOVE",
+        "time_int": 43955,
         "user": "GrandMaster",
-        "content": "97",
-        "time_int": 128
+        "content": "97"
     },
     {
         "action": "MOVE",
+        "time_int": 43956,
         "user": "GrandMaster",
-        "content": "a7",
-        "time_int": 131
+        "content": "a7"
     },
     {
         "action": "MOVE",
+        "time_int": 43958,
         "user": "GrandMaster",
-        "content": "b8",
-        "time_int": 134
+        "content": "b8"
     },
     {
         "action": "TALK",
+        "time_int": 43964,
         "user": "GrandMaster",
-        "content": "到此",
-        "time_int": 137
+        "content": "到此"
     },
     {
         "action": "TALK",
+        "time_int": 43971,
         "user": "GrandMaster",
-        "content": "标准走法",
-        "time_int": 142
+        "content": "标准走法"
     },
     {
         "action": "TALK",
+        "time_int": 44003,
         "user": "fivestar27",
-        "content": "最强定式？",
-        "time_int": 147
+        "content": "最强定式？"
     },
     {
         "action": "TALK",
+        "time_int": 44017,
         "user": "GrandMaster",
-        "content": "我打算前面的让执黑的本人下周课亲自讲",
-        "time_int": 152
+        "content": "我打算前面的让执黑的本人下周课亲自讲"
     },
     {
         "action": "TALK",
+        "time_int": 44029,
         "user": "GrandMaster",
-        "content": "现在随便说说",
-        "time_int": 157
+        "content": "现在随便说说"
     },
     {
         "action": "TALK",
+        "time_int": 44035,
         "user": "GrandMaster",
-        "content": "是",
-        "time_int": 162
+        "content": "是"
     },
     {
         "action": "MOVE",
+        "time_int": 44040,
         "user": "GrandMaster",
-        "content": "8a",
-        "time_int": 167
+        "content": "8a"
     },
     {
         "action": "TALK",
+        "time_int": 44043,
         "user": "GrandMaster",
-        "content": "11",
-        "time_int": 170
+        "content": "11"
     },
     {
         "action": "TALK",
+        "time_int": 44059,
         "user": "GrandMaster",
-        "content": "比赛里没见过的一个11",
-        "time_int": 175
+        "content": "比赛里没见过的一个11"
     },
     {
         "action": "MOVE",
+        "time_int": 44082,
         "user": "GrandMaster",
-        "content": "9b",
-        "time_int": 180
+        "content": "9b"
     },
     {
         "action": "MOVE",
+        "time_int": 44087,
         "user": "GrandMaster",
-        "content": "a8",
-        "time_int": 183
+        "content": "a8"
     },
     {
         "action": "MOVE",
+        "time_int": 44090,
         "user": "GrandMaster",
-        "content": "aa",
-        "time_int": 186
+        "content": "aa"
     },
     {
         "action": "MOVE",
+        "time_int": 44095,
         "user": "GrandMaster",
-        "content": "7b",
-        "time_int": 189
+        "content": "7b"
     },
     {
         "action": "MOVE",
+        "time_int": 44097,
         "user": "GrandMaster",
-        "content": "99",
-        "time_int": 192
+        "content": "99"
     },
     {
         "action": "MOVE",
+        "time_int": 44099,
         "user": "GrandMaster",
-        "content": "6a",
-        "time_int": 195
+        "content": "6a"
     },
     {
         "action": "MOVE",
+        "time_int": 44102,
         "user": "GrandMaster",
-        "content": "5b",
-        "time_int": 198
+        "content": "5b"
     },
     {
         "action": "MOVE",
+        "time_int": 44103,
         "user": "GrandMaster",
-        "content": "6c",
-        "time_int": 201
+        "content": "6c"
     },
     {
         "action": "MOVE",
+        "time_int": 44105,
         "user": "GrandMaster",
-        "content": "7c",
-        "time_int": 204
+        "content": "7c"
     },
     {
         "action": "MOVE",
+        "time_int": 44107,
         "user": "GrandMaster",
-        "content": "a6",
-        "time_int": 207
+        "content": "a6"
     },
     {
         "action": "MOVE",
+        "time_int": 44108,
         "user": "GrandMaster",
-        "content": "a9",
-        "time_int": 210
+        "content": "a9"
     },
     {
         "action": "MOVE",
+        "time_int": 44110,
         "user": "GrandMaster",
-        "content": "b9",
-        "time_int": 213
+        "content": "b9"
     },
     {
         "action": "MOVE",
+        "time_int": 44112,
         "user": "GrandMaster",
-        "content": "b6",
-        "time_int": 216
+        "content": "b6"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{GrandMaster}",
-        "time_int": 219
+        "time_int": 44114,
+        "user": "GrandMaster",
+        "content": ""
     },
     {
         "action": "MOVE",
+        "time_int": 44122,
         "user": "GrandMaster",
-        "content": "67",
-        "time_int": 220
+        "content": "67"
     },
     {
         "action": "MOVE",
+        "time_int": 44125,
         "user": "GrandMaster",
-        "content": "b6",
-        "time_int": 223
+        "content": "b6"
     },
     {
         "action": "MOVE",
+        "time_int": 44127,
         "user": "GrandMaster",
-        "content": "c6",
-        "time_int": 226
+        "content": "c6"
     },
     {
         "action": "TALK",
+        "time_int": 44139,
         "user": "GrandMaster",
-        "content": "这样子了",
-        "time_int": 229
+        "content": "这样子了"
     },
     {
         "action": "TALK",
+        "time_int": 44161,
         "user": "fivestar20",
-        "content": "掉出去了。。",
-        "time_int": 234
+        "content": "掉出去了。。"
     },
     {
         "action": "TALK",
+        "time_int": 44161,
         "user": "GrandMaster",
-        "content": "现在研判一下局面",
-        "time_int": 239
+        "content": "现在研判一下局面"
     },
     {
         "action": "TALK",
+        "time_int": 44166,
         "user": "GrandMaster",
-        "content": "呵呵",
-        "time_int": 244
+        "content": "呵呵"
     },
     {
         "action": "TALK",
+        "time_int": 44169,
         "user": "GrandMaster",
-        "content": "我拉",
-        "time_int": 249
+        "content": "我拉"
     },
     {
         "action": "TALK",
+        "time_int": 44188,
         "user": "GrandMaster",
-        "content": "谁说说",
-        "time_int": 254
+        "content": "谁说说"
     },
     {
         "action": "TALK",
+        "time_int": 44197,
         "user": "fivestar17",
-        "content": "偶不知道",
-        "time_int": 259
+        "content": "偶不知道"
     },
     {
         "action": "TALK",
+        "time_int": 44198,
         "user": "GrandMaster",
-        "content": "那方好",
-        "time_int": 264
+        "content": "那方好"
     },
     {
         "action": "TALK",
+        "time_int": 44222,
         "user": "fivestar27",
-        "content": "白似乎很好下了",
-        "time_int": 269
+        "content": "白似乎很好下了"
     },
     {
         "action": "TALK",
+        "time_int": 44224,
         "user": "GrandMaster",
-        "content": "大胆的说",
-        "time_int": 274
+        "content": "大胆的说"
     },
     {
         "action": "TALK",
+        "time_int": 44229,
         "user": "GrandMaster",
-        "content": "嘿",
-        "time_int": 279
+        "content": "嘿"
     },
     {
         "action": "TALK",
+        "time_int": 44236,
         "user": "GrandMaster",
-        "content": "还有谁说",
-        "time_int": 284
+        "content": "还有谁说"
     },
     {
         "action": "TALK",
+        "time_int": 44242,
         "user": "fivestar27",
-        "content": "错了吗",
-        "time_int": 289
+        "content": "错了吗"
     },
     {
         "action": "TALK",
+        "time_int": 44248,
         "user": "GrandMaster",
-        "content": "^_*",
-        "time_int": 294
+        "content": "^_*"
     },
     {
         "action": "TALK",
+        "time_int": 44249,
         "user": "Txiaohua",
-        "content": "黑",
-        "time_int": 299
+        "content": "黑"
     },
     {
         "action": "TALK",
+        "time_int": 44252,
         "user": "fivestar11",
-        "content": "黑的好",
-        "time_int": 304
+        "content": "黑的好"
     },
     {
         "action": "TALK",
+        "time_int": 44256,
         "user": "GrandMaster",
-        "content": "耶",
-        "time_int": 309
+        "content": "耶"
     },
     {
         "action": "TALK",
+        "time_int": 44262,
         "user": "fivestar20",
-        "content": "黑滴~~",
-        "time_int": 314
+        "content": "黑滴~~"
     },
     {
         "action": "TALK",
+        "time_int": 44267,
         "user": "fivestar27",
-        "content": "我唱反调了呀",
-        "time_int": 319
+        "content": "我唱反调了呀"
     },
     {
         "action": "TALK",
+        "time_int": 44271,
         "user": "fivestar27",
-        "content": "：）",
-        "time_int": 324
+        "content": "：）"
     },
     {
         "action": "TALK",
+        "time_int": 44275,
         "user": "Txiaohua",
-        "content": "好",
-        "time_int": 329
+        "content": "好"
     },
     {
         "action": "TALK",
+        "time_int": 44280,
         "user": "GrandMaster",
-        "content": "黑棋左上，和右下",
-        "time_int": 334
+        "content": "黑棋左上，和右下"
     },
     {
         "action": "TALK",
+        "time_int": 44294,
         "user": "GrandMaster",
-        "content": "各有一块攻击性很强的",
-        "time_int": 339
+        "content": "各有一块攻击性很强的"
     },
     {
         "action": "TALK",
+        "time_int": 44302,
         "user": "GrandMaster",
-        "content": "而白棋",
-        "time_int": 344
+        "content": "而白棋"
     },
     {
         "action": "TALK",
+        "time_int": 44317,
         "user": "GrandMaster",
-        "content": "只有24中间那块",
-        "time_int": 349
+        "content": "只有24中间那块"
     },
     {
         "action": "TALK",
+        "time_int": 44332,
         "user": "fivestar27",
-        "content": "白棋左下二个眠三不行啊？",
-        "time_int": 354
+        "content": "白棋左下二个眠三不行啊？"
     },
     {
         "action": "TALK",
+        "time_int": 44338,
         "user": "GrandMaster",
-        "content": "其他地方没有攻击性",
-        "time_int": 359
+        "content": "其他地方没有攻击性"
     },
     {
         "action": "TALK",
+        "time_int": 44357,
         "user": "GrandMaster",
-        "content": "对的，就说的那一块有",
-        "time_int": 364
+        "content": "对的，就说的那一块有"
     },
     {
         "action": "TALK",
+        "time_int": 44370,
         "user": "Txiaohua",
-        "content": "现在是黑得先手",
-        "time_int": 369
+        "content": "现在是黑得先手"
     },
     {
         "action": "TALK",
+        "time_int": 44372,
         "user": "GrandMaster",
-        "content": "^_*",
-        "time_int": 374
+        "content": "^_*"
     },
     {
         "action": "TALK",
+        "time_int": 44376,
         "user": "GrandMaster",
-        "content": "聪",
-        "time_int": 379
+        "content": "聪"
     },
     {
         "action": "TALK",
+        "time_int": 44378,
         "user": "Txiaohua",
-        "content": "白没有机会",
-        "time_int": 384
+        "content": "白没有机会"
     },
     {
         "action": "TALK",
+        "time_int": 44385,
         "user": "GrandMaster",
-        "content": "good",
-        "time_int": 389
+        "content": "good"
     },
     {
         "action": "TALK",
+        "time_int": 44385,
         "user": "fivestar27",
-        "content": "嗯",
-        "time_int": 394
+        "content": "嗯"
     },
     {
         "action": "TALK",
+        "time_int": 44391,
         "user": "fivestar27",
-        "content": "高",
-        "time_int": 399
+        "content": "高"
     },
     {
         "action": "TALK",
+        "time_int": 44396,
         "user": "GrandMaster",
-        "content": "现在黑棋走",
-        "time_int": 404
+        "content": "现在黑棋走"
     },
     {
         "action": "TALK",
+        "time_int": 44404,
         "user": "GrandMaster",
-        "content": "黑棋怎么走呢",
-        "time_int": 409
+        "content": "黑棋怎么走呢"
     },
     {
         "action": "TALK",
+        "time_int": 44408,
         "user": "GrandMaster",
-        "content": "谁出个主意",
-        "time_int": 414
+        "content": "谁出个主意"
     },
     {
         "action": "TALK",
+        "time_int": 44449,
         "user": "Txiaohua",
-        "content": "E7",
-        "time_int": 419
+        "content": "E7"
     },
     {
         "action": "TALK",
+        "time_int": 44466,
         "user": "GrandMaster",
-        "content": "还有谁",
-        "time_int": 424
+        "content": "还有谁"
     },
     {
         "action": "TALK",
+        "time_int": 44471,
         "user": "GrandMaster",
-        "content": "来讲",
-        "time_int": 429
+        "content": "来讲"
     },
     {
         "action": "TALK",
+        "time_int": 44472,
         "user": "fivestar11",
-        "content": "l5",
-        "time_int": 434
+        "content": "l5"
     },
     {
         "action": "TALK",
+        "time_int": 44488,
         "user": "fivestar11",
-        "content": "L5",
-        "time_int": 439
+        "content": "L5"
     },
     {
         "action": "TALK",
+        "time_int": 44490,
         "user": "GrandMaster",
-        "content": "好，还有谁",
-        "time_int": 444
+        "content": "好，还有谁"
     },
     {
         "action": "TALK",
+        "time_int": 44532,
         "user": "GrandMaster",
-        "content": "嘿嘿",
-        "time_int": 449
+        "content": "嘿嘿"
     },
     {
         "action": "TALK",
+        "time_int": 44534,
         "user": "chess",
-        "content": "!!",
-        "time_int": 454
+        "content": "!!"
     },
     {
         "action": "EMOTE",
+        "time_int": 44536,
         "user": "fivestar27",
-        "content": " says hello to chess",
-        "time_int": 459
+        "content": " says hello to chess"
     },
     {
         "action": "TALK",
+        "time_int": 44538,
         "user": "GrandMaster",
-        "content": "是E7",
-        "time_int": 462
+        "content": "是E7"
     },
     {
         "action": "TALK",
+        "time_int": 44547,
         "user": "Txiaohua",
-        "content": "哈哈",
-        "time_int": 467
+        "content": "哈哈"
     },
     {
         "action": "TALK",
+        "time_int": 44550,
         "user": "chess",
-        "content": "哟",
-        "time_int": 472
+        "content": "哟"
     },
     {
         "action": "MOVE",
+        "time_int": 44551,
         "user": "GrandMaster",
-        "content": "57",
-        "time_int": 477
+        "content": "57"
     },
     {
         "action": "TALK",
+        "time_int": 44553,
         "user": "chess",
-        "content": "我的实战啊",
-        "time_int": 480
+        "content": "我的实战啊"
     },
     {
         "action": "TALK",
+        "time_int": 44559,
         "user": "GrandMaster",
-        "content": "哈哈",
-        "time_int": 485
+        "content": "哈哈"
     },
     {
         "action": "TALK",
+        "time_int": 44560,
         "user": "chess",
-        "content": "这个27最强",
-        "time_int": 490
+        "content": "这个27最强"
     },
     {
         "action": "TALK",
+        "time_int": 44560,
         "user": "fivestar27",
-        "content": "蒙对了",
-        "time_int": 495
+        "content": "蒙对了"
     },
     {
         "action": "TALK",
+        "time_int": 44561,
         "user": "GrandMaster",
-        "content": "对哦",
-        "time_int": 500
+        "content": "对哦"
     },
     {
         "action": "TALK",
+        "time_int": 44568,
         "user": "Txiaohua",
-        "content": "象棋、老师好",
-        "time_int": 505
+        "content": "象棋、老师好"
     },
     {
         "action": "TALK",
+        "time_int": 44571,
         "user": "chess",
-        "content": "别的都杀不掉的",
-        "time_int": 510
+        "content": "别的都杀不掉的"
     },
     {
         "action": "TALK",
+        "time_int": 44576,
         "user": "GrandMaster",
-        "content": "下星期的课让你讲",
-        "time_int": 515
+        "content": "下星期的课让你讲"
     },
     {
         "action": "TALK",
+        "time_int": 44579,
         "user": "chess",
-        "content": "。。。。",
-        "time_int": 520
+        "content": "。。。。"
     },
     {
         "action": "TALK",
+        "time_int": 44583,
         "user": "GrandMaster",
-        "content": "CC",
-        "time_int": 525
+        "content": "CC"
     },
     {
         "action": "TALK",
+        "time_int": 44588,
         "user": "fivestar27",
-        "content": "欢迎",
-        "time_int": 530
+        "content": "欢迎"
     },
     {
         "action": "TALK",
+        "time_int": 44589,
         "user": "chess",
-        "content": "我现在都不知道怎么杀",
-        "time_int": 535
+        "content": "我现在都不知道怎么杀"
     },
     {
         "action": "TALK",
+        "time_int": 44589,
         "user": "fivestar27",
-        "content": "欢迎",
-        "time_int": 540
+        "content": "欢迎"
     },
     {
         "action": "TALK",
+        "time_int": 44591,
         "user": "GrandMaster",
-        "content": "讲一节课赚6分",
-        "time_int": 545
+        "content": "讲一节课赚6分"
     },
     {
         "action": "TALK",
+        "time_int": 44598,
         "user": "chess",
-        "content": "。。",
-        "time_int": 550
+        "content": "。。"
     },
     {
         "action": "TALK",
+        "time_int": 44599,
         "user": "GrandMaster",
-        "content": "给你六个录像",
-        "time_int": 555
+        "content": "给你六个录像"
     },
     {
         "action": "TALK",
+        "time_int": 44617,
         "user": "GrandMaster",
-        "content": "现在",
-        "time_int": 560
+        "content": "现在"
     },
     {
         "action": "TALK",
+        "time_int": 44626,
         "user": "GrandMaster",
-        "content": "白棋很多点",
-        "time_int": 565
+        "content": "白棋很多点"
     },
     {
         "action": "TALK",
+        "time_int": 44638,
         "user": "GrandMaster",
-        "content": "今天我就讲一个点",
-        "time_int": 570
+        "content": "今天我就讲一个点"
     },
     {
         "action": "TALK",
+        "time_int": 44641,
         "user": "GrandMaster",
-        "content": "其他点",
-        "time_int": 575
+        "content": "其他点"
     },
     {
         "action": "TALK",
+        "time_int": 44651,
         "user": "GrandMaster",
-        "content": "由chess下周讲",
-        "time_int": 580
+        "content": "由chess下周讲"
     },
     {
         "action": "MOVE",
+        "time_int": 44667,
         "user": "GrandMaster",
-        "content": "56",
-        "time_int": 585
+        "content": "56"
     },
     {
         "action": "MOVE",
+        "time_int": 44670,
         "user": "GrandMaster",
-        "content": "45",
-        "time_int": 588
+        "content": "45"
     },
     {
         "action": "TALK",
+        "time_int": 44672,
         "user": "fivestar11",
-        "content": "好啊，祝贺chess",
-        "time_int": 591
+        "content": "好啊，祝贺chess"
     },
     {
         "action": "MOVE",
+        "time_int": 44674,
         "user": "GrandMaster",
-        "content": "86",
-        "time_int": 596
+        "content": "86"
     },
     {
         "action": "TALK",
+        "time_int": 44691,
         "user": "GrandMaster",
-        "content": "冲，再挡黑",
-        "time_int": 599
+        "content": "冲，再挡黑"
     },
     {
         "action": "TALK",
+        "time_int": 44701,
         "user": "chess",
-        "content": "。。",
-        "time_int": 604
+        "content": "。。"
     },
     {
         "action": "TALK",
+        "time_int": 44701,
         "user": "chess",
-        "content": "no",
-        "time_int": 609
+        "content": "no"
     },
     {
         "action": "TALK",
+        "time_int": 44704,
         "user": "fivestar11",
-        "content": "回去好好备课哦",
-        "time_int": 614
+        "content": "回去好好备课哦"
     },
     {
         "action": "TALK",
+        "time_int": 44710,
         "user": "GrandMaster",
-        "content": "比较强的应招",
-        "time_int": 619
+        "content": "比较强的应招"
     },
     {
         "action": "TALK",
+        "time_int": 44711,
         "user": "chess",
-        "content": "我没空的",
-        "time_int": 624
+        "content": "我没空的"
     },
     {
         "action": "TALK",
+        "time_int": 44715,
         "user": "GrandMaster",
-        "content": "哈",
-        "time_int": 629
+        "content": "哈"
     },
     {
         "action": "TALK",
+        "time_int": 44727,
         "user": "GrandMaster",
-        "content": "没空等有空",
-        "time_int": 634
+        "content": "没空等有空"
     },
     {
         "action": "TALK",
+        "time_int": 44732,
         "user": "fivestar20",
-        "content": "劈劈啪啪~~  欢迎哦  呵呵",
-        "time_int": 639
+        "content": "劈劈啪啪~~  欢迎哦  呵呵"
     },
     {
         "action": "TALK",
+        "time_int": 44741,
         "user": "YeYuwuziqi",
-        "content": "现在在讲WHAT？",
-        "time_int": 644
+        "content": "现在在讲WHAT？"
     },
     {
         "action": "TALK",
+        "time_int": 44748,
         "user": "fivestar11",
-        "content": "那你把脑子给我，我替你讲啊",
-        "time_int": 649
+        "content": "那你把脑子给我，我替你讲啊"
     },
     {
         "action": "TALK",
+        "time_int": 44766,
         "user": "GrandMaster",
-        "content": "讲山月",
-        "time_int": 654
+        "content": "讲山月"
     },
     {
         "action": "TALK",
+        "time_int": 44773,
         "user": "GrandMaster",
-        "content": "哈哈",
-        "time_int": 659
+        "content": "哈哈"
     },
     {
         "action": "TALK",
+        "time_int": 44776,
         "user": "YeYuwuziqi",
-        "content": "2打必胜？",
-        "time_int": 664
+        "content": "2打必胜？"
     },
     {
         "action": "TALK",
+        "time_int": 44786,
         "user": "GrandMaster",
-        "content": "好哟，让chess带你",
-        "time_int": 669
+        "content": "好哟，让chess带你"
     },
     {
         "action": "TALK",
+        "time_int": 44786,
         "user": "chess",
-        "content": "不是的",
-        "time_int": 674
+        "content": "不是的"
     },
     {
         "action": "TALK",
+        "time_int": 44795,
         "user": "chess",
-        "content": "2打的11我走错了",
-        "time_int": 679
+        "content": "2打的11我走错了"
     },
     {
         "action": "TALK",
+        "time_int": 44799,
         "user": "GrandMaster",
-        "content": "现在看看黑棋怎么走呢",
-        "time_int": 684
+        "content": "现在看看黑棋怎么走呢"
     },
     {
         "action": "TALK",
+        "time_int": 44803,
         "user": "chess",
-        "content": "应该走17这个点",
-        "time_int": 689
+        "content": "应该走17这个点"
     },
     {
         "action": "TALK",
+        "time_int": 44809,
         "user": "GrandMaster",
-        "content": "谁出主意",
-        "time_int": 694
+        "content": "谁出主意"
     },
     {
         "action": "TALK",
+        "time_int": 44841,
         "user": "fivestar11",
-        "content": "8G",
-        "time_int": 699
+        "content": "8G"
     },
     {
         "action": "TALK",
+        "time_int": 44852,
         "user": "chess",
-        "content": "？",
-        "time_int": 704
+        "content": "？"
     },
     {
         "action": "TALK",
+        "time_int": 44862,
         "user": "chess",
-        "content": "8G？",
-        "time_int": 709
+        "content": "8G？"
     },
     {
         "action": "TALK",
+        "time_int": 44870,
         "user": "chess",
-        "content": "我想过了",
-        "time_int": 714
+        "content": "我想过了"
     },
     {
         "action": "TALK",
+        "time_int": 44876,
         "user": "GrandMaster",
-        "content": "我倒",
-        "time_int": 719
+        "content": "我倒"
     },
     {
         "action": "TALK",
+        "time_int": 44877,
         "user": "chess",
-        "content": "走I5",
-        "time_int": 724
+        "content": "走I5"
     },
     {
         "action": "TALK",
+        "time_int": 44881,
         "user": "Txiaohua",
-        "content": "D8",
-        "time_int": 729
+        "content": "D8"
     },
     {
         "action": "TALK",
+        "time_int": 44886,
         "user": "chess",
-        "content": "不过不知道对不对",
-        "time_int": 734
+        "content": "不过不知道对不对"
     },
     {
         "action": "TALK",
+        "time_int": 44916,
         "user": "GrandMaster",
-        "content": "还有谁主意",
-        "time_int": 739
+        "content": "还有谁主意"
     },
     {
         "action": "TALK",
+        "time_int": 44951,
         "user": "GrandMaster",
-        "content": "嘿嘿",
-        "time_int": 744
+        "content": "嘿嘿"
     },
     {
         "action": "TALK",
+        "time_int": 44955,
         "user": "GrandMaster",
-        "content": "没有了？",
-        "time_int": 749
+        "content": "没有了？"
     },
     {
         "action": "TALK",
+        "time_int": 44969,
         "user": "chess",
-        "content": "色色别卖关子了",
-        "time_int": 754
+        "content": "色色别卖关子了"
     },
     {
         "action": "TALK",
+        "time_int": 44977,
         "user": "chess",
-        "content": "说说嘛",
-        "time_int": 759
+        "content": "说说嘛"
     },
     {
         "action": "MOVE",
+        "time_int": 44979,
         "user": "GrandMaster",
-        "content": "48",
-        "time_int": 764
+        "content": "48"
     },
     {
         "action": "TALK",
+        "time_int": 44983,
         "user": "fivestar11",
-        "content": "可以多说一次吗？",
-        "time_int": 767
+        "content": "可以多说一次吗？"
     },
     {
         "action": "TALK",
+        "time_int": 44987,
         "user": "GrandMaster",
-        "content": "先说D8",
-        "time_int": 772
+        "content": "先说D8"
     },
     {
         "action": "TALK",
+        "time_int": 44998,
         "user": "GrandMaster",
-        "content": "这个会如何呢",
-        "time_int": 777
+        "content": "这个会如何呢"
     },
     {
         "action": "TALK",
+        "time_int": 45011,
         "user": "GrandMaster",
-        "content": "谁来演示白",
-        "time_int": 782
+        "content": "谁来演示白"
     },
     {
         "action": "TALK",
+        "time_int": 45021,
         "user": "GrandMaster",
-        "content": "举手",
-        "time_int": 787
+        "content": "举手"
     },
     {
         "action": "TALK",
+        "time_int": 45025,
         "user": "chess",
-        "content": "me",
-        "time_int": 792
+        "content": "me"
     },
     {
         "action": "TALK",
+        "time_int": 45043,
         "user": "fivestar11",
-        "content": "怎么举呢",
-        "time_int": 797
+        "content": "怎么举呢"
     },
     {
         "action": "TALK",
+        "time_int": 45054,
         "user": "chess",
-        "content": "say \"me\"",
-        "time_int": 802
+        "content": "say "me""
     },
     {
         "action": "MOVE",
+        "time_int": 45056,
         "user": "chess",
-        "content": "59",
-        "time_int": 807
+        "content": "59"
     },
     {
         "action": "MOVE",
+        "time_int": 45061,
         "user": "GrandMaster",
-        "content": "68",
-        "time_int": 810
+        "content": "68"
     },
     {
         "action": "MOVE",
+        "time_int": 45063,
         "user": "chess",
-        "content": "46",
-        "time_int": 813
+        "content": "46"
     },
     {
         "action": "TALK",
+        "time_int": 45085,
         "user": "chess",
-        "content": "black no win",
-        "time_int": 816
+        "content": "black no win"
     },
     {
         "action": "MOVE",
+        "time_int": 45086,
         "user": "GrandMaster",
-        "content": "76",
-        "time_int": 821
+        "content": "76"
     },
     {
         "action": "TALK",
+        "time_int": 45102,
         "user": "YeYuwuziqi",
-        "content": "35？",
-        "time_int": 824
+        "content": "35？"
     },
     {
         "action": "TALK",
+        "time_int": 45119,
         "user": "fivestar11",
-        "content": "为什么换英文了呢",
-        "time_int": 829
+        "content": "为什么换英文了呢"
     },
     {
         "action": "TALK",
+        "time_int": 45123,
         "user": "GrandMaster",
-        "content": "cc",
-        "time_int": 834
+        "content": "cc"
     },
     {
         "action": "MOVE",
+        "time_int": 45135,
         "user": "chess",
-        "content": "95",
-        "time_int": 839
+        "content": "95"
     },
     {
         "action": "TALK",
+        "time_int": 45155,
         "user": "GrandMaster",
-        "content": "倒",
-        "time_int": 842
+        "content": "倒"
     },
     {
         "action": "MOVE",
+        "time_int": 45159,
         "user": "GrandMaster",
-        "content": "a4",
-        "time_int": 847
+        "content": "a4"
     },
     {
         "action": "TALK",
+        "time_int": 45166,
         "user": "GrandMaster",
-        "content": "怎么杀了",
-        "time_int": 850
+        "content": "怎么杀了"
     },
     {
         "action": "MOVE",
+        "time_int": 45168,
         "user": "chess",
-        "content": "a5",
-        "time_int": 855
+        "content": "a5"
     },
     {
         "action": "MOVE",
+        "time_int": 45177,
         "user": "GrandMaster",
-        "content": "39",
-        "time_int": 858
+        "content": "39"
     },
     {
         "action": "TALK",
+        "time_int": 45179,
         "user": "fivestar27",
-        "content": "好卡",
-        "time_int": 861
+        "content": "好卡"
     },
     {
         "action": "MOVE",
+        "time_int": 45187,
         "user": "chess",
-        "content": "2a",
-        "time_int": 866
+        "content": "2a"
     },
     {
         "action": "MOVE",
+        "time_int": 45192,
         "user": "GrandMaster",
-        "content": "38",
-        "time_int": 869
+        "content": "38"
     },
     {
         "action": "TALK",
+        "time_int": 45215,
         "user": "chess",
-        "content": "走错一步",
-        "time_int": 872
+        "content": "走错一步"
     },
     {
         "action": "TALK",
+        "time_int": 45220,
         "user": "GrandMaster",
-        "content": "唉，本来杀不掉了",
-        "time_int": 877
+        "content": "唉，本来杀不掉了"
     },
     {
         "action": "TALK",
+        "time_int": 45227,
         "user": "chess",
-        "content": "没算过",
-        "time_int": 882
+        "content": "没算过"
     },
     {
         "action": "GOTO",
+        "time_int": 45229,
         "user": "GrandMaster",
-        "content": "035",
-        "time_int": 887
+        "content": 35
     },
     {
         "action": "TALK",
+        "time_int": 45237,
         "user": "chess",
-        "content": "在拆另一盘棋",
-        "time_int": 890
+        "content": "在拆另一盘棋"
     },
     {
         "action": "TALK",
+        "time_int": 45242,
         "user": "chess",
-        "content": "教室论坛战",
-        "time_int": 895
+        "content": "教室论坛战"
     },
     {
         "action": "TALK",
+        "time_int": 45249,
         "user": "GrandMaster",
-        "content": "倒",
-        "time_int": 900
+        "content": "倒"
     },
     {
         "action": "TALK",
+        "time_int": 45249,
         "user": "fivestar27",
-        "content": "点名了吗？",
-        "time_int": 905
+        "content": "点名了吗？"
     },
     {
         "action": "TALK",
+        "time_int": 45254,
         "user": "GrandMaster",
-        "content": "没",
-        "time_int": 910
+        "content": "没"
     },
     {
         "action": "TALK",
+        "time_int": 45257,
         "user": "GrandMaster",
-        "content": "现在",
-        "time_int": 915
+        "content": "现在"
     },
     {
         "action": "TALK",
+        "time_int": 45272,
         "user": "Txiaohua",
-        "content": "我第一",
-        "time_int": 920
+        "content": "我第一"
     },
     {
         "action": "TALK",
+        "time_int": 45277,
         "user": "GrandMaster",
-        "content": "哈哈",
-        "time_int": 925
+        "content": "哈哈"
     },
     {
         "action": "TALK",
+        "time_int": 45286,
         "user": "fivestar27",
-        "content": "我第二个",
-        "time_int": 930
+        "content": "我第二个"
     },
     {
         "action": "TALK",
+        "time_int": 45287,
         "user": "GrandMaster",
-        "content": "白棋走",
-        "time_int": 935
+        "content": "白棋走"
     },
     {
         "action": "TALK",
+        "time_int": 45288,
         "user": "Txiaohua",
-        "content": "老师",
-        "time_int": 940
+        "content": "老师"
     },
     {
         "action": "TALK",
+        "time_int": 45290,
         "user": "fivestar27",
-        "content": "我这里好卡啊",
-        "time_int": 945
+        "content": "我这里好卡啊"
     },
     {
         "action": "TALK",
+        "time_int": 45292,
         "user": "fivestar02",
-        "content": "还好我没。。。",
-        "time_int": 950
+        "content": "还好我没。。。"
     },
     {
         "action": "TALK",
+        "time_int": 45294,
         "user": "Txiaohua",
-        "content": "你是每周4讲课吗？",
-        "time_int": 955
+        "content": "你是每周4讲课吗？"
     },
     {
         "action": "TALK",
+        "time_int": 45295,
         "user": "GrandMaster",
-        "content": "哦哦",
-        "time_int": 960
+        "content": "哦哦"
     },
     {
         "action": "TALK",
+        "time_int": 45299,
         "user": "GrandMaster",
-        "content": "是这样的",
-        "time_int": 965
+        "content": "是这样的"
     },
     {
         "action": "CHECKRESULT",
+        "time_int": 45301,
         "user": "",
-        "content": " Txiaohua, fivestar27, fivestar11, fivestar17, chess, YeYuwuziqi, fivestar02.",
-        "time_int": 970
+        "content": " Txiaohua, fivestar27, fivestar11, fivestar17, chess, YeYuwuziqi, fivestar02."
     },
     {
         "action": "TALK",
+        "time_int": 45303,
         "user": "Txiaohua",
-        "content": "在这里？",
-        "time_int": 973
+        "content": "在这里？"
     },
     {
         "action": "TALK",
+        "time_int": 45308,
         "user": "fivestar02",
-        "content": "哇，最后一个",
-        "time_int": 978
+        "content": "哇，最后一个"
     },
     {
         "action": "TALK",
+        "time_int": 45314,
         "user": "GrandMaster",
-        "content": "对，周四晚八点，这儿",
-        "time_int": 983
+        "content": "对，周四晚八点，这儿"
     },
     {
         "action": "TALK",
+        "time_int": 45320,
         "user": "Txiaohua",
-        "content": "好的",
-        "time_int": 988
+        "content": "好的"
     },
     {
         "action": "TALK",
+        "time_int": 45332,
         "user": "GrandMaster",
-        "content": "白棋走",
-        "time_int": 993
+        "content": "白棋走"
     },
     {
         "action": "TALK",
+        "time_int": 45336,
         "user": "GrandMaster",
-        "content": "咿呀咿呀哟",
-        "time_int": 998
+        "content": "咿呀咿呀哟"
     },
     {
         "action": "TALK",
+        "time_int": 45352,
         "user": "chess",
-        "content": "。",
-        "time_int": 1003
+        "content": "。"
     },
     {
         "action": "TALK",
+        "time_int": 45352,
         "user": "fivestar02",
-        "content": "快点讲，",
-        "time_int": 1008
+        "content": "快点讲，"
     },
     {
         "action": "TALK",
+        "time_int": 45358,
         "user": "fivestar02",
-        "content": "55555555555",
-        "time_int": 1013
+        "content": "55555555555"
     },
     {
         "action": "TALK",
+        "time_int": 45361,
         "user": "GrandMaster",
-        "content": "等白棋呢",
-        "time_int": 1018
+        "content": "等白棋呢"
     },
     {
         "action": "TALK",
+        "time_int": 45372,
         "user": "fivestar11",
-        "content": "02，要不你上啊",
-        "time_int": 1023
+        "content": "02，要不你上啊"
     },
     {
         "action": "TALK",
+        "time_int": 45392,
         "user": "fivestar11",
-        "content": "我们欢迎拉。。。。",
-        "time_int": 1028
+        "content": "我们欢迎拉。。。。"
     },
     {
         "action": "TALK",
+        "time_int": 45406,
         "user": "GrandMaster",
-        "content": "哇",
-        "time_int": 1033
+        "content": "哇"
     },
     {
         "action": "TALK",
+        "time_int": 45411,
         "user": "GrandMaster",
-        "content": "又吊",
-        "time_int": 1038
+        "content": "又吊"
     },
     {
         "action": "MOVE",
+        "time_int": 45421,
         "user": "chess",
-        "content": "66",
-        "time_int": 1043
+        "content": "66"
     },
     {
         "action": "TALK",
+        "time_int": 45423,
         "user": "GrandMaster",
-        "content": "嘿，谁来走白棋",
-        "time_int": 1046
+        "content": "嘿，谁来走白棋"
     },
     {
         "action": "TALK",
+        "time_int": 45427,
         "user": "GrandMaster",
-        "content": "好",
-        "time_int": 1051
+        "content": "好"
     },
     {
         "action": "MOVE",
+        "time_int": 45440,
         "user": "GrandMaster",
-        "content": "4b",
-        "time_int": 1056
+        "content": "4b"
     },
     {
         "action": "TALK",
+        "time_int": 45451,
         "user": "GrandMaster",
-        "content": "这36",
-        "time_int": 1059
+        "content": "这36"
     },
     {
         "action": "TALK",
+        "time_int": 45459,
         "user": "GrandMaster",
-        "content": "割断了左右",
-        "time_int": 1064
+        "content": "割断了左右"
     },
     {
         "action": "TALK",
+        "time_int": 45461,
         "user": "GrandMaster",
-        "content": "5555555",
-        "time_int": 1069
+        "content": "5555555"
     },
     {
         "action": "MOVE",
+        "time_int": 45465,
         "user": "chess",
-        "content": "5a",
-        "time_int": 1074
+        "content": "5a"
     },
     {
         "action": "MOVE",
+        "time_int": 45470,
         "user": "GrandMaster",
-        "content": "5c",
-        "time_int": 1077
+        "content": "5c"
     },
     {
         "action": "TALK",
+        "time_int": 45480,
         "user": "fivestar02",
-        "content": "郁闷~~~~~~~~~~~~~~~",
-        "time_int": 1080
+        "content": "郁闷~~~~~~~~~~~~~~~"
     },
     {
         "action": "MOVE",
+        "time_int": 45481,
         "user": "chess",
-        "content": "6b",
-        "time_int": 1085
+        "content": "6b"
     },
     {
         "action": "MOVE",
+        "time_int": 45496,
         "user": "GrandMaster",
-        "content": "49",
-        "time_int": 1088
+        "content": "49"
     },
     {
         "action": "TALK",
+        "time_int": 45523,
         "user": "fivestar11",
-        "content": "02，你去快乐吧，自己找地啊",
-        "time_int": 1091
+        "content": "02，你去快乐吧，自己找地啊"
     },
     {
         "action": "MOVE",
+        "time_int": 45537,
         "user": "chess",
-        "content": "4c",
-        "time_int": 1096
+        "content": "4c"
     },
     {
         "action": "TALK",
+        "time_int": 45553,
         "user": "GrandMaster",
-        "content": "55555",
-        "time_int": 1099
+        "content": "55555"
     },
     {
         "action": "TALK",
+        "time_int": 45563,
         "user": "GrandMaster",
-        "content": "左边空间不够了",
-        "time_int": 1104
+        "content": "左边空间不够了"
     },
     {
         "action": "TALK",
+        "time_int": 45572,
         "user": "GrandMaster",
-        "content": "杀不掉哦",
-        "time_int": 1109
+        "content": "杀不掉哦"
     },
     {
         "action": "GOTO",
+        "time_int": 45590,
         "user": "GrandMaster",
-        "content": "032",
-        "time_int": 1114
+        "content": 32
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{GrandMaster}",
-        "time_int": 1117
+        "time_int": 45594,
+        "user": "GrandMaster",
+        "content": ""
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{GrandMaster}",
-        "time_int": 1118
+        "time_int": 45595,
+        "user": "GrandMaster",
+        "content": ""
     },
     {
         "action": "TALK",
+        "time_int": 45598,
         "user": "chess",
-        "content": "哈哈",
-        "time_int": 1119
+        "content": "哈哈"
     },
     {
         "action": "TALK",
+        "time_int": 45603,
         "user": "GrandMaster",
-        "content": "这个D8",
-        "time_int": 1124
+        "content": "这个D8"
     },
     {
         "action": "TALK",
+        "time_int": 45616,
         "user": "chess",
-        "content": "刚在没研究36，被你骗了",
-        "time_int": 1129
+        "content": "刚在没研究36，被你骗了"
     },
     {
         "action": "TALK",
+        "time_int": 45617,
         "user": "GrandMaster",
-        "content": "直接攻",
-        "time_int": 1134
+        "content": "直接攻"
     },
     {
         "action": "TALK",
+        "time_int": 45628,
         "user": "GrandMaster",
-        "content": "攻不下来",
-        "time_int": 1139
+        "content": "攻不下来"
     },
     {
         "action": "TALK",
+        "time_int": 45650,
         "user": "GrandMaster",
-        "content": "会被白棋中间一片强力反击",
-        "time_int": 1144
+        "content": "会被白棋中间一片强力反击"
     },
     {
         "action": "TALK",
+        "time_int": 45673,
         "user": "GrandMaster",
-        "content": "再来看看其他的",
-        "time_int": 1149
+        "content": "再来看看其他的"
     },
     {
         "action": "MOVE",
+        "time_int": 45680,
         "user": "GrandMaster",
-        "content": "74",
-        "time_int": 1154
+        "content": "74"
     },
     {
         "action": "TALK",
+        "time_int": 45685,
         "user": "GrandMaster",
-        "content": "比如这个",
-        "time_int": 1157
+        "content": "比如这个"
     },
     {
         "action": "TALK",
+        "time_int": 45695,
         "user": "GrandMaster",
-        "content": "chess来",
-        "time_int": 1162
+        "content": "chess来"
     },
     {
         "action": "TALK",
+        "time_int": 45708,
         "user": "chess",
-        "content": "在",
-        "time_int": 1167
+        "content": "在"
     },
     {
         "action": "TALK",
+        "time_int": 45716,
         "user": "GrandMaster",
-        "content": "白",
-        "time_int": 1172
+        "content": "白"
     },
     {
         "action": "TALK",
+        "time_int": 45718,
         "user": "GrandMaster",
-        "content": "CC",
-        "time_int": 1177
+        "content": "CC"
     },
     {
         "action": "TALK",
+        "time_int": 45745,
         "user": "chess",
-        "content": "这个31在白28走G6是必胜",
-        "time_int": 1182
+        "content": "这个31在白28走G6是必胜"
     },
     {
         "action": "TALK",
+        "time_int": 45756,
         "user": "chess",
-        "content": "现在不好说了",
-        "time_int": 1187
+        "content": "现在不好说了"
     },
     {
         "action": "TALK",
+        "time_int": 45762,
         "user": "chess",
-        "content": "我没拆过",
-        "time_int": 1192
+        "content": "我没拆过"
     },
     {
         "action": "TALK",
+        "time_int": 45781,
         "user": "GrandMaster",
-        "content": "这步能不能成为左右联系的好棋呢",
-        "time_int": 1197
+        "content": "这步能不能成为左右联系的好棋呢"
     },
     {
         "action": "TALK",
+        "time_int": 45792,
         "user": "GrandMaster",
-        "content": "现在来随便看看",
-        "time_int": 1202
+        "content": "现在来随便看看"
     },
     {
         "action": "MOVE",
+        "time_int": 45796,
         "user": "chess",
-        "content": "85",
-        "time_int": 1207
+        "content": "85"
     },
     {
         "action": "TALK",
+        "time_int": 45797,
         "user": "GrandMaster",
-        "content": "走",
-        "time_int": 1210
+        "content": "走"
     },
     {
         "action": "MOVE",
+        "time_int": 45813,
         "user": "GrandMaster",
-        "content": "94",
-        "time_int": 1215
+        "content": "94"
     },
     {
         "action": "MOVE",
+        "time_int": 45866,
         "user": "chess",
-        "content": "84",
-        "time_int": 1218
+        "content": "84"
     },
     {
         "action": "MOVE",
+        "time_int": 45869,
         "user": "GrandMaster",
-        "content": "83",
-        "time_int": 1221
+        "content": "83"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{GrandMaster}",
-        "time_int": 1224
+        "time_int": 45878,
+        "user": "GrandMaster",
+        "content": ""
     },
     {
         "action": "MOVE",
+        "time_int": 45881,
         "user": "GrandMaster",
-        "content": "a5",
-        "time_int": 1225
+        "content": "a5"
     },
     {
         "action": "TALK",
+        "time_int": 45885,
         "user": "chess",
-        "content": "。",
-        "time_int": 1228
+        "content": "。"
     },
     {
         "action": "TALK",
+        "time_int": 45888,
         "user": "GrandMaster",
-        "content": "哈哈",
-        "time_int": 1233
+        "content": "哈哈"
     },
     {
         "action": "TALK",
+        "time_int": 45900,
         "user": "GrandMaster",
-        "content": "两个BT",
-        "time_int": 1238
+        "content": "两个BT"
     },
     {
         "action": "TALK",
+        "time_int": 45901,
         "user": "fivestar11",
-        "content": "赖皮",
-        "time_int": 1243
+        "content": "赖皮"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{GrandMaster}",
-        "time_int": 1248
+        "time_int": 45917,
+        "user": "GrandMaster",
+        "content": ""
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{GrandMaster}",
-        "time_int": 1249
-    },
-    {
-        "action": "TALK",
+        "time_int": 45920,
         "user": "GrandMaster",
-        "content": "加油",
-        "time_int": 1250
+        "content": ""
     },
     {
         "action": "TALK",
+        "time_int": 45927,
         "user": "GrandMaster",
-        "content": "倒",
-        "time_int": 1255
+        "content": "加油"
     },
     {
         "action": "TALK",
+        "time_int": 45954,
         "user": "GrandMaster",
-        "content": "跑了",
-        "time_int": 1260
+        "content": "倒"
     },
     {
         "action": "TALK",
+        "time_int": 45956,
+        "user": "GrandMaster",
+        "content": "跑了"
+    },
+    {
+        "action": "TALK",
+        "time_int": 45956,
         "user": "fivestar17",
-        "content": "！",
-        "time_int": 1265
+        "content": "！"
     },
     {
         "action": "TALK",
+        "time_int": 45966,
         "user": "GrandMaster",
-        "content": "哎",
-        "time_int": 1270
+        "content": "哎"
     },
     {
         "action": "TALK",
+        "time_int": 45974,
         "user": "GrandMaster",
-        "content": "那就不演示了",
-        "time_int": 1275
+        "content": "那就不演示了"
     },
     {
         "action": "TALK",
+        "time_int": 45981,
         "user": "GrandMaster",
-        "content": "直接说",
-        "time_int": 1280
+        "content": "直接说"
     },
     {
         "action": "TALK",
+        "time_int": 45986,
         "user": "GrandMaster",
-        "content": "这个31",
-        "time_int": 1285
+        "content": "这个31"
     },
     {
         "action": "TALK",
+        "time_int": 45989,
         "user": "fivestar11",
-        "content": "外来的和尚不可靠",
-        "time_int": 1290
+        "content": "外来的和尚不可靠"
     },
     {
         "action": "TALK",
+        "time_int": 45995,
         "user": "GrandMaster",
-        "content": "也不容易胜",
-        "time_int": 1295
+        "content": "也不容易胜"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{GrandMaster}",
-        "time_int": 1300
+        "time_int": 46005,
+        "user": "GrandMaster",
+        "content": ""
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{GrandMaster}",
-        "time_int": 1301
+        "time_int": 46007,
+        "user": "GrandMaster",
+        "content": ""
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{GrandMaster}",
-        "time_int": 1302
-    },
-    {
-        "action": "TALK",
+        "time_int": 46008,
         "user": "GrandMaster",
-        "content": "哇，来啦",
-        "time_int": 1303
+        "content": ""
     },
     {
         "action": "TALK",
+        "time_int": 46019,
         "user": "GrandMaster",
-        "content": "刚说不演示了",
-        "time_int": 1308
+        "content": "哇，来啦"
     },
     {
         "action": "TALK",
-        "user": "chess",
-        "content": "刚才掉了",
-        "time_int": 1313
-    },
-    {
-        "action": "TALK",
-        "user": "chess",
-        "content": "不好意思",
-        "time_int": 1318
-    },
-    {
-        "action": "TALK",
+        "time_int": 46025,
         "user": "GrandMaster",
-        "content": "哈哈",
-        "time_int": 1323
+        "content": "刚说不演示了"
     },
     {
         "action": "TALK",
+        "time_int": 46026,
         "user": "chess",
-        "content": "。。。。。。",
-        "time_int": 1328
-    },
-    {
-        "action": "MOVE",
-        "user": "chess",
-        "content": "74",
-        "time_int": 1333
+        "content": "刚才掉了"
     },
     {
         "action": "TALK",
+        "time_int": 46028,
+        "user": "chess",
+        "content": "不好意思"
+    },
+    {
+        "action": "TALK",
+        "time_int": 46031,
         "user": "GrandMaster",
-        "content": "直接说",
-        "time_int": 1336
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time_int": 46034,
+        "user": "chess",
+        "content": "。。。。。。"
     },
     {
         "action": "MOVE",
+        "time_int": 46037,
         "user": "chess",
-        "content": "85",
-        "time_int": 1341
+        "content": "74"
+    },
+    {
+        "action": "TALK",
+        "time_int": 46037,
+        "user": "GrandMaster",
+        "content": "直接说"
     },
     {
         "action": "MOVE",
+        "time_int": 46039,
         "user": "chess",
-        "content": "94",
-        "time_int": 1344
+        "content": "85"
     },
     {
         "action": "MOVE",
+        "time_int": 46040,
         "user": "chess",
-        "content": "84",
-        "time_int": 1347
+        "content": "94"
     },
     {
         "action": "MOVE",
+        "time_int": 46041,
         "user": "chess",
-        "content": "83",
-        "time_int": 1350
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 46045,
+        "user": "chess",
+        "content": "83"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{chess}",
-        "time_int": 1353
+        "time_int": 46050,
+        "user": "chess",
+        "content": ""
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{chess}",
-        "time_int": 1354
-    },
-    {
-        "action": "MOVE",
+        "time_int": 46053,
         "user": "chess",
-        "content": "a4",
-        "time_int": 1355
+        "content": ""
     },
     {
         "action": "MOVE",
+        "time_int": 46054,
+        "user": "chess",
+        "content": "a4"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 46057,
         "user": "GrandMaster",
-        "content": "95",
-        "time_int": 1358
+        "content": "95"
     },
     {
         "action": "TALK",
+        "time_int": 46084,
         "user": "chess",
-        "content": "好象没了",
-        "time_int": 1361
+        "content": "好象没了"
     },
     {
         "action": "TALK",
+        "time_int": 46090,
         "user": "GrandMaster",
-        "content": "倒",
-        "time_int": 1366
+        "content": "倒"
     },
     {
         "action": "TALK",
+        "time_int": 46103,
         "user": "GrandMaster",
-        "content": "真泄气",
-        "time_int": 1371
+        "content": "真泄气"
     },
     {
         "action": "MOVE",
+        "time_int": 46121,
         "user": "chess",
-        "content": "76",
-        "time_int": 1376
+        "content": "76"
     },
     {
         "action": "MOVE",
+        "time_int": 46133,
         "user": "GrandMaster",
-        "content": "73",
-        "time_int": 1379
+        "content": "73"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{chess}",
-        "time_int": 1382
+        "time_int": 46142,
+        "user": "chess",
+        "content": ""
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{chess}",
-        "time_int": 1383
-    },
-    {
-        "action": "MOVE",
+        "time_int": 46142,
         "user": "chess",
-        "content": "84",
-        "time_int": 1384
+        "content": ""
     },
     {
         "action": "MOVE",
+        "time_int": 46144,
+        "user": "chess",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 46173,
         "user": "GrandMaster",
-        "content": "83",
-        "time_int": 1387
+        "content": "83"
     },
     {
         "action": "MOVE",
+        "time_int": 46188,
         "user": "chess",
-        "content": "a5",
-        "time_int": 1390
+        "content": "a5"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{chess}",
-        "time_int": 1393
+        "time_int": 46192,
+        "user": "chess",
+        "content": ""
     },
     {
         "action": "MOVE",
+        "time_int": 46195,
         "user": "chess",
-        "content": "a5",
-        "time_int": 1394
+        "content": "a5"
     },
     {
         "action": "TALK",
+        "time_int": 46207,
         "user": "fivestar11",
-        "content": "白完了",
-        "time_int": 1397
+        "content": "白完了"
     },
     {
         "action": "TALK",
+        "time_int": 46213,
         "user": "chess",
-        "content": "。。。。",
-        "time_int": 1402
+        "content": "。。。。"
     },
     {
         "action": "TALK",
+        "time_int": 46226,
         "user": "chess",
-        "content": "slamduk",
-        "time_int": 1407
+        "content": "slamduk"
     },
     {
         "action": "TALK",
+        "time_int": 46233,
         "user": "chess",
-        "content": "你来走白",
-        "time_int": 1412
+        "content": "你来走白"
     },
     {
         "action": "TALK",
+        "time_int": 46240,
         "user": "chess",
-        "content": "31手以后",
-        "time_int": 1417
+        "content": "31手以后"
     },
     {
         "action": "MOVE",
+        "time_int": 46241,
         "user": "GrandMaster",
-        "content": "55",
-        "time_int": 1422
+        "content": "55"
     },
     {
         "action": "MOVE",
+        "time_int": 46253,
         "user": "chess",
-        "content": "35",
-        "time_int": 1425
+        "content": "35"
     },
     {
         "action": "TALK",
+        "time_int": 46263,
         "user": "GrandMaster",
-        "content": "不走啦",
-        "time_int": 1428
+        "content": "不走啦"
     },
     {
         "action": "TALK",
+        "time_int": 46267,
         "user": "chess",
-        "content": "。。",
-        "time_int": 1433
+        "content": "。。"
     },
     {
         "action": "TALK",
+        "time_int": 46270,
         "user": "GrandMaster",
-        "content": "CCC",
-        "time_int": 1438
+        "content": "CCC"
     },
     {
         "action": "TALK",
+        "time_int": 46274,
         "user": "chess",
-        "content": "这个31必胜么？",
-        "time_int": 1443
+        "content": "这个31必胜么？"
     },
     {
         "action": "TALK",
+        "time_int": 46280,
         "user": "GrandMaster",
-        "content": "快到9点了",
-        "time_int": 1448
+        "content": "快到9点了"
     },
     {
         "action": "GOTO",
+        "time_int": 46288,
         "user": "GrandMaster",
-        "content": "031",
-        "time_int": 1453
+        "content": 31
     },
     {
         "action": "TALK",
+        "time_int": 46289,
         "user": "slamduk",
-        "content": "啊，可以讲中文哦",
-        "time_int": 1456
+        "content": "啊，可以讲中文哦"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{GrandMaster}",
-        "time_int": 1461
+        "time_int": 46290,
+        "user": "GrandMaster",
+        "content": ""
     },
     {
         "action": "TALK",
+        "time_int": 46294,
         "user": "chess",
-        "content": "那好，继续",
-        "time_int": 1462
+        "content": "那好，继续"
     },
     {
         "action": "TALK",
+        "time_int": 46296,
         "user": "GrandMaster",
-        "content": "哈，当然",
-        "time_int": 1467
+        "content": "哈，当然"
     },
     {
         "action": "TALK",
+        "time_int": 46304,
         "user": "GrandMaster",
-        "content": "都是自己人",
-        "time_int": 1472
+        "content": "都是自己人"
     },
     {
         "action": "TALK",
+        "time_int": 46315,
         "user": "GrandMaster",
-        "content": "直接说怎么走最好",
-        "time_int": 1477
+        "content": "直接说怎么走最好"
     },
     {
         "action": "TALK",
+        "time_int": 46332,
         "user": "slamduk",
-        "content": "：）",
-        "time_int": 1482
+        "content": "：）"
     },
     {
         "action": "TALK",
+        "time_int": 46332,
         "user": "GrandMaster",
-        "content": "黑棋现在直接攻",
-        "time_int": 1487
+        "content": "黑棋现在直接攻"
     },
     {
         "action": "TALK",
+        "time_int": 46344,
         "user": "GrandMaster",
-        "content": "左右联系，都是不成熟的",
-        "time_int": 1492
+        "content": "左右联系，都是不成熟的"
     },
     {
         "action": "MOVE",
+        "time_int": 46350,
         "user": "GrandMaster",
-        "content": "95",
-        "time_int": 1497
+        "content": "95"
     },
     {
         "action": "TALK",
+        "time_int": 46355,
         "user": "GrandMaster",
-        "content": "这样",
-        "time_int": 1500
+        "content": "这样"
     },
     {
         "action": "MOVE",
+        "time_int": 46373,
         "user": "GrandMaster",
-        "content": "a4",
-        "time_int": 1505
+        "content": "a4"
     },
     {
         "action": "TALK",
+        "time_int": 46386,
         "user": "GrandMaster",
-        "content": "黑棋继续",
-        "time_int": 1508
+        "content": "黑棋继续"
     },
     {
         "action": "TALK",
+        "time_int": 46387,
         "user": "fivestar27",
-        "content": "我掉了？",
-        "time_int": 1513
+        "content": "我掉了？"
     },
     {
         "action": "MOVE",
+        "time_int": 46389,
         "user": "GrandMaster",
-        "content": "94",
-        "time_int": 1518
+        "content": "94"
     },
     {
         "action": "TALK",
+        "time_int": 46393,
         "user": "GrandMaster",
-        "content": "是哦",
-        "time_int": 1521
+        "content": "是哦"
     },
     {
         "action": "TALK",
+        "time_int": 46395,
         "user": "chess",
-        "content": "no",
-        "time_int": 1526
+        "content": "no"
     },
     {
         "action": "TALK",
+        "time_int": 46403,
         "user": "fivestar27",
-        "content": "点名了没有啊",
-        "time_int": 1531
+        "content": "点名了没有啊"
     },
     {
         "action": "TALK",
+        "time_int": 46411,
         "user": "chess",
-        "content": "色色这个31拆到赢了没？",
-        "time_int": 1536
+        "content": "色色这个31拆到赢了没？"
     },
     {
         "action": "TALK",
+        "time_int": 46412,
         "user": "GrandMaster",
-        "content": "CC",
-        "time_int": 1541
+        "content": "CC"
     },
     {
         "action": "MOVE",
+        "time_int": 46420,
         "user": "GrandMaster",
-        "content": "93",
-        "time_int": 1546
+        "content": "93"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{chess}",
-        "time_int": 1549
+        "time_int": 46424,
+        "user": "chess",
+        "content": ""
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{chess}",
-        "time_int": 1550
+        "time_int": 46425,
+        "user": "chess",
+        "content": ""
     },
     {
         "action": "MOVE",
+        "time_int": 46427,
         "user": "chess",
-        "content": "5a",
-        "time_int": 1551
+        "content": "5a"
     },
     {
         "action": "TALK",
+        "time_int": 46449,
         "user": "GrandMaster",
-        "content": "昏",
-        "time_int": 1554
+        "content": "昏"
     },
     {
         "action": "TALK",
+        "time_int": 46458,
         "user": "GrandMaster",
-        "content": "等我说完嘛",
-        "time_int": 1559
+        "content": "等我说完嘛"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{chess}",
-        "time_int": 1564
-    },
-    {
-        "action": "TALK",
-        "user": "GrandMaster",
-        "content": "回来回来",
-        "time_int": 1565
-    },
-    {
-        "action": "MOVE",
+        "time_int": 46466,
         "user": "chess",
-        "content": "94",
-        "time_int": 1570
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time_int": 46467,
+        "user": "GrandMaster",
+        "content": "回来回来"
     },
     {
         "action": "MOVE",
+        "time_int": 46468,
         "user": "chess",
-        "content": "93",
-        "time_int": 1573
+        "content": "94"
     },
     {
         "action": "MOVE",
-        "user": "GrandMaster",
-        "content": "b5",
-        "time_int": 1576
+        "time_int": 46469,
+        "user": "chess",
+        "content": "93"
     },
     {
         "action": "MOVE",
+        "time_int": 46472,
         "user": "GrandMaster",
-        "content": "a5",
-        "time_int": 1579
+        "content": "b5"
     },
     {
         "action": "MOVE",
+        "time_int": 46475,
         "user": "GrandMaster",
-        "content": "5a",
-        "time_int": 1582
+        "content": "a5"
     },
     {
         "action": "MOVE",
+        "time_int": 46482,
         "user": "GrandMaster",
-        "content": "7a",
-        "time_int": 1585
+        "content": "5a"
+    },
+    {
+        "action": "MOVE",
+        "time_int": 46485,
+        "user": "GrandMaster",
+        "content": "7a"
     },
     {
         "action": "TALK",
+        "time_int": 46491,
         "user": "GrandMaster",
-        "content": "在这样",
-        "time_int": 1588
+        "content": "在这样"
     },
     {
         "action": "MOVE",
+        "time_int": 46497,
         "user": "GrandMaster",
-        "content": "46",
-        "time_int": 1593
+        "content": "46"
     },
     {
         "action": "TALK",
+        "time_int": 46497,
         "user": "fivestar17",
-        "content": "色色最喜欢打哑谜了",
-        "time_int": 1596
+        "content": "色色最喜欢打哑谜了"
     },
     {
         "action": "MOVE",
+        "time_int": 46499,
         "user": "GrandMaster",
-        "content": "68",
-        "time_int": 1601
+        "content": "68"
     },
     {
         "action": "MOVE",
+        "time_int": 46509,
         "user": "GrandMaster",
-        "content": "44",
-        "time_int": 1604
+        "content": "44"
     },
     {
         "action": "TALK",
+        "time_int": 46516,
         "user": "GrandMaster",
-        "content": "最后一步",
-        "time_int": 1607
+        "content": "最后一步"
     },
     {
         "action": "TALK",
+        "time_int": 46521,
         "user": "GrandMaster",
-        "content": "OK啦",
-        "time_int": 1612
+        "content": "OK啦"
     },
     {
         "action": "TALK",
+        "time_int": 46539,
         "user": "GrandMaster",
-        "content": "*^O^*",
-        "time_int": 1617
+        "content": "*^O^*"
     },
     {
         "action": "TALK",
+        "time_int": 46545,
         "user": "GrandMaster",
-        "content": "偶喜欢让人猜",
-        "time_int": 1622
+        "content": "偶喜欢让人猜"
     },
     {
         "action": "MOVE",
+        "time_int": 46573,
         "user": "chess",
-        "content": "47",
-        "time_int": 1627
+        "content": "47"
     },
     {
         "action": "MOVE",
+        "time_int": 46579,
         "user": "GrandMaster",
-        "content": "73",
-        "time_int": 1630
+        "content": "73"
     },
     {
         "action": "MOVE",
+        "time_int": 46598,
         "user": "chess",
-        "content": "84",
-        "time_int": 1633
+        "content": "84"
     },
     {
         "action": "MOVE",
+        "time_int": 46627,
         "user": "GrandMaster",
-        "content": "53",
-        "time_int": 1636
+        "content": "53"
     },
     {
         "action": "MOVE",
+        "time_int": 46652,
         "user": "chess",
-        "content": "43",
-        "time_int": 1639
+        "content": "43"
     },
     {
         "action": "MOVE",
+        "time_int": 46656,
         "user": "GrandMaster",
-        "content": "35",
-        "time_int": 1642
+        "content": "35"
     },
     {
         "action": "MOVE",
+        "time_int": 46674,
         "user": "chess",
-        "content": "26",
-        "time_int": 1645
+        "content": "26"
     },
     {
         "action": "MOVE",
+        "time_int": 46683,
         "user": "GrandMaster",
-        "content": "64",
-        "time_int": 1648
+        "content": "64"
     },
     {
         "action": "MOVE",
+        "time_int": 46721,
         "user": "chess",
-        "content": "59",
-        "time_int": 1651
+        "content": "59"
     },
     {
         "action": "MOVE",
+        "time_int": 46734,
         "user": "GrandMaster",
-        "content": "4a",
-        "time_int": 1654
+        "content": "4a"
     },
     {
         "action": "MOVE",
+        "time_int": 46754,
         "user": "chess",
-        "content": "82",
-        "time_int": 1657
+        "content": "82"
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{chess}",
-        "time_int": 1660
+        "time_int": 46760,
+        "user": "chess",
+        "content": ""
     },
     {
         "action": "MOVE",
+        "time_int": 46761,
         "user": "chess",
-        "content": "55",
-        "time_int": 1661
+        "content": "55"
     },
     {
         "action": "MOVE",
+        "time_int": 46768,
         "user": "GrandMaster",
-        "content": "63",
-        "time_int": 1664
+        "content": "63"
     },
     {
         "action": "TALK",
+        "time_int": 46806,
         "user": "chess",
-        "content": "。。",
-        "time_int": 1667
+        "content": "。。"
     },
     {
         "action": "TALK",
+        "time_int": 46812,
         "user": "GrandMaster",
-        "content": "ccc",
-        "time_int": 1672
+        "content": "ccc"
     },
     {
         "action": "TALK",
+        "time_int": 46879,
         "user": "GrandMaster",
-        "content": "杀了",
-        "time_int": 1677
+        "content": "杀了"
     },
     {
         "action": "GOTO",
+        "time_int": 46887,
         "user": "chess",
-        "content": "048",
-        "time_int": 1682
+        "content": 48
     },
     {
         "action": "BACK",
-        "user": "",
-        "content": "{chess}",
-        "time_int": 1685
+        "time_int": 46889,
+        "user": "chess",
+        "content": ""
     },
     {
         "action": "MOVE",
+        "time_int": 46890,
         "user": "chess",
-        "content": "62",
-        "time_int": 1686
+        "content": "62"
     },
     {
         "action": "MOVE",
+        "time_int": 46901,
         "user": "GrandMaster",
-        "content": "25",
-        "time_int": 1689
+        "content": "25"
     },
     {
         "action": "TALK",
+        "time_int": 46910,
         "user": "chess",
-        "content": "。。",
-        "time_int": 1692
+        "content": "。。"
     },
     {
         "action": "TALK",
+        "time_int": 46910,
         "user": "GrandMaster",
-        "content": "嘿，拦不住的",
-        "time_int": 1697
+        "content": "嘿，拦不住的"
     },
     {
         "action": "TALK",
+        "time_int": 46927,
         "user": "chess",
-        "content": "肯定其他地方防错了",
-        "time_int": 1702
+        "content": "肯定其他地方防错了"
     },
     {
         "action": "TALK",
+        "time_int": 46939,
         "user": "GrandMaster",
-        "content": "课后拆拆",
-        "time_int": 1707
+        "content": "课后拆拆"
     },
     {
         "action": "TALK",
+        "time_int": 46945,
         "user": "chess",
-        "content": "恩",
-        "time_int": 1712
+        "content": "恩"
     },
     {
         "action": "TALK",
+        "time_int": 46956,
         "user": "GrandMaster",
-        "content": "现在下课前总结一下",
-        "time_int": 1717
+        "content": "现在下课前总结一下"
     },
     {
         "action": "GOTO",
+        "time_int": 46965,
         "user": "GrandMaster",
-        "content": "041",
-        "time_int": 1722
+        "content": 41
     },
     {
         "action": "TALK",
+        "time_int": 47004,
         "user": "GrandMaster",
-        "content": "这27以后的思路就在于",
-        "time_int": 1725
+        "content": "这27以后的思路就在于"
     },
     {
         "action": "TALK",
+        "time_int": 47016,
         "user": "GrandMaster",
-        "content": "左右两块黑棋联系",
-        "time_int": 1730
+        "content": "左右两块黑棋联系"
     },
     {
         "action": "TALK",
+        "time_int": 47051,
         "user": "GrandMaster",
-        "content": "和如何减小中间一块白棋的影响",
-        "time_int": 1735
+        "content": "和如何减小中间一块白棋的影响"
     },
     {
         "action": "TALK",
+        "time_int": 47079,
         "user": "GrandMaster",
-        "content": "31是先手",
-        "time_int": 1740
+        "content": "31是先手"
     },
     {
         "action": "TALK",
+        "time_int": 47091,
         "user": "chess",
-        "content": "这个27实战中我想先防一手的",
-        "time_int": 1745
+        "content": "这个27实战中我想先防一手的"
     },
     {
         "action": "TALK",
+        "time_int": 47094,
         "user": "GrandMaster",
-        "content": "挡住",
-        "time_int": 1750
+        "content": "挡住"
     },
     {
         "action": "TALK",
+        "time_int": 47107,
         "user": "GrandMaster",
-        "content": "耶",
-        "time_int": 1755
+        "content": "耶"
     },
     {
         "action": "TALK",
+        "time_int": 47124,
         "user": "GrandMaster",
-        "content": "有空一定要chess给大伙讲讲",
-        "time_int": 1760
+        "content": "有空一定要chess给大伙讲讲"
     },
     {
         "action": "TALK",
+        "time_int": 47135,
         "user": "chess",
-        "content": "呵呵",
-        "time_int": 1765
+        "content": "呵呵"
     },
     {
         "action": "TALK",
+        "time_int": 47137,
         "user": "chess",
-        "content": "好",
-        "time_int": 1770
+        "content": "好"
     },
     {
         "action": "TALK",
+        "time_int": 47155,
         "user": "chess",
-        "content": "色色是不是没有想到这个27？",
-        "time_int": 1775
+        "content": "色色是不是没有想到这个27？"
     },
     {
         "action": "TALK",
+        "time_int": 47164,
         "user": "GrandMaster",
-        "content": "在进行的右下的交换",
-        "time_int": 1780
+        "content": "在进行的右下的交换"
     },
     {
         "action": "TALK",
+        "time_int": 47194,
         "user": "GrandMaster",
-        "content": "想了，原来不是先h5,再E7",
-        "time_int": 1785
+        "content": "想了，原来不是先h5,再E7"
     },
     {
         "action": "TALK",
+        "time_int": 47200,
         "user": "GrandMaster",
-        "content": "在进行的右下的交换",
-        "time_int": 1790
+        "content": "在进行的右下的交换"
     },
     {
         "action": "TALK",
+        "time_int": 47209,
         "user": "GrandMaster",
-        "content": "之后",
-        "time_int": 1795
+        "content": "之后"
     },
     {
         "action": "TALK",
+        "time_int": 47225,
         "user": "GrandMaster",
-        "content": "左边",
-        "time_int": 1800
+        "content": "左边"
     },
     {
         "action": "TALK",
+        "time_int": 47242,
         "user": "GrandMaster",
-        "content": "开始联系",
-        "time_int": 1805
+        "content": "开始联系"
     },
     {
         "action": "TALK",
+        "time_int": 47255,
         "user": "chess",
-        "content": "我想过先h5,再E7",
-        "time_int": 1810
+        "content": "我想过先h5,再E7"
     },
     {
         "action": "TALK",
+        "time_int": 47260,
         "user": "chess",
-        "content": "但是白有强防",
-        "time_int": 1815
+        "content": "但是白有强防"
     },
     {
         "action": "TALK",
+        "time_int": 47275,
         "user": "chess",
-        "content": "左右不能联系",
-        "time_int": 1820
+        "content": "左右不能联系"
     },
     {
         "action": "TALK",
+        "time_int": 47279,
         "user": "GrandMaster",
-        "content": "就是37到41的",
-        "time_int": 1825
+        "content": "就是37到41的"
     },
     {
         "action": "TALK",
+        "time_int": 47283,
         "user": "GrandMaster",
-        "content": "步骤",
-        "time_int": 1830
+        "content": "步骤"
     },
     {
         "action": "TALK",
+        "time_int": 47288,
         "user": "chess",
-        "content": "被G4切断了",
-        "time_int": 1835
+        "content": "被G4切断了"
     },
     {
         "action": "TALK",
+        "time_int": 47332,
         "user": "GrandMaster",
-        "content": "39,29,41这道“竖墙”很好的和31,21联系",
-        "time_int": 1840
+        "content": "39,29,41这道“竖墙”很好的和31,21联系"
     },
     {
         "action": "TALK",
+        "time_int": 47367,
         "user": "GrandMaster",
-        "content": "就这样",
-        "time_int": 1845
+        "content": "就这样"
     },
     {
         "action": "TALK",
+        "time_int": 47377,
         "user": "GrandMaster",
-        "content": "这节课",
-        "time_int": 1850
+        "content": "这节课"
     },
     {
         "action": "TALK",
+        "time_int": 47381,
         "user": "GrandMaster",
-        "content": "完毕",
-        "time_int": 1855
+        "content": "完毕"
     },
     {
         "action": "TALK",
+        "time_int": 47394,
         "user": "GrandMaster",
-        "content": "大概没问题了",
-        "time_int": 1860
+        "content": "大概没问题了"
     },
     {
         "action": "CREDIT",
+        "time_int": 47416,
         "user": "",
-        "content": " fivestar02, fivestar11, fivestar17, fivestar27, Txiaohua.",
-        "time_int": 1865
+        "content": " fivestar02, fivestar11, fivestar17, fivestar27, Txiaohua."
     }
 ]
