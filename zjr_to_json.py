@@ -2,7 +2,7 @@ from os import chdir
 from pathlib import Path
 import re
 
-action_dict = {'100': 'TALK', '202': 'MOVE', '203': 'BACK', '204': 'NEXT', '205': 'FIRST', '206': 'LAST', '207': 'CLEAR', '208': 'GOTO', '212': 'MARK', '300': 'RESET', '306': 'CREDIT', '316': 'CHECKRESULT'}
+action_dict = {'100': 'TALK', '201': 'LOAD', '202': 'MOVE', '203': 'BACK', '204': 'NEXT', '205': 'FIRST', '206': 'LAST', '207': 'CLEAR', '208': 'GOTO', '212': 'MARK', '300': 'RESET', '306': 'CREDIT', '316': 'CHECKRESULT'}
 table = str.maketrans('ABCDEFGHIJKLMNO', '123456789abcdef')
 
 work_dir = input('请输入教学录像文件的目录：')
@@ -60,6 +60,12 @@ for zjr_file_path in Path('.').glob('*.zjr'):
                         print(f'        "user": "",', file = json_file)
                         mark_content = "".join([mark_content[i+3:i+4].translate(table)+mark_content[i+4:i+5].translate(table)+mark_content[i+5:i+6] for i in range(0, len(mark_content), 6)])
                         print(f'        "content": "ZJ{mark_content}"', file = json_file)
+            elif action == 'LOAD':
+                user, content = re.match('<.+?>\[.+?\]00\{(.+?)\}\(.+?\)(.*)', line.rstrip('\r\n')).groups()
+                move_content = content[3:]
+                move_content = "".join([move_content[i:i+1]+move_content[i+1:i+2].translate(table)+move_content[i+2:i+3].translate(table) for i in range(0, len(move_content), 3)])
+                print(f'        "user": "{user}",', file = json_file)
+                print(f'        "content": "ZJ{move_content}"', file = json_file)
             elif action == 'MARK':
                 coord, mark, user = re.match('<.+?>\[.+?\]00...(..)(.)\{(.+?)\}', line).groups()
                 print(f'        "user": "{user}",', file = json_file)
@@ -78,6 +84,7 @@ for zjr_file_path in Path('.').glob('*.zjr'):
                 print(f'        "content": {int(num)}', file = json_file)
             elif action == 'TALK':
                 user, content = re.match('<.+?>\[.+?\]00\{(.+?)\}\(.+?\)<.+?>(.*)', line.rstrip('\r\n')).groups()
+                content = content.replace('"', "'")
                 print(f'        "user": "{user}",', file = json_file)
                 print(f'        "content": "{content}"', file = json_file)
             elif action in ('CREDIT', 'CHECKRESULT'):
