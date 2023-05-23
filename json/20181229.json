@@ -20,20 +20,32 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "简单地介绍一下本站以及五子棋这个游戏。",
+        "content": "简单地介绍一下本站以及连珠（有禁五子棋）这个游戏。",
         "time_int": 10
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "这是一个展示RenjuClass的讲课资料的网站。",
+        "content": "这是一个展示RenjuClass、浙江教室的讲课资料的网站。",
         "time_int": 15
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果有自制这样连珠教学课件放到本网站的需求，请联系我QQ：2215263391",
+        "time_int": 18
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "右下角播放速度可以调解，请大家根据自己的阅读速度进行调整。",
         "time_int": 20
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "观看本站课程时，如发现棋子颜色错乱（比如第一手成了白子），只要简单按F5键刷新一次网页，通常颜色就正常了。",
+        "time_int": 23
     },
     {
         "action": "TALK",
@@ -122,7 +134,7 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "本站的主要内容来自于以前的Online Renju Class，也就是以前的ORC教室。",
+        "content": "本站的主要内容来自于以前的Online Renju Class，也就是以前的ORC教室。和浙江教室。",
         "time_int": 95
     },
     {
@@ -1454,7 +1466,7 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "其他专业规则请搜索“五子棋 山口规则” “五子棋 索索夫规则”，这里就不展开讲了。",
+        "content": "其他专业规则请搜索“五子棋 塔拉规则” “五子棋 塔拉山口-10规则”，这里就不展开讲了。",
         "time_int": 817
     },
     {
@@ -1466,31 +1478,31 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "Renlib，本站有，请点击下面的“文本资料”。",
+        "content": "<a href=\"https:\/\/github.com\/fsssosei\/ku10\/blob\/master\/resources\/RenLib_v37.zip\" target=\"_blank\">Renlib<\/a>，这是一个电脑上用的打开看棋谱的软件。另一个看棋谱的软件就是<a href=\"https:\/\/github.com\/fsssosei\/ku10\/blob\/master\/resources\/rb_setup2.0b11.exe\" target=\"_blank\">RenjuBase<\/a>。",
         "time_int": 827
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "<a href=\"https:\/\/www.aiexp.info\/pages\/yixin-cn.html\" target=\"_blank\">弈心<\/a>，目前我认为最强最好用的五子棋软件，用户体验也挺好的。",
+        "content": "Rapfi（中文名拉菲），目前我认为最强最好用的五子棋软件，用户体验也挺好的。",
         "time_int": 832
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "另有终结者、黑石等等，不作进一步介绍。",
+        "content": "另有卡塔狗、黑石等等，不作进一步介绍。",
         "time_int": 837
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "目前很多爱好者常去的一个下棋的地方叫做“<a href=\"http:\/\/www.5ldh.net\/\" target=\"_blank\">五林大会<\/a>”。",
+        "content": "目前研究棋的爱好者常去的一个下棋的地方叫做“<a href=\"https:\/\/games.renjucaffe.com\/\" target=\"_blank\">连珠小站<\/a>”。",
         "time_int": 842
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "我自己有写过一个网页的对弈平台，不过没心思运营，开源了。 <a href=\"https:\/\/github.com\/xsir317\/renju\" target=\"_blank\">renju<\/a>",
+        "content": "我自己有写过一个网页的对弈平台，不过没心思运营，开源了。 <a href=\"http:\/\/game.ku10.com\/\" target=\"_blank\">ku10连珠对弈站<\/a>",
         "time_int": 847
     },
     {
