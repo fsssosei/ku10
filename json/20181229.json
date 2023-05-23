@@ -1472,13 +1472,13 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "第五部分，我们常用的软件：",
+        "content": "第五部分，我们常用的软件（截止2023年）：",
         "time_int": 822
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "<a href=\"https:\/\/github.com\/fsssosei\/ku10\/blob\/master\/resources\/RenLib_v37.zip\" target=\"_blank\">Renlib<\/a>，这是一个电脑上用的打开看棋谱的软件。另一个看棋谱的软件就是<a href=\"https:\/\/github.com\/fsssosei\/ku10\/blob\/master\/resources\/rb_setup2.0b11.exe\" target=\"_blank\">RenjuBase<\/a>。",
+        "content": "<a href=\"https:\/\/github.com\/fsssosei\/ku10\/blob\/master\/resources\/RenLib_v37.zip\" target=\"_blank\">Renlib<\/a>，这是一个电脑上用的打开看棋谱的软件。另一个看棋谱的软件就是<a href=\"https:\/\/github.com\/fsssosei\/ku10\/blob\/master\/resources\/rb_setup2.0b11.exe\" target=\"_blank\">RenjuBase<\/a>。还有个能打开巨大谱的收费软件RenjuSolver",
         "time_int": 827
     },
     {
