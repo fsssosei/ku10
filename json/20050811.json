@@ -297,7 +297,7 @@
         "action": "TALK",
         "time_int": 43747,
         "user": "fivestar06",
-        "content": "'/me 小天姑妈'"
+        "content": "\\ "\\ /me 小天姑妈\\ ""
     },
     {
         "action": "MOVE",
@@ -339,7 +339,7 @@
         "action": "TALK",
         "time_int": 43780,
         "user": "fivestar06",
-        "content": "'/me haha"
+        "content": "\\ "\\ /me haha"
     },
     {
         "action": "TALK",
@@ -399,7 +399,7 @@
         "action": "TALK",
         "time_int": 43805,
         "user": "fivestar06",
-        "content": "'/fivestar06 haha'"
+        "content": "\\ "\\ /fivestar06 haha\\ ""
     },
     {
         "action": "TALK",
@@ -2673,7 +2673,7 @@
         "action": "TALK",
         "time_int": 45609,
         "user": "sosei",
-        "content": "/kisss 姑妈"
+        "content": "\\ /kisss 姑妈"
     },
     {
         "action": "MOVE",

@@ -477,7 +477,7 @@
         "action": "TALK",
         "time_int": 44045,
         "user": "GrandMaster",
-        "content": "容易，/kick 12"
+        "content": "容易，\\ /kick 12"
     },
     {
         "action": "MOVE",
