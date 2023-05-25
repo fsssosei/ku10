@@ -84,7 +84,7 @@ for zjr_file_path in Path('.').glob('*.zjr'):
                 print(f'        "content": {int(num)}', file = json_file)
             elif action == 'TALK':
                 user, content = re.match('<.+?>\[.+?\]00\{(.+?)\}\(.+?\)<.+?>(.*)', line.rstrip('\r\n')).groups()
-                content = content.replace('"', "'")
+                content = content.replace('"', '\\"').replace('/', '\\/').replace('\\', '\\\\ ')
                 print(f'        "user": "{user}",', file = json_file)
                 print(f'        "content": "{content}"', file = json_file)
             elif action in ('CREDIT', 'CHECKRESULT'):
