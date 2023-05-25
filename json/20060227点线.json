@@ -645,7 +645,7 @@
         "action": "TALK",
         "time_int": 72792,
         "user": "zj10",
-        "content": "8*5/2=20"
+        "content": "8*5\\ /2=20"
     },
     {
         "action": "TALK",
@@ -1455,7 +1455,7 @@
         "action": "TALK",
         "time_int": 73732,
         "user": "zjrenju",
-        "content": "我们知道越靠近边线，能够产生连五的可能越小，这一切都归功于'第三者'边线的存在。"
+        "content": "我们知道越靠近边线，能够产生连五的可能越小，这一切都归功于\\ "第三者\\ "边线的存在。"
     },
     {
         "action": "TALK",
@@ -2577,7 +2577,7 @@
         "action": "TALK",
         "time_int": 75824,
         "user": "zjrenju",
-        "content": "势力范围也减少了将近1/4"
+        "content": "势力范围也减少了将近1\\ /4"
     },
     {
         "action": "TALK",
@@ -2595,13 +2595,13 @@
         "action": "TALK",
         "time_int": 75870,
         "user": "zjrenju",
-        "content": "说明通过牺牲四种成为连五的可能性和将近1/4的势力范围"
+        "content": "说明通过牺牲四种成为连五的可能性和将近1\\ /4的势力范围"
     },
     {
         "action": "TALK",
         "time_int": 75884,
         "user": "zjrenju",
-        "content": "来减少了对方四种成为连五的可能性和将近1/4的势力范围。所以在对局中防守是要付出代价的"
+        "content": "来减少了对方四种成为连五的可能性和将近1\\ /4的势力范围。所以在对局中防守是要付出代价的"
     },
     {
         "action": "BACK",
@@ -2727,7 +2727,7 @@
         "action": "TALK",
         "time_int": 76214,
         "user": "5873627",
-        "content": "8/"
+        "content": "8\\ /"
     },
     {
         "action": "CHECKRESULT",
