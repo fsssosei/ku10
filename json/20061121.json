@@ -1509,7 +1509,7 @@
         "action": "TALK",
         "time_int": 74379,
         "user": "519753687",
-        "content": "\"
+        "content": "\\ "
     },
     {
         "action": "BACK",
@@ -3369,7 +3369,7 @@
         "action": "TALK",
         "time_int": 76682,
         "user": "江南新绿",
-        "content": "对于实战，白棋走对的概率为1/10吧"
+        "content": "对于实战，白棋走对的概率为1\\ /10吧"
     },
     {
         "action": "TALK",
