@@ -38,7 +38,7 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "右下角播放速度可以调解，请大家根据自己的阅读速度进行调整。",
+        "content": "播放速度在右下边可以选几倍速，请大家根据自己的阅读速度进行调整。点击绿条可往回倒和快速前进。播放速度左边是播放按钮与暂停按钮。",
         "time_int": 20
     },
     {
@@ -98,13 +98,13 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "点击右侧任何课程即开始播放，大部分是英文课，不过英文都很简单啦。",
+        "content": "右侧课程列表任选一个点击就播放那课了。一大部分课程是国内棋手中文讲课，外国棋手讲课是用英文，不过都很简单英文啦。",
         "time_int": 65
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "现在我也开始自制一些原创的动态录像了。<strong>原创内容在最上面。<\/strong>",
+        "content": "本站也自制一些原创的课程。<strong>原创内容在最上面。<\/strong>",
         "time_int": 70
     },
     {
@@ -1502,7 +1502,7 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "xsir317写过一个网页的对弈平台，不过没心思运营，开源了。 <a href=\"http:\/\/game.ku10.com\/\" target=\"_blank\">ku10连珠对弈站<\/a>",
+        "content": "xsir317有写过一个网页的对弈平台，不过没心思运营，开源了。 <a href=\"http:\/\/game.ku10.com\/\" target=\"_blank\">ku10连珠对弈站<\/a>",
         "time_int": 847
     },
     {
