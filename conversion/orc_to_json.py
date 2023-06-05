@@ -71,7 +71,7 @@ for orc_file_path in Path('.').glob('*.orc'):
                 print('    },', file = json_file)
             elif action in ('TALK', 'EMOTE'):
                 user, content = re.match('<.+?>\[.+?\]\{(.+?)\}(.*)', line.rstrip('\r\n')).groups()
-                content = content.replace('"', '\\"').replace('/', '\\/').replace('\\', '\\\\ ')
+                content = content.replace('\\', '\\\\ ').replace('"', '\\"').replace('/', '\\/')
                 print(f'        "user": "{user}",', file = json_file)
                 print(f'        "content": "{content}"', file = json_file)
                 print('    },', file = json_file)
