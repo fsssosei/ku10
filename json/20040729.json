@@ -135,7 +135,7 @@
         "action": "TALK",
         "time_int": 43411,
         "user": "GrandMaster",
-        "content": "按\\ "I am here\\ ""
+        "content": "按\"I am here\""
     },
     {
         "action": "CHECKRESULT",
@@ -165,7 +165,7 @@
         "action": "TALK",
         "time_int": 43433,
         "user": "fivestar14",
-        "content": "\\ "I am here\\ ""
+        "content": "\"I am here\""
     },
     {
         "action": "TALK",
@@ -207,7 +207,7 @@
         "action": "TALK",
         "time_int": 43451,
         "user": "GrandMaster",
-        "content": "最下边有个\\ "I am here\\ "按钮"
+        "content": "最下边有个\"I am here\"按钮"
     },
     {
         "action": "TALK",
