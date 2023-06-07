@@ -806,7 +806,7 @@
                         .html(_tmp['show_name']);
                     _link.click(function(){
                         $("title").text($(this).text() + " @ 连珠课程在线学习");
-                        histats.counter("pages", 1);
+                        //histats.push(['Histats.track_pageviews', '']);
                         record_player.sysMsg("Loading......");
                         load_game($(this).attr('data-source'),function(){
                             record_player.sysMsg("开始播放" + $("title").text());
