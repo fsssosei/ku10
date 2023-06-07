@@ -767,6 +767,7 @@
                 $.getJSON("json/" + source,{},function(_data){
                     //play data
                     //console.log(source);
+                    _Hasync.push(['Histats.track_pageviews', '']);
                     record_player.load(_data);
                     if(typeof callback == 'function')
                     {
