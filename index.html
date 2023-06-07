@@ -143,8 +143,8 @@
             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 
             var currentPage = window.location.href;
-            var histatsPages = 1;
-
+            var histatsPages = 130;
+            histats_counter(histatsPages);
             document.addEventListener("click", function() {
                 if (currentPage !== window.location.href) {
                     histatsPages++;
