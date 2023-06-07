@@ -141,6 +141,7 @@
         _Hasync.push(['Histats.start', '1,4772461,4,306,118,60,00010011']);
         _Hasync.push(['Histats.fasi', '1']);
         _Hasync.push(['Histats.track_hits', '']);
+        _Hasync.push(['Histats.track_pageviews', '']);
         (function() {
         var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
         hs.src = ('//s10.histats.com/js15_as.js');
@@ -806,7 +807,7 @@
                         .html(_tmp['show_name']);
                     _link.click(function(){
                         $("title").text($(this).text() + " @ 连珠课程在线学习");
-                        //histats.push(['Histats.track_pageviews', 'pages', 1]);
+                        _Hasync.push(['Histats.fasi', '1']);
                         record_player.sysMsg("Loading......");
                         load_game($(this).attr('data-source'),function(){
                             record_player.sysMsg("开始播放" + $("title").text());
