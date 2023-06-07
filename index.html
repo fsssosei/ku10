@@ -148,7 +148,7 @@
             document.addEventListener("click", function() {
                 if (currentPage !== window.location.href) {
                     histatsPages++;
-                    Histats.setCount(histatsPages);
+                    histats_counter(histatsPages);
                     currentPage = window.location.href;
                 }
             });
