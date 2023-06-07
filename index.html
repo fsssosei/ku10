@@ -767,7 +767,6 @@
                 $.getJSON("json/" + source,{},function(_data){
                     //play data
                     //console.log(source);
-                    _Hasync.push(['Histats.track_pageviews', '']);
                     record_player.load(_data);
                     if(typeof callback == 'function')
                     {
@@ -807,6 +806,7 @@
                         .html(_tmp['show_name']);
                     _link.click(function(){
                         $("title").text($(this).text() + " @ 连珠课程在线学习");
+                        _Hasync.push(['Histats.track_pageviews', '']);
                         record_player.sysMsg("Loading......");
                         load_game($(this).attr('data-source'),function(){
                             record_player.sysMsg("开始播放" + $("title").text());
