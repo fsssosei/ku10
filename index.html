@@ -130,29 +130,8 @@
     <p>
         <!-- Histats.com  (div with counter) --><div id="histats_counter" style="display: flex; justify-content: center;"></div>
         <!-- Histats.com  START  (aync)-->
-        <script type="text/javascript">
-            var _Hasync = _Hasync || [];
-            _Hasync.push(['Histats.start', '1,4772461,4,306,118,60,00010011']);
-            _Hasync.push(['Histats.fasi', '1']);
-            _Hasync.push(['Histats.track_hits', '']);
-
-            var hs = document.createElement('script');
-            hs.type = 'text/javascript';
-            hs.async = true;
-            hs.src = ('//s10.histats.com/js15_as.js');
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
-
-            var currentPage = window.location.href;
-            var histatsPages = 135;
-            Histats.setCount(histatsPages);
-            document.addEventListener("click", function() {
-                if (currentPage !== window.location.href) {
-                    histatsPages++;
-                    Histats.setCount(histatsPages);
-                    currentPage = window.location.href;
-                }
-            });
-        </script>
+        <script type="text/javascript" src="//s10.histats.com/js15.js"></script>
+        <script type="text/javascript">try{Histats.start(1,4772461,4,306,118,60,00010011,"");Histats.track_hits();}catch(err){};</script>
         <!-- Histats.com  END  -->
     </p>
     <p>
