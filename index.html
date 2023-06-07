@@ -143,12 +143,12 @@
             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 
             var currentPage = window.location.href;
-            var histatsPages = 130;
-            histats_counter(histatsPages);
+            var histatsPages = 135;
+            Histats.setCount(histatsPages);
             document.addEventListener("click", function() {
                 if (currentPage !== window.location.href) {
                     histatsPages++;
-                    histats_counter(histatsPages);
+                    Histats.setCount(histatsPages);
                     currentPage = window.location.href;
                 }
             });
