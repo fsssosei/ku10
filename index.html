@@ -127,8 +127,18 @@
         本站内容来自网络，感谢Ando老师、Luwenzhe老师和课程讲师的贡献。内容版权归原作者所有。<br />如果有连珠教师想自己的课在本站出现，就联系我吧 QQ：2215263391 </p>
     <p>
         <div id="sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h" style="display: flex; justify-content: center;"></div>
-        <script type="text/javascript" src="https://counter10.optistats.ovh/private/counter.js?c=9ej8fxdbhw98gkle1cyekj6644tmaw8h&FCS_clic=0&FCS_plus=100&down=async" async></script>
-        <noscript><a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter10.optistats.ovh/private/freecounterstat.php?c=9ej8fxdbhw98gkle1cyekj6644tmaw8h" border="0" title="web counter" alt="web counter"></a></noscript>
+        <script>
+            function reloadCounter() {
+                var counterScript = document.createElement("script");
+                counterScript.type = "text/javascript";
+                counterScript.src = "https://counter10.optistats.ovh/private/counter.js?c=9ej8fxdbhw98gkle1cyekj6644tmaw8h&FCS_clic=0&FCS_plus=100&down=async";
+                
+                var counterDiv = document.getElementById("sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h");
+                counterDiv.innerHTML = "";
+                counterDiv.appendChild(counterScript);
+            }
+        </script>
+        //<noscript><a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter10.optistats.ovh/private/freecounterstat.php?c=9ej8fxdbhw98gkle1cyekj6644tmaw8h" border="0" title="web counter" alt="web counter"></a></noscript>
     </p>
     <p>
         <!-- BEGIN: Powered by Supercounters.com -->
@@ -159,11 +169,6 @@
     }
     </script>
     <script type="text/javascript">
-        function reloadCounter() {
-            location.reload();
-            //var counter = document.getElementById("sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h");
-            //counter.src = counter.src;
-        }
         /**
          * @author xsir317@gmail.com
          * @license http://creativecommons.org/licenses/by-sa/3.0/deed.zh
@@ -814,8 +819,8 @@
                         .html(_tmp['show_name']);
                     _link.click(function(){
                         $("title").text($(this).text() + " @ 连珠课程在线学习");
-                        reloadCounter();
                         record_player.sysMsg("Loading......");
+                        reloadCounter();
                         load_game($(this).attr('data-source'),function(){
                             record_player.sysMsg("开始播放" + $("title").text());
                         });
