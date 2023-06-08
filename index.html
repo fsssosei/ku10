@@ -128,7 +128,7 @@
     <p>
         <div id="sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h" style="display: flex; justify-content: center;"></div>
         <script type="text/javascript">
-            (function reloadCounter() {
+            function loadCounter() {
                 var counterScript = document.createElement("script");
                 counterScript.type = "text/javascript";
                 counterScript.src = "https://counter10.optistats.ovh/private/counter.js?c=9ej8fxdbhw98gkle1cyekj6644tmaw8h&FCS_clic=0&FCS_plus=100&down=async";
@@ -136,8 +136,10 @@
                 var counterDiv = document.getElementById("sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h");
                 counterDiv.innerHTML = "";
                 counterDiv.appendChild(counterScript);
-            })();
+            }
+            loadCounter();
         </script>
+        <noscript><a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter10.optistats.ovh/private/freecounterstat.php?c=9ej8fxdbhw98gkle1cyekj6644tmaw8h" border="0" title="web counter" alt="web counter"></a></noscript>
     </p>
     <p>
         <!-- BEGIN: Powered by Supercounters.com -->
@@ -819,7 +821,7 @@
                     _link.click(function(){
                         $("title").text($(this).text() + " @ 连珠课程在线学习");
                         record_player.sysMsg("Loading......");
-                        reloadCounter();
+                        loadCounter();
                         load_game($(this).attr('data-source'),function(){
                             record_player.sysMsg("开始播放" + $("title").text());
                         });
