@@ -159,6 +159,10 @@
     }
     </script>
     <script type="text/javascript">
+        function reloadCounter() {
+            var counter = document.getElementById("sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h");
+            counter.src = counter.src;
+        }
         /**
          * @author xsir317@gmail.com
          * @license http://creativecommons.org/licenses/by-sa/3.0/deed.zh
@@ -450,7 +454,7 @@
                     if(show_x == 'l') show_x = 'L';
                     let show_content = show_x + c_y.toString();
                     record_player.sysMsg("点击: " + show_content);
-
+        
                     return true;
                 });
                 //进度条bar
@@ -483,7 +487,7 @@
                 }).appendTo(controlbar);
             };
         };
-
+        
         let recordPlayer = function(boardHandler){
             let obj = this;
             this.pointer = 0;//当前播放到第几个action
@@ -809,6 +813,7 @@
                         .html(_tmp['show_name']);
                     _link.click(function(){
                         $("title").text($(this).text() + " @ 连珠课程在线学习");
+                        reloadCounter();
                         record_player.sysMsg("Loading......");
                         load_game($(this).attr('data-source'),function(){
                             record_player.sysMsg("开始播放" + $("title").text());
