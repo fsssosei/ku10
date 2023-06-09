@@ -136,7 +136,7 @@
         <!-- Histats.com  START  (aync)-->
         <script type="text/javascript">var _Hasync= _Hasync|| [];
         _Hasync.push(['Histats.start', '1,4772461,4,202,118,45,00011000']);
-        <!-- _Hasync.push(['Histats.fasi', '1']); -->
+        _Hasync.push(['Histats.fasi', '1']);
         _Hasync.push(['Histats.track_hits', '']);
         (function() {
         var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
@@ -834,6 +834,7 @@
                         $("title").text($(this).text() + " @ 连珠课程在线学习");
                         record_player.sysMsg("Loading......");
                         loadCounter();
+                        _Hasync.push(['Histats.fasi', '1']);
                         load_game($(this).attr('data-source'),function(){
                             record_player.sysMsg("开始播放" + $("title").text());
                         });
