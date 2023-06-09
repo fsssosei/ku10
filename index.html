@@ -834,7 +834,6 @@
                         $("title").text($(this).text() + " @ 连珠课程在线学习");
                         record_player.sysMsg("Loading......");
                         loadCounter();
-                        _Hasync.push(['Histats.fasi', '1']);
                         load_game($(this).attr('data-source'),function(){
                             record_player.sysMsg("开始播放" + $("title").text());
                         });
