@@ -45,7 +45,13 @@
         "action": "TALK",
         "user": "GM",
         "content": "观看本站课程时，如发现棋子颜色错乱（比如第一手成了白子），只要简单按F5键刷新一次网页，通常颜色就正常了。",
-        "time_int": 23
+        "time_int": 22
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果发现本站播放程序有Bug，请联系网站管理员QQ上报Bug。要是确认为非已知Bug，奖100元哦。",
+        "time_int": 24
     },
     {
         "action": "TALK",
