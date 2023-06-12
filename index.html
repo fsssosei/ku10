@@ -639,11 +639,11 @@
 
             obj.actionGOTO = function(row){
                 this.boardHandler.clear_mark();
-                while(this.boardHandler.get_current_board().length -(_obj.zj == true?2:0) > row.content * 2)
+                while(this.boardHandler.get_current_board().length > row.content * (this.boardHandler.zj ? 3: 2))
                 {
                     if(!this.boardHandler.move_pre()) break;
                 }
-                while(this.boardHandler.get_current_board().length -(_obj.zj == true?2:0) < row.content * 2)
+                while(this.boardHandler.get_current_board().length < row.content * (this.boardHandler.zj ? 3: 2))
                 {
                     if(!this.boardHandler.move_next()) break;
                 }
