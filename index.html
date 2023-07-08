@@ -603,9 +603,7 @@
       controlbar.addClass('controlbar');
       board.after(controlbar);
 
-      // 按钮
-      $(document.createElement('button')).addClass('button').text('分析').click(function () {
-        record_player.pause();
+      function parsingCurrgame(input) {
         const parsingMap = {
           '1': {
             x: 'a',
@@ -668,20 +666,26 @@
             y: '15'
           }
         };
-        let parsingCurrgame = '';
-        const currgameArr = _obj.currgame.toString().split('');
+        let res = '';
+        const currgameArr = input.toString().split('');
 
         currgameArr.forEach((i, k) => {
           if (k % 2 === 0) {
-            parsingCurrgame += parsingMap[i].x;
+            res += parsingMap[i].x;
           } else {
-            parsingCurrgame += parsingMap[i].y;
+            res += parsingMap[i].y;
           }
         });
 
-        const gameBaseUrl = '/ku10/gomoku-calculator/#/';
-        const url = gameBaseUrl + parsingCurrgame;
+        return res;
+      }
 
+      // 按钮
+      $(document.createElement('button')).addClass('button').text('分析').click(function () {
+        record_player.pause();
+
+        const gameBaseUrl = '/ku10/gomoku-calculator/#/';
+        const url = gameBaseUrl + parsingCurrgame(_obj.currgame);
         window.open(url, 'analyze', 'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0', true);
       }).appendTo(controlbar);
 
@@ -694,6 +698,28 @@
           _btn.text('隐藏数字').addClass('show');
           $('#hide_number').remove();
         }
+      }).appendTo(controlbar);
+
+      // 创建下拉选择
+      (function () {
+        const options = [
+          { val: 1, text: 'RIF' },
+          { val: 25, text: 'Taraguchi-10' }
+        ];
+
+        const selectEle = $('<select id="query-actual-combat-chess">');
+        $(options).each(function () {
+          selectEle.append($('<option>').attr('value', this.val).text(this.text));
+        });
+        selectEle.css({ margin: '0 5px' });
+        selectEle.appendTo(controlbar);
+      })();
+
+      // 查询实战棋谱按钮
+      $(document.createElement('button')).addClass('button').text('查询实战棋谱').click(function () {
+        const val = $('#query-actual-combat-chess').val();
+        const url = `https://www.renju.net/game/search?moves=${parsingCurrgame(_obj.currgame)}&rule=${val}`;
+        window.open(url, 'analyze', 'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0', true);
       }).appendTo(controlbar);
     };
   };
