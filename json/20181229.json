@@ -122,19 +122,19 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "点击播放之后，觉得这节课不错，可以把网址拷贝给其他人分享。",
+        "content": "点击播放之后，觉得这节课不错，可以把网址复制给其他人分享。",
         "time_int": 80
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "学习过程中，随时可点击“<strong>分析<\/strong>”按钮，暂停播放，分析局面。",
+        "content": "学习过程中，随时可点击“<strong>计算分析<\/strong>”按钮，暂停播放，调用“五子棋计算器”分析局面。",
         "time_int": 85
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "分析小窗口也能通过拷贝地址，把整个棋盘内容分享给他人。",
+        "content": "分析窗口也能通过复制网址，把整个盘面分享给他人。",
         "time_int": 90
     },
     {
