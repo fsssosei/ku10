@@ -603,32 +603,79 @@
       controlbar.addClass('controlbar');
       board.after(controlbar);
 
-      // TODO 按钮
+      // 按钮
       $(document.createElement('button')).addClass('button').text('分析').click(function () {
         record_player.pause();
-
-        function parsingX(str) {
-          const mapNext = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o'];
-          const mapPrev = ['1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'];
-          const index = mapPrev.indexOf(str[0]);
-          return mapNext[index];
-        }
-
-        function parsingY(str) {
-          const mapNext = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15'];
-          const mapPrev = ['1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'];
-          const index = mapPrev.indexOf(str[0]);
-          return mapNext[index];
-        }
-
+        const parsingMap = {
+          '1': {
+            x: 'a',
+            y: '1'
+          },
+          '2': {
+            x: 'b',
+            y: '2'
+          },
+          '3': {
+            x: 'c',
+            y: '3'
+          },
+          '4': {
+            x: 'd',
+            y: '4'
+          },
+          '5': {
+            x: 'e',
+            y: '5'
+          },
+          '6': {
+            x: 'f',
+            y: '6'
+          },
+          '7': {
+            x: 'g',
+            y: '7'
+          },
+          '8': {
+            x: 'h',
+            y: '8'
+          },
+          '9': {
+            x: 'i',
+            y: '9'
+          },
+          'a': {
+            x: 'j',
+            y: '10'
+          },
+          'b': {
+            x: 'k',
+            y: '11'
+          },
+          'c': {
+            x: 'l',
+            y: '12'
+          },
+          'd': {
+            x: 'm',
+            y: '13'
+          },
+          'e': {
+            x: 'n',
+            y: '14'
+          },
+          'f': {
+            x: 'o',
+            y: '15'
+          }
+        };
         let parsingCurrgame = '';
         const currgameArr = _obj.currgame.toString().split('');
 
         currgameArr.forEach((i, k) => {
           if (k % 2 === 0) {
-            parsingCurrgame += parsingX(i);
+            parsingCurrgame += parsingMap[i].x;
           } else {
-            parsingCurrgame += parsingY(i);
+            parsingCurrgame += parsingMap[i].y;
           }
         });
 
