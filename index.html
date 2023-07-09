@@ -717,6 +717,7 @@
 
       // 查询实战棋谱按钮
       $(document.createElement('button')).addClass('button').text('查询实战棋谱').click(function () {
+        record_player.pause();
         const val = $('#query-actual-combat-chess').val();
         const url = `https://www.renju.net/game/search?moves=${parsingCurrgame(_obj.currgame)}&rule=${val}`;
         window.open(url, 'analyze', 'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0', true);
