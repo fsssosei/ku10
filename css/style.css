@@ -57,7 +57,7 @@ ol {
 }
 
 #board_main {
-  background: url('images/board-0.png') 0 -3px no-repeat;
+  background: url('../images/board-0.png') 0 -3px no-repeat;
   height: 583px;
   width: 590px;
   padding-top: 3px;
@@ -67,13 +67,12 @@ ol {
 }
 
 .black {
-  background: url('images/b.png') center center no-repeat;
+  background: url('../images/b.png') center center no-repeat;
   color: white;
 }
 
 .white {
-  /*background:url('images/w.png') center center no-repeat;*/
-  background: url('images/w_combine.png') center center no-repeat;
+  background: url('../images/w_combine.png') center center no-repeat;
 }
 
 .row {
