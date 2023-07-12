@@ -476,7 +476,7 @@ window.addEventListener('DOMContentLoaded', function () {
       // 查询实战棋谱按钮
       $(document.createElement('button'))
         .addClass('button')
-        .text('查询实战棋谱')
+        .text('查实战棋谱')
         .click(function () {
           record_player.pause();
           const val = $('#query-actual-combat-chess').val();
