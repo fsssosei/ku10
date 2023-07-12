@@ -47,7 +47,7 @@ window.addEventListener('DOMContentLoaded', function() {
   let record_player = null;
   let boardObj = function() {
     // 棋盘的DOM对象，基本上棋子、棋盘逻辑都在这里面。
-    let boardEle = $('#board_main');
+    let board = $('#board_main');
 
     let _obj = this;
 
@@ -72,19 +72,15 @@ window.addEventListener('DOMContentLoaded', function() {
 
     // 标记是不是zj
     _obj.setZj = function(row) {
+
       let action = row['action'];
-      if (action === 'RESET' || action === 'LOAD' || action === 'MOVE') {
-        if (
-          row['content'].length >= 2 &&
-          row['content'].substr(0, 2) === 'ZJ'
-        ) {
-          row['content'] = row['content'].substr(
-            2,
-            row['content'].length - 2
-          );
+      if (action == 'RESET' || action == 'LOAD' || action == 'MOVE') {
+        if (row['content'].length >= 2 && row['content'].substr(0, 2) == 'ZJ') {
+          row['content'] = row['content'].substr(2, row['content'].length - 2);
           _obj.zj = true;
         }
       }
+      return;
     };
 
     //load 一个游戏数据。
@@ -95,26 +91,26 @@ window.addEventListener('DOMContentLoaded', function() {
       _obj.endgame = game_record;
       _obj.show_origin();
       /*if(play_sound)
-  {
-      pager.play_sound('Move');
-  }*/
+      {
+          pager.play_sound('Move');
+      }*/
     };
 
     //自动切换模式。
     _obj.switch_mode = (function() {
-      let _mode = 'game'; // game or analyze
+      let _mode = 'game';// game or analyze
       return function(mode) {
-        if (mode === _mode) {
+        if (mode == _mode) {
           return true;
         }
         _mode = mode;
         switch (mode) {
           case 'game':
             //board.removeClass("mode_analyze").addClass("mode_game");
-            boardEle.css('background-image', 'url(images/board.png)');
+            board.css('background-image', 'url(images/board.png)');
             break;
           case 'analyze':
-            boardEle.css('background-image', 'url(images/board-grey.png)');
+            board.css('background-image', 'url(images/board-grey.png)');
             break;
           default:
             break;
@@ -124,12 +120,11 @@ window.addEventListener('DOMContentLoaded', function() {
 
     /**
      * @description 在指定位置标记字母。
+     * @param  {string} coordinate 传入坐标。
      * @returns {boolean}
-     * @param mark_obj
-     * @param is_add
      */
     _obj.place_mark = function(mark_obj, is_add) {
-      let target_cell = boardEle.find('.' + mark_obj.coordinate);
+      let target_cell = board.find('.' + mark_obj.coordinate);
       if (!target_cell.hasClass('blank')) {
         return false;
       }
@@ -165,7 +160,7 @@ window.addEventListener('DOMContentLoaded', function() {
       for (var key in _obj.mark) {
         let mark_obj = _obj.mark[key];
         for (let i = 0; i < mark_obj.length; i++) {
-          let target_cell = boardEle.find('.' + mark_obj[i].coordinate);
+          let target_cell = board.find('.' + mark_obj[i].coordinate);
           if (!target_cell.hasClass('mark')) {
             continue;
           }
@@ -183,35 +178,32 @@ window.addEventListener('DOMContentLoaded', function() {
      */
     _obj.place_stone = function(coordinate, play_sound) {
       black = null;
-      if (_obj.zj) {
+      if (_obj.zj == true) {
         black = coordinate.charAt(0) == '0' ? 'black' : 'white';
         // coordinate = coordinate.substr(1, 2)
       }
 
       if (black == null)
-        _obj.curr_color = _obj.curr_color === 'black' ? 'white' : 'black';
-      else _obj.curr_color = black;
+        _obj.curr_color = (_obj.curr_color == 'black' ? 'white' : 'black');
+      else
+        _obj.curr_color = black;
 
-      coo = _obj.zj ? coordinate.substr(1, 2) : coordinate;
-      let target_cell = boardEle.find('.' + coo);
+      coo = (_obj.zj == true ? coordinate.substr(1, 2) : coordinate);
+      let target_cell = board.find('.' + coo);
       if (!target_cell.hasClass('blank')) {
         // _obj.currgame += coordinate;
         return false;
       }
-      target_cell
-        .removeClass('blank')
-        .addClass(_obj.curr_color)
-        .html(_obj.curr_step++);
+      target_cell.removeClass('blank').addClass(_obj.curr_color).html(_obj.curr_step++);
       /*try rand stone*/
-      if (_obj.curr_color === 'white') {
+      if (_obj.curr_color == 'white') {
         target_cell.css({
-          'background-position':
-            '0px ' + (-37 * Math.floor(Math.random() * 9)).toString() + 'px'
+          'background-position': '0px ' + (-37 * Math.floor(Math.random() * 9)).toString() + 'px'
         });
       }
 
       _obj.currgame += coordinate;
-      if (_obj.currgame !== _obj.endgame.substr(0, _obj.currgame.length)) {
+      if (_obj.currgame != _obj.endgame.substr(0, _obj.currgame.length)) {
         _obj.endgame = _obj.currgame;
         //在改变了endgame时，如果不是playing ,则都进入研究模式。
         //record_player.pause();
@@ -238,21 +230,12 @@ window.addEventListener('DOMContentLoaded', function() {
         if (_obj.zj == true) {
           len = 3;
         }
-        let last_move = _obj.currgame.substr(
-          _obj.currgame.length - len,
-          len
-        );
+        let last_move = _obj.currgame.substr(_obj.currgame.length - len, len);
         //这个棋子拿起来。。。
-        let target_cell = boardEle.find(
-          '.' + (_obj.zj == true ? last_move.substr(1, 2) : last_move)
-        );
-        target_cell
-          .removeClass('black white')
-          .addClass('blank')
-          .removeAttr('style')
-          .html('');
+        let target_cell = board.find('.' + (_obj.zj == true ? last_move.substr(1, 2) : last_move));
+        target_cell.removeClass('black white').addClass('blank').removeAttr('style').html('');
         _obj.curr_step--;
-        _obj.curr_color = _obj.curr_color == 'black' ? 'white' : 'black';
+        _obj.curr_color = (_obj.curr_color == 'black' ? 'white' : 'black');
         _obj.currgame = _obj.currgame.substr(0, _obj.currgame.length - len);
 
         return true;
@@ -266,10 +249,8 @@ window.addEventListener('DOMContentLoaded', function() {
      */
     _obj.move_next = function() {
       if (_obj.currgame != _obj.endgame) {
-        let nextstep = _obj.endgame.substr(
-          _obj.currgame.length,
-          _obj.zj == true ? 3 : 2
-        );
+
+        let nextstep = _obj.endgame.substr(_obj.currgame.length, _obj.zj == true ? 3 : 2);
         _obj.place_stone(nextstep);
         return true;
       }
@@ -294,6 +275,7 @@ window.addEventListener('DOMContentLoaded', function() {
      * 根据game_record 初始化棋盘的文字信息和棋盘Game信息
      */
     _obj.show_origin = function() {
+
       //_obj.switch_mode('game');
       _obj.board_clean();
       //_obj.endgame = _obj.game_record;
@@ -308,11 +290,9 @@ window.addEventListener('DOMContentLoaded', function() {
       _obj.currgame = '';
       _obj.curr_color = 'white';
       _obj.curr_step = 1;
-      boardEle.html('');
+      board.html('');
 
-      boardEle.bind('contextmenu', function() {
-        return false;
-      });
+      board.bind('contextmenu', function() { return false; });
       for (let i = 15; i >= 1; i--) {
         //insert a row
         let newrow = $(document.createElement('div'));
@@ -325,9 +305,9 @@ window.addEventListener('DOMContentLoaded', function() {
           newcell.addClass('blank');
           newrow.append(newcell);
         }
-        boardEle.append(newrow);
+        board.append(newrow);
       }
-      boardEle.find('.row div').click(function() {
+      board.find('.row div').click(function() {
         let coordinate = $(this).attr('alt');
         let c_x = parseInt(coordinate.charAt(0), 16) + 96;
         let c_y = parseInt(coordinate.charAt(1), 16);
@@ -341,76 +321,73 @@ window.addEventListener('DOMContentLoaded', function() {
       //进度条bar
       let _ul = $(document.createElement('ul'));
       for (let i = 1; i <= 99; i++) {
-        $(document.createElement('li'))
-          .attr('title', '' + i + '%')
-          .appendTo(_ul);
+        $(document.createElement('li')).attr('title', '' + i + '%').appendTo(_ul);
       }
       _ul.appendTo($('#progress'));
       //生成控制按钮
       let controlbar = $(document.createElement('div'));
       controlbar.addClass('controlbar');
-      controlbar.attr('id', 'controlbar');
-      boardEle.after(controlbar);
+      board.after(controlbar);
 
       function parsingCurrgame(input) {
         const parsingMap = {
-          1: {
+          '1': {
             x: 'a',
             y: '1'
           },
-          2: {
+          '2': {
             x: 'b',
             y: '2'
           },
-          3: {
+          '3': {
             x: 'c',
             y: '3'
           },
-          4: {
+          '4': {
             x: 'd',
             y: '4'
           },
-          5: {
+          '5': {
             x: 'e',
             y: '5'
           },
-          6: {
+          '6': {
             x: 'f',
             y: '6'
           },
-          7: {
+          '7': {
             x: 'g',
             y: '7'
           },
-          8: {
+          '8': {
             x: 'h',
             y: '8'
           },
-          9: {
+          '9': {
             x: 'i',
             y: '9'
           },
-          a: {
+          'a': {
             x: 'j',
             y: '10'
           },
-          b: {
+          'b': {
             x: 'k',
             y: '11'
           },
-          c: {
+          'c': {
             x: 'l',
             y: '12'
           },
-          d: {
+          'd': {
             x: 'm',
             y: '13'
           },
-          e: {
+          'e': {
             x: 'n',
             y: '14'
           },
-          f: {
+          'f': {
             x: 'o',
             y: '15'
           }
@@ -430,40 +407,24 @@ window.addEventListener('DOMContentLoaded', function() {
       }
 
       // 按钮
-      $(document.createElement('button'))
-        .addClass('button')
-        .text('分析')
-        .click(function() {
-          record_player.pause();
+      $(document.createElement('button')).addClass('button').text('计算分析').click(function() {
+        record_player.pause();
 
-          const gameBaseUrl = '/ku10/gomoku-calculator/#/';
-          const url = gameBaseUrl + parsingCurrgame(_obj.currgame);
-          window.open(
-            url,
-            'analyze',
-            'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0',
-            true
-          );
-        })
-        .appendTo(controlbar);
+        const gameBaseUrl = '/ku10/gomoku-calculator/#/';
+        const url = gameBaseUrl + parsingCurrgame(_obj.currgame);
+        window.open(url, 'analyze', 'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0', true);
+      }).appendTo(controlbar);
 
-      $(document.createElement('button'))
-        .addClass('button show')
-        .text('隐藏数字')
-        .click(function() {
-          let _btn = $(this);
-          if (_btn.hasClass('show')) {
-            _btn.text('显示数字').removeClass('show');
-            $('<style>')
-              .attr('id', 'hide_number')
-              .html('.row div{text-indent:-999px;overflow:hidden;}')
-              .appendTo('head');
-          } else {
-            _btn.text('隐藏数字').addClass('show');
-            $('#hide_number').remove();
-          }
-        })
-        .appendTo(controlbar);
+      $(document.createElement('button')).addClass('button show').text('隐藏数字').click(function() {
+        let _btn = $(this);
+        if (_btn.hasClass('show')) {
+          _btn.text('显示数字').removeClass('show');
+          $('<style>').attr('id', 'hide_number').html('.row div{text-indent:-999px;overflow:hidden;}').appendTo('head');
+        } else {
+          _btn.text('隐藏数字').addClass('show');
+          $('#hide_number').remove();
+        }
+      }).appendTo(controlbar);
 
       // 创建下拉选择
       (function() {
@@ -474,38 +435,26 @@ window.addEventListener('DOMContentLoaded', function() {
 
         const selectEle = $('<select id="query-actual-combat-chess">');
         $(options).each(function() {
-          selectEle.append(
-            $('<option>').attr('value', this.val).text(this.text)
-          );
+          selectEle.append($('<option>').attr('value', this.val).text(this.text));
         });
         selectEle.css({ margin: '0 5px' });
         selectEle.appendTo(controlbar);
       })();
 
       // 查询实战棋谱按钮
-      $(document.createElement('button'))
-        .addClass('button')
-        .text('查询实战棋谱')
-        .click(function() {
-          const val = $('#query-actual-combat-chess').val();
-          const url = `https://www.renju.net/game/search?moves=${parsingCurrgame(
-            _obj.currgame
-          )}&rule=${val}`;
-          window.open(
-            url,
-            'analyze',
-            'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0',
-            true
-          );
-        })
-        .appendTo(controlbar);
+      $(document.createElement('button')).addClass('button').text('查询实战棋谱').click(function() {
+        record_player.pause();
+        const val = $('#query-actual-combat-chess').val();
+        const url = `https://www.renju.net/game/search?moves=${parsingCurrgame(_obj.currgame)}&rule=${val}`;
+        window.open(url, 'analyze', 'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0', true);
+      }).appendTo(controlbar);
     };
   };
 
   let recordPlayer = function(boardHandler) {
     let obj = this;
-    this.pointer = 0; //当前播放到第几个action
-    this.timer = 0; //计时器
+    this.pointer = 0;//当前播放到第几个action
+    this.timer = 0;//计时器
     this.record = [];
     this.status = 0;
     this.boardHandler = boardHandler;
@@ -524,7 +473,7 @@ window.addEventListener('DOMContentLoaded', function() {
     };
     obj.play = function() {
       console.log(obj._progress);
-      if (typeof obj.record[obj.pointer] == 'undefined') {
+      if (typeof (obj.record[obj.pointer]) == 'undefined') {
         return false;
       }
       if (!obj.renderRow(obj.record[obj.pointer])) {
@@ -536,9 +485,7 @@ window.addEventListener('DOMContentLoaded', function() {
       //计算progress
       let progress_percent = 0;
       if (obj.pointer % 5 == 0 && obj.record.length > 0) {
-        progress_percent = parseInt(
-          (obj.pointer * 100) / obj.record.length
-        );
+        progress_percent = parseInt(obj.pointer * 100 / obj.record.length);
         $('#progress>div').css('width', progress_percent + '%');
         if (obj._progress != -1 && progress_percent >= obj._progress) {
           obj._progress = -1;
@@ -546,7 +493,7 @@ window.addEventListener('DOMContentLoaded', function() {
         }
       }
       //progress 结束
-      if (typeof obj.record[obj.pointer] == 'object') {
+      if (typeof (obj.record[obj.pointer]) == 'object') {
         obj.status = 1;
         let delta_time = obj.record[obj.pointer]['time_int'] - now;
         if (obj.record[obj.pointer] == 'RESET') {
@@ -556,9 +503,7 @@ window.addEventListener('DOMContentLoaded', function() {
         let speed = parseInt($('select[name=speed]').val());
         //progress快进逻辑
         _timeout = obj._progress == -1 ? 10 + speed * delta_time : 3;
-        obj.timer = setTimeout(function() {
-          obj.play();
-        }, _timeout);
+        obj.timer = setTimeout(function() {obj.play();}, _timeout);
       } else {
         obj.sysMsg('播放完毕');
       }
@@ -602,10 +547,7 @@ window.addEventListener('DOMContentLoaded', function() {
           $('#chat_content').find('li:first').remove();
         }
       }
-      $('#chat_content_list').scrollTop(
-        $('#chat_content_list')[0].scrollHeight -
-        $('#chat_content_list').height()
-      );
+      $('#chat_content_list').scrollTop($('#chat_content_list')[0].scrollHeight - $('#chat_content_list').height());
       return $return;
     };
 
@@ -618,14 +560,9 @@ window.addEventListener('DOMContentLoaded', function() {
         let c_w = row.content.charAt(start + i + 2);
         // console.log(c_x + "\t" + c_y + "\t" + c_w)
         content = row.content.substr(start + i, 2);
-        this.boardHandler.place_mark(
-          { coordinate: content, word: c_w },
-          true
-        );
+        this.boardHandler.place_mark({ coordinate: content, word: c_w }, true);
 
-        obj.sysMsg(
-          row.user + ' - 标记 ' + obj.getPoint(content) + '(' + c_w + ')'
-        );
+        obj.sysMsg(row.user + ' - 标记 ' + obj.getPoint(content) + '(' + c_w + ')');
       }
       return true;
     };
@@ -668,12 +605,7 @@ window.addEventListener('DOMContentLoaded', function() {
       this.boardHandler.clear_mark();
       this.boardHandler.place_stone(row.content);
 
-      obj.sysMsg(
-        row.user +
-        ' - ' +
-        (this.boardHandler.curr_color == 'black' ? '黑' : '白') +
-        obj.getPoint(row.content.substr(start, 2))
-      );
+      obj.sysMsg(row.user + ' - ' + (this.boardHandler.curr_color == 'black' ? '黑' : '白') + obj.getPoint(row.content.substr(start, 2)));
 
       return true;
     };
@@ -689,16 +621,10 @@ window.addEventListener('DOMContentLoaded', function() {
 
     obj.actionGOTO = function(row) {
       this.boardHandler.clear_mark();
-      while (
-        this.boardHandler.get_current_board().length >
-        row.content * (this.boardHandler.zj ? 3 : 2)
-        ) {
+      while (this.boardHandler.get_current_board().length > row.content * (this.boardHandler.zj ? 3 : 2)) {
         if (!this.boardHandler.move_pre()) break;
       }
-      while (
-        this.boardHandler.get_current_board().length <
-        row.content * (this.boardHandler.zj ? 3 : 2)
-        ) {
+      while (this.boardHandler.get_current_board().length < row.content * (this.boardHandler.zj ? 3 : 2)) {
         if (!this.boardHandler.move_next()) break;
       }
       this.boardHandler.place_mark_step();
@@ -746,9 +672,7 @@ window.addEventListener('DOMContentLoaded', function() {
     obj.actionLOAD = function(row) {
       this.boardHandler.clear_mark();
       this.boardHandler.load(row.content);
-      obj.sysMsg(
-        row.user + ' - 调入' + (obj.boardHandler.curr_step - 1) + '手棋'
-      );
+      obj.sysMsg(row.user + ' - 调入' + (obj.boardHandler.curr_step - 1) + '手棋');
       return true;
     };
     obj.actionLAST = function(row) {
@@ -778,26 +702,25 @@ window.addEventListener('DOMContentLoaded', function() {
       let li = $('<li>');
       $('<span>').addClass('chat-sys').html(msg).appendTo(li);
       li.appendTo($('#chat_content'));
-      $('#chat_content_list').scrollTop(
-        $('#chat_content_list')[0].scrollHeight -
-        $('#chat_content_list').height()
-      );
+      $('#chat_content_list').scrollTop($('#chat_content_list')[0].scrollHeight - $('#chat_content_list').height());
     };
   };
 
-  // new出对象
+  //1.new出对象
   board = new boardObj();
   record_player = new recordPlayer(board);
-
   $(document).ready(function() {
     board.init_board();
     $('#progress>ul>li').each(function(idx) {
       $(this).click(function() {
         record_player.gotoProgress(idx + 1);
+        //console.log(idx+1)
       });
     });
     let load_game = function(source, callback) {
       $.getJSON('json/' + source, {}, function(_data) {
+        //play data
+        //console.log(source);
         record_player.load(_data);
         if (typeof callback == 'function') {
           callback();
@@ -806,19 +729,17 @@ window.addEventListener('DOMContentLoaded', function() {
     };
     let auto_play = function() {
       console.log(window.location.hash);
-      if (window.location.hash.charAt(0) === '#') {
+      if (window.location.hash.charAt(0) == '#') {
         console.log(window.location.hash.charAt(0));
         let autoplay_num = parseInt(window.location.hash.substring(1));
-        if (
-          autoplay_num >= 0 &&
-          autoplay_num < $('#lesson_list>ul li').length
-        ) {
-          $('#lesson_list>ul')
-            .find('#play_link_' + autoplay_num)
-            .click();
+        console.log(autoplay_num);
+        console.log($('#lesson_list>ul li').length);
+        if (autoplay_num >= 0 && autoplay_num < $('#lesson_list>ul li').length) {
+          $('#lesson_list>ul').find('#play_link_' + autoplay_num).click();
         }
       } else {
         load_game('20181229.json', function() {
+          //record_player.sysMsg("欢迎！");
         });
       }
     };
@@ -826,8 +747,7 @@ window.addEventListener('DOMContentLoaded', function() {
       for (let i in _data) {
         let _tmp = _data[i];
         let _link = $(document.createElement('a'));
-        _link
-          .attr('title', _tmp['show_name'])
+        _link.attr('title', _tmp['show_name'])
           .attr('data-source', _tmp['data'])
           .attr('href', '#' + i)
           .attr('id', 'play_link_' + i)
@@ -845,20 +765,20 @@ window.addEventListener('DOMContentLoaded', function() {
         } else {
           $('<li></li>').append(_link).appendTo($('#lesson_list>ul'));
         }
+
       }
       auto_play();
     });
     $('.btn_play').click(function() {
-      if (record_player.status === 0) {
+      if (record_player.status == 0) {
         record_player.sysMsg('继续播放');
         record_player.play();
       }
     });
     $('.btn_pause').click(function() {
-      if (record_player.status === 1) {
+      if (record_player.status == 1) {
         record_player.pause();
       }
     });
   });
-
 });
