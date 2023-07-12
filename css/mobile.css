@@ -1,3 +1,52 @@
 body {
-  color: red;
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.layui-container {
+  margin-top: 0;
+  margin: 0;
+  padding: 2vw;
+}
+
+#board_main_wrap.layui-col-md6.layui-col-xs9 {
+  width: 96vw;
+}
+
+.chat_area.layui-col-md3.layui-col-xs3 {
+  width: 96vw;
+  margin: 10px 0;
+}
+
+#chat_content_list {
+  margin-left: 0;
+  height: 300px;
+}
+
+#lesson_list {
+  width: 96vw;
+  height: 300px;
+}
+
+#board_main {
+  transform-origin: 0px 0px;
+}
+
+div.controlbar {
+  width: 96vw;
+}
+
+.layui-footer.footer.footer-doc {
+  padding: 10px;
+  font-size: 12px;
+}
+
+#play_control {
+  width: 96vw;
+  margin: 10px 0;
+}
+
+#progress {
+  margin-bottom: 5px;
 }
