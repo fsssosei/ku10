@@ -308,7 +308,6 @@ window.addEventListener('DOMContentLoaded', function() {
       _obj.currgame = '';
       _obj.curr_color = 'white';
       _obj.curr_step = 1;
-      board.html('');
 
       board.bind('contextmenu', function() {
         return false;
