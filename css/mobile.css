@@ -19,19 +19,27 @@ body {
 
 #board_main {
   transform-origin: 0px 0px;
-  flex: 78;
   flex-shrink: 0;
 }
 
 #board_main_wrap > .controlbar {
-  flex: 20;
   font-size: 12px;
-  transform: scale(0.8);
+  zoom: 0.8;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 24vw;
 }
 
 #board_main_wrap > .controlbar > button,
 select {
   margin: 5px 0;
+  max-width: inherit;
+  width: inherit;
+}
+
+#query-actual-combat-chess {
+  margin: 0;
 }
 
 .chat_area.layui-col-md3.layui-col-xs3 {
@@ -49,10 +57,6 @@ select {
   height: 300px;
 }
 
-div.controlbar {
-  width: 98vw;
-}
-
 .layui-footer.footer.footer-doc {
   padding: 10px;
   font-size: 12px;
@@ -60,7 +64,8 @@ div.controlbar {
 
 #play_control {
   width: 98vw;
-  margin: 10px 0;
+  margin: 10px 0 0;
+  height: max-content;
 }
 
 #progress {
