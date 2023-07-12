@@ -7,15 +7,35 @@ body {
 .layui-container {
   margin-top: 0;
   margin: 0;
-  padding: 2vw;
+  padding: 1vw;
 }
 
 #board_main_wrap.layui-col-md6.layui-col-xs9 {
-  width: 96vw;
+  width: 98vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#board_main {
+  transform-origin: 0px 0px;
+  flex: 78;
+  flex-shrink: 0;
+}
+
+#board_main_wrap > .controlbar {
+  flex: 20;
+  font-size: 12px;
+  transform: scale(0.8);
+}
+
+#board_main_wrap > .controlbar > button,
+select {
+  margin: 5px 0;
 }
 
 .chat_area.layui-col-md3.layui-col-xs3 {
-  width: 96vw;
+  width: 98vw;
   margin: 10px 0;
 }
 
@@ -25,16 +45,12 @@ body {
 }
 
 #lesson_list {
-  width: 96vw;
+  width: 98vw;
   height: 300px;
 }
 
-#board_main {
-  transform-origin: 0px 0px;
-}
-
 div.controlbar {
-  width: 96vw;
+  width: 98vw;
 }
 
 .layui-footer.footer.footer-doc {
@@ -43,7 +59,7 @@ div.controlbar {
 }
 
 #play_control {
-  width: 96vw;
+  width: 98vw;
   margin: 10px 0;
 }
 
