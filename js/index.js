@@ -833,7 +833,7 @@ window.addEventListener('DOMContentLoaded', function() {
         _link.click(function() {
           $('title').text($(this).text() + ' @ 连珠课程在线学习');
           record_player.sysMsg('Loading......');
-          //loadCounter();
+          loadCounter();
           load_game($(this).attr('data-source'), function() {
             record_player.sysMsg('开始播放' + $('title').text());
           });
