@@ -95,14 +95,31 @@
                       counterDiv.appendChild(counterScript);
                   }
                   
-                  // Add the following code to prevent the popup from showing
-                  window.addEventListener("message", function(event) {
-                    if (event.data.type == "popup") {
-                        event.source.postMessage({ 
-                            type: "cancelPopup" 
-                        }, "*");
-                    }
-                }, false);
+                 function popupFilter(url) {
+  // 仅允许自定义的域名
+  const whitelist = ['example.com'];
+  
+  const domain = url.split('/')[2];
+  if (whitelist.includes(domain)) {
+    return true;
+  } else {
+    return false;
+  } 
+}
+
+window.onbeforeunload = function(e) {
+  const url = e.destination;
+  if (!popupFilter(url)) {
+    // 中断打开窗口
+    e.returnValue = false;
+  } 
+}
+
+function geoclick(){
+  if (!popupFilter(uri84)) {
+    return false;
+  }
+}
                 loadCounter();
               </script>
           </div>
