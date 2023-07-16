@@ -22,20 +22,6 @@
 
     <script src="js/jquery.min.js"></script>
     <script src="./js/index.js" type="text/javascript"></script>
-    <script type="text/javascript">
-      function disableWindowOpen() {
-        // 获取 div 元素
-        var divElement = document.getElementById("sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h");
-
-        // 替换 window.open 函数为一个空函数
-        divElement.querySelectorAll("*").forEach(function (element) {
-          element.windowOpen = element.open;
-          element.open = function () {};
-        });
-      }
-
-      window.addEventListener("DOMContentLoaded", disableWindowOpen);
-    </script>
   </head>
   <body>
     <div class="layui-container">
@@ -97,6 +83,7 @@
       </p>
       <p>
           <div id="sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h" class="disable-popup" style="display: flex; justify-content: center;">
+              <span id="counter"></span>
               <script type="text/javascript">
                   function loadCounter() {
                       var counterScript = document.createElement("script");
@@ -109,9 +96,13 @@
                   }
                   loadCounter();
                   // Add the following code to prevent the popup from showing
-                window.optistats = {
-                    showPopUp: function () {}
-                };
+                  window.addEventListener("message", function(event) {
+                    if (event.data.type == "popup") {
+                        event.source.postMessage({ 
+                            type: "cancelPopup" 
+                        }, "*");
+                    }
+                }, false);
               </script>
           </div>
       </p>
