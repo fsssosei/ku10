@@ -82,23 +82,30 @@
         如果有连珠教师想自己的课在本站出现，就联系我吧 QQ：2215263391
       </p>
       <p>
-          <div id="sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h" style="display: flex; justify-content: center;">
-              <script type="text/javascript">
-                  function loadCounter() {
-                      var counterScript = document.createElement("script");
-                      counterScript.type = "text/javascript";
-                      counterScript.src = "https://counter10.optistats.ovh/private/counter.js?c=9ej8fxdbhw98gkle1cyekj6644tmaw8h&FCS_clic=0&FCS_plus=100&down=async";
-                      
-                      var counterDiv = document.getElementById("sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h");
-                      counterDiv.innerHTML = "";
-                      // 禁止 counterScript 弹出新窗口
-                      counterDiv.setAttribute("sandbox", "allow-scripts");
-                      counterDiv.appendChild(counterScript);
-                  }
-                  loadCounter();
-              </script>
-              <noscript><a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter10.optistats.ovh/private/freecounterstat.php?c=9ej8fxdbhw98gkle1cyekj6644tmaw8h" border="0" title="web counter" alt="web counter"></a></noscript>
-          </div>
+        <div id="sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h" style="display: flex; justify-content: center;">
+            <script type="text/javascript">
+                
+                function loadCounter() {
+                
+                    // 创建iframe
+                    var iframe = document.createElement('iframe');
+                    iframe.style.display = 'none';
+                    document.body.appendChild(iframe);
+                    
+                    // 在iframe中加载counter脚本
+                    var iframeWin = iframe.contentWindow;  
+                    var counterScript = iframeWin.document.createElement("script");
+                    counterScript.type = "text/javascript";
+                    counterScript.src = "https://counter10.optistats.ovh/private/counter.js?c=9ej8fxdbhw98gkle1cyekj6644tmaw8h&FCS_clic=0&FCS_plus=100&down=async";
+
+                    // 只影响iframe中的window.open
+                    iframeWin.window.open = function(){};  
+                }
+                
+                loadCounter(); 
+                
+            </script>
+        </div>
       </p>
     </div>
   </body>
