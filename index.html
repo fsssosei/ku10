@@ -94,7 +94,7 @@
                       counterDiv.innerHTML = "";
                       counterDiv.appendChild(counterScript);
                   }
-                  loadCounter();
+                  
                   // Add the following code to prevent the popup from showing
                   window.addEventListener("message", function(event) {
                     if (event.data.type == "popup") {
@@ -103,6 +103,7 @@
                         }, "*");
                     }
                 }, false);
+                loadCounter();
               </script>
           </div>
       </p>
