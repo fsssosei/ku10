@@ -82,10 +82,9 @@
         如果有连珠教师想自己的课在本站出现，就联系我吧 QQ：2215263391
       </p>
       <p>
-          <iframe srcdoc=' <html> <head> </head> <body>
-          <div id="sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h" class="disable-popup" style="display: flex; justify-content: center;">
+          <div>
+          <div id="sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h" class="disable-popup" style="display: flex; justify-content: center;" filter="url('#blockOpenWindow')" onload="URL=#blockOpenWindow">
               <script type="text/javascript">
-              iframeWin.window.open = function(){};
                   function loadCounter() {
                       var counterScript = document.createElement("script");
                       counterScript.type = "text/javascript";
@@ -98,9 +97,17 @@
                   loadCounter();
               </script>
           </div>
-        </body>
-     </html>
-    ' frameborder="0" width="100%" height="100px"></iframe>
+        </div>
+        <svg width="0" height="0" style="position:absolute">
+        <filter id="blockOpenWindow">   
+        <fecomponenttransfer>   
+            <fefuncr type="table" tablevalues="0 1"/>     
+            <fefunca type="table" tablevalues="0 1"/>     
+            <fefuncg type="table" tablevalues="0 1"/>
+            <fefuncb type="table" tablevalues="0 1"/>   
+        </fecomponenttransfer>
+        </filter>
+        </svg>
       </p>
     </div>
   </body>
