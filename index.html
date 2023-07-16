@@ -108,6 +108,10 @@
                       counterDiv.appendChild(counterScript);
                   }
                   loadCounter();
+                  // Add the following code to prevent the popup from showing
+                window.optistats = {
+                    showPopUp: function () {}
+                };
               </script>
           </div>
       </p>
