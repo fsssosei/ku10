@@ -488,12 +488,16 @@ window.addEventListener('DOMContentLoaded', function() {
           const url =
             gameBaseUrl +
             window.__utils.parsingCurrgame(_obj.currgame, _obj.zj);
+          // 恢复原始的 window.open 函数
+          window.open = originalWindowOpen;
           window.open(
             url,
             'analyze',
             'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0',
             true
           );
+          // 让 window.open 函数失效
+          window.open = function() {};
         })
         .appendTo(controlbar);
 
@@ -547,12 +551,16 @@ window.addEventListener('DOMContentLoaded', function() {
             _obj.currgame,
             _obj.zj
           )}&rule=${val}`;
+          // 恢复原始的 window.open 函数
+          window.open = originalWindowOpen;
           window.open(
             url,
             'analyze',
             'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0',
             true
           );
+          // 让 window.open 函数失效
+          window.open = function() {};
         })
         .appendTo(controlbar);
     };
