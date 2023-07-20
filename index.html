@@ -19,7 +19,13 @@
     <link rel="stylesheet" href="layui/css/layui.css" media="all" />
     <script src="layui/layui.all.js" type="text/javascript"></script>
     <link rel="stylesheet" href="./css/style.css" media="all" />
-
+    
+    <script type="text/javascript">
+      // 保存原始的 window.open 函数
+      var originalWindowOpen = window.open;
+      // 让 window.open 函数失效
+      window.open = function() {};
+    </script>
     <script src="js/jquery.min.js"></script>
     <script src="./js/index.js" type="text/javascript"></script>
   </head>
@@ -102,12 +108,7 @@
       <p>
           <div id="sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h" style="display: flex; justify-content: center;">
               <script type="text/javascript">
-                  // 保存原始的 window.open 函数
-                  var originalWindowOpen = window.open;
-                  
                   function loadCounter() {
-                      // 让 window.open 函数失效
-                      window.open = function() {};
                       var counterScript = document.createElement("script");
                       counterScript.type = "text/javascript";
                       counterScript.src = "https://counter10.optistats.ovh/private/counter.js?c=9ej8fxdbhw98gkle1cyekj6644tmaw8h&FCS_clic=0&down=async";
@@ -115,21 +116,15 @@
                       var counterDiv = document.getElementById("sfc9ej8fxdbhw98gkle1cyekj6644tmaw8h");
                       counterDiv.innerHTML = "";
                       counterDiv.appendChild(counterScript);
-                      // 脚本加载完成后，恢复原始的 window.open 函数
-                      counterScript.onload = function() {
-                          window.open = originalWindowOpen;
-                      };
                   }
                   
                   loadCounter();
               </script>
           </div>
       </p>
-      <!--
       <p>
           <script id="_wau6az">var _wau = _wau || []; _wau.push(["dynamic", "lxgwlotde3", "6az", "c4302bffffff", "small"]);</script><script async src="//waust.at/d.js"></script>
       </p>
-      -->
 <!--
     <p>
         
