@@ -14,10 +14,6 @@ And these docs are all collected from the internet, contact me if you find any o
 
 含全部五星门（FSS）教学录像
 
-录像资料集中在RIF规则下的五子棋上，后期可能有一些涉及SAKATA和少量山口规则的内容。
-
-至于网站，我甚至还实现了一些没啥用的功能，比如棋盘上白棋棋子有贝壳纹理。
-
 可用Wampserver64做单机测试
 
 计算分析所用的程序项目源码在 https://github.com/dhbloo/gomoku-calculator
